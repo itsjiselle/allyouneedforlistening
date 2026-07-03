@@ -1,172 +1,400 @@
+1
+00:00:15,544 --> 00:00:18,044
 MARIELLE SEGARRA, HOST: Do you remember when we would go to that bar in Philly after work for happy hour? 你还记得以前我们下班后会去费城（Philly）那家酒吧参加 happy hour 吗？⭐ happy hour 欢乐时段（酒吧餐厅的折扣时段）｜go to a bar 去酒吧
-(SOUNDBITE OF MUSIC) （音乐）
+
+3
+00:00:24,099 --> 00:00:31,090
 JOE HERNANDEZ, BYLINE: Oh, big time. The cheap pizzas and the generous beer pours, yeah, I remember that. 当然记得，而且印象特别深。便宜的披萨，还有分量很足的啤酒，我当然记得。⭐ big time 当然，非常｜generous beer pours 啤酒倒得很足（餐饮常用表达）
+
+4
+00:00:31,090 --> 00:00:35,641
 SEGARRA: The happy hour deals were pretty key. I actually liked the pizza. Happy hour 的优惠真的很重要。而且我其实还挺喜欢那里的披萨。⭐ deal 优惠活动｜be key 非常重要
+
+5
+00:00:35,641 --> 00:00:38,141
 HERNANDEZ: Yeah, it was good at the time. 是啊，当时确实挺好吃的。⭐ at the time 当时
-(SOUNDBITE OF MUSIC) （音乐）
+
+7
+00:00:41,068 --> 00:00:51,131
 SEGARRA: I remember I would get a whole one for myself, and people would think that I had gotten it to share with the group, and then I would sort of take it to the side. 我记得我会给自己点一整个披萨，别人还以为我是点来跟大家一起分享的，然后我就会默默把它挪到旁边去。⭐ get a whole one 点一整个｜share with the group 和大家一起分享｜take it to the side 把它挪到一边
+
+8
+00:00:51,131 --> 00:00:53,214
 HERNANDEZ: Yeah, like, do some defensive maneuvers. 对，就像是在做一些防御动作一样。⭐ defensive maneuvers 防御动作（幽默表达）
+
+9
+00:00:53,214 --> 00:00:55,714
 SEGARRA: Yeah. Yeah, yeah, yeah. Like, the arm around the plate. I remember people being like, you get really quiet when you eat. 对，对，就是把胳膊护在盘子周围。我记得别人还会说："你吃饭的时候怎么突然变得这么安静？"⭐ arm around the plate 用胳膊护住盘子｜get quiet 安静下来
-HERNANDEZ: (Laughter). （笑）
+
+11
+00:01:01,069 --> 00:01:03,996
 SEGARRA: I'm like, yeah, I'm focused. 我就会说："对啊，我正专心吃呢。"⭐ be focused 专心、全神贯注
+
+12
+00:01:03,996 --> 00:01:06,496
 HERNANDEZ: Right. I don't want you interrupting me. 没错，我可不想别人打扰我吃饭。⭐ interrupt 打断、打扰
-(SOUNDBITE OF MUSIC) （音乐）
+
+14
+00:01:07,297 --> 00:01:09,797
 SEGARRA: All right. Well, you're listening to LIFE KIT. This is Marielle Segarra. I'm here with Joe Hernandez. We used to work together back at WHYY. We were both reporters at the time, right? 好的，欢迎收听《LIFE KIT》。我是 Marielle Segarra，今天和我一起的是 Joe Hernandez。我们以前都在 WHYY 工作，当时我们都是记者，对吧？⭐ used to work together 曾一起工作｜at the time 当时
-HERNANDEZ: Yeah. 对。
+
+16
+00:01:18,021 --> 00:01:25,647
 SEGARRA: And, Joe, you have been reporting on this topic, actually, right? Like, on food and how much we pay for it, basically. Joe，其实你最近一直在报道这个话题，对吧？也就是关于食物，以及我们为食物花多少钱。⭐ report on 报道……｜basically 基本上、简单来说
+
+17
+00:01:25,647 --> 00:01:34,520
 HERNANDEZ: Right. Well, we started thinking about how everything is so expensive right now, and specifically food, how food prices are just going up. 没错。我们开始思考，现在几乎所有东西都变得很贵，尤其是食品价格，一直在上涨。⭐ food prices 食品价格｜go up 上涨（口语高频）
+
+18
+00:01:34,520 --> 00:01:38,613
 And, you know, we were thinking about sort of what are people feeling about this right now? 我们就在想，人们现在对这种情况到底是什么感受。⭐ what are people feeling about this 人们对此怎么看
+
+19
+00:01:38,613 --> 00:01:47,400
 What sorts of strategies are they using to deal with this moment when it feels like food has gotten much more expensive, but we all need to eat? 大家都在采用哪些办法来应对这个时期呢？毕竟食物越来越贵，但每个人都得吃饭。⭐ strategy 应对策略｜deal with 应对｜food has gotten much more expensive 食物贵了很多
+
+20
+00:01:47,400 --> 00:01:58,906
 And part of that was how to go out and not spend a ton of money because many of us don't want to cook every single meal of the day and every single day of the week, so we're going to go out sometimes. 其中一个问题就是，怎样才能外出吃饭却不用花太多钱。毕竟很多人都不想每天、每顿饭都自己做，所以偶尔还是会出去吃。⭐ spend a ton of money 花很多钱（口语）｜go out 外出吃饭｜every single 每一个、所有的（加强语气）
+
+21
+00:01:58,906 --> 00:02:03,272
 So how can you do that a little bit more affordably than you otherwise would? 那么，怎样才能让外出吃饭变得更省钱一点呢？⭐ affordably 负担得起地、经济实惠地
+
+22
+00:02:03,272 --> 00:02:10,737
 SEGARRA: Yeah, 'cause we know generally that eating at a restaurant or getting takeout is going to be more expensive than cooking at home. 是啊，因为大家都知道，在餐厅吃饭或者点外卖，通常都会比自己在家做饭更贵。⭐ get takeout 点外卖｜cook at home
+
+23
+00:02:10,737 --> 00:02:13,713
 But you can't give the advice never do it. 但你也不能直接建议大家永远别出去吃。⭐ give the advice 给建议
+
+24
+00:02:13,713 --> 00:02:21,872
 HERNANDEZ: Yeah, I think some people don't do it at all, but many people, myself included, will go out to a restaurant sometimes or get takeout. 是啊，有些人确实从来不出去吃，但很多人，包括我自己，还是会偶尔去餐厅或者点外卖。⭐ myself included 包括我自己（IELTS高频插入语）
+
+25
+00:02:21,872 --> 00:02:24,993
 And there are benefits to just being in a restaurant. 其实，仅仅待在一家餐厅里，本身也是有好处的。⭐ benefit to doing sth 做某事的好处
+
+26
+00:02:24,993 --> 00:02:35,003
 I talked to Hanna Garth about this. She's a Princeton University anthropology professor who does research on food access, specifically in Los Angeles. 我就这个问题采访了 Hanna Garth。她是普林斯顿大学的人类学教授，主要研究人们获取食物的情况，尤其关注洛杉矶地区。⭐ do research on 研究……｜food access 食物获取（社会学常用表达）｜specifically 尤其是
+
+27
+00:02:35,003 --> 00:02:41,474
 HANNA GARTH: For a lot of people, it's just about breaking from the routine and the monotony of eating at home. 对很多人来说，外出吃饭只是为了打破每天在家吃饭的固定模式和单调感。⭐ break from the routine 打破日常规律（雅思高频）｜monotony 单调、乏味（C1）
+
+28
+00:02:41,474 --> 00:02:48,076
 It's about alleviating that, the burden of the work of cooking a meal and cleaning up after the meal. 也是为了减轻做饭和饭后收拾的负担。⭐ alleviate 缓解、减轻（C1）｜the burden of ……的负担｜clean up after the meal 饭后收拾
+
+29
+00:02:48,076 --> 00:02:50,377
 HERNANDEZ: But there's also a social benefit here. 不过，外出吃饭还有一个社交层面的好处。⭐ social benefit 社交方面的益处
+
+30
+00:02:50,377 --> 00:02:58,624
 Restaurants are what's known as a third space, which is an area outside of our home or where we work where we interact with other people. 餐厅被称为 "第三空间（third space）"，也就是除了家庭和工作场所以外，人们能够与他人互动的地方。⭐ third space 第三空间（社会学概念）｜interact with 与……互动
+
+31
+00:02:58,624 --> 00:03:05,709
 And those casual interactions with strangers, with acquaintances, they can actually boost our mental health a little bit. 而这些和陌生人、熟人的随意交流，其实能够在一定程度上提升我们的心理健康。⭐ casual interactions 随意交流｜acquaintance 熟人｜boost 提升
+
+32
+00:03:05,709 --> 00:03:09,877
 SEGARRA: Yeah, I definitely found that when we were working together. 是的，我和你一起工作的时候，确实有这种感觉。⭐ definitely 确实
+
+33
+00:03:09,877 --> 00:03:17,416
 It was like, you'd have such a long day, and if every day I just had to go home and kind of cook by myself, I think that can get pretty lonely. 工作一天已经够累了，如果每天都只能回家一个人做饭，我觉得那样真的会很孤独。⭐ have a long day 忙碌/辛苦的一天｜get lonely 变得孤单
+
+34
+00:03:17,416 --> 00:03:32,649
 HERNANDEZ: Yeah, and just even small talk with a stranger or talking with your waiter or turning to the table next to you and asking them how the dessert was, you know, those kinds of small interactions can just make us feel better and make us feel like part of a community. 没错，哪怕只是和陌生人闲聊两句、跟服务员说说话，或者转身问隔壁桌甜点怎么样，这些小小的互动都会让我们心情更好，也让我们觉得自己是社区的一部分。⭐ small talk 寒暄、闲聊（雅思高频）｜turn to 转向……｜part of a community 社区的一员
+
+35
+00:03:32,649 --> 00:03:37,770
 SEGARRA: On this episode of LIFE KIT, how to eat out on a budget. 本期《LIFE KIT》，我们来聊聊如何省钱下馆子。⭐ eat out on a budget 花小钱外出吃饭（非常值得积累）
+
+36
+00:03:37,770 --> 00:03:39,808
 All right, Joe, so what is your first tip? 好，Joe，第一个建议是什么？
+
+37
+00:03:39,808 --> 00:03:46,023
 HERNANDEZ: So the first tip that I heard from multiple experts is think about why you want to eat out in the first place. 很多专家给出的第一个建议都是，先想清楚自己为什么要出去吃饭。⭐ in the first place 首先；归根结底（口语高频）
+
+38
+00:03:46,023 --> 00:03:49,081
 That's what Kimberly Palmer of NerdWallet told me. 这是 NerdWallet 的 Kimberly Palmer 告诉我的。
+
+39
+00:03:49,081 --> 00:03:55,895
 Are you going to try, like, a buzzy new restaurant or are you just out to socialize with your friends or your family members? 你是想去打卡一家最近很火的餐厅，还是只是想和朋友、家人聚一聚？⭐ buzzy 很火、很受关注（口语）｜socialize with 与……社交
+
+40
+00:03:55,895 --> 00:04:03,339
 Because if it's just to socialize, you get some more flexibility in choosing how you eventually decide to eat out. 如果只是为了社交，那你在选择去哪里、怎么吃这件事上，其实就有更多灵活性。⭐ flexibility 灵活性
+
+41
+00:04:03,339 --> 00:04:09,769
 KIMBERLY PALMER: You might be getting just as much value and enjoyment by going out for a less expensive pizza than a nicer restaurant. 与其去一家高档餐厅，去吃一顿便宜一点的披萨，也许同样能获得一样多的价值和快乐。⭐ get value from 从……获得价值｜less expensive 更便宜的
+
+42
+00:04:09,769 --> 00:04:17,145
 So just putting some time into thinking about why you're going out, what you want to get out of it, that can help guide your decisions. 所以，花点时间想想自己为什么要出去吃，以及希望得到什么，这会帮助你做出更好的决定。⭐ put time into 花时间做……｜get out of 从……获得｜guide your decisions
+
+43
+00:04:17,145 --> 00:04:19,712
 HERNANDEZ: And your decision might be to not go out at all. 甚至你的决定可能就是干脆不出去吃。⭐ not…at all 根本不
+
+44
+00:04:19,712 --> 00:04:26,878
 Kimberly says she sometimes just orders catering trays from a favorite local spot and has people over to her house. Kimberly 说，她有时会直接从一家自己喜欢的本地餐厅订一大盘聚餐套餐，然后邀请朋友来家里。⭐ catering tray 聚餐大份餐｜local spot 本地餐馆（口语）｜have people over 邀请朋友来家里（★★★★★）
+
+45
+00:04:26,878 --> 00:04:31,580
 And then any leftovers that come from that, she just has for lunch the next day. 剩下来的食物，她第二天就当午饭吃。⭐ leftovers 剩饭剩菜（高频）｜have…for lunch 当午饭吃
+
+46
+00:04:31,580 --> 00:04:40,167
 But if you are going to go out, she and others say, first figure out that why, what you want to get out of the experience, and then give yourself a budget. 但如果你确实打算出去吃，她和其他专家都建议，先弄清楚自己的目的，再给自己设定一个预算。⭐ figure out 搞清楚（★★★★★）｜give yourself a budget 给自己设定预算
+
+47
+00:04:40,167 --> 00:04:46,600
 SEGARRA: Is there an amount that the experts you spoke to recommend for how much we should budget for eating out? 那你采访的这些专家，有没有建议我们每个月应该拿多少钱作为外出吃饭的预算呢？⭐ budget for 为……做预算
+
+48
+00:04:46,600 --> 00:04:47,762
 HERNANDEZ: Not exactly. 倒也没有一个固定的数字。
+
+49
+00:04:47,762 --> 00:04:53,934
 I mean, I think it's going to be different for everybody, but there are some strategies for how you could think about it. 我觉得每个人情况都不一样，不过他们确实提供了一些制定预算的方法。⭐ strategy 方法、策略
+
+50
+00:04:53,934 --> 00:05:04,802
 So one is to look back at your past spending habits and see how much you've been spending on food outside of your home, and then that would be your starting point if you want to save money from there. 其中一个方法就是回顾一下自己过去的消费习惯，看看在外面吃饭花了多少钱，这可以作为你之后省钱的起点。⭐ look back at 回顾｜spending habits 消费习惯｜starting point 起点
+
+51
+00:05:04,802 --> 00:05:06,921
 And that might also highlight some patterns for you. 这样也能帮助你发现一些消费规律。⭐ highlight 显现、突出｜pattern 规律
+
+52
+00:05:06,921 --> 00:05:09,421
 So if you've been buying a salad or something every day at work, you could start packing your lunch more often. 比如，如果你每天上班都会买一份沙拉，那你可以开始更频繁地自己带午饭。⭐ pack your lunch 自带午餐（★★★★★）
-(SOUNDBITE OF MUSIC) （音乐）
-SEGARRA: We'll have more LIFE KIT after the break. 广告之后，我们继续《LIFE KIT》。
-(SOUNDBITE OF MUSIC) （音乐）
+
+56
+00:06:18,619 --> 00:06:28,400
 SEGARRA: I always end up eating these slop bowls near our office when I forget to pack my lunch, and they're just like, they're at least $15, and I never like them. 我每次忘记带午饭的时候，最后都会去办公室附近吃那种"大杂烩饭碗（slop bowls）"，一份至少要15美元，而且我其实从来都不喜欢吃。⭐ end up doing 最终做了……（★★★★★）｜pack my lunch 自带午饭｜at least 至少
+
+57
+00:06:28,400 --> 00:06:32,379
 And it's just, it's too much dressing, a lot of the time. 很多时候，里面的沙拉酱都放得太多了。⭐ dressing （沙拉）酱汁
+
+58
+00:06:32,379 --> 00:06:36,444
 So by the time you get halfway through the bowl, you're like, I don't want to eat any of the rest of this, you know? 所以等吃到一半的时候，你就会觉得："剩下的我一点都不想吃了。"⭐ halfway through 吃到一半｜the rest of 剩下的……
+
+59
+00:06:36,444 --> 00:06:37,328
 HERNANDEZ: Yep. 没错。
+
+60
+00:06:37,328 --> 00:06:39,869
 SEGARRA: And that for me is really just about the convenience. 对我来说，这完全就是图方便。⭐ it's about convenience 图方便（★★★★★）
+
+61
+00:06:39,869 --> 00:06:45,651
 It's like, I didn't have time to throw together lunch that day, which, I mean, it is its own reason to eat out, right? 因为那天没时间随便准备一份午饭，而这本身就是外出吃饭的一个理由，不是吗？⭐ throw together 匆忙拼凑、随便准备（★★★★★）｜its own reason 本身就是理由
+
+62
+00:06:45,651 --> 00:06:48,377
 You don't have to cook or plan ahead for that meal. 你不用做饭，也不用提前准备那顿饭。⭐ plan ahead 提前规划（★★★★★）
+
+63
+00:06:48,377 --> 00:06:53,585
 HERNANDEZ: Yeah. And if it's worth it to you to spend that money and save yourself the time, then it's worth it. 是啊，如果对你来说，多花点钱能够节省时间，而且你觉得值得，那它就是值得的。⭐ be worth it 值得（★★★★★）
+
+64
+00:06:53,585 --> 00:07:04,826
 But if you would rather not be spending that money and you just do it because you don't have any lunch prepared for that day, all the experts I spoke to said one of the most important things that you can do is plan ahead. 但如果你其实并不想花这笔钱，只是因为那天没有准备午饭，那么所有专家都说，最重要的一件事就是提前规划。⭐ would rather not 宁愿不……｜have lunch prepared 把午饭准备好｜plan ahead
+
+65
+00:07:04,826 --> 00:07:12,233
 And in this case, that could mean, like, making a big batch of lunches over the weekend and then bringing it with you to work. 比如，你可以周末一次性做好很多份午饭，然后每天带去上班。⭐ a big batch of 一大批、一大份（★★★★★）｜bring it with you 带着它
+
+66
+00:07:12,233 --> 00:07:20,331
 SEGARRA: And then if you do that, I mean, you're saving yourself more of your eating-out budget for stuff that you'd actually enjoy. 这样一来，你就能把更多外出吃饭的预算留给那些真正值得享受的餐厅。⭐ save…for 留给……｜actually enjoy
+
+67
+00:07:20,331 --> 00:07:30,081
 HERNANDEZ: Right. You can kind of pick and choose rather than be limited because you ended up spending $45 the previous week getting those lunches that you just didn't pack. 没错。这样你就可以自由选择，而不是因为上一周花了45美元买那些本来可以自己带的午饭，结果预算受限。⭐ pick and choose 自由挑选（★★★★★）｜be limited 受到限制｜end up doing
+
+68
+00:07:30,081 --> 00:07:34,851
 And then there's kind of like the question of where is that eating-out budget? 另外，还有一个问题，就是这笔外出吃饭的预算到底应该放在哪一类支出里。⭐ budget 预算
+
+69
+00:07:34,851 --> 00:07:44,023
 Because one of the experts I spoke to, financial counselor Lindsay Plumb, says she keeps her eating-out budget separate from her grocery budget. 因为我采访的一位专家，理财顾问 Lindsay Plumb 说，她会把外出吃饭预算和买菜预算完全分开。⭐ keep…separate from… 把……和……分开（★★★★★）
+
+70
+00:07:44,023 --> 00:07:49,740
 So the thinking there is that your grocery budget is kind of its own thing, and that's just for groceries. 她的理念是，买菜预算就是买菜预算，只能用于购买食材。⭐ its own thing 独立的一部分（口语）
+
+71
+00:07:49,740 --> 00:08:00,772
 And separating it from your eating-out money and whatever other parts of your budget you have means you're not dipping into your grocery money for expensive restaurants or other costs that are just for fun. 把它和外出吃饭的钱分开，就意味着你不会为了去高档餐厅或者其他娱乐消费，而动用买菜的钱。⭐ dip into 动用（存款/预算）（★★★★★）｜for fun 娱乐用途
+
+72
+00:08:00,772 --> 00:08:05,932
 LINDSAY PLUMB: My grocery money does not touch, I call it our spend-with-joy money. 我的买菜预算绝不会和我所谓的"快乐消费基金"混在一起。⭐ spend-with-joy money 快乐消费预算（值得借鉴）
+
+73
+00:08:05,932 --> 00:08:09,163
 The spend-with-joy money I get to spend truly with joy. 这笔钱，我可以真正毫无负担地花。⭐ with joy 开心地
+
+74
+00:08:09,163 --> 00:08:20,851
 You know, not worrying whether or not I can pay my mortgage or buy the groceries or if the kids need cleats, because we have a sports account, and that's the one that's going to pay for the cleats. 这样我就不用担心房贷、买菜的钱，或者孩子需要买足球鞋，因为这些都有各自独立的预算。⭐ mortgage 房贷｜cleats （足球等运动）钉鞋
+
+75
+00:08:20,851 --> 00:08:23,432
 Our grocery account is going to pay for our groceries. 买菜的钱，就专门用来买菜。
+
+76
+00:08:23,432 --> 00:08:29,573
 HERNANDEZ: And then there are a few kind of other things that the personal finance experts told me about budgeting. 另外，理财专家还给了我一些关于预算的小建议。⭐ personal finance 个人理财
+
+77
+00:08:29,573 --> 00:08:35,227
 Sometimes restaurants will have these loyalty programs that offer discounts or free items, so you could sign up for those. 有些餐厅会推出会员积分计划，提供折扣或者免费赠品，所以可以注册参加。⭐ loyalty program 会员积分计划（★★★★★）｜sign up for 注册参加
+
+78
+00:08:35,227 --> 00:08:41,307
 And then some credit card rewards programs also give customers extra points for spending money in restaurants. 另外，有些信用卡积分计划也会为餐厅消费提供额外积分。⭐ reward program 积分奖励计划｜extra points
+
+79
+00:08:41,307 --> 00:08:48,130
 SEGARRA: I think one problem that people often have when they do go to restaurants is that they overspend. 我觉得很多人去餐厅都会遇到一个问题，就是容易花超预算。⭐ overspend 超支（★★★★★）
+
+80
+00:08:48,130 --> 00:08:50,557
 What can you do to avoid that? 那怎样才能避免这种情况呢？⭐ avoid
+
+81
+00:08:50,557 --> 00:08:55,477
 HERNANDEZ: So one more thing before you even show up is to look at the menu. 还有一个建议，就是在去餐厅之前，先看看菜单。⭐ show up 到场（★★★★★）
+
+82
+00:08:55,477 --> 00:09:00,548
 Because the experts that I spoke to, they all said preparation is key to saving money. 因为我采访的所有专家都认为，提前准备是省钱的关键。⭐ preparation is key 准备是关键（★★★★★）
+
+83
+00:09:00,548 --> 00:09:06,858
 If you look at the menu ahead of time, you can kind of come up with a game plan of what you might want to order a little bit better. 如果提前看看菜单，你就可以提前想好自己准备点什么。⭐ ahead of time 提前（★★★★★）｜come up with 想出｜game plan 行动计划（口语）
+
+84
+00:09:06,858 --> 00:09:14,807
 You're not under pressure to do it when the waiter is standing right next to you, waiting for you to make a decision about whatever it is that you want. 这样就不用等服务员站在旁边的时候，匆匆忙忙地做决定。⭐ under pressure 有压力｜make a decision
+
+85
+00:09:14,807 --> 00:09:17,307
 SEGARRA: I feel like I do that anyway, just because I'm always super hungry. 我觉得我本来就会这么做，因为我总是饿得不行。⭐ I feel like… 我觉得……（超高频口语）｜super hungry 饿坏了；特别饿
-HERNANDEZ: Yeah. 是啊。
+
+87
+00:09:20,188 --> 00:09:30,401
 SEGARRA: I'm trying to game plan, like, OK, we're going to get in, and I know what I want immediately. I don't have to - the waiter doesn't even have to hand me a menu. And then I'm like, is it ready yet? Is it ready? 我会提前做好计划，比如想着："好，我们一进去，我马上就知道自己要点什么。" 服务员甚至都不用把菜单递给我。然后我就一直在想："做好了吗？好了没？"⭐ game plan 提前制定计划；谋划（⭐⭐⭐⭐⭐ 非常地道）｜get in 进去（餐厅）｜hand sb a menu 把菜单递给某人
+
+88
+00:09:30,401 --> 00:09:32,901
 HERNANDEZ: Yeah (laughter). Right. And that's another thing. Like, showing up too hungry, you might order too much, you know. 哈哈，对啊。而且这也是一个问题。如果你到餐厅的时候已经饿得不行，很可能就会点太多。⭐ show up 到达；出现（高频 phrasal verb）｜order too much 点太多
-SEGARRA: Ooh. 哎呀，还真是。
+
+90
+00:09:37,686 --> 00:09:41,609
 HERNANDEZ: Your stomach might get ahead of your brain a little bit there. 那种情况下，你的胃可能会跑在脑子前面，让你失去理智地点餐。⭐ get ahead of 跑在……前面（⭐⭐⭐⭐⭐ 非常形象的表达）
+
+91
+00:09:41,609 --> 00:09:42,860
 SEGARRA: I've done that. 我确实干过这种事。⭐ I've done that. 我也这样过。（万能共鸣句）
+
+92
+00:09:42,860 --> 00:09:53,752
 HERNANDEZ: Some other tips, like sharing plates to save money or skipping drinks or even using the time of day to your advantage. Like, food deals tend to be a little bit cheaper during happy hours, for example. 还有一些建议，比如大家一起分着吃来省钱，或者不点饮料，又或者利用不同时间段的优惠。比如 Happy Hour 的餐饮优惠通常会便宜一些。⭐ share plates 分着吃（餐厅口语）｜skip drinks 不点饮料｜use… to your advantage 利用……为自己谋利（⭐⭐⭐⭐⭐ C1）｜food deals 餐饮优惠
+
+93
+00:09:53,752 --> 00:10:07,584
 SEGARRA: I find that sometimes it can cost more if I want to eat healthy when I'm eating out. I wonder, what tips did the experts have for dining out on a budget and also trying to eat healthy food? 我发现，有时候如果我想在外面吃得健康一点，反而会更贵。我很好奇，专家们对于既想省钱又想吃得健康有什么建议？⭐ eat healthy 吃得健康｜dine out on a budget 花有限预算外出吃饭（非常值得积累）
+
+94
+00:10:07,584 --> 00:10:22,157
 HERNANDEZ: Right. And there are ways to do this. So registered dietitian Amy Lawson told me that she encourages people to build their restaurant meals around protein and fiber. Those are the things that will kind of keep you full. 当然有办法。注册营养师 Amy Lawson 告诉我，她建议大家点餐时以蛋白质和膳食纤维为核心（build… around），因为这些食物更有饱腹感。⭐ registered dietitian 注册营养师｜build… around… 围绕……来安排（⭐⭐⭐⭐⭐ 很好迁移）｜protein and fiber 蛋白质和膳食纤维｜keep you full 让你更有饱腹感
+
+95
+00:10:22,157 --> 00:10:26,523
 And one way to do that is what she calls the balanced plate. 其中一个方法就是她所说的"均衡餐盘（balanced plate）"。⭐ balanced plate 均衡餐盘
+
+96
+00:10:26,523 --> 00:10:32,991
 Half the plate is non-starchy vegetables, a quarter is protein, and a quarter is complex carbs. 餐盘的一半应该是非淀粉类蔬菜，四分之一是蛋白质，另外四分之一是复合碳水。⭐ non-starchy vegetables 非淀粉类蔬菜｜complex carbs 复合碳水（complex carbohydrates）
+
+97
+00:10:32,991 --> 00:10:38,160
 And some cuisines, like Mediterranean, might make that easier than others. 有些菜系，比如地中海饮食，就更容易做到这一点。⭐ cuisine 菜系（B2）｜Mediterranean cuisine 地中海饮食
+
+98
+00:10:38,160 --> 00:10:54,517
 And it can be hard to actually get that balance if you're ordering something like a soup or a chili, where you don't really have control over that ratio, like a half to a quarter to a quarter, just making sure you're hitting all those categories of non-starchy vegetables, protein and complex carbs will help you. 不过，如果你点的是汤或者辣炖菜这类食物，就很难真正做到这种比例，因为你没法控制各种食材的占比。不过，只要确保这一餐包含了非淀粉类蔬菜、蛋白质和复合碳水这几个类别，就已经很不错了。⭐ have control over 控制；掌握（高频）｜ratio 比例（B2）｜hit all the categories 覆盖所有类别（很自然）
+
+99
+00:10:54,517 --> 00:11:03,655
 She says the key to making this possible - same thing with keeping track of your spending - is preparing ahead of time, reading the menu ahead of time and then making that plan. 她认为，实现这一点的关键，和控制消费其实一样，就是提前准备（prepare ahead of time），提前看菜单，然后提前做好决定。⭐ the key to… ……的关键（万能句型）｜keep track of 跟踪；记录（⭐⭐⭐⭐⭐ 雅思高频）｜prepare ahead of time 提前准备
+
+100
+00:11:03,655 --> 00:11:16,779
 AMY LAWSON: Especially when we go to a restaurant, and we get there, and we are really hungry - our hunger hormones are really loud, and they are telling us, I want - give me all the carbohydrates, give me the simple things, give me the quickest source of fuel. 尤其是当我们到了餐厅，已经非常饿的时候，饥饿激素（hunger hormones）会变得特别活跃，它们仿佛一直在对我们喊："我要碳水！我要最简单的食物！我要最快能提供能量的东西！"⭐ hunger hormones 饥饿激素｜the quickest source of fuel 最快的能量来源
+
+101
+00:11:16,779 --> 00:11:23,011
 So it can kind of muddle in our brain what we - our choices in terms of making the healthiest choice. 所以，它会让我们的大脑变得有点混乱，影响我们做出最健康的选择。⭐ muddle 搞乱；扰乱（C1）｜make the healthiest choice 做出最健康的选择
+
+102
+00:11:23,011 --> 00:11:25,511
 SEGARRA: Yeah. Yeah, I feel that for sure. It can be hard if you are ordering an entree, because they just plate it the way they plate it, and they like give you the amount of protein or rice or whatever… 是啊，我太有共鸣了。如果你点的是一份主菜，其实很难控制，因为餐厅就是按照他们自己的方式摆盘，给你多少肉、多少米饭，基本都是固定好的。⭐ I feel that. 我太有同感了。（⭐⭐⭐⭐⭐ 超自然）｜plate (v.) 摆盘；装盘
-HERNANDEZ: Yeah. 是啊。
+
+104
+00:11:35,833 --> 00:11:44,328
 SEGARRA: …That they're going to give you. Although, I guess you can start to notice patterns, like, in the places you go and maybe just get, like, a protein-heavy appetizer or something. ……他们给多少就是多少。不过，我觉得你也可以慢慢总结规律，比如去熟悉的餐厅时，可以只点一份高蛋白前菜（protein-heavy appetizer）之类的。⭐ notice patterns 发现规律（很好迁移）｜protein-heavy appetizer 高蛋白前菜
+
+105
+00:11:44,328 --> 00:11:51,663
 HERNANDEZ: Right. And also, I mean, for me, if a plate of food comes out, it's going to be hard for me to, like, not eat that plate of food. 没错。而且对我来说，只要一整盘食物端上来了，我真的很难忍住不把它吃完。⭐ comes out （菜）端上来（餐厅高频）｜it's hard not to… 很难不……
+
+106
+00:11:51,663 --> 00:11:59,249
 But one of her tips is you can get a to-go box right when your food comes out and put half of it in the to-go box. 不过，她有一个建议是：菜一端上来，就马上要一个打包盒，把一半食物先装进去。⭐ to-go box 打包盒（美式）｜right when… 一……就……（高频）
+
+107
+00:11:59,249 --> 00:12:03,071
 And that will kind of control how much you're going to eat while you're sitting there. 这样一来，就能控制自己当场吃掉多少。⭐ control how much… 控制……的量（万能搭配）
+
+108
+00:12:03,071 --> 00:12:23,423
 And by the way, there's a couple other small tips that Lawson suggested, such as you can ask to customize things. You could get protein from chicken or beans rather than steak, for example. And then if you skip the sugary drinks altogether, you're going to save yourself money, and it will be healthier. 顺便提一句，Lawson 还提出了几个小建议。比如，你可以要求定制（customize）餐点。举个例子，你可以选择鸡肉或豆类作为蛋白质来源，而不是牛排。如果你完全不喝（skip… altogether）含糖饮料，不仅能省钱，也会更健康。⭐ by the way 顺便说一句（高频口语）｜customize 定制；按需求调整（B2）｜rather than 而不是（高频替换 instead of）｜skip… altogether 干脆不……；完全省掉……
-(SOUNDBITE OF MUSIC) （音乐）
-SEGARRA: We'll have more LIFE KIT after the break. 稍后广告之后，我们继续《Life Kit》。⭐ after the break 广告之后；稍后回来（节目固定表达）
-(SOUNDBITE OF MUSIC) （音乐）
+
+109
+00:12:23,423 --> 00:12:25,923
+(QSponsor/Ad) (SOUNDBITE OF MUSIC) （音乐）
+
+112
+00:13:02,001 --> 00:13:10,090
 SEGARRA: OK. Well, let's talk about takeout now. It can be so expensive. So how do you save money on this? 好，我们来聊聊外卖。它真的很贵。那么，怎样才能在点外卖时省钱呢？⭐ takeout 外卖（美式）｜save money on sth 在某方面省钱
+
+113
+00:13:10,090 --> 00:13:12,590
 HERNANDEZ: I mean, one of the simplest ways to save on takeout is to pick up your order yourself if you can do that. 其实，点外卖最简单的省钱方法之一，就是如果可以的话，自己去取餐（pick up your order）。⭐ pick up your order 自取订单（超高频）
-The website LendingTree found that fast food and fast-casual delivery orders in the top 10 U.S. metro areas cost nearly 80% more than if customers had picked them up. LendingTree 网站发现，在美国十大都市区，快餐和休闲快餐的外卖配送费用，比顾客自己去取餐几乎要贵 80%。⭐ metro area 都市区｜fast-casual 轻餐饮（如 Chipotle）｜cost…more than… 比……贵……
-SEGARRA: Eighty percent? 贵 80%？⭐ 表示震惊时重复数字，非常自然。
-HERNANDEZ: That's a lot, right? 很多吧？⭐ That's a lot. 真不少。
-SEGARRA: Yeah. 是啊。
-HERNANDEZ: And so, you know, if the convenience of it is necessary for you in that moment, you can factor those fees into your budget. 所以，如果当下你确实需要这种便利，那就把这些配送费用算进（factor… into）你的预算里。⭐ factor… into… 把……纳入考虑；算进去（C1）
-But for a lot of us, some or many of those delivery orders are kind of spur of the moment. 但对很多人来说，不少外卖其实都是一时兴起（spur of the moment）点的。⭐ spur of the moment 一时冲动；临时起意（惯用表达）
-It's just something that you have to do because you forgot to cook or you don't have the energy to cook, and you may end up spending more than you intended. 可能只是因为忘了做饭，或者没精力做饭，所以才点外卖，结果最后花的钱比原本打算的还多。⭐ end up doing 最终……（雅思高频）｜intend to 打算……
-SEGARRA: Yeah, I have often spent $45 on a delivery meal, and then it gets there, and it's mostly rice. 我就经常花 45 美元点一份外卖，结果送到之后发现，大部分都是米饭。⭐ mostly 大部分都是……
-HERNANDEZ: Right. Yeah, that's not fun. 是啊，那可不划算。⭐ That's not fun. 很扫兴；不值。
-And actually, some of the tips we got from readers touch on this about how, like, you could get takeout for the part of the meal that maybe you don't want to cook or can't cook yourself and then supplement it at home with something that is easy for you to make. 其实，我们从读者那里收到的一些建议也提到了这一点。比如，你可以只点那些自己不想做、或者不会做的部分，然后回家再搭配一些容易做的食物。⭐ touch on 提到；涉及（B2）｜supplement… with… 用……补充……（C1）
-SEGARRA: And I also think about not just what's easier to make, but what is more expensive versus less expensive, right? 我考虑的不只是哪些东西更容易做，还会考虑哪些食材更贵、哪些更便宜。⭐ versus 相比；对比（正式口语）
-Like, sometimes I'll go and I'll get, like, a protein-heavy appetizer, like meat on a stick from the Thai place or the Greek place, and that maybe cost me 10 bucks. 比如，我有时候会去泰国餐厅或者希腊餐厅，点一份高蛋白（protein-heavy）的前菜，比如烤肉串，大概只要 10 美元。⭐ protein-heavy 高蛋白的（很好迁移）｜meat on a stick 烤串（口语）
-And then I make the rice at home because rice is cheap. 然后米饭就在家自己做，因为米饭很便宜。⭐ make… at home 在家做……
-But if they put the two together at the restaurant, then they call it an entree. 但如果餐厅把两样放在一起，就会把它包装成一份主菜（entrée）。⭐ put… together 组合在一起（高频）｜entrée 主菜（美式）
-HERNANDEZ: Right. This kind of touches on the idea of, like, planning, like, how you're going to use this food because you're just buying basically what you don't maybe have at home or what would take longer for you to cook or be more expensive for you to get and then supplementing it. 没错。这其实又回到了提前规划（planning）这个概念。你买的只是那些家里没有、做起来特别费时间，或者自己做成本更高的部分，然后再自己补充其他配菜。⭐ touch on the idea 涉及这个观点｜supplement 补充；搭配
-Like, maybe not every takeout meal has to be a full meal. 也就是说，并不是每一次外卖都一定要点成一整套完整的正餐。⭐ full meal 一整顿饭
-And then there's kind of another phenomenon that's been popping up related to this in the last few years, which is people getting catering trays from places like Chipotle and Texas Roadhouse, and then, like, meal prepping their lunches with that food. 另外，近几年还出现了一种新的现象，就是很多人会去像 Chipotle 或 Texas Roadhouse 这样的餐厅买大份派对餐（catering trays），然后用这些食物来准备接下来几天的午餐。⭐ phenomenon 现象（B2）｜pop up 出现；冒出来（高频）｜meal prep 提前备餐（非常实用）
-And they say it saves them time that they would otherwise be cooking, and it could even be cheaper for them than going to the grocery store. 他们说，这样既节省了做饭时间，有时候甚至比去超市买菜还便宜。⭐ otherwise 否则；原本会……｜grocery store 超市（美式）
-SEGARRA: So it's like hybrid eating out. 所以，这算是一种混合式外食（hybrid eating out）。⭐ hybrid 混合的；结合式的（B2，可迁移：hybrid learning / hybrid working）
-HERNANDEZ: Right, right. 没错，就是这个意思。
-SEGARRA: Interesting. Any other favorite tips that you've learned in reporting? 有意思。那在采访过程中，你还有没有学到其他特别喜欢的小技巧？⭐ favorite tips 最喜欢的小建议｜learn in reporting 在采访报道过程中了解到
-HERNANDEZ: Yeah, we heard a lot. 有，而且还不少。⭐ hear a lot 听到很多（采访中常用）
-So for example, go out for breakfast or lunch instead of dinner because it's often cheaper and the restaurant might be more chill at that time of day. 比如，可以把外出吃饭安排在早餐或午餐，而不是晚餐，因为通常更便宜，而且那个时间段餐厅也没那么忙、氛围更轻松。⭐ go out for breakfast/lunch 出门吃早餐/午餐｜instead of 而不是｜chill 轻松的；不那么拥挤（口语）
-You know, instead of going for dinner, meet up for dessert. 比如，不一定非要一起吃晚饭，也可以约出来吃个甜点。⭐ meet up 约见；碰面（高频 phrasal verb）
-You can use restaurant apps and coupons. 还可以利用餐厅 App 和优惠券。⭐ coupon 优惠券（美式）
-Limit going out. 减少外出就餐的次数。⭐ limit 控制；限制（雅思高频动词）
-And then commenters were a little bit split on whether to just make a meal of side dishes and appetizers to save money or to skip side dishes and appetizers and just order entrees to save money, but it seems like people do both of those strategies. 另外，网友们对此意见不太一致。有些人觉得可以只点配菜和前菜来省钱；也有人认为应该直接点主菜、跳过前菜和配菜。看起来，两种做法都有人采用。⭐ be split on 在某件事上意见不一致（C1）｜side dish 配菜｜appetizer 前菜｜entrée 主菜
-A few other things - order off the kids' menu if the restaurant lets you. 还有一个办法，如果餐厅允许的话，可以直接点儿童菜单。⭐ kids' menu 儿童菜单｜if… lets you 如果允许的话
-Some people were doing that. 确实有人这么做。
-Consider vegetarian options because they might be cheaper as well. 也可以考虑素食，因为通常价格会更便宜。⭐ vegetarian option 素食选择（高频）
-(SOUNDBITE OF MUSIC) （音乐）
-SEGARRA: Joe Hernandez, thank you so much for this. Joe Hernandez，非常感谢你的分享。⭐ Thanks for this. 谢谢你的分享（很自然）
-HERNANDEZ: Yeah, no problem. Thanks. 不客气，谢谢。
-(SOUNDBITE OF MUSIC) （音乐）
-SEGARRA: That was reporter Joe Hernandez. 刚才那位是记者 Joe Hernandez。
-All right, time for a recap. 好，现在来总结一下。⭐ recap 总结；回顾（雅思口语可迁移）
-Takeaway one - take a look at your spending habits. 第一点，回顾一下自己的消费习惯。⭐ takeaway 要点；收获（听力、播客超高频）｜spending habits 消费习惯
-When you dine out, why are you doing it? 每次出去吃饭的时候，先问问自己：为什么要出去吃？⭐ dine out 外出就餐（比 eat out 略正式）
-Cut back when the choice doesn't align with your values - like, if you're buying a mediocre lunch every day because you haven't made the habit of meal prepping. 如果你的消费选择和自己的价值观不一致，就应该减少这种支出。比如，每天都买一份普普通通的午餐，只因为没有养成提前备餐的习惯。⭐ cut back 削减；减少（雅思高频 phrasal verb）｜align with 与……一致（C1）｜mediocre 普普通通的；一般般的（B2）｜meal prep 提前备餐
-Takeaway two - create a dining-out budget that's separate from your grocery budget, your rent budget or any money that you have to spend every month. 第二点，建立一个外出就餐预算，并把它和买菜、房租等固定支出分开。⭐ be separate from 与……分开
-The money you allot to this dining-out budget, you can spend on dining out guilt-free. 分配给外食预算的钱，你就可以毫无负担地花掉。⭐ allot 分配（C1）｜guilt-free 毫无负罪感地（很好用）
-Takeaway three - avoid overspending when you're out at a restaurant. 第三点，去餐厅吃饭时，要避免超支。⭐ overspend 花超预算（B2）
-Make a plan before you go. 去之前先做好计划。
-Look at the menu. 提前看看菜单。
-Go when there are happy hour deals, and if you get a big old plate of food, get a to-go box right away and put half of it away to have as leftovers. 尽量选择 Happy Hour 去。如果端上来的是一大盘食物，就立刻要一个打包盒，把一半先装起来，留着之后吃。⭐ happy hour deals 欢乐时光优惠｜to-go box 打包盒（美式）｜put… away 收起来（高频 phrasal verb）｜leftovers 剩菜（超高频）
-Takeaway four - when you're getting takeout, avoid delivery whenever possible. 第四点，点外卖时，只要条件允许，就尽量不要选择配送。⭐ whenever possible 只要有可能（万能表达）
-That makes it way more expensive. 这样会贵很多。⭐ way more… ……得多（非常自然）
-Pick up the food yourself if you can. 如果可以的话，就自己去取餐。
-And takeaway five - you can also use restaurant food strategically to supplement your eating at home. 第五点，可以有策略地利用餐厅食物，搭配自己在家做的饭。⭐ strategically 有策略地（C1）｜supplement 补充；搭配
-For instance, I like to buy some chicken skewer appetizers and then make rice or a salad at home. 比如，我喜欢买一些鸡肉串作为前菜，然后在家自己做米饭或者沙拉。⭐ for instance 例如（雅思高频）｜skewer 烤串；串烧
-Some people get catering trays and use them to meal prep. 还有些人会买大份派对餐，然后拿来提前备餐。⭐ catering tray 派对大份餐｜meal prep 备餐
-Think about the items that are cheaper a la carte. 可以优先考虑那些单点（à la carte）更划算的食物。⭐ à la carte 单点（餐厅高频法语词）
-I find that you can often get meat sticks for a reasonable price on their own, but then the restaurant adds some rice and a wilted salad and charges three times as much. 我发现，单独买肉串其实价格很合理；但餐厅只要再加一点米饭和一份蔫掉的（wilted）沙拉，价格马上就翻了三倍。⭐ reasonable price 合理价格｜on their own 单独购买｜wilted 蔫了的；不新鲜的（C1）｜charge three times as much 收三倍价格
-OK, and a few other tips. Go out for breakfast or lunch instead of dinner 'cause it's often cheaper, and order off the kids' menu if you're allowed. 最后再补充几个小建议：可以选择出去吃早餐或午餐，而不是晚餐，因为通常更便宜。如果餐厅允许的话，也可以点儿童菜单。⭐ order off the kids' menu 点儿童餐（固定搭配）｜if you're allowed 如果允许的话
-(SOUNDBITE OF MUSIC) （音乐）
-SEGARRA: That's our show. Would you consider rating and reviewing LIFE KIT? It helps us grow. 以上就是本期节目。方便的话，可以给 Life Kit 打个分、写个评价吗？这能帮助我们的节目吸引更多听众。⭐ That's our show. 本期节目到这里。｜rate and review 评分并写评论（播客固定表达）｜Would you consider…? 你愿意……吗？（非常礼貌）｜It helps us grow. 有助于节目发展。
-Here's a review from listener Winnell (ph) - I'm disappointed that I'm just now discovering this podcast. What great practical information and a great show. 这里分享一位听众 Winnell 的评论："真遗憾，我直到现在才发现这个播客。内容特别实用，节目也非常棒。"⭐ I'm disappointed that… 遗憾的是……｜practical information 实用的信息
-We're just glad you found us, Winnell. Help us spread the word about LIFE KIT. Leave us a review in your podcast app right now. Winnell，我们很高兴你发现了我们。如果你喜欢 Life Kit，欢迎帮我们口口相传（spread the word），也欢迎现在就在你的播客 App 里留下评价。⭐ spread the word 帮忙宣传；口口相传（⭐⭐⭐⭐⭐ 雅思非常值得积累）｜leave a review 留下评论
-This episode of LIFE KIT was produced by Margaret Cirino. Our digital editor is Malaka Gharib, and our visuals editor is CJ Riculan. Meghan Keane is our senior supervising editor, and Lauren González is our executive producer. Our production team also includes Andee Tagle, Clare Marie Schneider and Sylvie Douglis. Engineering support comes from Jimmy Keeley, fact-checking by Andrea López-Cruzado. 本期《Life Kit》由 Margaret Cirino 制作。数字编辑是 Malaka Gharib，视觉编辑是 CJ Riculan
+
