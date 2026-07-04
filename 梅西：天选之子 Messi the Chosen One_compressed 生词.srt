@@ -1,16 +1,44 @@
 1
-00:00:05,007 --> 00:00:09,475
+00:00:06,418 --> 00:00:09,231
 
 
 2
-00:00:09,475 --> 00:00:18,900
+00:00:09,231 --> 00:00:20,475
 ⭐ hailed as：被誉为｜fellow professionals：同行的职业人士｜to ever play the sport：有史以来踢过这项运动的人
 
 3
-00:00:18,900 --> 00:00:29,891
-
+00:00:20,475 --> 00:00:29,636
+⭐ I can say that…：我可以自豪地说……｜see somebody play：看某人比赛/踢球
 
 4
-00:00:29,891 --> 00:00:32,391
+00:00:29,636 --> 00:00:40,673
 ⭐ character：品格；人格魅力｜work for the team：为球队奉献、服务于团队｜one of the gods of football：足球界的传奇人物
+
+5
+00:00:40,673 --> 00:00:53,278
+⭐ groundbreaking：开创性的；创纪录的｜hold records for：保持……纪录｜assists：助攻
+
+6
+00:00:53,278 --> 00:01:01,608
+⭐ individually：就个人而言｜for the group：属于整个团队
+
+7
+00:01:01,608 --> 00:01:12,695
+⭐ be diagnosed with：被诊断患有｜medical condition：疾病；健康问题｜derail one's career：毁掉/中断某人的职业生涯｜defy expectations：打破预期；超出所有人的预料｜stun the world：震惊世界
+
+8
+00:01:12,695 --> 00:01:16,692
+⭐ go out the window：变得毫无意义；被抛诸脑后
+
+9
+00:01:16,692 --> 00:01:25,301
+⭐ legendary figure：传奇人物｜delve into：深入探究｜footballing icon：足球偶像
+
+10
+00:01:25,301 --> 00:01:33,250
+⭐ keep adding things to…：不断为……增添新的内容；持续提升
+
+11
+00:01:33,250 --> 00:01:35,750
+⭐ mesmerizing：令人着迷的｜tale：传奇故事；叙事
 
