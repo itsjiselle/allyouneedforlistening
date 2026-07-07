@@ -1,13 +1,13 @@
 1
-00:00:48,380 --> 00:00:53,242
+00:00:48,380 --> 00:00:53,241
 There's nothing to tell. It's just some guy I work with.
 
 2
-00:00:53,242 --> 00:00:57,321
+00:00:53,241 --> 00:00:57,320
 Come on. You're going out with the guy. There's got to be something wrong with him.
 
 3
-00:00:57,321 --> 00:01:02,441
+00:00:57,320 --> 00:01:02,441
 So, does he have a hump? A hump and a hairpiece?
 
 4
@@ -15,11 +15,11 @@ So, does he have a hump? A hump and a hairpiece?
 Wait, does he eat chalk?
 
 5
-00:01:05,194 --> 00:01:08,101
+00:01:05,194 --> 00:01:08,100
 Just because I don't want her to go through what I went through with Carol.
 
 6
-00:01:08,101 --> 00:01:10,635
+00:01:08,100 --> 00:01:10,635
 Okay, everybody relax.
 
 7
@@ -27,1126 +27,686 @@ Okay, everybody relax.
 This is not even a date.
 
 8
-00:01:11,551 --> 00:01:14,951
+00:01:11,551 --> 00:01:14,950
 It's just two people going out to dinner and not having sex.
 
 9
-00:01:14,951 --> 00:01:38,468
+00:01:14,950 --> 00:01:38,468
 Sounds like a date to me.
 
 10
-00:00:00,000 --> 00:00:00,000
-All right, so I'm back in high school.
-
-11
-00:00:00,000 --> 00:00:00,000
-I'm standing in the middle of the cafeteria.
-
-12
-00:00:00,000 --> 00:00:00,000
-And I realize I am totally naked.
-
-13
-00:00:00,000 --> 00:00:00,000
-Then I look down and I realize there is a phone there.
-
-14
-00:00:00,000 --> 00:00:00,000
-That's right.
-
-15
-00:01:38,468 --> 00:01:42,592
+00:01:38,468 --> 00:01:42,591
 All of a sudden, the phone starts to ring.
 
-16
-00:01:42,592 --> 00:01:46,829
+11
+00:01:42,591 --> 00:01:46,828
 And it turns out it's my mother.
 
-17
-00:01:46,829 --> 00:01:59,190
+12
+00:01:46,828 --> 00:01:59,189
 Which is very, very weird because she never calls me.
 
-18
-00:01:59,190 --> 00:02:03,651
+13
+00:01:59,189 --> 00:02:03,650
 This guy says, "Hello, I want to kill myself."
 
-19
-00:00:00,000 --> 00:00:00,000
-Are you okay, sweetie?
-
-20
-00:02:03,651 --> 00:02:10,087
+14
+00:02:03,650 --> 00:02:10,086
 I just feel like someone reached down my throat, grabbed my small intestine, pulled it out of my mouth and tied it around my neck.
 
-21
-00:02:10,087 --> 00:02:13,730
+15
+00:02:10,086 --> 00:02:13,729
 Cookie? Cookie?
 
-22
-00:02:13,730 --> 00:02:22,973
+16
+00:02:13,729 --> 00:02:22,973
 Carol moved her stuff out today. Carol
 
-23
-00:00:00,000 --> 00:00:00,000
-Let me get you some coffee.
-
-24
-00:00:00,000 --> 00:00:00,000
-Thanks.
-
-25
-00:00:00,000 --> 00:00:00,000
-Ew. No, no, no, don't.
-
-26
-00:02:22,973 --> 00:02:28,099
+17
+00:02:22,973 --> 00:02:28,098
 Stop cleansing my aura.
 
-27
-00:02:28,099 --> 00:02:31,659
+18
+00:02:28,098 --> 00:02:36,008
 Don't just leave my aura alone, okay?
 
-28
-00:02:31,659 --> 00:02:36,009
-I'll be fine, all right?
-
-29
-00:00:00,000 --> 00:00:00,000
-Really, everyone, I hope she'll be very happy.
-
-30
-00:00:00,000 --> 00:00:00,000
-No, you don't.
-
-31
-00:00:00,000 --> 00:00:00,000
-No, I don't.
-
-32
-00:02:36,009 --> 00:02:44,278
+19
+00:02:36,008 --> 00:02:44,277
 To hell with her.
 
-33
-00:00:00,000 --> 00:00:00,000
-She left me.
-
-34
-00:00:00,000 --> 00:00:00,000
-And you never knew she was a lesbian.
-
-35
-00:02:44,278 --> 00:02:56,180
+20
+00:02:44,277 --> 00:02:56,180
 No, okay? Why does everyone keep fixating on that?
 
-36
-00:00:00,000 --> 00:00:00,000
-She didn't know.
-
-37
-00:00:00,000 --> 00:00:00,000
-How should I know?
-
-38
+21
 00:02:56,180 --> 00:03:04,573
 Sometimes I wish I was a lesbian. Did I say that out loud?
 
-39
-00:03:04,573 --> 00:03:11,761
+22
+00:03:04,573 --> 00:03:11,760
 All right, Ross, look, you're feeling a lot of pain right now. You're angry. You're hurting.
 
-40
-00:03:11,761 --> 00:03:17,984
+23
+00:03:11,760 --> 00:03:17,984
 Can I tell you what the answer is? Strip joints.
 
-41
+24
 00:03:17,984 --> 00:03:20,632
 Come on, you're single. Have some hormones.
 
-42
-00:03:20,632 --> 00:03:30,021
+25
+00:03:20,632 --> 00:03:35,844
 See, but I don't want to be single, okay?
 
-43
-00:00:00,000 --> 00:00:00,000
-I just, I just, I just want to be married again.
-
-44
-00:03:30,021 --> 00:03:35,845
-And I just want a million dollars.
-
-45
-00:03:35,845 --> 00:03:38,325
+26
+00:03:35,844 --> 00:03:38,324
 Rachel? Oh, God, Monica, hi. Thank God. Rachel？
 
-46
-00:03:38,325 --> 00:03:44,270
+27
+00:03:38,324 --> 00:03:44,270
 I just went to your building, and you weren't there. And then this guy with a big hammer said that you might be here, and you are. You are.
 
-47
-00:03:44,270 --> 00:03:45,862
+28
+00:03:44,270 --> 00:03:45,861
 Can I get you some coffee?
 
-48
-00:03:45,862 --> 00:03:48,684
+29
+00:03:45,861 --> 00:03:48,683
 Decaf.
 
-49
-00:03:48,684 --> 00:04:07,957
+30
+00:03:48,683 --> 00:04:07,956
 Okay, everybody, this is Rachel, another Lincoln High survivor.
 
-50
-00:00:00,000 --> 00:00:00,000
-This is everybody.
-
-51
-00:00:00,000 --> 00:00:00,000
-This is Chandler and Phoebe and Joey.
-
-52
-00:00:00,000 --> 00:00:00,000
-And you remember my brother Ross?
-
-53
-00:00:00,000 --> 00:00:00,000
-Sure.
-
-54
-00:00:00,000 --> 00:00:00,000
-Hey.
-
-55
-00:00:00,000 --> 00:00:00,000
-Hi.
-
-56
-00:04:07,957 --> 00:04:18,513
+31
+00:04:07,956 --> 00:04:18,512
 So you want to tell us now, or are we waiting for four wet bridesmaids?
 
-57
-00:00:00,000 --> 00:00:00,000
-Oh, God.
-
-58
-00:00:00,000 --> 00:00:00,000
-Well, it started about a half hour before the wedding.
-
-59
-00:04:18,513 --> 00:04:27,725
+32
+00:04:18,512 --> 00:04:27,725
 I was in this room where we were keeping all the presents, and I was looking at this gravy boat, this really gorgeous Limoges gravy boat.
 
-60
-00:04:27,725 --> 00:04:36,188
+33
+00:04:27,725 --> 00:04:36,187
 When all of a sudden, sweet and low, I realized, I realized that I was more turned on by this gravy boat than by Barry.
 
-61
-00:04:36,188 --> 00:04:42,474
+34
+00:04:36,187 --> 00:04:42,473
 And then I got really freaked out, and that's when it hit me, how much Barry looks like Mr. Potato Head.
 
-62
-00:04:42,474 --> 00:04:48,037
+35
+00:04:42,473 --> 00:04:48,036
 You know, I mean, I always knew he looked familiar, but…
 
-63
-00:04:48,037 --> 00:04:55,391
+36
+00:04:48,036 --> 00:04:55,391
 I just had to get out of there, and I started wondering, why am I doing this, and who am I doing this for?
 
-64
+37
 00:04:55,391 --> 00:05:03,175
 So anyway, I just didn't know where to go, and I know that you and I have kind of drifted apart, but you're the only person I knew who lived here in the city.
 
-65
-00:05:03,175 --> 00:05:06,602
+38
+00:05:03,175 --> 00:05:06,601
 Who wasn't invited to the wedding.
 
-66
-00:05:06,602 --> 00:05:21,862
+39
+00:05:06,601 --> 00:05:21,862
 Oh, I was kind of hoping that wouldn't be an issue.
 
-67
-00:05:21,862 --> 00:05:42,734
+40
+00:05:21,862 --> 00:05:42,733
 I'm guessing that he bought her the big pipe organ, and she's really not happy about it.
 
-68
-00:00:00,000 --> 00:00:00,000
-Daddy, I just… I can't marry him. I'm sorry.
-
-69
-00:00:00,000 --> 00:00:00,000
-I'm sorry. I just don't love him.
-
-70
-00:00:00,000 --> 00:00:00,000
-Well, it matters to me.
-
-71
-00:05:42,734 --> 00:05:46,075
+41
+00:05:42,733 --> 00:05:46,074
 Ooh, she should not be wearing those pants.
 
-72
-00:05:46,075 --> 00:06:16,462
+42
+00:05:46,074 --> 00:06:16,461
 I say push her down the stairs.
 
-73
-00:00:00,000 --> 00:00:00,000
-Push her down the stairs.
-
-74
-00:00:00,000 --> 00:00:00,000
-He's always told me, you're a shoe. You're a shoe, you're a shoe, you're a shoe.
-
-75
-00:00:00,000 --> 00:00:00,000
-And then today I just stopped and I said, what if I don't want to be a shoe?
-
-76
-00:00:00,000 --> 00:00:00,000
-What if I want to be a purse? You know, or a hat?
-
-77
-00:00:00,000 --> 00:00:00,000
-No, I don't want you to buy me a hat.
-
-78
-00:00:00,000 --> 00:00:00,000
-I'm saying that I am a hat.
-
-79
-00:06:16,462 --> 00:06:19,734
+43
+00:06:16,461 --> 00:06:19,733
 It's a metaphor, Daddy.
 
-80
-00:06:19,734 --> 00:06:33,076
+44
+00:06:19,733 --> 00:06:33,076
 You can see where he'd have trouble.
 
-81
-00:00:00,000 --> 00:00:00,000
-Look, Daddy, it's my life.
-
-82
-00:00:00,000 --> 00:00:00,000
-Well, maybe I'll just stay here with Monica.
-
-83
-00:00:00,000 --> 00:00:00,000
-Monica? Monica？
-
-84
+45
 00:06:33,076 --> 00:06:55,137
 Well, I guess we've established she's staying here with Monica.
 
-85
-00:00:00,000 --> 00:00:00,000
-Well, maybe that's my decision.
-
-86
-00:00:00,000 --> 00:00:00,000
-Well, maybe I don't need your money.
-
-87
-00:00:00,000 --> 00:00:00,000
-Wait, wait, I said maybe!
-
-88
+46
 00:06:55,137 --> 00:06:57,014
 Okay, just breathe, that's it.
 
-89
-00:06:57,014 --> 00:06:59,440
+47
+00:06:57,014 --> 00:06:59,439
 Just try to think of nice, calm things.
 
-90
-00:06:59,440 --> 00:07:19,253
+48
+00:06:59,439 --> 00:07:19,252
 Raindrops on roses… I'm all better now. （
 
-91
-00:00:00,000 --> 00:00:00,000
-I helped.
-
-92
-00:07:19,253 --> 00:07:21,463
+49
+00:07:19,252 --> 00:07:21,463
 This is probably for the best, you know?
 
-93
+50
 00:07:21,463 --> 00:07:24,435
 Independence, taking control of your life.
 
-94
-00:07:24,435 --> 00:07:29,073
+51
+00:07:24,435 --> 00:07:29,072
 And hey, you need anything, you can always come to Joey.
 
-95
-00:07:29,073 --> 00:07:31,249
+52
+00:07:29,072 --> 00:07:31,249
 Me and Chandler live right across the hall.
 
-96
+53
 00:07:31,249 --> 00:07:34,220
 And he's away a lot.
 
-97
+54
 00:07:34,220 --> 00:07:36,899
 Joey, stop hitting on her. It's her wedding day. Joey，
 
-98
-00:07:36,899 --> 00:07:41,758
+55
+00:07:36,899 --> 00:07:41,757
 What, like there's a rule or something?
 
-99
-00:07:41,758 --> 00:07:46,696
+56
+00:07:41,757 --> 00:07:46,696
 Please don't do that again. It's a horrible sound.
 
-100
-00:00:00,000 --> 00:00:00,000
-Uh, it's, uh, it's Paul.
-
-101
+57
 00:07:46,696 --> 00:07:48,144
 Buzz him in.
 
-102
+58
 00:07:48,144 --> 00:07:56,259
 Who's Paul? Paul the wine guy, Paul? Paul
 
-103
-00:00:00,000 --> 00:00:00,000
-Maybe.
-
-104
-00:00:00,000 --> 00:00:00,000
-Wait a minute, you're not a real date tonight as with Paul the wine guy? He finally asked you out?
-
-105
-00:00:00,000 --> 00:00:00,000
-Yes!
-
-106
+59
 00:07:56,259 --> 00:08:27,535
 Ooh, this is a Dear Diary moment.
 
-107
-00:00:00,000 --> 00:00:00,000
-Reach, wait, I can cancel. Please, no, go, I'll be fine. Ross, are you okay?
-
-108
-00:00:00,000 --> 00:00:00,000
-I mean, do you want me to stay?
-
-109
-00:00:00,000 --> 00:00:00,000
-That'd be good. Really? No, go on.
-
-110
-00:00:00,000 --> 00:00:00,000
-It's Paul the wine guy.
-
-111
-00:00:00,000 --> 00:00:00,000
-Paul, this is everybody. Everybody, this is Paul. Paul，
-
-112
+60
 00:08:27,535 --> 00:08:31,158
 Paul the wine guy. I'm sorry, I didn't catch your name. Paul, was it? Paul，
 
-113
-00:08:31,158 --> 00:08:37,228
+61
+00:08:31,158 --> 00:08:37,227
 Okay, sit down. Two seconds.
 
-114
-00:08:37,228 --> 00:08:43,142
+62
+00:08:37,227 --> 00:08:43,142
 Ooh, I just pulled out four eyelashes. That can't be good.
 
-115
+63
 00:08:43,142 --> 00:08:45,022
 So, Rachel, what are you, uh, what are you up to tonight? Rachel，
 
-116
+64
 00:08:45,022 --> 00:08:53,119
 Well, I was kind of supposed to be headed for Aruba on my honeymoon, so nothing.
 
-117
+65
 00:08:53,119 --> 00:08:56,048
 Right, you're not even getting your honeymoon.
 
-118
-00:08:56,048 --> 00:09:08,103
+66
+00:08:56,048 --> 00:09:08,102
 No, no, although Aruba, this time of year, talk about your… big lizards.
 
-119
-00:09:08,103 --> 00:09:17,735
+67
+00:09:08,102 --> 00:09:17,735
 Anyway, if you don't feel like being alone tonight, Joey and Chandler are coming over to help me put together my new furniture.
 
-120
-00:00:00,000 --> 00:00:00,000
-Yes, and we're very excited about it.
-
-121
+68
 00:09:17,735 --> 00:09:23,547
 Well, actually, thanks, but I think I'm just gonna hang out here tonight. It's been a long day.
 
-122
+69
 00:09:23,547 --> 00:09:24,725
 Oh, sure, okay, sure. Hey, Pheebs, you want to help?
 
-123
+70
 00:09:24,725 --> 00:09:34,421
 Oh, I wish I could, but I don't want to.
 
-124
-00:09:34,421 --> 00:09:43,093
+71
+00:09:34,421 --> 00:09:43,092
 I'm supposed to attach a brackety thing to the side things using a bunch of these little worm guys.
 
-125
-00:09:43,093 --> 00:09:53,484
+72
+00:09:43,092 --> 00:09:53,484
 I have no brackety thing, I see no worm guys whatsoever, and I cannot feel my legs.
 
-126
-00:09:53,484 --> 00:09:58,410
+73
+00:09:53,484 --> 00:09:58,409
 What's this? I have no idea.
 
-127
-00:09:58,410 --> 00:10:04,564
+74
+00:09:58,409 --> 00:10:04,563
 Done with the book, David!
 
-128
-00:00:00,000 --> 00:00:00,000
-I'm finished!
-
-129
-00:10:04,564 --> 00:10:14,198
+75
+00:10:04,563 --> 00:10:14,197
 This was Carol's favorite beer. She always drank it out of the can. I should have known.
 
-130
-00:00:00,000 --> 00:00:00,000
-Ross, let me ask you a question. Ross，
-
-131
-00:10:14,198 --> 00:10:21,312
+76
+00:10:14,197 --> 00:10:21,312
 She got the furniture, the stereo, the good TV. What did you get? You guys.
 
-132
-00:10:21,312 --> 00:10:25,890
+77
+00:10:21,312 --> 00:10:25,889
 Oh, God. You got screwed.
 
-133
-00:00:00,000 --> 00:00:00,000
-Oh, my God.
-
-134
-00:10:25,890 --> 00:10:28,666
+78
+00:10:25,889 --> 00:10:28,666
 I know, I know, I'm such an idiot.
 
-135
+79
 00:10:28,666 --> 00:10:34,243
 I guess I should have caught on when she started going to the dentist four and five times a week.
 
-136
-00:10:34,243 --> 00:10:35,891
+80
+00:10:34,243 --> 00:10:35,890
 I mean, how clean can teeth get?
 
-137
-00:10:35,891 --> 00:10:38,067
+81
+00:10:35,890 --> 00:10:38,067
 My brother's going through that right now.
 
-138
-00:10:38,067 --> 00:10:39,299
+82
+00:10:38,067 --> 00:10:39,298
 He's such a mess.
 
-139
-00:10:39,299 --> 00:10:41,208
+83
+00:10:39,298 --> 00:10:41,207
 How did you get through it?
 
-140
-00:10:41,208 --> 00:10:44,429
+84
+00:10:41,207 --> 00:10:44,428
 He might try accidentally breaking something valuable of hers.
 
-141
-00:10:44,429 --> 00:10:45,286
+85
+00:10:44,428 --> 00:10:45,285
 Say, her…
 
-142
-00:10:45,286 --> 00:10:45,900
+86
+00:10:45,285 --> 00:10:45,899
 Leg?
 
-143
-00:10:45,900 --> 00:10:51,070
+87
+00:10:45,899 --> 00:10:51,070
 That's one way of going through it, yeah. Me, I went for the watch.
 
-144
+88
 00:10:51,070 --> 00:10:53,432
 You actually broke her watch?
 
-145
-00:10:53,432 --> 00:11:01,848
+89
+00:10:53,432 --> 00:11:01,847
 Barry, I'm sorry. I'm so sorry. I know you probably think this is all about what I said the other night about you making love with your socks on, but it isn't. Barry，
 
-146
-00:11:01,848 --> 00:11:11,119
+90
+00:11:01,847 --> 00:11:11,119
 It isn't. It's about me, and I just… Bye, machine.
 
-147
+91
 00:11:11,119 --> 00:11:16,341
 Cut me off again. Anyway…
 
-148
+92
 00:11:16,341 --> 00:11:23,845
 You know what the scariest part is? What if there's only one woman for everybody, you know?
 
-149
-00:00:00,000 --> 00:00:00,000
-I mean, what if you get one woman, and that's it?
-
-150
+93
 00:11:23,845 --> 00:11:33,769
 Unfortunately, in my case, there was only one woman for her.
 
-151
-00:00:00,000 --> 00:00:00,000
-What are you talking about, one woman?
-
-152
-00:11:33,769 --> 00:11:37,390
+94
+00:11:33,769 --> 00:11:37,389
 That's like saying there's only one flavor of ice cream for you.
 
-153
-00:11:37,390 --> 00:11:40,857
+95
+00:11:37,389 --> 00:11:40,856
 Let me tell you something, Ross. There's lots of flavors out there. Ross，
 
-154
-00:11:40,857 --> 00:11:46,471
+96
+00:11:40,856 --> 00:11:46,471
 There's Rocky Road and cookie dough and, bing, cherry vanilla.
 
-155
+97
 00:11:46,471 --> 00:11:51,110
 You can get them with jimmies or nuts. Or whipped cream.
 
-156
+98
 00:11:51,110 --> 00:11:54,144
 This is the best thing that ever happened to you.
 
-157
+99
 00:11:54,144 --> 00:11:59,076
 You got married. You were like, what, eight?
 
-158
+100
 00:11:59,076 --> 00:12:02,648
 Welcome back to the world. Grab a spoon.
 
-159
+101
 00:12:02,648 --> 00:12:06,120
 I honestly don't know if I'm hungry or horny.
 
-160
+102
 00:12:06,120 --> 00:12:10,407
 You can stay out of my freezer.
 
-161
-00:12:10,407 --> 00:12:14,887
+103
+00:12:10,407 --> 00:12:14,886
 Ever since she walked out on me, I…
 
-162
-00:12:14,887 --> 00:12:19,770
+104
+00:12:14,886 --> 00:12:19,769
 What? What, what? You want to spell it out with noodles?
 
-163
-00:12:19,770 --> 00:12:22,893
+105
+00:12:19,769 --> 00:12:22,893
 No, it's more of a fifth date kind of revelation.
 
-164
+106
 00:12:22,893 --> 00:12:26,667
 Oh, so there's gonna be a fifth date?
 
-165
-00:12:26,667 --> 00:12:29,660
+107
+00:12:26,667 --> 00:12:29,659
 Isn't there?
 
-166
-00:12:29,660 --> 00:12:39,885
+108
+00:12:29,659 --> 00:12:39,884
 Yeah, yeah, I think there is. What were you gonna say?
 
-167
-00:12:39,885 --> 00:12:52,251
+109
+00:12:39,884 --> 00:12:52,250
 Well, ever since she left me, I haven't been able to perform sexually.
 
-168
-00:12:52,251 --> 00:13:05,977
+110
+00:12:52,250 --> 00:13:05,976
 I'm so sorry. It's okay. I know being spit on is probably not what you need right now.
 
-169
-00:00:00,000 --> 00:00:00,000
-How long?
-
-170
-00:00:00,000 --> 00:00:00,000
-Um, two years.
-
-171
-00:13:05,977 --> 00:13:09,287
+111
+00:13:05,976 --> 00:13:09,287
 Wow. I'm glad you've smashed your watch.
 
-172
-00:13:09,287 --> 00:13:21,424
+112
+00:13:09,287 --> 00:13:21,423
 So you still think you might want that fifth date?
 
-173
-00:00:00,000 --> 00:00:00,000
-Yeah. Yeah, I do.
-
-174
-00:13:21,424 --> 00:13:27,728
+113
+00:13:21,423 --> 00:13:27,727
 I, Joni, take you, Charles, as my lawful husband.
 
-175
-00:13:27,728 --> 00:13:35,602
+114
+00:13:27,727 --> 00:13:35,601
 Oh, see? But Joni loved Charlie. That's the difference.
 
-176
-00:13:35,602 --> 00:13:37,069
+115
+00:13:35,601 --> 00:13:37,068
 Grab a spoon.
 
-177
-00:13:37,069 --> 00:13:40,457
+116
+00:13:37,068 --> 00:13:40,456
 Do you know how long it's been since I've grabbed a spoon?
 
-178
-00:13:40,457 --> 00:13:45,458
+117
+00:13:40,456 --> 00:13:45,457
 Do the words, Billy, don't be a hero, mean anything to you? "Billy，
 
-179
-00:13:45,458 --> 00:13:47,009
+118
+00:13:45,457 --> 00:13:47,009
 You know, here's the thing.
 
-180
+119
 00:13:47,009 --> 00:14:18,633
 Even if I could get it together enough day and all time to ask a woman out, who am I gonna ask?
 
-181
-00:14:18,633 --> 00:14:21,069
+120
+00:14:18,633 --> 00:14:21,068
 I've never made coffee before in my entire life.
 
-182
-00:14:21,069 --> 00:14:22,575
+121
+00:14:21,068 --> 00:14:22,575
 That is amazing.
 
-183
-00:14:22,575 --> 00:14:23,387
+122
+00:14:22,575 --> 00:14:23,386
 Congratulations.
 
-184
-00:14:23,387 --> 00:14:31,060
+123
+00:14:23,386 --> 00:14:31,059
 Why are you on a roll if you feel like you've got to make, like, a Western omelet or something?
 
-185
-00:14:31,060 --> 00:15:10,147
+124
+00:14:31,059 --> 00:15:10,147
 Although, actually, I'm really not that hungry this morning.
 
-186
-00:00:00,000 --> 00:00:00,000
-Morning. Morning.
-
-187
-00:00:00,000 --> 00:00:00,000
-Morning.
-
-188
-00:00:00,000 --> 00:00:00,000
-Morning. Morning, Paul.
-
-189
-00:00:00,000 --> 00:00:00,000
-Hello, Paul.
-
-190
-00:00:00,000 --> 00:00:00,000
-Hi, Paul, is it?
-
-191
-00:00:00,000 --> 00:00:00,000
-I had a really great time last night.
-
-192
-00:00:00,000 --> 00:00:00,000
-Thank you. Thank you so much.
-
-193
-00:00:00,000 --> 00:00:00,000
-We'll talk later.
-
-194
-00:00:00,000 --> 00:00:00,000
-Yeah. Thank you.
-
-195
-00:15:10,147 --> 00:15:17,063
+125
+00:15:10,147 --> 00:15:17,062
 That wasn't a real date. What the hell do you do on a real date?
 
-196
-00:15:17,063 --> 00:15:20,988
+126
+00:15:17,062 --> 00:15:20,988
 Shut up and put my table back. Okay.
 
-197
-00:15:20,988 --> 00:15:31,351
+127
+00:15:20,988 --> 00:15:31,350
 All right, kids, I gotta get to work. If I don't input those numbers, doesn't make much of a difference.
 
-198
-00:15:31,351 --> 00:15:39,913
+128
+00:15:31,350 --> 00:15:39,913
 So, like, you guys all have jobs? Yeah, we all have jobs. See, that's how we buy stuff.
 
-199
+129
 00:15:39,913 --> 00:15:44,397
 Yeah, I'm an actor. Wow. But I've seen you in anything?
 
-200
+130
 00:15:44,397 --> 00:15:46,750
 Oh, I doubt it. Mostly regional work.
 
-201
-00:15:46,750 --> 00:15:50,976
+131
+00:15:46,750 --> 00:15:50,975
 Okay, unless you happen to catch the Wee Ones production of Pinocchio.
 
-202
-00:15:50,976 --> 00:16:00,292
+132
+00:15:50,975 --> 00:16:00,292
 Look, Geppetto, I'm a real live boy. I will not take this abuse. Hey, Ryan, I'm sorry.
 
-203
-00:16:00,292 --> 00:16:37,367
+133
+00:16:00,292 --> 00:16:37,366
 Once I was a wooden boy.
 
-204
-00:00:00,000 --> 00:00:00,000
-So, how you doing today? You sleep okay? Did you talk to Barry?
-
-205
-00:00:00,000 --> 00:00:00,000
-I can't stop smiling.
-
-206
-00:00:00,000 --> 00:00:00,000
-I can see that. You look like you slept with a hanger in your mouth.
-
-207
-00:00:00,000 --> 00:00:00,000
-I know. He's just so… You remember you and Tony DeMarco?
-
-208
-00:00:00,000 --> 00:00:00,000
-Oh, yeah. Well, it's like that. With feelings.
-
-209
-00:00:00,000 --> 00:00:00,000
-Oh, wow. Are you in trouble? Okay, okay.
-
-210
-00:16:37,367 --> 00:16:45,724
+134
+00:16:37,366 --> 00:16:45,724
 I am just going to get up, go to work, and not think about him all day. Or else I'm just going to get up and go to work.
 
-211
+135
 00:16:45,724 --> 00:16:58,644
 Oh, I wish me luck. What for? I'm going to go get one of those job things.
 
-212
+136
 00:16:58,644 --> 00:17:23,883
 Hey, Monica. Brandy, welcome back. How was Florida?
 
-213
-00:00:00,000 --> 00:00:00,000
-You had sex, didn't you? How did you do that? So, who?
-
-214
-00:00:00,000 --> 00:00:00,000
-You know, Paul. Paul the wine guy? Oh, yeah, I know Paul.
-
-215
-00:00:00,000 --> 00:00:00,000
-You mean you know Paul like I know Paul? Are you kidding? I take credit for Paul.
-
-216
+137
 00:17:23,883 --> 00:17:31,410
 You know, before me, there was no snapping this turtle for two years.
 
-217
+138
 00:17:31,410 --> 00:17:37,306
 Of course it was a line.
 
-218
-00:00:00,000 --> 00:00:00,000
-Why?
-
-219
-00:00:00,000 --> 00:00:00,000
-Why would anybody do something like that?
-
-220
-00:17:37,306 --> 00:17:43,600
+139
+00:17:37,306 --> 00:17:43,599
 I assume we're looking for an answer more sophisticated than to get you into bed.
 
-221
-00:17:43,600 --> 00:18:15,344
+140
+00:17:43,599 --> 00:18:15,344
 Is it me? Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?
 
-222
-00:00:00,000 --> 00:00:00,000
-All right, come here. Give me your feet.
-
-223
-00:00:00,000 --> 00:00:00,000
-I just thought he was nice, you know?
-
-224
-00:00:00,000 --> 00:00:00,000
-I can't believe you didn't know it was a line.
-
-225
-00:00:00,000 --> 00:00:00,000
-Oh.
-
-226
-00:00:00,000 --> 00:00:00,000
-Guess what?
-
-227
-00:00:00,000 --> 00:00:00,000
-You got a job?
-
-228
+141
 00:18:15,344 --> 00:18:22,343
 Are you kidding? I'm trained for nothing. I was laughed at 12 interviews today.
 
-229
-00:18:22,343 --> 00:18:24,011
+142
+00:18:22,343 --> 00:18:24,010
 And yet you're surprisingly upbeat.
 
-230
-00:18:24,011 --> 00:18:29,779
+143
+00:18:24,010 --> 00:18:29,778
 Well, you would be too if you found Joan and David boots on sale, 50% off.
 
-231
-00:18:29,779 --> 00:18:33,010
+144
+00:18:29,778 --> 00:18:33,009
 Oh, how well you know me.
 
-232
-00:18:33,010 --> 00:18:39,272
+145
+00:18:33,009 --> 00:18:39,271
 They're my new I-don't-need-a-job, I-don't-need-my-parents, I've-got-great-boots boots.
 
-233
-00:18:39,272 --> 00:18:40,731
+146
+00:18:39,271 --> 00:18:40,730
 How'd you pay for them?
 
-234
-00:18:40,731 --> 00:18:41,915
+147
+00:18:40,730 --> 00:18:41,914
 A credit card.
 
-235
-00:18:41,915 --> 00:18:49,063
+148
+00:18:41,914 --> 00:18:49,063
 And who pays for that?
 
-236
-00:00:00,000 --> 00:00:00,000
-Um, my father.
-
-237
+149
 00:18:49,063 --> 00:18:51,113
 Come on, you can't live off your parents your whole life.
 
-238
+150
 00:18:51,113 --> 00:18:54,305
 I know that. That's why I was getting married.
 
-239
+151
 00:18:54,305 --> 00:18:55,977
 Give her a break.
 
-240
-00:18:55,977 --> 00:19:02,002
+152
+00:18:55,977 --> 00:19:02,001
 It's hard being on your own for the first time.
 
-241
-00:00:00,000 --> 00:00:00,000
-Thank you.
-
-242
-00:00:00,000 --> 00:00:00,000
-You're welcome.
-
-243
-00:00:00,000 --> 00:00:00,000
-I remember when I first came to this city.
-
-244
-00:19:02,002 --> 00:19:02,687
+153
+00:19:02,001 --> 00:19:02,686
 I was 14.
 
-245
-00:19:02,687 --> 00:19:06,235
+154
+00:19:02,686 --> 00:19:06,234
 My mom had just killed herself and my stepdad was back in prison.
 
-246
-00:19:06,235 --> 00:19:07,958
+155
+00:19:06,234 --> 00:19:07,958
 And I got here and I didn't know anybody.
 
-247
+156
 00:19:07,958 --> 00:19:13,277
 And I ended up living with this albino guy who was, like, cleaning windshields outside Port Authority.
 
-248
-00:19:13,277 --> 00:19:16,523
+157
+00:19:13,277 --> 00:19:16,522
 And then he killed himself.
 
-249
-00:19:16,523 --> 00:19:18,332
+158
+00:19:16,522 --> 00:19:18,332
 And then I found aromatherapy.
 
-250
-00:19:18,332 --> 00:19:24,437
+159
+00:19:18,332 --> 00:19:24,436
 So, believe me, I know exactly how you feel.
 
-251
-00:19:24,437 --> 00:19:36,895
+160
+00:19:24,436 --> 00:19:36,894
 The word you're looking for is… anyway.
 
-252
-00:00:00,000 --> 00:00:00,000
-I don't think so.
-
-253
-00:00:00,000 --> 00:00:00,000
-Oh, come on.
-
-254
-00:19:36,895 --> 00:19:45,953
+161
+00:19:36,894 --> 00:19:45,952
 Cut, cut, cut…
 
-255
-00:00:00,000 --> 00:00:00,000
-Hey!
-
-256
-00:19:45,953 --> 00:19:48,659
+162
+00:19:45,952 --> 00:19:48,659
 Welcome to the real world!&nbsp; It sucks.
 
-257
+163
 00:19:48,659 --> 00:19:59,160
 You're gonna love it.
 
-258
-00:00:00,000 --> 00:00:00,000
-That's it.
-
-259
-00:19:59,160 --> 00:20:01,168
+164
+00:19:59,160 --> 00:20:01,167
 You gonna crash on the couch?
 
-260
-00:20:01,168 --> 00:20:14,773
+165
+00:20:01,167 --> 00:20:14,772
 No, no. I gotta go home sometime.
 
-261
-00:00:00,000 --> 00:00:00,000
-You gonna be okay?
-
-262
-00:00:00,000 --> 00:00:00,000
-Yeah.
-
-263
-00:00:00,000 --> 00:00:00,000
-Hey, Mom. Look what I just found on the floor.
-
-264
-00:00:00,000 --> 00:00:00,000
-What? That's Paul's watch.
-
-265
-00:20:14,773 --> 00:20:34,833
+166
+00:20:14,772 --> 00:20:34,833
 You just put it back where you found it.
 
-266
-00:00:00,000 --> 00:00:00,000
-Oh, boy.
-
-267
-00:00:00,000 --> 00:00:00,000
-All right. Good night, everybody.
-
-268
-00:00:00,000 --> 00:00:00,000
-Good night.
-
-269
-00:00:00,000 --> 00:00:00,000
-Oh, I'm…
-
-270
-00:00:00,000 --> 00:00:00,000
-Oh, sorry.
-
-271
-00:00:00,000 --> 00:00:00,000
-Oh, no, no, go, go, go.
-
-272
-00:00:00,000 --> 00:00:00,000
-No, I don't want it.
-
-273
-00:20:34,833 --> 00:20:42,456
+167
+00:20:34,833 --> 00:20:42,455
 Split it?
 
-274
-00:00:00,000 --> 00:00:00,000
-Okay.
-
-275
-00:20:42,456 --> 00:20:50,187
+168
+00:20:42,455 --> 00:20:50,186
 Okay. You know, you probably didn't know this, but back in high school, I had a, um… major crush on you.
 
-276
-00:20:50,187 --> 00:20:52,199
+169
+00:20:50,186 --> 00:20:52,199
 I knew.
 
-277
+170
 00:20:52,199 --> 00:20:55,480
 You did?
 
-278
-00:00:00,000 --> 00:00:00,000
-Oh, okay.
-
-279
+171
 00:20:55,480 --> 00:20:58,691
 I always figured you just thought I was Monica's geeky older brother.
 
-280
+172
 00:20:58,691 --> 00:20:59,785
 I did.
 
-281
-00:20:59,785 --> 00:21:04,715
+173
+00:20:59,785 --> 00:21:04,714
 Oh.
 
-282
-00:21:04,715 --> 00:21:07,442
+174
+00:21:04,714 --> 00:21:07,442
 Listen, do you think…
 
-283
+175
 00:21:07,442 --> 00:21:13,258
 and try not to let my intense vulnerability become any kind of a factor here…
 
-284
+176
 00:21:13,258 --> 00:21:18,528
 but do you think it would be okay if I asked you out sometime, maybe?
 
-285
+177
 00:21:18,528 --> 00:21:23,124
 Yeah, maybe.
 
-286
+178
 00:21:23,124 --> 00:21:25,624
 Okay. Okay, maybe I will.
-
-287
-00:00:00,000 --> 00:00:00,000
-Good night.
-
-288
-00:00:00,000 --> 00:00:00,000
-Good night.
 
