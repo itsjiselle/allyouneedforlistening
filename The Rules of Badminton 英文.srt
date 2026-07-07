@@ -1,9 +1,9 @@
 1
-00:00:02,610 --> 00:00:10,116
+00:00:02,609 --> 00:00:10,115
 Badminton, is a game played as singles (where one person plays against one person) or doubles (where two people play against two people).
 
 2
-00:00:10,116 --> 00:00:15,771
+00:00:10,115 --> 00:00:15,771
 The object of the game is for you or your team to win 2 sets faster than your opponent.
 
 3
@@ -11,63 +11,63 @@ The object of the game is for you or your team to win 2 sets faster than your op
 To win a set, you must score 21 points and be at least two points ahead.
 
 4
-00:00:20,164 --> 00:00:26,261
+00:00:20,164 --> 00:00:26,260
 If the scores are 20-20 for example, the game carries on until one player or pair has a two point lead.
 
 5
-00:00:26,261 --> 00:00:28,805
+00:00:26,260 --> 00:00:28,804
 Okay then, so how do you score these points?
 
 6
-00:00:28,805 --> 00:00:39,890
+00:00:28,804 --> 00:00:39,890
 To score a point, you must aim to hit the shuttlecock, which is usually cork with feathers with your racket over the net and onto your opponent's floor without the opponent returning the favour.
 
 7
-00:00:39,890 --> 00:00:47,532
+00:00:39,890 --> 00:00:47,531
 The court is 13.4m long and 6.1m wide, and the net is 1.55 m above the ground.
 
 8
-00:00:47,532 --> 00:00:52,160
+00:00:47,531 --> 00:00:52,159
 Pay attention to these lines, as the boundaries are different for singles and doubles.
 
 9
-00:00:52,160 --> 00:00:56,652
+00:00:52,159 --> 00:00:56,652
 To start the game, a player must serve the shuttlecock below the waist.
 
 10
-00:00:56,652 --> 00:01:02,028
+00:00:56,652 --> 00:01:02,027
 The shuttlecock must travel over the net and land in the areas defined for a serve to be legal.
 
 11
-00:01:02,028 --> 00:01:06,020
+00:01:02,027 --> 00:01:06,019
 If the shuttlecock is hit onto the lines - this also counts as a point.
 
 12
-00:01:06,020 --> 00:01:10,638
+00:01:06,019 --> 00:01:10,638
 The opponent will then try and return the shuttlecock and make you miss returning it back.
 
 13
-00:01:10,638 --> 00:01:13,413
+00:01:10,638 --> 00:01:13,412
 This can go back and forth and is known as a 'rally'.
 
 14
-00:01:13,413 --> 00:01:20,214
+00:01:13,412 --> 00:01:20,213
 Remember, the aim of the game is to hit the shuttlecock onto your opponents floor, and these are the area's you're aiming for.
 
 15
-00:01:20,214 --> 00:01:23,561
+00:01:20,213 --> 00:01:23,561
 There are several shots you can utilise to try and win points.
 
 16
-00:01:23,561 --> 00:01:32,538
-These include: Forehand backhand slice, touch and smash.
+00:01:23,561 --> 00:01:32,537
+These include: Forehand ,backhand, slice, touch and smash.
 
 17
-00:01:32,538 --> 00:01:40,916
+00:01:32,537 --> 00:01:40,915
 Hitting the shuttlecock over a net onto the floor so that your opponent can't return it sounds simple enough, but in badminton - it's very easy to lose points.
 
 18
-00:01:40,916 --> 00:01:43,706
+00:01:40,915 --> 00:01:43,706
 There's a lot of things you can't do in badminton.
 
 19
@@ -75,19 +75,19 @@ There's a lot of things you can't do in badminton.
 You cannot hit the shuttlecock outside the area of play.
 
 20
-00:01:47,522 --> 00:01:50,029
+00:01:47,522 --> 00:01:50,028
 You cannot hit the shuttlecock twice in succession.
 
 21
-00:01:50,029 --> 00:01:52,333
+00:01:50,028 --> 00:01:52,332
 You cannot touch the net.
 
 22
-00:01:52,333 --> 00:01:56,294
+00:01:52,332 --> 00:01:56,293
 You cannot hit the shuttlecock into the net and it land on your side of the court.
 
 23
-00:01:56,294 --> 00:02:04,030
+00:01:56,293 --> 00:02:04,030
 You cannot touch the shuttlecock with any part of your body except with the racket and as earlier mentioned; you must serve the shuttlecock legally.
 
 24
@@ -107,38 +107,38 @@ Once a player or a pair has won 21 points and is at least 2 points ahead, they w
 First pair to win 3 sets faster than their opponent … wins.
 
 28
-00:02:21,288 --> 00:02:27,564
+00:02:21,288 --> 00:02:27,563
 Now that's basically badminton in a nutshell, but there's a few things you'll need to understand before playing or going to a game.
 
 29
-00:02:27,564 --> 00:02:30,876
+00:02:27,563 --> 00:02:30,876
 For example … Fault.
 
 30
-00:02:30,876 --> 00:02:39,045
+00:02:30,876 --> 00:02:39,044
 At any point, if the referee notices any of these infractions: Let.
 
 31
-00:02:39,045 --> 00:02:43,099
+00:02:39,044 --> 00:02:43,098
 Unlike Tennis, if the shuttlecock hits the net, it counts!
 
 32
-00:02:43,099 --> 00:02:47,029
+00:02:43,098 --> 00:02:47,028
 Lets are generally called when something unexpected has interrupted.
 
 33
-00:02:47,029 --> 00:02:49,792
+00:02:47,028 --> 00:02:49,792
 Here's a list of common lets.
 
 34
-00:02:49,792 --> 00:02:53,505
+00:02:49,792 --> 00:02:53,504
 In this case, the point must be replayed.
 
 35
-00:02:53,505 --> 00:03:03,515
+00:02:53,504 --> 00:03:03,514
 30th Point If in the rare instance that a score reaches 29-29, the person who scores the 30th point wins the set without having to gain a two point lead.
 
 36
-00:03:03,515 --> 00:03:06,015
+00:03:03,514 --> 00:03:06,014
 As you can tell, Badminton is an extremely fast sport and it looks difficult, but as you watch or play Badminton, the rules will become clear.
 
