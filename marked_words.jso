@@ -7436,7 +7436,39 @@
     "sentenceVocab": "⭐ fibrous proteins：纤维蛋白（C1）｜elongate muscle fibers：拉长肌纤维（C1）｜contract：收缩（B2）｜pull on：牵拉｜propel：推动；驱动（C1）",
     "startTime": 121.263,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:08:31.922Z"
+    "dateAdded": "2026-07-10T08:08:31.922Z",
+    "translationCache": {
+      "lemma": "propel",
+      "ipa": "/prəˈpel/",
+      "translation": "v. 推动；驱动；推进",
+      "pronunciationGuide": "",
+      "collocations": "propel forward, propel into, be propelled by",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这项新技术有望将可再生能源行业推向新的高度。",
+          "english": "This new technology is expected to propel the renewable energy industry to new heights.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "他的雄心壮志推动他克服了无数障碍。",
+          "english": "His ambition propelled him to overcome countless obstacles.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "火箭由强大的引擎推进，以每小时数千英里的速度飞行。",
+          "english": "The rocket is propelled by powerful engines, traveling at thousands of miles per hour.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "经济危机迫使公司进行彻底重组。",
+          "english": "The economic crisis propelled the company into a complete restructuring.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-22-5-1783670970172",
