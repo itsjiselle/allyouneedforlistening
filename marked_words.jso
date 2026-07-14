@@ -7516,7 +7516,44 @@
     "sentenceVocab": "⭐ due to：由于（B2）｜elastic properties：弹性特性（C1）｜further activity：后续活动",
     "startTime": 163.882,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:10:01.408Z"
+    "dateAdded": "2026-07-10T08:10:01.408Z",
+    "translationCache": {
+      "lemma": "due to ...(n.)'s ...(adj.) properties",
+      "ipa": "",
+      "translation": "由于……的……特性",
+      "pronunciationGuide": "该句式用于解释原因，强调某事物的某种属性导致某种结果。结构为 'due to' 后接名词所有格（...'s）加形容词加 'properties'。注意：'due to' 后接名词性成分，不能接从句。常见错误是误用 'because of' 代替 'due to'，但两者可互换。",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to attribute a result to the inherent characteristics of a noun, emphasizing the specific property that causes the effect.",
+      "patternPractice": [
+        {
+          "chinese": "由于橡胶的弹性特性，它可以被拉伸。",
+          "english": "Due to rubber's elastic properties, it can be stretched.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "由于这种材料的防水特性，它被用于制造雨衣。",
+          "english": "Due to this material's waterproof properties, it is used to make (produce) raincoats.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "由于该合金的耐热特性，它被广泛应用于航空航天工业。",
+          "english": "Due to the alloy's heat-resistant properties, it is widely used in the aerospace industry.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "由于这种新型聚合物的可降解特性，它有望解决塑料污染问题。",
+          "english": "Due to this new polymer's biodegradable properties, it is expected to solve (resolve) the plastic pollution problem.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "由于这种植物的药用特性，它在传统医学中已被使用了几个世纪。",
+          "english": "Due to this plant's medicinal properties, it has been used in traditional medicine for centuries.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-39-0-1783671278347",
