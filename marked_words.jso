@@ -7545,5 +7545,25 @@
     "startTime": 238.439,
     "reviewCount": 0,
     "dateAdded": "2026-07-14T09:56:52.057Z"
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-39-9-1784023058005",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 39,
+    "wordIndex": 9,
+    "wordIndices": [
+      9,
+      11
+    ],
+    "wordText": "fit ... situation",
+    "category": "idiom",
+    "customLemma": "fit ... situation",
+    "sentenceContext": "And no single stretching regimen is flexible enough to fit every situation.",
+    "sentenceTranslation": "没有任何一种拉伸方案能够适用于所有情况。",
+    "sentenceVocab": "⭐ no single…：没有任何一种……｜stretching regimen：拉伸训练方案（C1）｜be flexible enough to…：足够灵活，可以……｜fit every situation：适用于所有情况（B2）",
+    "startTime": 277.604,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-14T09:57:38.005Z"
   }
 ]
