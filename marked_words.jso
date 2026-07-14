@@ -5371,7 +5371,44 @@
     "sentenceVocab": "⭐ high energy：精力充沛的｜chilled：很放松、很淡定（口语，B2）",
     "startTime": 539.819,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:17:46.790Z"
+    "dateAdded": "2026-07-08T09:17:46.790Z",
+    "translationCache": {
+      "lemma": "chilled",
+      "ipa": "/tʃɪld/",
+      "translation": "adj. 冷静的，放松的",
+      "pronunciationGuide": "",
+      "collocations": [
+        "really chilled",
+        "chilled out",
+        "chilled vibe",
+        "stay chilled"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "尽管截止日期临近，她依然非常冷静，这让我很佩服。",
+          "english": "Despite the approaching deadline, she's really chilled, which I admire.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在混乱的机场里，他显得非常放松，好像一切都尽在掌握。",
+          "english": "In the chaotic airport, he's really chilled, as if everything is under control.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "面试前我紧张得要命，但她却非常淡定，还安慰我。",
+          "english": "I was extremely nervous before the interview, but she's really chilled and even comforted me.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "面对客户的投诉，她保持冷静，并迅速解决了问题。",
+          "english": "Facing the customer's complaint, she's really chilled and quickly resolved (sorted out) the issue.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-102-2-1783502287522",
