@@ -7410,5 +7410,31 @@
         }
       ]
     }
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-10-15-1784016863933",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 10,
+    "wordIndex": 15,
+    "wordIndices": [
+      15,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "wordText": "pulls ... hamstring beyond its usual range of motion",
+    "category": "idiom",
+    "customLemma": "pull one's hamstring beyond its usual range of motion",
+    "sentenceContext": "Our athlete is currently doing a static hamstring stretch— a 30 second interval where he pulls his hamstring beyond its usual range of motion.",
+    "sentenceTranslation": "此时，这位运动员正在做一次30秒的静态腿后肌拉伸，把腿后肌拉伸到超过平时活动范围的位置。",
+    "sentenceVocab": "⭐ hamstring stretch：腿后肌拉伸（C1）｜interval：持续时间；间隔（B2）｜beyond its usual range of motion：超出其正常活动范围（C1）｜range of motion：活动范围（C1）",
+    "startTime": 51.524,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-14T08:14:23.933Z"
   }
 ]
