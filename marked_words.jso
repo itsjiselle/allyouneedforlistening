@@ -7456,5 +7456,26 @@
     "startTime": 191.781,
     "reviewCount": 0,
     "dateAdded": "2026-07-14T09:53:32.249Z"
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-28-1-1784022847966",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 28,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3
+    ],
+    "wordText": "are added and",
+    "category": "pronounce",
+    "customLemma": "are added and",
+    "sentenceContext": "Sarcomeres are added and subtracted to muscles depending on how frequently they're used, so improving overall flexibility requires a comprehensive stretching regimen.",
+    "sentenceTranslation": "肌小节会根据肌肉使用的频率不断增加或减少，因此，提高整体柔韧性需要一套系统、全面的拉伸计划。",
+    "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
+    "startTime": 200.15800000000002,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-14T09:54:07.966Z"
   }
 ]
