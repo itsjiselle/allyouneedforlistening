@@ -7279,7 +7279,39 @@
     "sentenceVocab": "⭐ contain：含有｜collagen：胶原蛋白（C1）｜elastin：弹性蛋白（C2）｜elongate：拉长；延长（C1）｜over the duration of…：在……持续期间（C1）",
     "startTime": 101.344,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:07:06.622Z"
+    "dateAdded": "2026-07-10T08:07:06.622Z",
+    "translationCache": {
+      "lemma": "elastin",
+      "ipa": "/ɪˈlæstɪn/",
+      "translation": "n. 弹性蛋白",
+      "pronunciationGuide": "",
+      "collocations": "elastin fibers, collagen and elastin, elastin production, elastin degradation",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "随着年龄增长，皮肤中的弹性蛋白逐渐减少，导致皱纹和松弛。",
+          "english": "As we age, the elastin in our skin gradually decreases, leading to wrinkles and sagging.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "研究人员正在探索如何通过刺激弹性蛋白的生成来改善伤口愈合。",
+          "english": "Researchers are exploring how to improve wound healing by stimulating elastin production.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "这种新型合成材料模仿了天然弹性蛋白的特性，具有极佳的伸缩性。",
+          "english": "This new synthetic material mimics the properties of natural elastin, exhibiting excellent stretchability.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "弹性蛋白的降解与多种心血管疾病的发生有关。",
+          "english": "The degradation of elastin is associated with the development of various cardiovascular diseases.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-17-14-1783670833130",
