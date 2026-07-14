@@ -7247,7 +7247,43 @@
     "sentenceVocab": "⭐ at the smaller scale：从微观层面来看（C1）｜skeletal muscle fibers：骨骼肌纤维（C1）｜be comprised of：由……组成（C1）｜sarcomere：肌小节（C2）｜contracting unit：收缩单位（C2）",
     "startTime": 110.67099999999999,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:07:39.095Z"
+    "dateAdded": "2026-07-10T08:07:39.095Z",
+    "translationCache": {
+      "lemma": "sarcomere",
+      "ipa": "/ˈsɑːrkəˌmɪr/",
+      "translation": "n. 肌节",
+      "pronunciationGuide": "",
+      "collocations": [
+        "sarcomere structure",
+        "sarcomere contraction",
+        "sarcomere length"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在显微镜下，研究人员观察到肌节在肌肉收缩过程中明显缩短。",
+          "english": "Under the microscope, the researchers observed that the sarcomere shortens significantly during muscle contraction.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "肌节的精确排列对于骨骼肌产生高效力量至关重要。",
+          "english": "The precise arrangement of sarcomeres is crucial for skeletal muscles to generate efficient force.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "运动员的训练计划旨在增加肌节数量，从而提高肌肉力量。",
+          "english": "Athletes' training programs aim to increase the number of sarcomeres, thereby enhancing muscle strength.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "肌节长度的变化会影响肌肉的收缩速度和力量输出。",
+          "english": "Changes in sarcomere length can affect the contraction speed and force output of muscles.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-19-27-1783670911922",
