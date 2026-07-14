@@ -4834,7 +4834,44 @@
     "sentenceVocab": "⭐ the outskirts of… ……郊区",
     "startTime": 385.17,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:12:24.536Z"
+    "dateAdded": "2026-07-08T09:12:24.536Z",
+    "translationCache": {
+      "lemma": "in the outskirts of",
+      "ipa": "/ɪn ðə ˈaʊtskɜːrts əv/",
+      "translation": "在……的郊区",
+      "pronunciationGuide": "",
+      "collocations": [
+        "in the outskirts of the city",
+        "in the outskirts of town",
+        "live in the outskirts of",
+        "located in the outskirts of"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他们决定在城市的郊区买一栋房子，以便享受更安静的生活。",
+          "english": "They decided to buy a house in the outskirts of the city to enjoy a quieter life.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "新机场建在首都的郊区，以缓解市中心的交通压力。",
+          "english": "The new airport was built in the outskirts of the capital to relieve (ease) traffic congestion in the city center.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "许多工厂迁移到城市的郊区，因为那里的地价更便宜。",
+          "english": "Many factories have relocated to the outskirts of the city because land prices are lower there.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她小时候住在北京郊区的一个小村庄里，每天骑自行车上学。",
+          "english": "When she was a child, she lived in a small village in the outskirts of Beijing and rode (cycled) her bike to school every day.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-75-8-1783501985910",
