@@ -6775,7 +6775,39 @@
     "sentenceVocab": "⭐ dynamic stretch：动态拉伸（C1）｜controlled movement：受控制的动作｜engage a range of muscles：调动多组肌肉（C1）｜throughout the motion：在整个动作过程中",
     "startTime": 38.989,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:03:04.980Z"
+    "dateAdded": "2026-07-10T08:03:04.980Z",
+    "translationCache": {
+      "lemma": "dynamic stretches",
+      "ipa": "/daɪˈnæmɪk ˈstrɛtʃɪz/",
+      "translation": "动态拉伸（名词短语）",
+      "pronunciationGuide": "",
+      "collocations": "perform dynamic stretches, include dynamic stretches, dynamic stretching routine",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在开始跑步之前，你应该做五分钟的动态拉伸来激活你的肌肉。",
+          "english": "Before you start running, you should do five minutes of dynamic stretches to activate your muscles.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "教练强调，动态拉伸比静态拉伸更能有效预防运动损伤。",
+          "english": "The coach emphasized that dynamic stretches are more effective than static stretches in preventing sports injuries.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "许多运动员将动态拉伸纳入他们的赛前热身程序，以提高表现。",
+          "english": "Many athletes incorporate dynamic stretches into their pre-competition warm-up routine to enhance performance.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "如果你在锻炼前跳过动态拉伸，你的肌肉可能会更容易拉伤。",
+          "english": "If you skip dynamic stretches before your workout, your muscles may be more prone to strains.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-8-7-1783670593694",
