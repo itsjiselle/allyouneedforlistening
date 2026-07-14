@@ -6935,7 +6935,43 @@
     "sentenceVocab": "⭐ think of… as…：把……看作……｜be comprised of：由……组成（C1）｜tissue type：组织类型｜interact：相互作用（B2）",
     "startTime": 61.182,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:04:45.558Z"
+    "dateAdded": "2026-07-10T08:04:45.558Z",
+    "translationCache": {
+      "lemma": "be comprised of",
+      "ipa": "/bi kəmˈpraɪzd əv/",
+      "translation": "由...组成，包含",
+      "pronunciationGuide": "",
+      "collocations": [
+        "be comprised of many parts",
+        "be comprised of various elements",
+        "be comprised of different types"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这个委员会由来自不同部门的代表组成。",
+          "english": "The committee is comprised of representatives from various departments.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "该生态系统由多种相互依存的物种组成。",
+          "english": "This ecosystem is comprised of many interdependent species.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "她的饮食主要由有机蔬菜和全谷物组成。",
+          "english": "Her diet is comprised mainly of organic vegetables and whole grains.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这个复杂的机器由数百个精密零件组成。",
+          "english": "This complex machine is comprised of hundreds of precision parts.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-12-2-1783670717297",
