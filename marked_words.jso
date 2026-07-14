@@ -6697,7 +6697,43 @@
     "sentenceVocab": "⭐ braking wedge 制动楔形（刹车八字）",
     "startTime": 147.151,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T14:39:07.298Z"
+    "dateAdded": "2026-07-08T14:39:07.298Z",
+    "translationCache": {
+      "lemma": "braking wedge",
+      "ipa": "/ˈbreɪkɪŋ wɛdʒ/",
+      "translation": "刹车楔（滑雪或滑冰时通过将板尾张开形成三角形来减速的技术）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "perform a braking wedge",
+        "use a braking wedge to stop",
+        "braking wedge technique"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在陡坡上，初学者应该练习使用刹车楔来控制速度。",
+          "english": "On steep slopes, beginners should practice using a braking wedge to control their speed.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "教练强调，在紧急情况下，刹车楔是避免碰撞最有效的方法。",
+          "english": "The instructor emphasized that in emergency situations, the braking wedge is the most effective way to avoid a collision.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管他尝试了刹车楔，但由于速度太快，他还是无法完全停下来。",
+          "english": "Even though he attempted a braking wedge, he couldn't come to a complete stop due to the high speed.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在高级滑雪课程中，学员需要掌握如何从平行转弯平稳过渡到刹车楔。",
+          "english": "In advanced skiing lessons, students need to master how to smoothly transition from parallel turns to a braking wedge.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-3-10-1783670541000",
