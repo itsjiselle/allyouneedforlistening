@@ -7296,6 +7296,42 @@
     "sentenceVocab": "⭐ feel comfortable doing sth 做某事已经得心应手｜move around 四处移动｜on the flats 在平地上｜up the ante 提高难度；加码（⭐C1）｜figure out 弄清楚",
     "startTime": 177.132,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T06:37:40.904Z"
+    "dateAdded": "2026-07-14T06:37:40.904Z",
+    "translationCache": {
+      "lemma": "up the ante",
+      "ipa": "/ʌp ðə ˈænti/",
+      "translation": "提高赌注；增加风险或要求",
+      "pronunciationGuide": "",
+      "collocations": [
+        "up the ante in negotiations",
+        "up the ante by offering more",
+        "up the ante significantly"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了赢得合同，他们决定提高赌注，提供更优惠的条件。",
+          "english": "To win the contract, they decided to up the ante by offering more favorable terms.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在谈判中，对方突然提高要求，使得协议更难达成。",
+          "english": "In the negotiations, the other side suddenly upped the ante, making the agreement harder to reach.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "随着竞争的加剧，两家公司都在不断加大投入，提高赌注。",
+          "english": "As competition intensifies, both companies are constantly increasing their investment and upping the ante.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "如果你想在比赛中获胜，就必须提高赌注，冒更大的风险。",
+          "english": "If you want to win the competition, you have to up the ante and take greater risks.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   }
 ]
