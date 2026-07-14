@@ -5047,7 +5047,48 @@
     "sentenceVocab": "⭐ follow something like religion 把……奉为圭臬；严格遵循",
     "startTime": 422.283,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:13:56.815Z"
+    "dateAdded": "2026-07-08T09:13:56.815Z",
+    "translationCache": {
+      "lemma": "follow something like religion",
+      "ipa": "/ˈfɑloʊ sʌmθɪŋ laɪk rɪˈlɪdʒən/",
+      "translation": "像信奉宗教一样遵循某事物",
+      "pronunciationGuide": "",
+      "collocations": [
+        "follow a routine like religion",
+        "follow a diet like religion",
+        "follow a rule like religion"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他像信奉宗教一样严格遵守那个饮食计划，从不偏离。",
+          "english": "He followed that diet plan like religion, never deviating from it.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这位教练要求队员像信奉宗教一样遵守训练时间表。",
+          "english": "The coach required the team to follow the training schedule like religion.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她像信奉宗教一样遵循那本烹饪书里的每一个步骤，结果做出了完美的蛋糕。",
+          "english": "She followed every step in that cookbook like religion, resulting in a perfect cake.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在创业初期，他像信奉宗教一样坚持他的商业计划，最终取得了成功。",
+          "english": "In the early days of his startup, he adhered to (stuck to) his business plan like religion, eventually achieving success.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "尽管面临诸多诱惑，她仍然像信奉宗教一样遵守她的道德准则。",
+          "english": "Despite many temptations, she still followed her moral code like religion.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-82-5-1783502041447",
