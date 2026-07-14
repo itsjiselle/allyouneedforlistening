@@ -7385,7 +7385,44 @@
     "sentenceVocab": "⭐ hamstring stretch：腿后肌拉伸（C1）｜interval：持续时间；间隔（B2）｜beyond its usual range of motion：超出其正常活动范围（C1）｜range of motion：活动范围（C1）",
     "startTime": 51.524,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T08:14:23.933Z"
+    "dateAdded": "2026-07-14T08:14:23.933Z",
+    "translationCache": {
+      "lemma": "pull one's hamstring beyond its usual range of motion",
+      "ipa": "/pʊl wʌnz ˈhæmstrɪŋ bɪˈjɒnd ɪts ˈjuːʒuəl reɪndʒ əv ˈmoʊʃən/",
+      "translation": "拉伸腘绳肌超出其正常活动范围",
+      "pronunciationGuide": "",
+      "collocations": [
+        "pull a hamstring",
+        "hamstring stretch",
+        "range of motion",
+        "static stretch"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在热身时，运动员小心地拉伸腘绳肌，避免超出其正常活动范围。",
+          "english": "During warm-up, the athlete carefully pulls his hamstring beyond its usual range of motion to avoid injury.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "物理治疗师建议每天做静态拉伸，但不要过度拉伸腘绳肌超出其正常活动范围。",
+          "english": "The physical therapist recommends daily static stretches, but advises not to pull the hamstring beyond its usual range of motion excessively.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管他试图通过拉伸腘绳肌超出其正常活动范围来提高柔韧性，但最终导致了肌肉拉伤。",
+          "english": "Although he tried to improve flexibility by pulling his hamstring beyond its usual range of motion, it eventually led to a muscle strain.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "瑜伽教练强调，拉伸腘绳肌超出其正常活动范围时，必须配合呼吸以放松肌肉。",
+          "english": "The yoga instructor emphasizes that when pulling the hamstring beyond its usual range of motion, one must coordinate breathing to relax the muscle.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-27-1-1784022812249",
