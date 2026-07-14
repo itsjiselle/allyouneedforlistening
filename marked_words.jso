@@ -7295,7 +7295,48 @@
     "sentenceVocab": "⭐ contain：含有｜collagen：胶原蛋白（C1）｜elastin：弹性蛋白（C2）｜elongate：拉长；延长（C1）｜over the duration of…：在……持续期间（C1）",
     "startTime": 101.344,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:07:13.130Z"
+    "dateAdded": "2026-07-10T08:07:13.130Z",
+    "translationCache": {
+      "lemma": "elongate",
+      "ipa": "/ɪˈlɔːŋɡeɪt/",
+      "translation": "v. 拉长，伸长",
+      "pronunciationGuide": "",
+      "collocations": [
+        "elongate the muscles",
+        "elongate the spine",
+        "elongate the fibers"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "瑜伽教练建议我们在做前屈动作时，慢慢拉长脊柱。",
+          "english": "The yoga instructor advised us to slowly elongate the spine during the forward bend.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这种材料在高温下会显著伸长，因此不适合用于精密仪器。",
+          "english": "This material elongates significantly under high temperatures, making it unsuitable for precision instruments.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "为了改善姿势，她每天练习拉伸动作以拉长背部肌肉。",
+          "english": "To improve her posture, she practices stretching exercises daily to elongate the back muscles.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "科学家发现，某些蛋白质在受到机械应力时会伸长并改变结构。",
+          "english": "Scientists have found that certain proteins elongate and change their structure when subjected to mechanical stress.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在物理治疗中，逐步拉长疤痕组织有助于恢复关节的活动范围。",
+          "english": "In physical therapy, gradually elongating scar tissue helps restore the joint's range of motion.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-18-13-1783670859095",
