@@ -7159,7 +7159,39 @@
     "sentenceVocab": "⭐ at the large scale：从宏观层面来看（C1）｜pull on：牵拉｜protective tissue：保护组织｜muscle fiber：肌纤维｜tendon：肌腱（C1）",
     "startTime": 90.594,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:06:38.656Z"
+    "dateAdded": "2026-07-10T08:06:38.656Z",
+    "translationCache": {
+      "lemma": "tendon",
+      "ipa": "/ˈtɛndən/",
+      "translation": "n. 肌腱",
+      "pronunciationGuide": "",
+      "collocations": "Achilles tendon, tendon injury, tendon repair, tendonitis, flexor tendon",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "医生建议他通过物理治疗来修复受损的跟腱。",
+          "english": "The doctor recommended physical therapy to repair the damaged Achilles tendon.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "运动员因肌腱撕裂不得不退出比赛，这让他非常沮丧。",
+          "english": "The athlete had to withdraw (pull out of) the competition due to a torn tendon, which left him deeply frustrated.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "长期重复性动作可能导致肌腱发炎，从而引起慢性疼痛。",
+          "english": "Long-term repetitive movements can lead to tendon inflammation, resulting in chronic pain.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "外科医生小心翼翼地缝合断裂的肌腱，以恢复手部的正常功能。",
+          "english": "The surgeon carefully sutured the ruptured tendon to restore normal function of the hand.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-17-3-1783670821639",
