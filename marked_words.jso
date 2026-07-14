@@ -1,75 +1,5 @@
 [
   {
-    "id": "custom-10_4_4_mp3-6-6-1782211306165",
-    "materialId": "custom-10_4_4_mp3",
-    "materialTitle": "10-4-4.mp3",
-    "subtitleId": 6,
-    "wordIndex": 6,
-    "wordIndices": [
-      6,
-      7
-    ],
-    "wordText": "teething problems",
-    "category": "vocab",
-    "sentenceContext": "However, all new technologies have their teething problems. 然而，所有新技术在发展初期都会遇到一些问题。（teething problems = 初期困难、成长中的问题，IELTS常考）",
-    "startTime": 39.048,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-23T10:41:46.165Z"
-  },
-  {
-    "id": "custom-10_4_4_mp3-8-16-1782211373029",
-    "materialId": "custom-10_4_4_mp3",
-    "materialTitle": "10-4-4.mp3",
-    "subtitleId": 8,
-    "wordIndex": 16,
-    "wordText": "inserting",
-    "category": "pronounce",
-    "sentenceContext": "Numerous science-fiction books and movies have raised people's fears about nanotechnology - with scenarios such as inserting little nano-robots into your body that monitor everything you do without you realising it, or self-replicating nano-robots that eventually take over the world. 大量科幻小说和电影激发了人们对纳米技术的担忧，例如把微型纳米机器人植入人体，在你毫不知情的情况下监控你的一举一动；或者能够自我复制的纳米机器人最终统治世界。（self-replicating = 自我复制的）",
-    "startTime": 50.399,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-23T10:42:53.029Z",
-    "translationCache": {
-      "ipa": "/ɪnˈsɜrtɪŋ/",
-      "translation": "v. 插入，植入，嵌入（insert的现在分词或动名词）",
-      "pronunciationGuide": "在美音日常快速口语中，'inserting' 的发音有以下几个重要特征：1. 重音在第二音节，其中的卷舌元音 /ɜr/ 需舌尖往后缩并微卷。2. 【闪音/t/（Flapped T）】：夹在卷舌音 /r/ 和后面的弱读元音 /ɪ/ 之间的清辅音 /t/，在美式快读中往往会发生浊化，舌尖快速弹击齿龈，听起来非常像一个轻快的 /d/（即发音接近 /ɪnˈsɜrdɪŋ/）。3. 词尾的鼻音 /ŋ/ 应轻短，避免拖腔；在非正式极快口语中，也经常会被弱化简化成 /n/（听起来像 'insertin'）。",
-      "collocations": [
-        "inserting a coin (投币)",
-        "inserting a SIM card (插入SIM卡)",
-        "inserting into the body (植入体内)"
-      ]
-    }
-  },
-  {
-    "id": "custom-15_2_2_mp3-9-3-1782305546712",
-    "materialId": "custom-15_2_2_mp3",
-    "materialTitle": "15-2-2.mp3",
-    "subtitleId": 9,
-    "wordIndex": 3,
-    "wordIndices": [
-      3,
-      4
-    ],
-    "wordText": "waste land",
-    "category": "vocab",
-    "sentenceContext": "Minster was some waste land, Minster 最初是一块荒地。（waste land = 荒地、废弃土地）",
-    "startTime": 43.589,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-24T12:52:26.712Z"
-  },
-  {
-    "id": "custom-15_2_2_mp3-13-3-1782305592336",
-    "materialId": "custom-15_2_2_mp3",
-    "materialTitle": "15-2-2.mp3",
-    "subtitleId": 13,
-    "wordIndex": 3,
-    "wordText": "took",
-    "category": "pronounce",
-    "sentenceContext": "when the council took possession of it. 当时市议会接管了这块土地。（take possession of = 取得所有权、接管）",
-    "startTime": 60.881,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-24T12:53:12.336Z"
-  },
-  {
     "id": "custom-9_1_4_mp3-15-31",
     "materialId": "custom-9_1_4_mp3",
     "materialTitle": "9-1-4.mp3",
@@ -4776,7 +4706,39 @@
     "sentenceVocab": "⭐ ensemble cast 群像演员阵容",
     "startTime": 299.524,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:50:31.577Z"
+    "dateAdded": "2026-07-08T08:50:31.577Z",
+    "translationCache": {
+      "lemma": "ensemble cast",
+      "ipa": "/ɑnˈsɑmbəl kæst/",
+      "translation": "n. 群戏阵容，全体演员",
+      "pronunciationGuide": "",
+      "collocations": "an ensemble cast of; feature an ensemble cast; work with an ensemble cast",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这部电影之所以成功，很大程度上归功于其出色的群戏阵容。",
+          "english": "The success of this film is largely due to its excellent ensemble cast.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "导演决定采用群戏阵容，以便更好地展现角色之间的互动。",
+          "english": "The director decided to use an ensemble cast to better showcase the interactions between characters.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "与一群同龄演员合作群戏，让每个人都能在表演中相互激发。",
+          "english": "Working with an ensemble cast of actors the same age allows everyone to inspire each other in their performances.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "虽然这是一部群戏，但每个角色都有鲜明的个性，令人印象深刻。",
+          "english": "Although it is an ensemble cast, each character has a distinct personality that leaves a lasting impression.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-60-2-1783500662664",
@@ -5599,7 +5561,48 @@
     "sentenceVocab": "⭐ see someone live：看某人的现场演出｜insane（口语）：厉害得离谱；惊艳（B2）",
     "startTime": 603.139,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:19:46.016Z"
+    "dateAdded": "2026-07-08T09:19:46.016Z",
+    "translationCache": {
+      "lemma": "she is just insane",
+      "ipa": "/ʃiː ɪz dʒʌst ɪnˈseɪn/",
+      "translation": "她简直疯了（口语，表示极度赞赏或惊讶）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "absolutely insane",
+        "just insane",
+        "totally insane"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "昨晚那场音乐会简直太疯狂了，主唱的能量让人难以置信。",
+          "english": "The concert last night was just insane; the lead singer's energy was unbelievable.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她在这部电影里的演技简直绝了，每个细节都完美无缺。",
+          "english": "Her performance in this movie is just insane; every detail is flawless.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "那个运动员在决赛中的表现简直令人咋舌，他打破了世界纪录。",
+          "english": "That athlete's performance in the final was just insane; he broke the world record.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这家餐厅的甜点简直好吃到爆，我从未尝过如此美味的巧克力蛋糕。",
+          "english": "The dessert at this restaurant is just insane; I've never tasted such a delicious chocolate cake.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "他能在这么短的时间内学会弹钢琴，简直不可思议。",
+          "english": "He learned to play the piano in such a short time; it's just insane.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-114-15-1783502412686",
@@ -6376,7 +6379,7 @@
     "sentenceTranslation": "我的小腿向前倾，所以我的脚踝也是弯曲发力的。",
     "sentenceVocab": "⭐ be tilted forward 向前倾｜flexed 弯曲发力的",
     "startTime": 59.629,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-07-08T14:33:26.001Z",
     "translationCache": {
       "lemma": "tilt forward",
@@ -7334,6 +7337,42 @@
     "sentenceVocab": "⭐ feel comfortable doing sth 做某事已经得心应手｜move around 四处移动｜on the flats 在平地上｜up the ante 提高难度；加码（⭐C1）｜figure out 弄清楚",
     "startTime": 177.132,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T06:37:40.904Z"
+    "dateAdded": "2026-07-14T06:37:40.904Z",
+    "translationCache": {
+      "lemma": "up the ante",
+      "ipa": "/ʌp ðə ˈænti/",
+      "translation": "提高赌注；增加风险或要求",
+      "pronunciationGuide": "",
+      "collocations": [
+        "up the ante in negotiations",
+        "up the ante by offering more",
+        "up the ante significantly"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了赢得合同，他们决定提高赌注，提供更优惠的条件。",
+          "english": "To win the contract, they decided to up the ante by offering more favorable terms.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在谈判中，对方突然提高要求，使得协议更难达成。",
+          "english": "In the negotiations, the other side suddenly upped the ante, making the agreement harder to reach.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "随着竞争的加剧，两家公司都在不断加大投入，提高赌注。",
+          "english": "As competition intensifies, both companies are constantly increasing their investment and upping the ante.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "如果你想在比赛中获胜，就必须提高赌注，冒更大的风险。",
+          "english": "If you want to win the competition, you have to up the ante and take greater risks.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   }
 ]
