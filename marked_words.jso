@@ -7514,7 +7514,44 @@
     "sentenceVocab": "⭐ come from：来源于｜additional sarcomeres：新增的肌小节（C2）｜maintain strength：保持力量｜at greater lengths：在更长的长度下（C1）",
     "startTime": 191.781,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T09:53:32.249Z"
+    "dateAdded": "2026-07-14T09:53:32.249Z",
+    "translationCache": {
+      "lemma": "skeletal muscle",
+      "ipa": "/ˈskɛlɪtl ˈmʌsəl/",
+      "translation": "骨骼肌（名词）",
+      "pronunciationGuide": "",
+      "collocations": "skeletal muscle fibers, skeletal muscle tissue, skeletal muscle contraction",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了增强骨骼肌，运动员经常进行阻力训练。",
+          "english": "To strengthen skeletal muscles, athletes often engage in resistance training.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "骨骼肌的损伤可能需要数周才能完全恢复。",
+          "english": "Injuries to skeletal muscles may take several weeks to fully recover from.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "研究人员发现，骨骼肌在调节新陈代谢中起着关键作用。",
+          "english": "Researchers have found that skeletal muscles play a key role in regulating metabolism.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "随着年龄增长，骨骼肌的质量和力量往往会下降。",
+          "english": "As we age, the mass and strength of skeletal muscles tend to decline.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "定期拉伸有助于保持骨骼肌的柔韧性并防止受伤。",
+          "english": "Regular stretching helps maintain flexibility in skeletal muscles and prevent injuries.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-28-1-1784022847966",
