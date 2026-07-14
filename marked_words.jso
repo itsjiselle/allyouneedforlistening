@@ -7278,29 +7278,6 @@
     "dateAdded": "2026-07-10T08:10:01.408Z"
   },
   {
-    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-28-17-1783671119607",
-    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
-    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
-    "subtitleId": 28,
-    "wordIndex": 17,
-    "wordIndices": [
-      17,
-      18,
-      19,
-      20,
-      21
-    ],
-    "wordText": "requires a comprehensive stretching regimen",
-    "category": "pattern",
-    "customLemma": "require a comprehensive ...(n./adj.) regimen",
-    "sentenceContext": "Sarcomeres are added and subtracted to muscles depending on how frequently they're used, so improving overall flexibility requires a comprehensive stretching regimen.",
-    "sentenceTranslation": "肌小节会根据肌肉使用的频率不断增加或减少，因此，提高整体柔韧性需要一套系统、全面的拉伸计划。",
-    "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
-    "startTime": 200.15800000000002,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:11:59.607Z"
-  },
-  {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-33-0-1783671201446",
     "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
     "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
@@ -7477,5 +7454,21 @@
     "startTime": 200.15800000000002,
     "reviewCount": 0,
     "dateAdded": "2026-07-14T09:54:07.966Z"
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-28-21-1784022880370",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 28,
+    "wordIndex": 21,
+    "wordText": "regimen",
+    "category": "vocab",
+    "customLemma": "regimen",
+    "sentenceContext": "Sarcomeres are added and subtracted to muscles depending on how frequently they're used, so improving overall flexibility requires a comprehensive stretching regimen.",
+    "sentenceTranslation": "肌小节会根据肌肉使用的频率不断增加或减少，因此，提高整体柔韧性需要一套系统、全面的拉伸计划。",
+    "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
+    "startTime": 200.15800000000002,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-14T09:54:40.370Z"
   }
 ]
