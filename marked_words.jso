@@ -7278,33 +7278,6 @@
     "dateAdded": "2026-07-10T08:10:01.408Z"
   },
   {
-    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-33-0-1783671201446",
-    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
-    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
-    "subtitleId": 33,
-    "wordIndex": 0,
-    "wordIndices": [
-      0,
-      1,
-      2,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
-    ],
-    "wordText": "The more you ... the higher your pain threshold becomes",
-    "category": "pattern",
-    "customLemma": "The more you ... the higher your pain threshold becomes",
-    "sentenceContext": "The more you stretch a muscle, the higher your pain threshold becomes, allowing you to stretch further and further.",
-    "sentenceTranslation": "你拉伸肌肉越多，你的疼痛耐受阈值就会越高，从而使你能够拉得越来越远。",
-    "sentenceVocab": "⭐ pain threshold：疼痛阈值（C1）｜allow sb to do sth：使某人能够……｜further and further：越来越远",
-    "startTime": 231.111,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:13:21.446Z"
-  },
-  {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-39-0-1783671278347",
     "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
     "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
