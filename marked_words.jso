@@ -7529,5 +7529,21 @@
     "startTime": 231.111,
     "reviewCount": 0,
     "dateAdded": "2026-07-14T09:56:24.130Z"
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-34-14-1784023012057",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 34,
+    "wordIndex": 14,
+    "wordText": "joints",
+    "category": "vocab",
+    "customLemma": "joints",
+    "sentenceContext": "Long-term improvements to your flexibility can provide a better range of motion for your joints, potentially reducing your risk of muscle injury in the short and long-term.",
+    "sentenceTranslation": "柔韧性的长期提升能够让关节拥有更大的活动范围，并有可能降低你在短期和长期发生肌肉损伤的风险。",
+    "sentenceVocab": "⭐ long-term improvements：长期改善（B2）｜range of motion：活动范围（C1）｜potentially：有可能地（B2）｜reduce your risk of：降低……的风险（B2）｜in the short and long-term：从短期和长期来看（C1）",
+    "startTime": 238.439,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-14T09:56:52.057Z"
   }
 ]
