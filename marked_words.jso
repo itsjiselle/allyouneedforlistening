@@ -4706,7 +4706,39 @@
     "sentenceVocab": "⭐ ensemble cast 群像演员阵容",
     "startTime": 299.524,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:50:31.577Z"
+    "dateAdded": "2026-07-08T08:50:31.577Z",
+    "translationCache": {
+      "lemma": "ensemble cast",
+      "ipa": "/ɑnˈsɑmbəl kæst/",
+      "translation": "n. 群戏阵容，全体演员",
+      "pronunciationGuide": "",
+      "collocations": "an ensemble cast of; feature an ensemble cast; work with an ensemble cast",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这部电影之所以成功，很大程度上归功于其出色的群戏阵容。",
+          "english": "The success of this film is largely due to its excellent ensemble cast.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "导演决定采用群戏阵容，以便更好地展现角色之间的互动。",
+          "english": "The director decided to use an ensemble cast to better showcase the interactions between characters.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "与一群同龄演员合作群戏，让每个人都能在表演中相互激发。",
+          "english": "Working with an ensemble cast of actors the same age allows everyone to inspire each other in their performances.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "虽然这是一部群戏，但每个角色都有鲜明的个性，令人印象深刻。",
+          "english": "Although it is an ensemble cast, each character has a distinct personality that leaves a lasting impression.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-60-2-1783500662664",
@@ -6180,7 +6212,7 @@
     "sentenceTranslation": "你落地时自然形成的姿势，其实就是一个很不错的滑雪姿势。",
     "sentenceVocab": "⭐ land in a position 落地形成某个姿势",
     "startTime": 56.012,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-07-08T14:32:48.801Z"
   },
   {
