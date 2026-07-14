@@ -7436,5 +7436,25 @@
     "startTime": 51.524,
     "reviewCount": 0,
     "dateAdded": "2026-07-14T08:14:23.933Z"
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-27-1-1784022812249",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 27,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2
+    ],
+    "wordText": "skeletal muscles",
+    "category": "vocab",
+    "customLemma": "skeletal muscles",
+    "sentenceContext": "For skeletal muscles, improved flexibility comes from additional sarcomeres, which allow you to maintain strength at even greater lengths.",
+    "sentenceTranslation": "对于骨骼肌来说，柔韧性的提升来自于新增的肌小节，它们使你能够在更长的肌肉长度下仍然保持力量。",
+    "sentenceVocab": "⭐ come from：来源于｜additional sarcomeres：新增的肌小节（C2）｜maintain strength：保持力量｜at greater lengths：在更长的长度下（C1）",
+    "startTime": 191.781,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-14T09:53:32.249Z"
   }
 ]
