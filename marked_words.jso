@@ -7693,7 +7693,39 @@
     "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
     "startTime": 200.15800000000002,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T09:54:40.370Z"
+    "dateAdded": "2026-07-14T09:54:40.370Z",
+    "translationCache": {
+      "lemma": "regimen",
+      "ipa": "/ˈrɛdʒəmən/",
+      "translation": "n. 养生法；常规训练；生活制度",
+      "pronunciationGuide": "",
+      "collocations": "a strict regimen, daily regimen, exercise regimen, dietary regimen, follow a regimen",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "医生建议他采用一套严格的饮食和锻炼方案来降低胆固醇。",
+          "english": "The doctor recommended that he adopt a strict regimen of diet and exercise to lower his cholesterol.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "为了备战马拉松，她坚持了六个月的强化训练计划。",
+          "english": "She adhered to an intensive training regimen for six months in preparation for the marathon.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "许多名人推崇一种排毒养生法，声称能改善皮肤和精力。",
+          "english": "Many celebrities advocate a detoxification regimen, claiming it improves skin and energy levels.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "术后患者需要遵循特定的康复方案，包括物理治疗和饮食调整。",
+          "english": "Post-operative patients need to follow a specific recovery regimen that includes physical therapy and dietary adjustments.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-28-13-1784022905569",
