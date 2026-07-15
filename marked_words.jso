@@ -8496,5 +8496,25 @@
     "startTime": 32.711,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:22:30.087Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-13-8-1784100188393",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 13,
+    "wordIndex": 8,
+    "wordIndices": [
+      8,
+      11
+    ],
+    "wordText": "doing ... collab",
+    "category": "idiom",
+    "customLemma": "do ... collab",
+    "sentenceContext": "I ended up speaking with Erewhon about potentially doing this smoothie collab that was around the same time as the Rhode launch, so it kind of coincided and went together.",
+    "sentenceTranslation": "后来我和 Erewhon 商量合作推出这款奶昔，时间刚好和 Rhode 上市差不多，所以两件事就自然配合到一起了。",
+    "sentenceVocab": "⭐ end up doing —— 最终做了……｜potentially —— 有可能地｜collab —— 合作（collaboration）｜coincide —— 同时发生；巧合地重合",
+    "startTime": 63.056,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:23:08.393Z"
   }
 ]
