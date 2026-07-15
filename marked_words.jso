@@ -8536,5 +8536,37 @@
     "startTime": 71.315,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:23:33.384Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-14-29-1784100231059",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 14,
+    "wordIndex": 29,
+    "wordText": "hyaluronic",
+    "category": "vocab",
+    "customLemma": "hyaluronic",
+    "sentenceContext": "I came with my kind of made-up recipe and worked with their team to boost it up and we added the sea moss gel for your skin, and there's hyaluronic, there's peptides, there's collagen, there's like all these things that are really good for your skin, and that is how the Strawberry Glaze Skin Smoothie was born.",
+    "sentenceTranslation": "我带着自己构思的配方，和他们的团队一起把它进一步优化，加入了海藻胶、透明质酸、胜肽、胶原蛋白等很多对皮肤有益的成分，这就是 Strawberry Glaze Skin Smoothie 的诞生过程。",
+    "sentenceVocab": "⭐ made-up recipe —— 自己设计的配方｜boost up —— 提升；加强｜hyaluronic —— 透明质酸｜peptides —— 胜肽｜collagen —— 胶原蛋白｜be born —— 诞生",
+    "startTime": 71.315,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:23:51.059Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-14-31-1784100233365",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 14,
+    "wordIndex": 31,
+    "wordText": "peptides",
+    "category": "vocab",
+    "customLemma": "peptides",
+    "sentenceContext": "I came with my kind of made-up recipe and worked with their team to boost it up and we added the sea moss gel for your skin, and there's hyaluronic, there's peptides, there's collagen, there's like all these things that are really good for your skin, and that is how the Strawberry Glaze Skin Smoothie was born.",
+    "sentenceTranslation": "我带着自己构思的配方，和他们的团队一起把它进一步优化，加入了海藻胶、透明质酸、胜肽、胶原蛋白等很多对皮肤有益的成分，这就是 Strawberry Glaze Skin Smoothie 的诞生过程。",
+    "sentenceVocab": "⭐ made-up recipe —— 自己设计的配方｜boost up —— 提升；加强｜hyaluronic —— 透明质酸｜peptides —— 胜肽｜collagen —— 胶原蛋白｜be born —— 诞生",
+    "startTime": 71.315,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:23:53.365Z"
   }
 ]
