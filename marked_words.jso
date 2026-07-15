@@ -8857,5 +8857,25 @@
     "startTime": 252.834,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:30:50.611Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-47-9-1784100675044",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 47,
+    "wordIndex": 9,
+    "wordIndices": [
+      9,
+      10
+    ],
+    "wordText": "I spy",
+    "category": "idiom",
+    "customLemma": "I spy ...",
+    "sentenceContext": "Okay, this one says, \"What sweets did you get? I spy Haribo.\"",
+    "sentenceTranslation": "好，这条评论说：\"你买了哪些零食？我看到 Haribo 了。\"",
+    "sentenceVocab": "⭐ I spy… —— 我看到……了（口语）",
+    "startTime": 255.415,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:31:15.044Z"
   }
 ]
