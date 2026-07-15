@@ -8017,7 +8017,44 @@
     "sentenceVocab": "⭐ scout 发掘；物色新人",
     "startTime": 368.376,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T04:51:49.844Z"
+    "dateAdded": "2026-07-15T04:51:49.844Z",
+    "translationCache": {
+      "lemma": "scout",
+      "ipa": "/skaʊt/",
+      "translation": "v. 物色（人才）；寻找",
+      "pronunciationGuide": "",
+      "collocations": "scout for talent, scout out, scout around",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "公司派我去人才市场物色（scout for）有潜力的应届毕业生。",
+          "english": "The company sent me to the job fair to scout for promising graduates.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "导演在街头物色（scout）能扮演街头艺人的临时演员。",
+          "english": "The director scouted the streets for extras who could play street performers.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "情报人员被派往敌后侦察（scout out）军事设施的位置。",
+          "english": "Intelligence agents were sent behind enemy lines to scout out the locations of military installations.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "她悄悄打量（scout）着新来的同事，评估他是否适合团队合作。",
+          "english": "She discreetly scouted the new colleague, assessing whether he would fit into the team.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "为了找到最佳拍摄地点，制片人提前一周到各地踩点（scout around）。",
+          "english": "To find the best filming locations, the producer scouted around a week in advance.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-69-0-1784091161847",
