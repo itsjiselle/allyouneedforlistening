@@ -8663,7 +8663,44 @@
     "sentenceVocab": "⭐ have the recollection that… —— 依稀记得……｜move around —— 动来动去｜belly —— 肚子（口语）",
     "startTime": 100.19,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:24:49.746Z"
+    "dateAdded": "2026-07-15T07:24:49.746Z",
+    "translationCache": {
+      "lemma": "I have this recollection that ...",
+      "ipa": "",
+      "translation": "我有这样一个记忆……",
+      "pronunciationGuide": "该句式用于引出说话人模糊或特定的回忆，结构为“I have this recollection that + 从句”。注意：recollection 前用 this 表示强调，that 引导同位语从句。常见错误：遗漏 that 或误用 which。",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to introduce a specific memory or recollection, often with a sense of emphasis or personal reflection.",
+      "patternPractice": [
+        {
+          "chinese": "我有这样一个记忆：她那天穿了一件红裙子。",
+          "english": "I have this recollection that she wore a red dress that day.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "我有这样一个记忆：他曾经说过他喜欢旅行。",
+          "english": "I have this recollection that he once said he liked traveling.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "我有这样一个记忆：我们在公园里散步时，她突然笑了起来。",
+          "english": "I have this recollection that she suddenly laughed (burst out laughing) while we were walking in the park.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "我有这样一个记忆：老师解释这个复杂概念时，全班都安静了下来。",
+          "english": "I have this recollection that the whole class fell silent (quieted down) when the teacher explained this complex concept.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "我有这样一个记忆：尽管当时情况艰难，他依然坚持完成了那个项目。",
+          "english": "I have this recollection that he still persisted in (stuck with) completing that project despite the difficult circumstances at that time.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-20-0-1784100313201",
@@ -9401,5 +9438,125 @@
     "startTime": 268.598,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T09:36:06.554Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-77-2-1784108218013",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 77,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      5
+    ],
+    "wordText": "strong for ... skin",
+    "category": "idiom",
+    "customLemma": "strong for skin",
+    "sentenceContext": "It's very strong for my skin, so I like to find things that are a more gentle vitamin A derivative.",
+    "sentenceTranslation": "它对我的皮肤来说刺激性比较强，所以我更喜欢寻找一些温和的维生素A衍生物。",
+    "sentenceVocab": "⭐ gentle —— 温和的（护肤品）｜vitamin A derivative —— 维生素A衍生物｜derivative —— 衍生物",
+    "startTime": 404.936,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T09:36:58.013Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-94-0-1784108263822",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 94,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "wordText": "That has been my ... of choice recently",
+    "category": "pattern",
+    "customLemma": "That has been my ...（n.) of choice recently",
+    "sentenceContext": "That has been my scent of choice recently.",
+    "sentenceTranslation": "那就是我最近最常用、最喜欢的一款香味。",
+    "sentenceVocab": "⭐ scent of choice —— 首选香味；最常用的香水（非常地道）",
+    "startTime": 470.787,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T09:37:43.822Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-96-16-1784108273679",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 96,
+    "wordIndex": 16,
+    "wordText": "nauseous",
+    "category": "vocab",
+    "customLemma": "nauseous",
+    "sentenceContext": "I had a really good pregnancy, actually, other than the first two-and-a-half months I was really nauseous.",
+    "sentenceTranslation": "其实我的整个孕期都很好，只是前两个半月恶心得特别厉害。",
+    "sentenceVocab": "⭐ other than… —— 除了……｜nauseous —— 恶心的；想吐的",
+    "startTime": 476.341,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T09:37:53.679Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-99-2-1784108287526",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 99,
+    "wordIndex": 2,
+    "wordText": "subsided",
+    "category": "vocab",
+    "customLemma": "subside",
+    "sentenceContext": "Once that subsided, I actually felt really good during my whole pregnancy.",
+    "sentenceTranslation": "等那些症状缓解之后，我整个孕期都感觉很好。",
+    "sentenceVocab": "⭐ subside —— 消退；缓解｜once… —— 一旦……；等……之后",
+    "startTime": 486.51,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T09:38:07.526Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-104-3-1784108325595",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 104,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      5
+    ],
+    "wordText": "go ... simple",
+    "category": "idiom",
+    "customLemma": "go simple",
+    "sentenceContext": "Or you just go really simple and buy them a really good pair of socks.",
+    "sentenceTranslation": "或者干脆简单一点，送他们一双特别好的袜子。",
+    "sentenceVocab": "⭐ go simple —— 从简；走简单路线（口语中更常说 keep it simple，但这里 go really simple 也很自然）",
+    "startTime": 509.596,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T09:38:45.595Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-106-1-1784108338494",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 106,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "wordText": "that's it from me",
+    "category": "pattern",
+    "customLemma": "that's it from me",
+    "sentenceContext": "Okay, that's it from me.",
+    "sentenceTranslation": "好了，我这边就到这里了。",
+    "sentenceVocab": "⭐ That's it from me. —— 我就分享到这里。（演讲、采访结束时很自然）",
+    "startTime": 514.52,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T09:38:58.494Z"
   }
 ]
