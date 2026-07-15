@@ -5661,7 +5661,44 @@
     "sentenceVocab": "⭐ a love letter to…：献给……的情书；向……致敬（C1）｜through the lens of…：通过……的视角（C1）｜modern-day：现代的，当代的",
     "startTime": 611.477,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:20:12.686Z"
+    "dateAdded": "2026-07-08T09:20:12.686Z",
+    "translationCache": {
+      "lemma": "through the lens of",
+      "ipa": "/θruː ðə lɛnz əv/",
+      "translation": "通过...的视角；从...的角度来看",
+      "pronunciationGuide": "",
+      "collocations": [
+        "through the lens of history",
+        "through the lens of a camera",
+        "through the lens of pop culture",
+        "through the lens of experience"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "通过历史的视角来看，这次事件标志着社会变革的一个重要转折点。",
+          "english": "Viewed through the lens of history, this event marks a significant turning point in social change.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "她通过一个母亲的视角来分析教育政策，提出了许多独到的见解。",
+          "english": "She analyzes education policy through the lens of a mother, offering many unique insights.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这部电影通过一个孩子的视角来探讨战争的残酷，令人深思。",
+          "english": "The film explores the horrors of war through the lens of a child, provoking deep thought.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "通过经济学的视角，我们可以更好地理解全球化带来的机遇与挑战。",
+          "english": "Through the lens of economics, we can better understand the opportunities and challenges brought by globalization.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-115-6-1783502467470",
