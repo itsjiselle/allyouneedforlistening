@@ -5759,7 +5759,39 @@
     "sentenceVocab": "⭐ believe in yourself：相信自己（固定搭配）｜be a big thing：非常重要",
     "startTime": 575.657,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:19:02.983Z"
+    "dateAdded": "2026-07-08T09:19:02.983Z",
+    "translationCache": {
+      "lemma": "with acting",
+      "ipa": "/wɪð ˈæktɪŋ/",
+      "translation": "prep. + n. 与表演相关；在表演方面",
+      "pronunciationGuide": "",
+      "collocations": "with acting and music; with acting, I...; struggle with acting; help with acting",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在表演方面，她总是能完全融入角色，让观众感同身受。",
+          "english": "With acting, she always fully immerses herself in the character, making the audience empathize (relate to) the role.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "许多演员在表演和歌唱方面都很有天赋，但很少有人能两者都精通。",
+          "english": "Many actors are talented with acting and singing, but few can master (excel in) both.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在表演方面，他最大的挑战是克服怯场，尤其是在大型舞台上。",
+          "english": "With acting, his biggest challenge is overcoming stage fright, especially on large stages.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在表演和导演方面，她积累了丰富的经验，这使她在电影界备受尊敬。",
+          "english": "With acting and directing, she has accumulated (built up) extensive experience, which makes her highly respected in the film industry.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-109-12-1783502375877",
