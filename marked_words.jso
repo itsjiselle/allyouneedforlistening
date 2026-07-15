@@ -9140,5 +9140,21 @@
     "startTime": 380.157,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:59:18.013Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-75-4-1784102374979",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 75,
+    "wordIndex": 4,
+    "wordText": "tretinoin",
+    "category": "vocab",
+    "customLemma": "tretinoin",
+    "sentenceContext": "\"Does Hailey Bieber use tretinoin?\" \"Hailey Bieber",
+    "sentenceTranslation": "会用维A酸吗？\"",
+    "sentenceVocab": "⭐ tretinoin —— 维A酸（护肤成分）",
+    "startTime": 399.221,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:59:34.979Z"
   }
 ]
