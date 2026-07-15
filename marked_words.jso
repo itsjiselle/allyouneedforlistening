@@ -8672,5 +8672,26 @@
     "startTime": 141.962,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:26:16.352Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-27-8-1784100397750",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 27,
+    "wordIndex": 8,
+    "wordIndices": [
+      8,
+      9,
+      10
+    ],
+    "wordText": "aspiring to be",
+    "category": "idiom",
+    "customLemma": "be aspiring to be",
+    "sentenceContext": "I did ballet for 12 years.&nbsp; I wasn't aspiring to be a professional dancer for my career.",
+    "sentenceTranslation": "我学了12年芭蕾。 我并没有把成为职业舞者作为自己的职业目标。",
+    "sentenceVocab": "⭐ aspire to be —— 渴望成为；立志成为",
+    "startTime": 151.7,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:26:37.750Z"
   }
 ]
