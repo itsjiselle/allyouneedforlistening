@@ -8773,5 +8773,27 @@
     "startTime": 207.292,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:28:38.858Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-39-2-1784100548424",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 39,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "wordText": "been in the pipeline",
+    "category": "idiom",
+    "customLemma": "be in the pipeline",
+    "sentenceContext": "It's always been in the pipeline for Rhode.",
+    "sentenceTranslation": "这一直都在 Rhode 的产品规划中。",
+    "sentenceVocab": "⭐ be in the pipeline —— 在筹备中；正在规划中",
+    "startTime": 227.261,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:29:08.424Z"
   }
 ]
