@@ -9438,7 +9438,44 @@
     "sentenceVocab": "⭐ depending on… —— 取决于……｜be involved —— 包含；涉及（这里指\"含有\"）",
     "startTime": 268.598,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T09:36:06.554Z"
+    "dateAdded": "2026-07-15T09:36:06.554Z",
+    "translationCache": {
+      "lemma": "get something that has ... involved",
+      "ipa": "",
+      "translation": "得到某物，该物涉及……",
+      "pronunciationGuide": "该句式结构为：get + 名词/名词短语 + that has + 名词/名词短语 + involved。其中'get'意为'得到、获得'，'that has ... involved'是定语从句修饰前面的名词，表示'该物涉及/包含……'。注意'involved'是过去分词作后置定语，常与'has'连用表示'包含有……'。常见错误：遗漏'involved'或误用'involving'。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to express obtaining something that includes or involves a particular element or feature.",
+      "patternPractice": [
+        {
+          "chinese": "我想要一杯有牛奶的咖啡。",
+          "english": "I want to get a coffee that has some milk involved.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "她买了一个有巧克力夹心的蛋糕。",
+          "english": "She bought a cake that has some chocolate filling involved.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "我们得找一个有游泳池的酒店。",
+          "english": "We need to get a hotel that has a swimming pool involved.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "他想要一份有奖金的工作。",
+          "english": "He wants to get a job that has some bonus involved.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她打算买一辆有导航系统的车。",
+          "english": "She plans to get a car that has a navigation system involved.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-77-2-1784108218013",
