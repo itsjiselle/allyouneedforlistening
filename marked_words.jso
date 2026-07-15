@@ -5272,7 +5272,44 @@
     "sentenceVocab": "⭐ start to build 开始发展起来｜release an EP｜do well 取得不错的成绩",
     "startTime": 453.997,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:14:48.178Z"
+    "dateAdded": "2026-07-08T09:14:48.178Z",
+    "translationCache": {
+      "lemma": "start to build",
+      "ipa": "/stɑːrt tə bɪld/",
+      "translation": "开始建立；开始形成",
+      "pronunciationGuide": "",
+      "collocations": "start to build momentum, start to build a relationship, start to build confidence",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "随着项目推进，团队成员之间的信任开始逐渐建立起来。",
+          "english": "As the project progressed, trust among team members started to build (grow).",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在演讲的结尾，他的情绪开始高涨，观众也被深深打动。",
+          "english": "Towards the end of his speech, his emotion started to build (intensify), and the audience was deeply moved.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "这家初创公司通过社交媒体营销开始积累大量忠实客户。",
+          "english": "The startup started to build (cultivate) a large base of loyal customers through social media marketing.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "经过几个月的努力，她的自信心开始逐渐增强，最终在比赛中表现出色。",
+          "english": "After months of effort, her confidence started to build (grow), and she eventually performed excellently in the competition.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "随着经济复苏，消费者信心开始恢复，零售业也迎来了转机。",
+          "english": "As the economy recovered, consumer confidence started to build (rebound), and the retail industry saw a turnaround.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-87-5-1783502107236",
