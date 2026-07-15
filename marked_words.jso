@@ -8967,7 +8967,40 @@
     "sentenceVocab": "⭐ develop —— 研发（产品）｜be specific about —— 对……要求严格；十分讲究",
     "startTime": 229.219,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:30:00.005Z"
+    "dateAdded": "2026-07-15T07:30:00.005Z",
+    "translationCache": {
+      "lemma": "be specific about",
+      "ipa": "/bi spəˈsɪfɪk əˈbaʊt/",
+      "translation": "对…明确具体；对…有明确要求",
+      "pronunciationGuide": "",
+      "collocations": [
+        "be specific about the details",
+        "be specific about what you want",
+        "be specific about the time",
+        "be specific about your requirements"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在面试中，你应该对自己的职业目标非常明确。",
+          "english": "In the interview, you should be very specific about your career goals."
+        },
+        {
+          "chinese": "她对婚礼的每个细节都有明确的要求，从鲜花到音乐。",
+          "english": "She was very specific about every detail of the wedding, from the flowers to the music."
+        },
+        {
+          "chinese": "请对预算限制明确说明，这样我们才能制定可行的计划。",
+          "english": "Please be specific about the budget constraints so that we can come up with a feasible plan."
+        },
+        {
+          "chinese": "他对饮食要求非常明确，只吃有机食品。",
+          "english": "He is very specific about his diet, eating only organic food."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-44-1-1784100633722",
