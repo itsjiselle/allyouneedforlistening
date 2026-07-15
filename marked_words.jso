@@ -8533,7 +8533,35 @@
     "sentenceVocab": "⭐ turn out 结果证明｜scam 骗局｜legit 真的；靠谱的",
     "startTime": 370.196,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T04:52:41.847Z"
+    "dateAdded": "2026-07-15T04:52:41.847Z",
+    "translationCache": {
+      "lemma": "i thought it was like a scam but it turned out it was legit",
+      "ipa": "/aɪ θɔːt ɪt wʌz laɪk ə skæm bʌt ɪt tɜːrnd aʊt ɪt wʌz lɪˈdʒɪt/",
+      "translation": "我原以为这像是个骗局，但结果发现它是合法的。",
+      "pronunciationGuide": "",
+      "collocations": "turn out to be, like a scam, legit business",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "我原以为那个在线交易是个骗局，但结果发现它是合法的。",
+          "english": "I thought that online transaction was like a scam, but it turned out it was legit."
+        },
+        {
+          "chinese": "她一开始觉得这个工作机会像是骗人的，但经过调查后确认它是真实的。",
+          "english": "She initially thought the job offer was like a scam, but after investigating, it turned out it was legit."
+        },
+        {
+          "chinese": "我们怀疑那个慈善机构是假的，但后来证实它是合法的。",
+          "english": "We suspected that charity was fake, but it turned out it was legit."
+        },
+        {
+          "chinese": "他以为那个投资计划是个骗局，但结果证明是合法的。",
+          "english": "He thought the investment scheme was like a scam, but it turned out it was legit."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-7-15-1784100150087",
