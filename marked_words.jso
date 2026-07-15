@@ -9017,5 +9017,26 @@
     "startTime": 318.647,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:44:39.580Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-64-10-1784101698764",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 64,
+    "wordIndex": 10,
+    "wordIndices": [
+      10,
+      11,
+      12
+    ],
+    "wordText": "pinch me moment",
+    "category": "idiom",
+    "customLemma": "pinch me moment",
+    "sentenceContext": "I do think it was very \"Pinch me, pinch me, pinch me\" moment.",
+    "sentenceTranslation": "我真的觉得，那就是一个\"快掐我一下\"的时刻。",
+    "sentenceVocab": "⭐ pinch me moment —— 梦想成真、难以置信的时刻｜I do think… —— 我确实认为……（强调）",
+    "startTime": 340.142,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:48:18.764Z"
   }
 ]
