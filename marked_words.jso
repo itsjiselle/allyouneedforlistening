@@ -9156,5 +9156,21 @@
     "startTime": 399.221,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:59:34.979Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-82-5-1784102416320",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 82,
+    "wordIndex": 5,
+    "wordText": "guesstimate",
+    "category": "vocab",
+    "customLemma": "guesstimate",
+    "sentenceContext": "So if I had to guesstimate, it's like 20 something, 22, 3.",
+    "sentenceTranslation": "如果非要我估算的话，大概二十几个吧，二十二、二十三个左右。",
+    "sentenceVocab": "⭐ guesstimate —— 粗略估计（guess + estimate）｜20-something —— 二十几个",
+    "startTime": 424.214,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T08:00:16.320Z"
   }
 ]
