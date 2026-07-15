@@ -9496,7 +9496,35 @@
     "sentenceVocab": "⭐ gentle —— 温和的（护肤品）｜vitamin A derivative —— 维生素A衍生物｜derivative —— 衍生物",
     "startTime": 404.936,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T09:36:58.013Z"
+    "dateAdded": "2026-07-15T09:36:58.013Z",
+    "translationCache": {
+      "lemma": "strong for skin",
+      "ipa": "/strɔːŋ fɔːr skɪn/",
+      "translation": "对皮肤来说太强效",
+      "pronunciationGuide": "",
+      "collocations": "be too strong for one's skin; find something strong for skin",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这款洁面乳对我来说太刺激了，所以我换成了更温和的配方。",
+          "english": "This cleanser is too strong for my skin, so I switched to a gentler formula."
+        },
+        {
+          "chinese": "医生建议我避免使用对皮肤刺激强的产品，尤其是含有酒精的。",
+          "english": "The doctor advised me to avoid products that are strong for my skin, especially those containing alcohol."
+        },
+        {
+          "chinese": "虽然这款精华液效果很好，但对我的敏感肌来说太强效了，我不得不停止使用。",
+          "english": "Although this serum is effective, it is too strong for my sensitive skin, and I had to stop using it."
+        },
+        {
+          "chinese": "许多含有视黄醇的面霜对初学者来说可能过于刺激，建议从低浓度开始。",
+          "english": "Many creams with retinol can be too strong for beginners' skin, so it's recommended to start with a low concentration."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-94-0-1784108263822",
