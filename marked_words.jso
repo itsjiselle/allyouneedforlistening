@@ -5295,7 +5295,44 @@
     "sentenceVocab": "⭐ be thrown into 被一下子投入到……｜be in the studio 在录音棚录音｜gig 现场演出｜chaos 忙乱；混乱状态",
     "startTime": 458.765,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:15:07.236Z"
+    "dateAdded": "2026-07-08T09:15:07.236Z",
+    "translationCache": {
+      "lemma": "be thrown into ... chaos of",
+      "ipa": "/bi θroʊn ˈɪntu ... ˈkeɪɑs əv/",
+      "translation": "被抛入……的混乱之中",
+      "pronunciationGuide": "注意'be'弱读为/bɪ/；'thrown'中/θ/需咬舌；'into'中/t/在快速语流中可能变为弹舌音；'chaos'读作/ˈkeɪɑs/，重音在第一音节；'of'弱读为/əv/。",
+      "collocations": [
+        "be thrown into chaos",
+        "be thrown into a state of chaos",
+        "be thrown into the chaos of war",
+        "be thrown into the chaos of daily life"
+      ],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "to be suddenly forced into a situation that is completely disorganized or confused.",
+      "patternPractice": [
+        {
+          "chinese": "当公司突然宣布破产时，所有员工都被抛入了失业的混乱之中。",
+          "english": "When the company suddenly declared bankruptcy, all employees were thrown into the chaos of unemployment.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "地震后，整个城市被抛入了救援和重建的混乱之中。",
+          "english": "After the earthquake, the entire city was thrown into the chaos of rescue and reconstruction.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "新政策实施后，学校被抛入了课程调整和师资分配的混乱之中。",
+          "english": "After the new policy was implemented, the school was thrown into the chaos of curriculum adjustment and teacher allocation.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "他辞职后，团队被抛入了项目管理和任务分配的混乱之中。",
+          "english": "After he resigned, the team was thrown into the chaos of project management and task assignment.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-87-21-1783502127238",
