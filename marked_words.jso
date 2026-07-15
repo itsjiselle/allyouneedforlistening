@@ -9100,5 +9100,25 @@
     "startTime": 375.88,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:58:55.960Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-72-7-1784102353158",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 72,
+    "wordIndex": 7,
+    "wordIndices": [
+      7,
+      8
+    ],
+    "wordText": "vent about",
+    "category": "vocab",
+    "customLemma": "vent about",
+    "sentenceContext": "So I think to be able to vent about things that are bothering you and being able to connect on that, just makes it a little bit easier.",
+    "sentenceTranslation": "所以，我觉得能够把困扰自己的事情倾诉出来，并和别人产生共鸣，真的会让一切轻松一些。",
+    "sentenceVocab": "⭐ vent about —— 倾诉；发泄｜connect on —— 在……方面产生共鸣｜make it easier —— 让事情变得更容易",
+    "startTime": 380.157,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:59:13.158Z"
   }
 ]
