@@ -5695,7 +5695,35 @@
     "sentenceVocab": "⭐ collected：沉着冷静的（C1）｜yin and yang：阴阳，比喻性格互补",
     "startTime": 543.812,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:17:35.522Z"
+    "dateAdded": "2026-07-08T09:17:35.522Z",
+    "translationCache": {
+      "lemma": "collected ... calm",
+      "ipa": "/kəˈlɛktɪd ... kɑm/",
+      "translation": "adj. 冷静的；镇定的；adj. 平静的；镇静的",
+      "pronunciationGuide": "",
+      "collocations": "remain collected and calm; stay collected and calm; appear collected and calm",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "尽管面临巨大压力，她依然保持冷静沉着，这让整个团队都感到安心。",
+          "english": "Despite immense pressure, she remained collected and calm, which reassured the entire team."
+        },
+        {
+          "chinese": "在紧急情况下，医生必须保持冷静沉着，才能做出正确的决定。",
+          "english": "In an emergency, a doctor must stay collected and calm to make the right decisions."
+        },
+        {
+          "chinese": "他那种冷静沉着的态度在激烈的辩论中显得尤为突出。",
+          "english": "His collected and calm demeanor stood out during the heated debate."
+        },
+        {
+          "chinese": "面试时，她表现得冷静沉着，给面试官留下了深刻印象。",
+          "english": "During the interview, she appeared collected and calm, impressing the interviewers."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-100-10-1783502266790",
