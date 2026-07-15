@@ -8552,7 +8552,8 @@
           "difficulty": "中级"
         }
       ]
-    }
+    },
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“cooperate to make a smoothie”或“work together on a smoothie”，但 native speaker 会用 **do a collab**。Collab 是 collaboration 的酷炫缩写，自带“临时组队搞事情”的 vibe，比 cooperate 更 casual、更 trendy，尤其用于品牌联名、网红合作等场景。  \n\n**2. 学术深度分析与语用场景**  \n**do ... collab** 是轻动词结构（light verb construction），类似“do a deal”“do a project”。它把“合作”这个抽象动作具体化为一个可“做”的名词，语感上更生动、更口语化。感情色彩偏中性或积极，带点“我们搞了个大新闻”的戏谑感。适合日常聊天、商业汇报或社交媒体文案。  \n\n**3. 趣味记忆/联想**  \n想象两个网红在说：“Let's do a collab!” 听起来像“do a cab”（打个车），但 collab 是“合作的车”，一起上车搞事情！谐音梗：collab = “靠拉布”，靠拉拢布料（品牌）搞联名。记住：**do a collab** = 搞个联名，比“合作”潮一百倍！"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-14-6-1784100213384",
@@ -8967,40 +8968,7 @@
     "sentenceVocab": "⭐ develop —— 研发（产品）｜be specific about —— 对……要求严格；十分讲究",
     "startTime": 229.219,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:30:00.005Z",
-    "translationCache": {
-      "lemma": "be specific about",
-      "ipa": "/bi spəˈsɪfɪk əˈbaʊt/",
-      "translation": "对…明确具体；对…有明确要求",
-      "pronunciationGuide": "",
-      "collocations": [
-        "be specific about the details",
-        "be specific about what you want",
-        "be specific about the time",
-        "be specific about your requirements"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在面试中，你应该对自己的职业目标非常明确。",
-          "english": "In the interview, you should be very specific about your career goals."
-        },
-        {
-          "chinese": "她对婚礼的每个细节都有明确的要求，从鲜花到音乐。",
-          "english": "She was very specific about every detail of the wedding, from the flowers to the music."
-        },
-        {
-          "chinese": "请对预算限制明确说明，这样我们才能制定可行的计划。",
-          "english": "Please be specific about the budget constraints so that we can come up with a feasible plan."
-        },
-        {
-          "chinese": "他对饮食要求非常明确，只吃有机食品。",
-          "english": "He is very specific about his diet, eating only organic food."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-15T07:30:00.005Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-44-1-1784100633722",
