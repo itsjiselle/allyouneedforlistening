@@ -9077,7 +9077,44 @@
     "sentenceVocab": "⭐ get to somebody —— 影响某人的情绪；让某人难受",
     "startTime": 354.384,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:58:14.970Z"
+    "dateAdded": "2026-07-15T07:58:14.970Z",
+    "translationCache": {
+      "lemma": "get to",
+      "ipa": "/ɡɛt tu/",
+      "translation": "影响，使烦恼（动词短语）",
+      "pronunciationGuide": "",
+      "collocations": "really get to someone, start to get to someone, get to someone after a while",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "尽管他试图表现得坚强，但那些负面评论最终还是影响到了他。",
+          "english": "Although he tried to act tough, the negative comments eventually got to him.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "长时间的工作压力开始影响到她的健康，她决定休假。",
+          "english": "The long hours of work pressure started to get to her health, so she decided to take a break.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "别让那些琐碎的争吵影响到你，保持专注更重要。",
+          "english": "Don't let those petty arguments get to you; staying focused is more important.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "他不断重复的抱怨终于开始影响到我，我不得不让他停下来。",
+          "english": "His constant complaining finally began to get to me, and I had to ask him to stop.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "尽管她努力保持乐观，但孤独感在漫长的冬夜里逐渐影响到她。",
+          "english": "Despite her efforts to stay optimistic, the loneliness gradually got to her during the long winter nights.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-71-7-1784102335960",
