@@ -2069,7 +2069,31 @@
     "sentenceContext": "SEGARRA: And I also think about not just what's easier to make, but what is more expensive versus less expensive, right? 我考虑的不只是哪些东西更容易做，还会考虑哪些食材更贵、哪些更便宜。⭐ versus 相比；对比（正式口语）",
     "startTime": 856.9639999999999,
     "reviewCount": 0,
-    "dateAdded": "2026-07-04T03:50:29.766Z"
+    "dateAdded": "2026-07-04T03:50:29.766Z",
+    "translationCache": {
+      "lemma": "versus",
+      "ipa": "/ˈvɜːrsəs/",
+      "translation": "prep. 与...相比；相对于",
+      "pronunciationGuide": "",
+      "collocations": "versus less expensive, versus less time, versus less effort",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在选择手机时，我总是在比较更贵的型号和更便宜的型号。",
+          "english": "When choosing a phone, I always compare the more expensive model versus the less expensive one."
+        },
+        {
+          "chinese": "我们需要权衡更快的解决方案和更便宜的方案。",
+          "english": "We need to weigh the faster solution versus the less costly one."
+        },
+        {
+          "chinese": "在预算有限的情况下，我们不得不考虑更耐用的材料与更便宜的材料。",
+          "english": "With a limited budget, we have to consider more durable materials versus less expensive ones."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-112-12-1783137115032",
