@@ -9557,6 +9557,38 @@
     "sentenceVocab": "⭐ That's it from me. —— 我就分享到这里。（演讲、采访结束时很自然）",
     "startTime": 514.52,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T09:38:58.494Z"
+    "dateAdded": "2026-07-15T09:38:58.494Z",
+    "translationCache": {
+      "lemma": "that's it from me",
+      "ipa": "",
+      "translation": "我的发言到此结束；我就说这么多",
+      "pronunciationGuide": "该句式用于表示发言或陈述的结束，通常出现在会议、演讲或对话的结尾。结构固定，'that's it' 意为'就这样'，'from me' 表示'从我这里'。注意不要与'that's it for me'混淆，后者强调个人部分结束。常见错误：遗漏介词'from'或误用'for'。",
+      "collocations": [],
+      "cefrLevel": "A2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to indicate that the speaker has finished their contribution or statement.",
+      "patternPractice": [
+        {
+          "chinese": "我的发言到此结束。",
+          "english": "That's it from me.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "关于这个项目，我的汇报就到这里。",
+          "english": "That's it from me regarding this project.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "对于今天的讨论，我想说的就是这些。",
+          "english": "That's it from me for today's discussion.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "关于预算调整，我的建议就这么多，接下来请大家讨论。",
+          "english": "That's it from me on the budget adjustment. Please discuss among yourselves.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   }
 ]
