@@ -8995,5 +8995,27 @@
     "startTime": 311.157,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:44:24.854Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-59-3-1784101479580",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 59,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      5,
+      6,
+      7
+    ],
+    "wordText": "be ... closed off to",
+    "category": "idiom",
+    "customLemma": "be closed off to",
+    "sentenceContext": "I would never be completely closed off to anything.",
+    "sentenceTranslation": "我不会把任何可能性彻底拒之门外。",
+    "sentenceVocab": "⭐ be closed off to —— 对……持封闭态度；拒绝接受",
+    "startTime": 318.647,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:44:39.580Z"
   }
 ]
