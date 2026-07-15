@@ -4444,7 +4444,44 @@
     "sentenceVocab": "⭐ pay off 得到回报；获得成果",
     "startTime": 245.794,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:43:02.103Z"
+    "dateAdded": "2026-07-08T08:43:02.103Z",
+    "translationCache": {
+      "lemma": "pay off",
+      "ipa": "/ˌpeɪ ˈɔːf/",
+      "translation": "（付清工资后）解雇；还清（债务）；得到好结果，取得成功",
+      "pronunciationGuide": "",
+      "collocations": "pay off debts, pay off a loan, hard work pays off, risk pays off",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "经过几个月的刻苦训练，他的努力终于得到了回报，他在比赛中赢得了金牌。",
+          "english": "After months of rigorous training, his hard work finally paid off, and he won the gold medal in the competition.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "公司决定投资新技术，希望这笔投资能在未来五年内得到回报。",
+          "english": "The company decided to invest in new technology, hoping that the investment would pay off within the next five years.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她坚持每天学习英语，最终她的努力得到了回报，她获得了理想的海外工作机会。",
+          "english": "She persisted in studying English every day, and eventually her efforts paid off when she got the ideal overseas job opportunity.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管面临诸多挑战，但团队的不懈努力最终得到了回报，项目提前完成并获得了客户的高度赞扬。",
+          "english": "Despite numerous challenges, the team's relentless efforts ultimately paid off, as the project was completed ahead of schedule and received high praise from the client.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "他冒险投资了一家初创公司，虽然起初风险很大，但最终这笔投资得到了丰厚的回报。",
+          "english": "He took a risk by investing in a startup, and although it was initially very risky, the investment eventually paid off handsomely.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-47-6-1783500188517",
@@ -4464,7 +4501,7 @@
     "sentenceTranslation": "我妈妈总是说：\"坚持下去。\"",
     "sentenceVocab": "⭐ keep at it 坚持下去；别放弃",
     "startTime": 232.874,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-07-08T08:43:08.517Z",
     "translationCache": {
       "lemma": "keep at it",
@@ -5982,7 +6019,44 @@
     "sentenceVocab": "⭐ make the final cut：进入最终剪辑版；最终被保留下来（C1，影视常用）",
     "startTime": 697.283,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:23:34.052Z"
+    "dateAdded": "2026-07-08T09:23:34.052Z",
+    "translationCache": {
+      "lemma": "make the final cut",
+      "ipa": "/meɪk ðə ˈfaɪnəl kʌt/",
+      "translation": "被最终选中；进入最后名单",
+      "pronunciationGuide": "",
+      "collocations": "make the final cut, not make the final cut, hope to make the final cut",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "导演对这部电影的结局不太满意，担心它可能无法进入最终剪辑版。",
+          "english": "The director is not satisfied with the ending of the film and worries it might not make the final cut.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管他表现不错，但由于名额有限，他可能无法进入最终入选名单。",
+          "english": "Even though he performed well, due to limited spots, he might not make the final cut.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在提交简历后，她焦急地等待着是否能够进入面试的最终名单。",
+          "english": "After submitting her resume, she anxiously waited to see if she would make the final cut for the interview.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这个提案虽然很有创意，但预算限制可能导致它无法被最终采纳。",
+          "english": "Although the proposal is very creative, budget constraints may cause it not to make the final cut.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在激烈的竞争中，只有最优秀的选手才能进入决赛圈。",
+          "english": "In fierce competition, only the best contestants can make the final cut.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-How_to_Ski___REI_mp4-36-21-1783518401056",
