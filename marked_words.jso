@@ -8713,5 +8713,26 @@
     "startTime": 159.042,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:26:48.945Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-29-16-1784100446844",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 29,
+    "wordIndex": 16,
+    "wordIndices": [
+      16,
+      17,
+      18
+    ],
+    "wordText": "saw myself being",
+    "category": "idiom",
+    "customLemma": "see oneself doing sth",
+    "sentenceContext": "But I stopped dancing because I started modeling when I was 16 and I never really saw myself being a ballet dancer as my whole career.",
+    "sentenceTranslation": "但我后来停止跳舞，是因为16岁开始做模特，而且我从来没有真正把芭蕾舞演员当作自己一生的职业。",
+    "sentenceVocab": "⭐ see oneself as… —— 认为自己会成为……｜modeling —— 模特行业（不可数名词）｜whole career —— 整个职业生涯",
+    "startTime": 162.159,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:27:26.844Z"
   }
 ]
