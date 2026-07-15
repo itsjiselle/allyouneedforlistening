@@ -8650,7 +8650,44 @@
     "sentenceVocab": "⭐ confirm or deny —— 确认或否认｜be named after —— 以……命名",
     "startTime": 116.455,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:25:13.201Z"
+    "dateAdded": "2026-07-15T07:25:13.201Z",
+    "translationCache": {
+      "lemma": "We're trying to confirm or deny",
+      "ipa": "",
+      "translation": "我们正在试图确认或否认",
+      "pronunciationGuide": "该句式结构为“主语 + be动词 + trying to + 动词原形 + or + 动词原形”，表示“试图做某事或另一件事”。注意：trying to 后接两个并列的动词原形，用 or 连接。常见错误是忘记 to 或动词形式不一致。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to express an ongoing effort to either confirm or deny something, often in contexts of investigation, verification, or discussion of uncertain information.",
+      "patternPractice": [
+        {
+          "chinese": "我们正在试图接受或拒绝这个提议。",
+          "english": "We're trying to accept or reject the proposal.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "他们正在试图批准或否决这个计划。",
+          "english": "They're trying to approve or reject (turn down) the plan.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "科学家们正在试图证实或反驳这个理论。",
+          "english": "Scientists are trying to confirm or refute (disprove) the theory.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "委员会正在试图批准或否决这项新政策。",
+          "english": "The committee is trying to approve or reject (turn down) the new policy.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "调查人员正在试图证实或否认关于公司财务违规的指控。",
+          "english": "Investigators are trying to confirm or deny (dispute) the allegations of financial misconduct at the company.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-25-2-1784100376352",
