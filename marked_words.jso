@@ -7949,5 +7949,21 @@
     "startTime": 277.604,
     "reviewCount": 0,
     "dateAdded": "2026-07-14T09:57:38.005Z"
+  },
+  {
+    "id": "github-cloud-i_D_Meets__Will_Gao_mp3-64-33-1784091099887",
+    "materialId": "github-cloud-i_D_Meets__Will_Gao_mp3",
+    "materialTitle": "i-D Meets- Will Gao.mp3",
+    "subtitleId": 64,
+    "wordIndex": 33,
+    "wordText": "spinoff",
+    "category": "vocab",
+    "customLemma": "spin-off",
+    "sentenceContext": "And it was really empowering to be part of that show because, like, this show is, like, the first show that's really celebrating it and not just using it as some, like, negative spin-off.",
+    "sentenceTranslation": "能参与这部剧真的让我很有力量，因为它是真正去庆祝这个群体，而不是把它当作一个负面的附属元素来消费。",
+    "sentenceVocab": "⭐ be empowering 令人充满力量｜be part of｜celebrate 正面展现、歌颂｜spin-off 衍生物（这里指附属、陪衬）",
+    "startTime": 346.39300000000003,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T04:51:39.887Z"
   }
 ]
