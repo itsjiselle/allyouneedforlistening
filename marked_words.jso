@@ -4945,39 +4945,7 @@
     "sentenceVocab": "⭐ afterparty｜be nuts 疯狂得不得了",
     "startTime": 372.417,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:11:48.753Z",
-    "translationCache": {
-      "lemma": "they're nuts",
-      "ipa": "/ðɛr nʌts/",
-      "translation": "他们疯了（口语，表示某人很疯狂或行为古怪）",
-      "pronunciationGuide": "",
-      "collocations": "go nuts, drive someone nuts, nuts about something",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "你听说他辞职去环游世界了吗？我觉得他疯了。",
-          "english": "Did you hear he quit his job to travel around the world? I think he's nuts.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "那些粉丝为了见偶像一面在雨中站了整整一夜，他们真是疯了。",
-          "english": "Those fans stood in the rain all night just to catch a glimpse of their idol; they're nuts.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "我朋友试图在一天内完成整个项目，我觉得他们疯了，但也许他们能行。",
-          "english": "My friends are trying to finish the entire project in one day; I think they're nuts, but maybe they can pull it off (succeed).",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "那些投资者把全部积蓄都投进一个毫无根据的初创公司，他们真是疯了。",
-          "english": "Those investors put all their savings into a startup with no track record; they're nuts.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T09:11:48.753Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-73-4-1783501944536",
@@ -5416,7 +5384,8 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "teacherExplanation": "**中式英语 vs 地道表达**：你第一反应可能是“I'm a shame to my mum”，但native speaker会说“I'm a **disgrace** to my mum”或“I bring shame to my mum”。因为“be a shame”通常指“可惜的事”（如“It's a shame you can't come”），而“be a shame to someone”是中式直译，地道说法用“disgrace”或“bring shame upon”。\n\n**褒贬含义 & 语体**：强烈贬义，口语/非正式，常用于自责或自嘲。\n\n**诙谐记忆**：想象你妈说“You're a shame to me!” 你回“No, Mum, I'm a *shame* to you? That's a shame.” 然后你妈追着你打——记住，**shame**是“可惜”，**disgrace**才是“丢脸”。别让你妈追你！"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-86-5-1783502088178",
