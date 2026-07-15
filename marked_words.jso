@@ -8837,5 +8837,25 @@
     "startTime": 248.751,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:30:33.722Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-46-0-1784100650611",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 46,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1
+    ],
+    "wordText": "It's giving",
+    "category": "pattern",
+    "customLemma": "It's giving ... ",
+    "sentenceContext": "It's giving like Kendall's energy.",
+    "sentenceTranslation": "它特别有 Kendall 的那种感觉。",
+    "sentenceVocab": "⭐ It's giving… —— 很有……的感觉（近年流行网络表达）｜energy —— 气质；氛围感（口语引申义）",
+    "startTime": 252.834,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:30:50.611Z"
   }
 ]
