@@ -9038,5 +9038,25 @@
     "startTime": 340.142,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:48:18.764Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-65-9-1784102266923",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 65,
+    "wordIndex": 9,
+    "wordIndices": [
+      9,
+      10
+    ],
+    "wordText": "stressing about",
+    "category": "idiom",
+    "customLemma": "be stress about",
+    "sentenceContext": "Someone said, \"Look at her face. Our girl isn't stressing about you.\"",
+    "sentenceTranslation": "有人评论说：\"看看她的表情，我们的女孩才不会因为你们而焦虑。\"",
+    "sentenceVocab": "⭐ stress about —— 因……焦虑｜our girl —— 我们的女孩（粉丝亲昵称呼）",
+    "startTime": 344.088,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:57:46.923Z"
   }
 ]
