@@ -5352,7 +5352,39 @@
     "sentenceVocab": "⭐ be a shame to somebody 让某人觉得丢脸",
     "startTime": 437.783,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:14:22.114Z"
+    "dateAdded": "2026-07-08T09:14:22.114Z",
+    "translationCache": {
+      "lemma": "be a shame to someone",
+      "ipa": "/biː ə ʃeɪm tə ˈsʌmwʌn/",
+      "translation": "让某人蒙羞，使某人丢脸",
+      "pronunciationGuide": "",
+      "collocations": "be a shame to one's family, be a shame to one's parents, feel like a shame to someone",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他考试作弊被抓，让全家蒙羞。",
+          "english": "He was caught cheating on the exam, which made him a shame to his whole family.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她觉得自己糟糕的英语水平让父母丢脸。",
+          "english": "She felt that her poor English skills were a shame to her parents.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "那个腐败的官员让整个国家蒙羞。",
+          "english": "That corrupt official was a shame to the entire nation.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "他因犯罪行为让家族蒙羞，至今无法抬头。",
+          "english": "His criminal behavior made him a shame to his family, and he still can't hold his head up.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-86-5-1783502088178",
