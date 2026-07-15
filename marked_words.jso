@@ -4861,7 +4861,48 @@
     "sentenceVocab": "⭐ turn up a notch 提升一个等级；更进一步｜accelerator pedal 油门（比喻人生加速）",
     "startTime": 316.683,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:51:02.664Z"
+    "dateAdded": "2026-07-08T08:51:02.664Z",
+    "translationCache": {
+      "lemma": "turn up a notch",
+      "ipa": "/tɜːrn ʌp ə nɑːtʃ/",
+      "translation": "提高一个档次；加大力度",
+      "pronunciationGuide": "",
+      "collocations": [
+        "turn up a notch (the volume)",
+        "turn up a notch (the intensity)",
+        "turn up a notch (the effort)"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了赢得比赛，他们决定把训练强度提高一个档次。",
+          "english": "To win the competition, they decided to turn up the intensity of their training a notch.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "当主唱加入时，整个演唱会的氛围瞬间提升了一个档次。",
+          "english": "When the lead singer joined, the atmosphere of the concert turned up a notch instantly.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "如果你想让这道菜更美味，不妨把辣度提高一个档次。",
+          "english": "If you want to make this dish more delicious, you might turn up the spiciness a notch.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "随着竞争的加剧，公司不得不把营销策略的力度加大一个档次。",
+          "english": "As competition intensified, the company had to turn up their marketing strategy a notch.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在最后冲刺阶段，运动员们把速度提高了一个档次，最终打破了纪录。",
+          "english": "During the final sprint, the athletes turned up their speed a notch and eventually broke the record.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-61-6-1783500753543",
@@ -8434,5 +8475,26 @@
     "startTime": 370.196,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T04:52:41.847Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-7-15-1784100150087",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 7,
+    "wordIndex": 15,
+    "wordIndices": [
+      15,
+      16,
+      17
+    ],
+    "wordText": "sea moss gel",
+    "category": "vocab",
+    "customLemma": "sea moss gel",
+    "sentenceContext": "So \"Well, well, well, one of the ingredients in the Erewhon Hailey Bieber smoothie is sea moss gel.\" \"",
+    "sentenceTranslation": "哎呀哎呀，Erewhon 的 Hailey Bieber 奶昔里的一种配料居然是海藻胶。\"",
+    "sentenceVocab": "⭐ ingredient —— 配料；成分｜sea moss gel —— 海藻胶",
+    "startTime": 32.711,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:22:30.087Z"
   }
 ]
