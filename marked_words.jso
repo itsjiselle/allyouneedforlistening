@@ -9058,5 +9058,25 @@
     "startTime": 344.088,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:57:46.923Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-67-5-1784102294970",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 67,
+    "wordIndex": 5,
+    "wordIndices": [
+      5,
+      6
+    ],
+    "wordText": "get to",
+    "category": "idiom",
+    "customLemma": "get to me/you",
+    "sentenceContext": "I would say things still get to me.",
+    "sentenceTranslation": "我会说，这些事情还是会影响到我。",
+    "sentenceVocab": "⭐ get to somebody —— 影响某人的情绪；让某人难受",
+    "startTime": 354.384,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:58:14.970Z"
   }
 ]
