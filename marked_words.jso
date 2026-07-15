@@ -8515,7 +8515,44 @@
     "sentenceVocab": "⭐ end up doing —— 最终做了……｜potentially —— 有可能地｜collab —— 合作（collaboration）｜coincide —— 同时发生；巧合地重合",
     "startTime": 63.056,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:23:08.393Z"
+    "dateAdded": "2026-07-15T07:23:08.393Z",
+    "translationCache": {
+      "lemma": "do a collab",
+      "ipa": "/duː ə ˈkɑːlæb/",
+      "translation": "做合作（尤指品牌或名人之间的合作）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "do a collab with someone",
+        "announce a collab",
+        "launch a collab",
+        "collab project"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "我们正在和一位知名艺术家洽谈，计划在明年春天做一个联名系列。",
+          "english": "We are negotiating with a famous artist to do a collab collection next spring.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "这家运动品牌和一位流行歌手做了联名，结果产品在几小时内就售罄了。",
+          "english": "The sportswear brand did a collab with a pop singer, and the products sold out within hours.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "为了扩大影响力，许多网红选择互相做联名，而不是单打独斗。",
+          "english": "To expand their influence, many influencers choose to do collabs with each other instead of working alone.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "他们做的那个联名咖啡很成功，吸引了大量年轻顾客。",
+          "english": "The coffee collab they did was very successful, attracting a large number of young customers.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-14-6-1784100213384",
