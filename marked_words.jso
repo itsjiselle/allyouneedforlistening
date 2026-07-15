@@ -9078,5 +9078,27 @@
     "startTime": 354.384,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:58:14.970Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-71-7-1784102335960",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 71,
+    "wordIndex": 7,
+    "wordIndices": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "wordText": "on a crazy level",
+    "category": "idiom",
+    "customLemma": "do sth on a crazy level",
+    "sentenceContext": "I'm married to somebody who experiences it on a crazy level.",
+    "sentenceTranslation": "而且我的丈夫所经历的程度，比我夸张得多。",
+    "sentenceVocab": "⭐ on a … level —— 达到……程度｜a crazy level —— 非常夸张的程度",
+    "startTime": 375.88,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:58:55.960Z"
   }
 ]
