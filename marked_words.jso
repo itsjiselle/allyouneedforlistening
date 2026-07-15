@@ -9378,5 +9378,28 @@
     "startTime": 458.456,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T08:00:59.564Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-50-11-1784108166554",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 50,
+    "wordIndex": 11,
+    "wordIndices": [
+      11,
+      12,
+      13,
+      14,
+      17
+    ],
+    "wordText": "get something that has ... involved",
+    "category": "pattern",
+    "customLemma": "get something that has ... involved",
+    "sentenceContext": "And then also, depending on my mood or not, I'd probably get something that has some chocolate involved.",
+    "sentenceTranslation": "另外，也要看当天心情，我可能还会买一些带巧克力的零食。",
+    "sentenceVocab": "⭐ depending on… —— 取决于……｜be involved —— 包含；涉及（这里指\"含有\"）",
+    "startTime": 268.598,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T09:36:06.554Z"
   }
 ]
