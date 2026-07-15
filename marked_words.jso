@@ -8693,5 +8693,25 @@
     "startTime": 151.7,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:26:37.750Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-28-2-1784100408945",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 28,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      4
+    ],
+    "wordText": "sustain ... injuries",
+    "category": "idiom",
+    "customLemma": "sustain injuries",
+    "sentenceContext": "I did sustain several injuries being a dancer.",
+    "sentenceTranslation": "不过，跳舞期间我的确受过好几次伤。",
+    "sentenceVocab": "⭐ sustain injuries —— 遭受（身体）损伤（正式用法）",
+    "startTime": 159.042,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:26:48.945Z"
   }
 ]
