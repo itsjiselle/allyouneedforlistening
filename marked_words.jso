@@ -8897,5 +8897,25 @@
     "startTime": 284.456,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:32:05.219Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-52-13-1784101390618",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 52,
+    "wordIndex": 13,
+    "wordIndices": [
+      13,
+      14
+    ],
+    "wordText": "whole chart",
+    "category": "vocab",
+    "customLemma": "whole chart",
+    "sentenceContext": "It's a picture from my 28th birthday. \"We need to know what Hailey's whole chart is.\" \"",
+    "sentenceTranslation": "这是我28岁生日那天拍的照片。 我们想知道 Hailey 的完整星盘是什么。\"",
+    "sentenceVocab": "⭐ whole chart —— 完整星盘（占星）",
+    "startTime": 279.297,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:43:10.618Z"
   }
 ]
