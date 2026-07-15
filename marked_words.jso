@@ -8745,7 +8745,48 @@
     "sentenceVocab": "⭐ career aspiration —— 职业理想｜professional classical ballet dancer —— 职业古典芭蕾舞演员｜due to —— 由于｜foot injury —— 脚部受伤",
     "startTime": 141.962,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:26:16.352Z"
+    "dateAdded": "2026-07-15T07:26:16.352Z",
+    "translationCache": {
+      "lemma": "someone's first career aspiration",
+      "ipa": "/ˈsʌmˌwʌnz fɜːrst kəˈrɪr ˌæspəˈreɪʃən/",
+      "translation": "某人的第一个职业抱负",
+      "pronunciationGuide": "",
+      "collocations": [
+        "have a first career aspiration",
+        "realize one's first career aspiration",
+        "abandon one's first career aspiration"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "她最初的职业抱负是成为一名宇航员，但后来因为视力问题改变了方向。",
+          "english": "Her first career aspiration was to become an astronaut, but she later changed direction due to vision problems.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管他最初的职业抱负是当音乐家，但他最终选择了更稳定的律师职业。",
+          "english": "Although his first career aspiration was to be a musician, he eventually chose the more stable profession of a lawyer.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "许多孩子最初的职业抱负受到父母职业的深刻影响。",
+          "english": "Many children's first career aspirations are profoundly influenced by their parents' occupations.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她最初的职业抱负是当兽医，但在动物收容所工作后，她意识到自己更想从事动物保护倡导工作。",
+          "english": "Her first career aspiration was to become a veterinarian, but after working at an animal shelter, she realized she wanted to pursue animal advocacy instead.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "回顾过去，他最初的职业抱负似乎天真，但正是那份热情推动他最终在艺术领域取得了成功。",
+          "english": "In retrospect, his first career aspiration seemed naive, but it was that passion that propelled him to eventually succeed in the art field.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-27-8-1784100397750",
