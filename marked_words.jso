@@ -8917,5 +8917,27 @@
     "startTime": 279.297,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:43:10.618Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-54-4-1784101412489",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 54,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "wordText": "elaborate further than that",
+    "category": "idiom",
+    "customLemma": "elaborate further than that",
+    "sentenceContext": "Do I need to elaborate further than that?",
+    "sentenceTranslation": "我还需要再详细解释吗？",
+    "sentenceVocab": "⭐ elaborate —— 详细说明；展开解释｜further —— 进一步地",
+    "startTime": 289.988,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:43:32.489Z"
   }
 ]
