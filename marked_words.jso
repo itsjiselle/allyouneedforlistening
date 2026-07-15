@@ -8795,5 +8795,26 @@
     "startTime": 227.261,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:29:22.905Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-40-15-1784100600005",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 40,
+    "wordIndex": 15,
+    "wordIndices": [
+      15,
+      18,
+      19
+    ],
+    "wordText": "I'm ... specific about",
+    "category": "idiom",
+    "customLemma": "be specific about",
+    "sentenceContext": "It just takes a very long time to develop because SPF is very specific, and I'm also very specific about SPF.",
+    "sentenceTranslation": "只是研发需要很长时间，因为防晒产品要求非常高，而我对防晒产品的要求也非常严格。",
+    "sentenceVocab": "⭐ develop —— 研发（产品）｜be specific about —— 对……要求严格；十分讲究",
+    "startTime": 229.219,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:30:00.005Z"
   }
 ]
