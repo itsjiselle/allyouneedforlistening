@@ -4365,7 +4365,34 @@
     "sentenceVocab": "⭐ organized carnage 有序的混乱；极其热闹、眼花缭乱",
     "startTime": 198.8,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:40:54.836Z"
+    "dateAdded": "2026-07-08T08:40:54.836Z",
+    "translationCache": {
+      "lemma": "organized carnage",
+      "ipa": "/ˈɔːrɡənaɪzd ˈkɑːrnɪdʒ/",
+      "translation": "有组织的屠杀（名词短语）",
+      "pronunciationGuide": "",
+      "collocations": "absolute organized carnage, scene of organized carnage, witness organized carnage",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "黑色星期五的促销活动简直就是一场有组织的屠杀，顾客们为了抢购商品互相推搡。",
+          "english": "The Black Friday sale was absolute organized carnage, with customers pushing and shoving each other to grab items.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "那个音乐节的后台混乱不堪，但工作人员说那只是有组织的屠杀，一切都在掌控之中。",
+          "english": "The backstage of the music festival was chaotic, but the staff said it was just organized carnage and everything was under control.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在限时抢购活动中，人们疯狂抢购，场面如同有组织的屠杀。",
+          "english": "During the flash sale, people went on a shopping frenzy, creating a scene of organized carnage.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-44-11-1783500119013",
