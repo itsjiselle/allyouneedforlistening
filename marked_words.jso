@@ -8651,5 +8651,26 @@
     "startTime": 116.455,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:25:13.201Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-25-2-1784100376352",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 25,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      4
+    ],
+    "wordText": "first career aspiration",
+    "category": "idiom",
+    "customLemma": "someone's first career aspiration",
+    "sentenceContext": "Next one.\"Bieber's first career aspiration was to become a professional classical ballet dancer, but her training ended due to a foot injury.\"",
+    "sentenceTranslation": "下一条。\"Bieber 最初的职业理想是成为一名职业古典芭蕾舞演员，但由于脚部受伤，她结束了训练。\"",
+    "sentenceVocab": "⭐ career aspiration —— 职业理想｜professional classical ballet dancer —— 职业古典芭蕾舞演员｜due to —— 由于｜foot injury —— 脚部受伤",
+    "startTime": 141.962,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:26:16.352Z"
   }
 ]
