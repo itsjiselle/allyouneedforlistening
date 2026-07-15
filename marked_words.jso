@@ -8876,7 +8876,39 @@
     "sentenceVocab": "⭐ I spy… —— 我看到……了（口语）",
     "startTime": 255.415,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:31:15.044Z"
+    "dateAdded": "2026-07-15T07:31:15.044Z",
+    "translationCache": {
+      "lemma": "i spy",
+      "ipa": "/aɪ spaɪ/",
+      "translation": "（儿童游戏用语）我发现了……；我看见……",
+      "pronunciationGuide": "注意 'I' 发长元音 /aɪ/，'spy' 中 'sp' 不送气，/aɪ/ 与 /aɪ/ 相同，整体连读自然。",
+      "collocations": "I spy with my little eye; play I spy; I spy game",
+      "cefrLevel": "A2",
+      "idiomUsageNote": "",
+      "englishDefinition": "used in a children's game where one player says 'I spy with my little eye something beginning with...' and others guess the object; also used informally to indicate that one has noticed or spotted something.",
+      "patternPractice": [
+        {
+          "chinese": "在长途汽车旅行中，孩子们玩“我看见”游戏来打发时间。",
+          "english": "During the long bus trip, the kids played 'I spy' to pass the time.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "我一眼就看见了我的行李箱在传送带上。",
+          "english": "I spy my suitcase on the conveyor belt at first glance.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在拥挤的派对上，我一眼就认出了那位著名演员。",
+          "english": "At the crowded party, I spy the famous actor immediately.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "从山顶上，我能看见远处有一座城堡。",
+          "english": "From the mountaintop, I spy a castle in the distance.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-53-0-1784100725219",
