@@ -2595,7 +2595,40 @@
     "sentenceVocab": "⭐ score a point —— 得一分｜be at least two points ahead —— 至少领先两分",
     "startTime": 15.771,
     "reviewCount": 1,
-    "dateAdded": "2026-07-07T03:46:43.433Z"
+    "dateAdded": "2026-07-07T03:46:43.433Z",
+    "translationCache": {
+      "lemma": "must score",
+      "ipa": "/mʌst skɔːr/",
+      "translation": "必须得分（情态动词+动词）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "must score a goal",
+        "must score points",
+        "must score high",
+        "must score well"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了晋级决赛，我们队今晚必须至少得30分。",
+          "english": "To advance to the finals, our team must score at least 30 points tonight."
+        },
+        {
+          "chinese": "在这项测试中，你必须得80分以上才能获得证书。",
+          "english": "In this test, you must score above 80 to receive the certificate."
+        },
+        {
+          "chinese": "他意识到自己必须在最后一场比赛中得高分才能打破纪录。",
+          "english": "He realized he must score high in the final game to break the record."
+        },
+        {
+          "chinese": "根据规则，选手必须连续得两分才能赢得这一局。",
+          "english": "According to the rules, a player must score two consecutive points to win the set."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-4-16-1783396038058",
