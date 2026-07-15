@@ -8627,5 +8627,29 @@
     "startTime": 100.19,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:24:49.746Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-20-0-1784100313201",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 20,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "wordText": "We're trying to confirm or deny",
+    "category": "pattern",
+    "customLemma": "We're trying to confirm or deny",
+    "sentenceContext": "We're trying to confirm or deny, was I named after Halley's Comet?",
+    "sentenceTranslation": "我们想确认一下，我真的是以哈雷彗星命名的吗？",
+    "sentenceVocab": "⭐ confirm or deny —— 确认或否认｜be named after —— 以……命名",
+    "startTime": 116.455,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:25:13.201Z"
   }
 ]
