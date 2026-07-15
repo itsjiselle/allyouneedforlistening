@@ -8816,5 +8816,26 @@
     "startTime": 229.219,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:30:00.005Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-44-1-1784100633722",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 44,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3
+    ],
+    "wordText": "would have to",
+    "category": "pattern",
+    "customLemma": "would have to do sth",
+    "sentenceContext": "You would have to ask her why the picture is a bird.",
+    "sentenceTranslation": "你得去问她为什么头像是一只鸟。",
+    "sentenceVocab": "⭐ would have to —— 得；只能",
+    "startTime": 248.751,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:30:33.722Z"
   }
 ]
