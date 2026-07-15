@@ -9342,7 +9342,41 @@
     "sentenceVocab": "⭐ vent about —— 倾诉；发泄｜connect on —— 在……方面产生共鸣｜make it easier —— 让事情变得更容易",
     "startTime": 380.157,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:59:13.158Z"
+    "dateAdded": "2026-07-15T07:59:13.158Z",
+    "translationCache": {
+      "lemma": "vent about",
+      "ipa": "/vɛnt əˈbaʊt/",
+      "translation": "v. 发泄（情绪），倾诉（烦恼）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "vent about problems",
+        "vent about work",
+        "vent about frustrations",
+        "need to vent about",
+        "vent about something"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "工作压力大的时候，我喜欢向朋友倾诉烦恼。",
+          "english": "When work gets stressful, I like to vent about my frustrations to friends."
+        },
+        {
+          "chinese": "她花了一个小时向同事抱怨老板的不公。",
+          "english": "She spent an hour venting about her boss's unfairness to her colleague."
+        },
+        {
+          "chinese": "我们需要一个安全的空间来倾诉困扰我们的事情。",
+          "english": "We need a safe space to vent about things that are bothering us."
+        },
+        {
+          "chinese": "他经常在社交媒体上发泄对交通状况的不满。",
+          "english": "He often vents about traffic conditions on social media."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-72-18-1784102358013",
