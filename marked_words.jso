@@ -4345,7 +4345,44 @@
     "sentenceVocab": "⭐ Beijing opera 京剧｜intense 张力十足的；感染力很强的",
     "startTime": 193.336,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:36:32.978Z"
+    "dateAdded": "2026-07-08T08:36:32.978Z",
+    "translationCache": {
+      "lemma": "intense",
+      "ipa": "/ɪnˈtɛns/",
+      "translation": "adj. 强烈的，剧烈的；紧张的，激烈的",
+      "pronunciationGuide": "",
+      "collocations": "intense pressure, intense competition, intense emotion, intense focus, intense heat",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这部电影的情感冲击力如此强烈，以至于观众在片尾字幕滚动时仍久久无法平静。",
+          "english": "The emotional impact of the film was so intense that the audience remained unsettled long after the credits rolled.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在激烈的谈判中，双方都坚持自己的立场，毫不让步。",
+          "english": "During the intense negotiations, both sides stuck to their positions and refused to compromise (give in).",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她专注于解决这个复杂问题，以至于没有注意到周围发生的一切。",
+          "english": "Her focus on solving (sorting out) the complex problem was so intense that she didn't notice what was happening around her.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在炎热的沙漠中，太阳的炙烤让人难以忍受，他们不得不寻找阴凉处休息。",
+          "english": "In the scorching desert, the intense heat of the sun was unbearable, forcing them to seek (look for) shade to rest.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这两位顶尖选手之间的竞争异常激烈，每一分都至关重要。",
+          "english": "The competition between these two top athletes was incredibly intense, with every point being crucial.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-42-11-1783500054836",
