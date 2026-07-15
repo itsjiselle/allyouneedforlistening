@@ -8877,5 +8877,25 @@
     "startTime": 255.415,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:31:15.044Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-53-0-1784100725219",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 53,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1
+    ],
+    "wordText": "Buckle up",
+    "category": "idiom",
+    "customLemma": "Buckle up",
+    "sentenceContext": "Buckle up, Sagittarius Rising, Sagittarius Sun, and Aries Moon. That's the whole chart, right?",
+    "sentenceTranslation": "坐稳了：上升射手、太阳射手、月亮白羊。 这就是完整的星盘了，对吧？",
+    "sentenceVocab": "⭐ Buckle up. —— 坐稳了；准备好（常用于引出令人意外的信息）｜Sagittarius Rising —— 上升射手座｜Sagittarius Sun —— 太阳射手座｜Aries Moon —— 月亮白羊座",
+    "startTime": 284.456,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:32:05.219Z"
   }
 ]
