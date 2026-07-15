@@ -7965,5 +7965,21 @@
     "startTime": 346.39300000000003,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T04:51:39.887Z"
+  },
+  {
+    "id": "github-cloud-i_D_Meets__Will_Gao_mp3-68-8-1784091109844",
+    "materialId": "github-cloud-i_D_Meets__Will_Gao_mp3",
+    "materialTitle": "i-D Meets- Will Gao.mp3",
+    "subtitleId": 68,
+    "wordIndex": 8,
+    "wordText": "scouted",
+    "category": "vocab",
+    "customLemma": "scout",
+    "sentenceContext": "I was like, \"Will,\" and she kind of scouted me.",
+    "sentenceTranslation": "我说\"Will\"，然后她就把我发掘了。",
+    "sentenceVocab": "⭐ scout 发掘；物色新人",
+    "startTime": 368.376,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T04:51:49.844Z"
   }
 ]
