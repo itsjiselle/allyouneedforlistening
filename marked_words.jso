@@ -7981,5 +7981,37 @@
     "startTime": 368.376,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T04:51:49.844Z"
+  },
+  {
+    "id": "github-cloud-i_D_Meets__Will_Gao_mp3-69-0-1784091161847",
+    "materialId": "github-cloud-i_D_Meets__Will_Gao_mp3",
+    "materialTitle": "i-D Meets- Will Gao.mp3",
+    "subtitleId": 69,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "wordText": "I thought it was like a scam but it turned out it was legit",
+    "category": "idiom",
+    "customLemma": "I thought it was like a scam but it turned out it was legit",
+    "sentenceContext": "I thought it was, like, a scam, but it turned out it was legit.",
+    "sentenceTranslation": "我一开始还以为是骗局，结果竟然是真的。",
+    "sentenceVocab": "⭐ turn out 结果证明｜scam 骗局｜legit 真的；靠谱的",
+    "startTime": 370.196,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T04:52:41.847Z"
   }
 ]
