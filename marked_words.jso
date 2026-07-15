@@ -8604,5 +8604,28 @@
     "startTime": 107.206,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:24:40.222Z"
+  },
+  {
+    "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-18-0-1784100289746",
+    "materialId": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4",
+    "materialTitle": "GQ - Hailey Bieber Replies To Fans Online Actually Me.mp4",
+    "subtitleId": 18,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "wordText": "I have this recollection that",
+    "category": "pattern",
+    "customLemma": "I have this recollection that",
+    "sentenceContext": "I have this recollection that she said I was moving around like Halley's Comet in her belly and that's why.",
+    "sentenceTranslation": "我隐约记得，她说我当时在她肚子里动来动去，就像哈雷彗星一样，所以才给我取了这个名字。",
+    "sentenceVocab": "⭐ have the recollection that… —— 依稀记得……｜move around —— 动来动去｜belly —— 肚子（口语）",
+    "startTime": 100.19,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:24:49.746Z"
   }
 ]
