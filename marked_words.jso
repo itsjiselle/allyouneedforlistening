@@ -5802,7 +5802,44 @@
     "sentenceVocab": "⭐ fuse…into…：把……融合成……（C1）｜incorporate：包含；融合（C1）",
     "startTime": 658.9590000000001,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:22:47.659Z"
+    "dateAdded": "2026-07-08T09:22:47.659Z",
+    "translationCache": {
+      "lemma": "incorporate",
+      "ipa": "/ɪnˈkɔːrpəreɪt/",
+      "translation": "v. 包含，吸收；合并，并入",
+      "pronunciationGuide": "",
+      "collocations": "incorporate into, incorporate with, incorporate in",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "新政策将环保措施纳入城市规划中。",
+          "english": "The new policy will incorporate environmental measures into urban planning.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她建议在演讲中融入更多互动元素，以吸引观众。",
+          "english": "She suggested incorporating more interactive elements into the speech to engage the audience.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "公司决定将人工智能技术整合到现有系统中，以提高效率。",
+          "english": "The company decided to incorporate artificial intelligence technology into the existing system to boost efficiency.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "设计师巧妙地将传统元素与现代风格融为一体，创造出独特的作品。",
+          "english": "The designer skillfully incorporated traditional elements with modern style to create a unique piece.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "为了促进团队合作，经理将每个成员的意见都纳入了项目计划。",
+          "english": "To foster teamwork, the manager incorporated each member's opinions into the project plan.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-130-9-1783502595869",
