@@ -5535,7 +5535,39 @@
     "sentenceVocab": "⭐ from scratch：从零开始（B2）",
     "startTime": 552.747,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:18:07.522Z"
+    "dateAdded": "2026-07-08T09:18:07.522Z",
+    "translationCache": {
+      "lemma": "come from scratch",
+      "ipa": "/kʌm frəm skrætʃ/",
+      "translation": "从零开始，白手起家",
+      "pronunciationGuide": "",
+      "collocations": "start from scratch, build from scratch, learn from scratch",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他决定放弃之前的所有工作，从零开始创业。",
+          "english": "He decided to abandon (give up) all his previous work and start his business from scratch.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "这个食谱是我祖母传下来的，但我每次都得从零开始做，因为我没有现成的材料。",
+          "english": "This recipe was passed down from my grandmother, but I have to make it from scratch every time because I don't have any pre-made ingredients.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "在经历了那次失败后，他不得不从零开始重建他的职业生涯。",
+          "english": "After that failure, he had to rebuild (build up) his career from scratch.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "学习一门新语言就像从零开始建造一座房子，需要耐心和毅力。",
+          "english": "Learning a new language is like building a house from scratch; it requires patience and perseverance.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-108-3-1783502342983",
