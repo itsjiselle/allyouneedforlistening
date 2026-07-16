@@ -9263,5 +9263,30 @@
     "startTime": 164.05,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:46:02.796Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-60-13-1784188013644",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 60,
+    "wordIndex": 13,
+    "wordIndices": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "wordText": "plug it in to the trolley train",
+    "category": "idiom",
+    "customLemma": "plug it in to the trolley train",
+    "sentenceContext": "And they realise, I've got to go all the way over there and plug it in to the trolley train for a pound.",
+    "sentenceTranslation": "然后他们意识到，为了一英镑，还得一路走过去，把购物车插回购物车队里。",
+    "sentenceVocab": "⭐ all the way over there —— 一路走到那边｜plug it in —— 插回去；连接回去｜trolley train —— 一排连在一起的购物车",
+    "startTime": 172.204,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:46:53.644Z"
   }
 ]
