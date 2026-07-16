@@ -9134,5 +9134,27 @@
     "startTime": 71.027,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:42:29.154Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-31-3-1784187827354",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 31,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "wordText": "put the prices up",
+    "category": "idiom",
+    "customLemma": "put the prices up",
+    "sentenceContext": "But they just put the prices up so people can feel good about themselves.&nbsp; &nbsp;I'm shopping at Waitrose! Yeah.",
+    "sentenceTranslation": "但他们只是把价格抬高，好让顾客觉得自己身份更高一点。 毕竟是在 Waitrose 买东西嘛！是吧。",
+    "sentenceVocab": "⭐ put the prices up —— 提高价格｜feel good about oneself —— 自我感觉良好",
+    "startTime": 78.444,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:43:47.354Z"
   }
 ]
