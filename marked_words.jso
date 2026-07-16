@@ -9683,5 +9683,21 @@
     "startTime": 40.673,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:04:01.343Z"
+  },
+  {
+    "id": "custom-Messi_The_Chosen_One___________mp4-5-21-1784185456639",
+    "materialId": "custom-Messi_The_Chosen_One___________mp4",
+    "materialTitle": "Messi The Chosen One - 梅西：天选之子.mp4",
+    "subtitleId": 5,
+    "wordIndex": 21,
+    "wordText": "assists",
+    "category": "vocab",
+    "customLemma": "assists",
+    "sentenceContext": "He has achieved a groundbreaking six Ballon d'Or awards, six European Golden Shoes, and holds records for the most goals and assists in La Liga history.",
+    "sentenceTranslation": "他获得了创纪录的六座金球奖、六座欧洲金靴奖，并保持着西甲历史进球数和助攻数最多的纪录。",
+    "sentenceVocab": "⭐ groundbreaking：开创性的；创纪录的｜hold records for：保持……纪录｜assists：助攻",
+    "startTime": 40.673,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:04:16.639Z"
   }
 ]
