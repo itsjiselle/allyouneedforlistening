@@ -9699,5 +9699,21 @@
     "startTime": 40.673,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:04:16.639Z"
+  },
+  {
+    "id": "custom-Messi_The_Chosen_One___________mp4-6-13-1784185479025",
+    "materialId": "custom-Messi_The_Chosen_One___________mp4",
+    "materialTitle": "Messi The Chosen One - 梅西：天选之子.mp4",
+    "subtitleId": 6,
+    "wordIndex": 13,
+    "wordText": "derailed",
+    "category": "vocab",
+    "customLemma": "derail",
+    "sentenceContext": "Diagnosed with a medical condition at just 11 years old that could have derailed his career before it even started, Messi defied expectations and stunned the world with his extraordinary footballing talent.",
+    "sentenceTranslation": "梅西在年仅11岁时便被诊断出患有一种可能让他的职业生涯尚未开始就夭折的疾病，但他打破了所有人的预期，并凭借非凡的足球天赋震惊了世界。",
+    "sentenceVocab": "⭐ be diagnosed with：被诊断患有｜medical condition：疾病；健康问题｜derail one's career：毁掉/中断某人的职业生涯｜defy expectations：打破预期；超出所有人的预料｜stun the world：震惊世界",
+    "startTime": 61.606,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:04:39.025Z"
   }
 ]
