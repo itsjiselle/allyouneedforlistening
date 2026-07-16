@@ -9363,7 +9363,39 @@
     "sentenceVocab": "⭐ tretinoin —— 维A酸（护肤成分）",
     "startTime": 399.221,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:59:34.979Z"
+    "dateAdded": "2026-07-15T07:59:34.979Z",
+    "translationCache": {
+      "lemma": "tretinoin",
+      "ipa": "/ˈtrɛtɪnoʊɪn/",
+      "translation": "n. 维A酸",
+      "pronunciationGuide": "",
+      "collocations": [
+        "prescribe tretinoin",
+        "tretinoin cream",
+        "use tretinoin for acne"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "皮肤科医生给我开了维A酸来治疗我的顽固痤疮。",
+          "english": "The dermatologist prescribed tretinoin to treat my stubborn acne."
+        },
+        {
+          "chinese": "许多护肤爱好者认为维A酸是抗衰老的黄金标准。",
+          "english": "Many skincare enthusiasts consider tretinoin the gold standard for anti-aging."
+        },
+        {
+          "chinese": "使用维A酸时，必须严格防晒，因为它会增加皮肤对阳光的敏感性。",
+          "english": "When using tretinoin, you must strictly apply sunscreen because it increases skin sensitivity to sunlight."
+        },
+        {
+          "chinese": "她开始使用维A酸乳膏后，皮肤质地有了显著改善。",
+          "english": "After she started using tretinoin cream, her skin texture improved significantly."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-82-5-1784102416320",
