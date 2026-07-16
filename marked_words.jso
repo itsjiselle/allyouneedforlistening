@@ -8540,7 +8540,35 @@
     "sentenceVocab": "⭐ made-up recipe —— 自己设计的配方｜boost up —— 提升；加强｜hyaluronic —— 透明质酸｜peptides —— 胜肽｜collagen —— 胶原蛋白｜be born —— 诞生",
     "startTime": 71.315,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:23:51.059Z"
+    "dateAdded": "2026-07-15T07:23:51.059Z",
+    "translationCache": {
+      "lemma": "hyaluronic",
+      "ipa": "/ˌhaɪəˈlʊrɑnɪk/",
+      "translation": "adj. 透明质酸的",
+      "pronunciationGuide": "",
+      "collocations": [
+        "hyaluronic acid",
+        "hyaluronic acid serum",
+        "hyaluronic acid injection"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这款精华液含有高浓度的透明质酸，能深层补水。",
+          "english": "This serum contains a high concentration of hyaluronic acid, which provides deep hydration."
+        },
+        {
+          "chinese": "随着年龄增长，皮肤中的透明质酸含量会逐渐减少。",
+          "english": "As we age, the level of hyaluronic acid in our skin gradually decreases."
+        },
+        {
+          "chinese": "许多护肤品都宣称含有透明质酸，但实际效果可能因配方而异。",
+          "english": "Many skincare products claim to contain hyaluronic acid, but the actual effectiveness may vary depending on the formulation."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-14-31-1784100233365",
