@@ -9758,5 +9758,30 @@
     "startTime": 61.606,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:05:06.979Z"
+  },
+  {
+    "id": "custom-Messi_The_Chosen_One___________mp4-7-0-1784185532474",
+    "materialId": "custom-Messi_The_Chosen_One___________mp4",
+    "materialTitle": "Messi The Chosen One - 梅西：天选之子.mp4",
+    "subtitleId": 7,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "wordText": "Statistics and history go out the window",
+    "category": "idiom",
+    "customLemma": "Statistics and history go out the window",
+    "sentenceContext": "Statistics and history go out the window, the way he's playing.",
+    "sentenceTranslation": "按照他现在这种踢法，数据和历史纪录都显得无关紧要了。",
+    "sentenceVocab": "⭐ go out the window：变得毫无意义；被抛诸脑后",
+    "startTime": 72.694,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:05:32.474Z"
   }
 ]
