@@ -9247,5 +9247,21 @@
     "startTime": 145.426,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:45:35.615Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-56-8-1784187962796",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 56,
+    "wordIndex": 8,
+    "wordText": "unload",
+    "category": "idiom",
+    "customLemma": "unload",
+    "sentenceContext": "So they get to the Range Rover. They unload their shopping in the back.",
+    "sentenceTranslation": "于是他们走到自己的路虎旁。 他们把买来的东西放到后备箱。",
+    "sentenceVocab": "⭐ unload —— 卸下；搬下",
+    "startTime": 164.05,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:46:02.796Z"
   }
 ]
