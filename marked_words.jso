@@ -9288,5 +9288,29 @@
     "startTime": 172.204,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:46:53.644Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-63-1-1784188041033",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 63,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "wordText": "I didn't really see the point",
+    "category": "idiom",
+    "customLemma": "I don't really see the point",
+    "sentenceContext": "So I didn't really see the point.",
+    "sentenceTranslation": "所以我觉得根本没必要。",
+    "sentenceVocab": "⭐ see the point —— 觉得有意义；理解这么做的价值",
+    "startTime": 185.053,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:47:21.033Z"
   }
 ]
