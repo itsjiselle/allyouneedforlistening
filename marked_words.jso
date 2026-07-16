@@ -9192,5 +9192,28 @@
     "startTime": 125.894,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:44:51.872Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-45-14-1784187904672",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 45,
+    "wordIndex": 14,
+    "wordIndices": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "wordText": "those days are behind you",
+    "category": "pattern",
+    "customLemma": "those days are behind you",
+    "sentenceContext": "You see, once you've got a certain amount of money, this, this, and this, those days are behind you.",
+    "sentenceTranslation": "你看，一旦有了一定财富，这些事情就已经成为过去了。",
+    "sentenceVocab": "⭐ a certain amount of —— 一定数量的｜be behind you —— 已经成为过去",
+    "startTime": 127.364,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:45:04.672Z"
   }
 ]
