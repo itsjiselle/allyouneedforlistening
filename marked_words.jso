@@ -9113,5 +9113,26 @@
     "startTime": 65.988,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:42:12.148Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-29-0-1784187749154",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 29,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      3
+    ],
+    "wordText": "Just so ... knows",
+    "category": "pattern",
+    "customLemma": "Just so ... knows",
+    "sentenceContext": "Just so everybody knows that they can afford Waitrose.",
+    "sentenceTranslation": "就是为了让大家知道他们买得起 Waitrose。",
+    "sentenceVocab": "⭐ just so… —— 就是为了……",
+    "startTime": 71.027,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:42:29.154Z"
   }
 ]
