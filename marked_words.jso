@@ -9112,7 +9112,35 @@
     "sentenceVocab": "⭐ drop… into a conversation —— 在聊天中顺带提起",
     "startTime": 65.988,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:42:12.148Z"
+    "dateAdded": "2026-07-16T07:42:12.148Z",
+    "translationCache": {
+      "lemma": "drop it into conversations",
+      "ipa": "/drɑp ɪt ˈɪntu ˌkɑnvərˈseɪʃənz/",
+      "translation": "（在谈话中）不经意地提及",
+      "pronunciationGuide": "",
+      "collocations": "drop it into a conversation, casually drop it into conversations, drop it into everyday conversations",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他总是喜欢在谈话中不经意地提起他去过多少个国家，这让人有点烦。",
+          "english": "He always likes to drop it into conversations how many countries he has visited, which is a bit annoying."
+        },
+        {
+          "chinese": "在面试中，她巧妙地提到了她曾在知名公司工作的经历。",
+          "english": "During the interview, she skillfully dropped it into conversations that she had worked at a well-known company."
+        },
+        {
+          "chinese": "为了显得自己很懂行，他经常在讨论中不经意地提到最新的科技术语。",
+          "english": "To appear knowledgeable, he often drops it into conversations the latest tech jargon."
+        },
+        {
+          "chinese": "她不经意地提到她认识那位名人，让所有人都印象深刻。",
+          "english": "She casually dropped it into conversations that she knew the celebrity, impressing everyone."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-29-0-1784187749154",
