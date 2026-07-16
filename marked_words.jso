@@ -9332,5 +9332,25 @@
     "startTime": 201.233,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:47:50.744Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-67-10-1784188079955",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 67,
+    "wordIndex": 10,
+    "wordIndices": [
+      10,
+      11
+    ],
+    "wordText": "collides with",
+    "category": "idiom",
+    "customLemma": "collide with",
+    "sentenceContext": "And then the trolley sort of rolls away and then collides with another Range Rover.",
+    "sentenceTranslation": "然后购物车慢慢滑走，又撞上另一辆路虎。",
+    "sentenceVocab": "⭐ roll away —— 滚走；滑走｜collide with —— 撞上",
+    "startTime": 201.233,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:47:59.955Z"
   }
 ]
