@@ -9036,39 +9036,7 @@
     "sentenceVocab": "⭐ at least —— 至少｜on the way round —— 逛的时候；一路上",
     "startTime": 17.518,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:40:30.940Z",
-    "translationCache": {
-      "lemma": "on the way round it",
-      "ipa": "/ɒn ðə weɪ raʊnd ɪt/",
-      "translation": "在去某地的途中（顺便做某事）",
-      "pronunciationGuide": "",
-      "collocations": [
-        "eat on the way round it",
-        "stop on the way round it",
-        "do something on the way round it"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "虽然超市就在附近，但我总是忍不住在去的路上买零食吃。",
-          "english": "Although the supermarket is nearby, I can't help but buy snacks to eat on the way round it."
-        },
-        {
-          "chinese": "他建议我们在去公园的路上顺便取干洗的衣服。",
-          "english": "He suggested we pick up (collect) the dry cleaning on the way round it to the park."
-        },
-        {
-          "chinese": "为了避免在去健身房的路上吃垃圾食品，她特意带了健康零食。",
-          "english": "To avoid eating junk food on the way round it to the gym, she brought healthy snacks on purpose."
-        },
-        {
-          "chinese": "我们可以在去机场的路上顺便拜访一下奶奶吗？",
-          "english": "Can we drop in on (visit) Grandma on the way round it to the airport?"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-16T07:40:30.940Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-11-18-1784187668228",
@@ -9484,6 +9452,7 @@
           "english": "We need to figure out how to get this project done before the deadline."
         }
       ]
-    }
+    },
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“I finished my old shopping”，但老外会说“Get my old shopping done”——后者强调**搞定**一件麻烦事，有种“终于甩掉包袱”的爽感。中式英语像白开水，地道表达像冰可乐。  \n\n**2. 学术深度分析与语用场景**  \n“Get something done”是**使役结构**，暗示动作由他人或外力完成，但这里“get done”带点**自嘲式抱怨**：比如你被逼着用优惠券（quid）买完旧货，像完成一项苦差事。感情色彩：**戏谑+无奈**，适合吐槽生活琐事。  \n\n**3. 趣味记忆**  \n想象你是个黑帮老大，对手下吼：“Get that shopping done, you idiots!”——购物像执行任务，**done**就是“搞定收工”。谐音梗：**“搞掂”**（粤语）= get done，瞬间记住！"
   }
 ]
