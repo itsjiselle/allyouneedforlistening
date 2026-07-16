@@ -9171,7 +9171,40 @@
     "sentenceVocab": "⭐ condiments —— 调味品；佐料｜do what you like —— 随你们处置",
     "startTime": 100.188,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:44:17.365Z"
+    "dateAdded": "2026-07-16T07:44:17.365Z",
+    "translationCache": {
+      "lemma": "condiment",
+      "ipa": "/ˈkɑːndɪmənt/",
+      "translation": "n. 调味品；佐料",
+      "pronunciationGuide": "",
+      "collocations": [
+        "a bottle of condiment",
+        "condiment shelf",
+        "various condiments",
+        "add condiments"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在吃薯条之前，我喜欢在盘子里倒上各种调味品。",
+          "english": "Before eating fries, I like to pour various condiments onto my plate."
+        },
+        {
+          "chinese": "这家餐厅的调味品吧台提供超过十种不同的酱料和佐料。",
+          "english": "The condiment bar at this restaurant offers over ten different sauces and seasonings."
+        },
+        {
+          "chinese": "为了减少钠摄入，你应该限制使用高盐调味品。",
+          "english": "To reduce sodium intake, you should limit the use of high-salt condiments."
+        },
+        {
+          "chinese": "野餐时别忘了带齐所有调味品，否则汉堡会没味道。",
+          "english": "Don't forget to bring all the condiments for the picnic, otherwise the burgers will be bland."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-44-2-1784187891872",
