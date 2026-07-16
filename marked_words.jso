@@ -9327,7 +9327,11 @@
           "english": "He often vents about traffic conditions on social media."
         }
       ]
-    }
+    },
+    "customTranslation": "v. 发泄（情绪），倾诉（烦恼）",
+    "customTopicIds": [
+      "topic-daily"
+    ]
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-72-18-1784102358013",
