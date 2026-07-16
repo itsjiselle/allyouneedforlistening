@@ -9387,6 +9387,38 @@
     "sentenceVocab": "⭐ quid —— 一英镑（英式俚语）｜get…done —— 把……搞定",
     "startTime": 218.487,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:48:37.879Z"
+    "dateAdded": "2026-07-16T07:48:37.879Z",
+    "translationCache": {
+      "lemma": "get something done",
+      "ipa": "/ɡɛt ˈsʌmθɪŋ dʌn/",
+      "translation": "完成某事；让别人做某事",
+      "pronunciationGuide": "",
+      "collocations": [
+        "get the work done",
+        "get it done",
+        "get things done"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "我必须在本周末前完成这份报告，否则老板会生气。",
+          "english": "I must get this report done by the weekend, or the boss will be angry."
+        },
+        {
+          "chinese": "你能在明天之前把车修好吗？我急需用它。",
+          "english": "Can you get the car repaired (fixed up) by tomorrow? I need it urgently."
+        },
+        {
+          "chinese": "她总是能高效地完成任务，因此深受同事尊敬。",
+          "english": "She always gets things done efficiently, which earns her great respect from colleagues."
+        },
+        {
+          "chinese": "我们得想办法让这个项目在截止日期前完成。",
+          "english": "We need to figure out how to get this project done before the deadline."
+        }
+      ]
+    }
   }
 ]
