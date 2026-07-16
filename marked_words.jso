@@ -9215,5 +9215,21 @@
     "startTime": 127.364,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:45:04.672Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-49-14-1784187922964",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 49,
+    "wordIndex": 14,
+    "wordText": "boot",
+    "category": "vocab",
+    "customLemma": "boot",
+    "sentenceContext": "The more posh you are, the further away from the vehicle you pop the boot open.",
+    "sentenceTranslation": "越是\"贵族范儿\"，越喜欢离车老远就把后备箱打开。",
+    "sentenceVocab": "⭐ The + 比较级…, the + 比较级… —— 越……越……｜vehicle —— 车辆｜posh —— 上流的；高档的",
+    "startTime": 141.258,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:45:22.964Z"
   }
 ]
