@@ -9037,5 +9037,37 @@
     "startTime": 17.518,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:40:30.940Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-11-18-1784187668228",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 11,
+    "wordIndex": 18,
+    "wordText": "wrappers",
+    "category": "vocab",
+    "customLemma": "wrappers",
+    "sentenceContext": "And then you have that horrible moment of confession, with the till, when you have to just present wrappers.",
+    "sentenceTranslation": "接着就到了那个令人尴尬的\"坦白时刻\"——站在收银台前，只能把包装纸递给收银员。",
+    "sentenceVocab": "⭐ moment of confession —— 坦白时刻｜till —— 收银台（英式英语）｜present —— 出示（正式）｜wrapper —— 包装纸",
+    "startTime": 26.243,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:41:08.228Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-11-11-1784187670310",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 11,
+    "wordIndex": 11,
+    "wordText": "till",
+    "category": "vocab",
+    "customLemma": "till",
+    "sentenceContext": "And then you have that horrible moment of confession, with the till, when you have to just present wrappers.",
+    "sentenceTranslation": "接着就到了那个令人尴尬的\"坦白时刻\"——站在收银台前，只能把包装纸递给收银员。",
+    "sentenceVocab": "⭐ moment of confession —— 坦白时刻｜till —— 收银台（英式英语）｜present —— 出示（正式）｜wrapper —— 包装纸",
+    "startTime": 26.243,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:41:10.310Z"
   }
 ]
