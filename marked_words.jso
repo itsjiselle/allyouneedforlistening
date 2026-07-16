@@ -9622,5 +9622,25 @@
         }
       ]
     }
+  },
+  {
+    "id": "custom-Messi_The_Chosen_One___________mp4-2-0-1784185416922",
+    "materialId": "custom-Messi_The_Chosen_One___________mp4",
+    "materialTitle": "Messi The Chosen One - 梅西：天选之子.mp4",
+    "subtitleId": 2,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1
+    ],
+    "wordText": "Hailed by",
+    "category": "idiom",
+    "customLemma": "Hailed by",
+    "sentenceContext": "Hailed by football enthusiasts, analysts, and even fellow professionals as the greatest footballer to ever play the sport.",
+    "sentenceTranslation": "被足球爱好者、分析师，甚至同行职业球员誉为有史以来最伟大的足球运动员。",
+    "sentenceVocab": "⭐ hailed as：被誉为｜fellow professionals：同行的职业人士｜to ever play the sport：有史以来踢过这项运动的人",
+    "startTime": 9.23,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:03:36.922Z"
   }
 ]
