@@ -9172,5 +9172,25 @@
     "startTime": 100.188,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:44:17.365Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-44-2-1784187891872",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 44,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      5
+    ],
+    "wordText": "pop ... open",
+    "category": "idiom",
+    "customLemma": "pop ... open",
+    "sentenceContext": "Oh, they pop the boot open as well.",
+    "sentenceTranslation": "哦，他们还会提前把后备箱打开。",
+    "sentenceVocab": "⭐ pop the boot open —— 一键打开后备箱（英式，非常地道）｜boot —— 汽车后备箱（英式，美式为 trunk）",
+    "startTime": 125.894,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:44:51.872Z"
   }
 ]
