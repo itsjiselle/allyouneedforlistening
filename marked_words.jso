@@ -9231,5 +9231,21 @@
     "startTime": 141.258,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:45:22.964Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-50-4-1784187935615",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 50,
+    "wordIndex": 4,
+    "wordText": "treacherous",
+    "category": "vocab",
+    "customLemma": "treacherous",
+    "sentenceContext": "It can become quite treacherous for other people walking in the car park, because these boots start flying up all over the place.",
+    "sentenceTranslation": "这对停车场里的其他人来说可能相当危险，因为到处都有后备箱突然弹起来。",
+    "sentenceVocab": "⭐ treacherous —— 危险的；暗藏风险的（C1）｜all over the place —— 到处都是｜fly up —— 猛地弹开",
+    "startTime": 145.426,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:45:35.615Z"
   }
 ]
