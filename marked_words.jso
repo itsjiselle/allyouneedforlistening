@@ -9368,5 +9368,25 @@
     "startTime": 218.487,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:48:27.779Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-71-0-1784188117879",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 71,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      4
+    ],
+    "wordText": "Get ... done",
+    "category": "idiom",
+    "customLemma": "Get ... done",
+    "sentenceContext": "Get my old shopping done on that quid, you idiots. \"",
+    "sentenceTranslation": "靠这一镑，我下次买东西的钱都有了，你们这帮傻瓜。\"",
+    "sentenceVocab": "⭐ quid —— 一英镑（英式俚语）｜get…done —— 把……搞定",
+    "startTime": 218.487,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:48:37.879Z"
   }
 ]
