@@ -9091,5 +9091,27 @@
     "startTime": 40.872,
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:41:40.262Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-27-8-1784187732148",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 27,
+    "wordIndex": 8,
+    "wordIndices": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "wordText": "drop it into conversations",
+    "category": "idiom",
+    "customLemma": "drop it into conversations",
+    "sentenceContext": "People who shop at Waitrose, they like to drop it into conversations.",
+    "sentenceTranslation": "去 Waitrose 买东西的人，总喜欢把这件事不经意地带进聊天里。",
+    "sentenceVocab": "⭐ drop… into a conversation —— 在聊天中顺带提起",
+    "startTime": 65.988,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:42:12.148Z"
   }
 ]
