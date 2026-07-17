@@ -10855,5 +10855,21 @@
     "startTime": 146.968,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:25:47.407Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-34-13-1784258916904",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 34,
+    "wordIndex": 13,
+    "wordText": "whining",
+    "category": "vocab",
+    "customLemma": "whine",
+    "sentenceContext": "Is there a more sinister sound out there than a cat sort of whining?",
+    "sentenceTranslation": "还有什么声音能比发情的猫叫更阴森吗？",
+    "sentenceVocab": "⭐ whine —— 呜咽；哀叫；发出尖细拖长的声音｜sinister —— 阴森的；不祥的",
+    "startTime": 175.174,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:28:36.904Z"
   }
 ]
