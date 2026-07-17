@@ -10859,7 +10859,39 @@
     "sentenceVocab": "⭐ drift into… —— 不知不觉偏到……；漂到……",
     "startTime": 131.214,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:24:51.069Z"
+    "dateAdded": "2026-07-17T03:24:51.069Z",
+    "translationCache": {
+      "lemma": "drift into",
+      "ipa": "/drɪft ˈɪntuː/",
+      "translation": "v. 不知不觉地进入（某种状态或情况）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "drift into sleep",
+        "drift into a conversation",
+        "drift into bad habits"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他不知不觉地养成了每天熬夜的习惯。",
+          "english": "He drifted into the habit of staying up late every day."
+        },
+        {
+          "chinese": "会议逐渐变成了一场关于预算的激烈争论。",
+          "english": "The meeting drifted into a heated argument about the budget."
+        },
+        {
+          "chinese": "她发现自己不知不觉地开始思考人生的意义。",
+          "english": "She found herself drifting into thoughts about the meaning of life."
+        },
+        {
+          "chinese": "这个国家在不知不觉中陷入了经济危机。",
+          "english": "The country drifted into an economic crisis without anyone noticing."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-27-25-1784258716604",
