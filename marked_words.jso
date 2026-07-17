@@ -10658,7 +10658,35 @@
     "sentenceVocab": "⭐ move in —— 搬进去｜run around —— 跑来跑去｜couldn't believe it —— 简直不敢相信｜giggle —— 咯咯笑｜hold hands —— 牵手",
     "startTime": 30.699,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:20:54.226Z"
+    "dateAdded": "2026-07-17T03:20:54.226Z",
+    "translationCache": {
+      "lemma": "giggle",
+      "ipa": "/ˈɡɪɡəl/",
+      "translation": "v. 咯咯笑，傻笑",
+      "pronunciationGuide": "",
+      "collocations": "giggle nervously, giggle uncontrollably, burst into giggles, a fit of giggles",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "当老师讲了一个冷笑话时，全班同学都忍不住咯咯笑了起来。",
+          "english": "The whole class couldn't help but giggle when the teacher told a lame joke."
+        },
+        {
+          "chinese": "她每次见到偶像都会紧张得咯咯傻笑，像个十几岁的少女。",
+          "english": "She would nervously giggle like a teenager every time she saw her idol."
+        },
+        {
+          "chinese": "孩子们在生日派对上收到礼物时，兴奋地咯咯笑个不停。",
+          "english": "The children kept giggling with excitement as they received gifts at the birthday party."
+        },
+        {
+          "chinese": "尽管会议很严肃，但那个小失误还是让几位同事偷偷咯咯笑了起来。",
+          "english": "Despite the serious meeting, that small mistake made a few colleagues secretly giggle."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-10-3-1784258484207",
