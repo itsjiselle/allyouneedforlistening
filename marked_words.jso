@@ -10659,5 +10659,25 @@
     "startTime": 30.699,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:20:54.226Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-10-3-1784258484207",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 10,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4
+    ],
+    "wordText": "multicoloured birds",
+    "category": "idiom",
+    "customLemma": "multicoloured birds",
+    "sentenceContext": "And all these multicoloured birds coming out of the woods, like they were welcoming us to the country, making lovely noises.",
+    "sentenceTranslation": "然后各种五彩斑斓的小鸟从树林里飞出来，仿佛在欢迎我们来到乡村，还发出悦耳的叫声。",
+    "sentenceVocab": "⭐ multicoloured —— 五彩斑斓的｜come out of… —— 从……出来｜welcome somebody to… —— 欢迎某人来到……",
+    "startTime": 60.324,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:21:24.207Z"
   }
 ]
