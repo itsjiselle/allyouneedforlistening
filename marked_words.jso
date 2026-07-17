@@ -10915,5 +10915,26 @@
     "startTime": 220.923,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:30:04.538Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-49-1-1784259053030",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 49,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3
+    ],
+    "wordText": "Why don't you",
+    "category": "pattern",
+    "customLemma": "Why don't you ...(do something)",
+    "sentenceContext": "Or, \"Why don't you swap postcodes with that house?\"",
+    "sentenceTranslation": "或者：\"你干脆和那户人家交换邮编吧。\"",
+    "sentenceVocab": "⭐ swap —— 交换",
+    "startTime": 242.715,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:30:53.030Z"
   }
 ]
