@@ -11165,7 +11165,35 @@
     "sentenceVocab": "⭐ dip —— 路面的凹陷；下坡｜slight —— 轻微的",
     "startTime": 251.669,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:31:10.749Z"
+    "dateAdded": "2026-07-17T03:31:10.749Z",
+    "translationCache": {
+      "lemma": "dip",
+      "ipa": "/dɪp/",
+      "translation": "n. 凹陷，下坡；v. 浸，蘸；下降",
+      "pronunciationGuide": "",
+      "collocations": "a dip in the road, slight dip, sharp dip, dip in temperature, dip into savings",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "开车时，你会感觉到路面有一个轻微的凹陷，但可能看不见它。",
+          "english": "When driving, you will feel a slight dip in the road, but you may not see it."
+        },
+        {
+          "chinese": "经济衰退导致房价出现了明显的下跌。",
+          "english": "The economic recession caused a significant dip in housing prices."
+        },
+        {
+          "chinese": "她将饼干蘸进咖啡里，然后迅速拿出来。",
+          "english": "She dipped the biscuit into her coffee and quickly took it out."
+        },
+        {
+          "chinese": "气温在傍晚会骤降，所以请带上外套。",
+          "english": "The temperature will dip sharply in the evening, so please bring a jacket."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-52-19-1784259078526",
