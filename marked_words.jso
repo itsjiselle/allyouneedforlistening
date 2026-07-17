@@ -11004,5 +11004,21 @@
     "startTime": 256.382,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:31:24.923Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-54-6-1784259097479",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 54,
+    "wordIndex": 6,
+    "wordText": "hedge",
+    "category": "vocab",
+    "customLemma": "hedge",
+    "sentenceContext": "You think you're driving into a hedge, you've got to trust it's there, you've got to trust it's there. \"",
+    "sentenceTranslation": "你会觉得自己要直接开进树篱里了，但你得相信路就在那儿，真的得相信。\"",
+    "sentenceVocab": "⭐ hedge —— 树篱｜trust —— 相信（这里指相信道路存在）",
+    "startTime": 260.082,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:31:37.479Z"
   }
 ]
