@@ -10894,5 +10894,26 @@
     "startTime": 186.039,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:28:53.888Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-43-4-1784259004538",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 43,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      6
+    ],
+    "wordText": "in my face",
+    "category": "idiom",
+    "customLemma": "in one's face",
+    "sentenceContext": "It was a fox in my face.",
+    "sentenceTranslation": "结果一只狐狸就在我眼前。",
+    "sentenceVocab": "⭐ in my face —— 就在眼前；贴到脸上（口语）",
+    "startTime": 220.923,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:30:04.538Z"
   }
 ]
