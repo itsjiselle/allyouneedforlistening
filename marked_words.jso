@@ -10914,7 +10914,35 @@
     "sentenceVocab": "⭐ disappear into thin air —— 凭空消失（★★★★★）｜for a second —— 一瞬间",
     "startTime": 137.601,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:25:16.604Z"
+    "dateAdded": "2026-07-17T03:25:16.604Z",
+    "translationCache": {
+      "lemma": "disappear into thin air",
+      "ipa": "/ˌdɪsəˈpɪr ˈɪntuː θɪn ɛr/",
+      "translation": "消失得无影无踪",
+      "pronunciationGuide": "",
+      "collocations": "vanish into thin air, go into thin air, disappear like into thin air",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "魔术师一挥手，硬币就消失得无影无踪。",
+          "english": "The magician waved his hand, and the coin disappeared into thin air."
+        },
+        {
+          "chinese": "我的钥匙明明放在桌上，现在却消失得无影无踪。",
+          "english": "My keys were clearly on the table, but now they have disappeared into thin air."
+        },
+        {
+          "chinese": "目击者声称看到不明飞行物后，它便消失得无影无踪。",
+          "english": "The witness claimed that after seeing the UFO, it vanished into thin air."
+        },
+        {
+          "chinese": "那个嫌疑人似乎从监控摄像头前消失得无影无踪。",
+          "english": "The suspect seemed to disappear into thin air right in front of the surveillance camera."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-29-3-1784258726550",
