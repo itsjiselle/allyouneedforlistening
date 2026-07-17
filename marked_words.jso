@@ -10936,5 +10936,21 @@
     "startTime": 242.715,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:30:53.030Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-50-12-1784259066495",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 50,
+    "wordIndex": 12,
+    "wordText": "cottage",
+    "category": "vocab",
+    "customLemma": "cottage",
+    "sentenceContext": "Every house just has names. The Glebe House, the Rectory, the little cottage on the hill.",
+    "sentenceTranslation": "每栋房子都只有名字。 比如\"Glebe House\"\"The Rectory\"\"山坡上的小屋\"之类的名字。",
+    "sentenceVocab": "⭐ cottage —— 乡间小屋",
+    "startTime": 245.979,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:31:06.495Z"
   }
 ]
