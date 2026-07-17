@@ -11277,6 +11277,43 @@
     "sentenceVocab": "⭐ what concerns me is… —— 我真正担心的是……（★★★★★）｜at this very moment —— 就在此刻",
     "startTime": 317.733,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:34:28.000Z"
+    "dateAdded": "2026-07-17T03:34:28.000Z",
+    "translationCache": {
+      "lemma": "...(某种情况), but what concerns me at this very moment is ...",
+      "ipa": "",
+      "translation": "……（某种情况），但此刻我担心的是……",
+      "pronunciationGuide": "该句式用于转折，先承认或描述一种情况，然后强调当前最关心或担忧的另一件事。'but' 表示转折，'what concerns me at this very moment' 是主语从句，'is' 后接表语从句或名词短语。注意 'at this very moment' 强调此刻，语气强烈。常见错误：漏掉 'at' 或误用 'at the moment'。",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to acknowledge a situation but then shift focus to the most pressing concern at the present moment.",
+      "patternPractice": [
+        {
+          "chinese": "我知道这很困难，但此刻我担心的是时间不够。",
+          "english": "I know it's difficult, but what concerns me at this very moment is that we don't have enough time.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "他确实很努力，但此刻我担心的是他的健康。",
+          "english": "He is indeed hardworking, but what concerns me at this very moment is his health.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "项目进展顺利，但此刻我担心的是预算可能会超支。",
+          "english": "The project is going well, but what concerns me at this very moment is that the budget might be exceeded (go over).",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "我们收到了很多申请，但此刻我担心的是我们能否找到合适的人选。",
+          "english": "We have received many applications, but what concerns me at this very moment is whether we can find (come up with) the right candidate.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "虽然大家都同意这个计划，但此刻我担心的是执行过程中可能出现的意外情况。",
+          "english": "Although everyone agrees with the plan, what concerns me at this very moment is the unexpected situations that may arise (crop up) during implementation.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   }
 ]
