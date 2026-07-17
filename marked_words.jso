@@ -11279,7 +11279,44 @@
     "sentenceVocab": "⭐ might as well… —— 还不如……（★★★★★）｜pass… on to… —— 把……转告/传递给……｜burglar —— 入室盗贼",
     "startTime": 274.867,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:32:27.214Z"
+    "dateAdded": "2026-07-17T03:32:27.214Z",
+    "translationCache": {
+      "lemma": "You might as well ...",
+      "ipa": "",
+      "translation": "你倒不如……；你最好还是……",
+      "pronunciationGuide": "该句式表示建议或劝告，语气委婉，意为“倒不如……”、“不妨……”。结构为“You might as well + 动词原形”。注意：might as well 后接动词原形，不可接不定式或动名词。常见错误：误用为“You might as well to do”。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to suggest that doing something is advisable or reasonable, often because there is no better alternative.",
+      "patternPractice": [
+        {
+          "chinese": "你倒不如现在就出发。",
+          "english": "You might as well set off (start out) now.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "既然下雨了，你倒不如待在家里。",
+          "english": "Since it's raining, you might as well stay (remain) at home.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你倒不如把旧书捐给图书馆。",
+          "english": "You might as well donate (give away) the old books to the library.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "既然你已经完成了任务，你倒不如去休息一下。",
+          "english": "Since you have finished the task, you might as well take (have) a rest.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你倒不如接受这个提议，因为其他选择都不太好。",
+          "english": "You might as well accept (take up) the offer, because the other options are not good.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-60-2-1784259182231",
