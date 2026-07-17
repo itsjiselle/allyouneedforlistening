@@ -10741,5 +10741,21 @@
     "startTime": 90.338,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:22:52.471Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-21-0-1784258580889",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 21,
+    "wordIndex": 0,
+    "wordText": "Sinister",
+    "category": "vocab",
+    "customLemma": "Sinister",
+    "sentenceContext": "Sinister sounds.",
+    "sentenceTranslation": "阴森恐怖的声音。",
+    "sentenceVocab": "⭐ sinister —— 阴森的；不祥的（★★★★★）",
+    "startTime": 99.11099999999999,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:23:00.889Z"
   }
 ]
