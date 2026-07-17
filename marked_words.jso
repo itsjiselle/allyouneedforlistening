@@ -11040,5 +11040,27 @@
     "startTime": 272.421,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:32:04.096Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-58-4-1784259141421",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 58,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "wordText": "pass it on to",
+    "category": "idiom",
+    "customLemma": "pass it on to someone",
+    "sentenceContext": "You might as well pass it on to the burglar.",
+    "sentenceTranslation": "你还不如直接把地址告诉小偷算了。",
+    "sentenceVocab": "⭐ might as well… —— 还不如……（★★★★★）｜pass… on to… —— 把……转告/传递给……｜burglar —— 入室盗贼",
+    "startTime": 274.867,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:32:21.421Z"
   }
 ]
