@@ -10679,5 +10679,26 @@
     "startTime": 60.324,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:21:24.207Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-13-2-1784258529722",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 13,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      4
+    ],
+    "wordText": "sun went down",
+    "category": "idiom",
+    "customLemma": "sun goes down",
+    "sentenceContext": "Then the sun went down completely.",
+    "sentenceTranslation": "然后太阳彻底落山了。",
+    "sentenceVocab": "⭐ go down —— （太阳）落山",
+    "startTime": 75.514,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:22:09.722Z"
   }
 ]
