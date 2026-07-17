@@ -10819,5 +10819,21 @@
     "startTime": 137.601,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:25:16.604Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-29-3-1784258726550",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 29,
+    "wordIndex": 3,
+    "wordText": "vile",
+    "category": "vocab",
+    "customLemma": "vile",
+    "sentenceContext": "They make this vile sort of…",
+    "sentenceTranslation": "它们会发出一种特别恶心的声音……",
+    "sentenceVocab": "⭐ vile —— 令人作呕的；极其难听的（C1）",
+    "startTime": 145.534,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:25:26.550Z"
   }
 ]
