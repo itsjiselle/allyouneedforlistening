@@ -10757,5 +10757,25 @@
     "startTime": 99.11099999999999,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:23:00.889Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-25-8-1784258608877",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 25,
+    "wordIndex": 8,
+    "wordIndices": [
+      8,
+      9
+    ],
+    "wordText": "edging to",
+    "category": "vocab",
+    "customLemma": "edge to",
+    "sentenceContext": "My whole family holding hands in a 360, edging to where we hoped the house was.&nbsp; &nbsp; &nbsp;I want to go home!&nbsp;",
+    "sentenceTranslation": "我们全家手牵着手围成一圈，小心翼翼地一点一点挪向我们希望是房子的方向。 我要回家！",
+    "sentenceVocab": "⭐ edge towards… —— 小心翼翼地慢慢挪向……｜hold hands —— 牵手（💡这里 edge 是非常好的 C1 动词，表示\"缓慢、谨慎地移动\"。）",
+    "startTime": 120.725,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:23:28.877Z"
   }
 ]
