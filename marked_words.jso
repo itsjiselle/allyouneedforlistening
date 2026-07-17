@@ -10914,7 +10914,39 @@
     "sentenceVocab": "⭐ in my face —— 就在眼前；贴到脸上（口语）",
     "startTime": 220.923,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:30:04.538Z"
+    "dateAdded": "2026-07-17T03:30:04.538Z",
+    "translationCache": {
+      "lemma": "in one's face",
+      "ipa": "/ɪn wʌnz feɪs/",
+      "translation": "（习语）当面；直接地；公然反对",
+      "pronunciationGuide": "",
+      "collocations": [
+        "throw something in someone's face",
+        "laugh in someone's face",
+        "slam the door in someone's face"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他当着我的面撒谎，我简直不敢相信。",
+          "english": "He lied right in my face, and I couldn't believe it."
+        },
+        {
+          "chinese": "她把辞职信甩在我面前，然后头也不回地走了。",
+          "english": "She threw the resignation letter in my face and walked away without looking back."
+        },
+        {
+          "chinese": "别在我面前炫耀你的新车了，我知道你买不起。",
+          "english": "Stop flaunting your new car in my face; I know you can't afford it."
+        },
+        {
+          "chinese": "他当着所有人的面嘲笑我的提议，让我很尴尬。",
+          "english": "He laughed at my proposal in front of everyone, right in my face, which embarrassed me."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-49-1-1784259053030",
