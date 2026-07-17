@@ -10700,5 +10700,25 @@
     "startTime": 75.514,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:22:09.722Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-15-0-1784258538996",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 15,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1
+    ],
+    "wordText": "Pitch black",
+    "category": "idiom",
+    "customLemma": "Pitch black",
+    "sentenceContext": "Pitch black, terrified.",
+    "sentenceTranslation": "黑得伸手不见五指，我们吓坏了。",
+    "sentenceVocab": "⭐ pitch black —— 漆黑一片（★★★★★）｜terrified —— 吓坏了",
+    "startTime": 79.812,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:22:18.996Z"
   }
 ]
