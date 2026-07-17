@@ -10777,5 +10777,25 @@
     "startTime": 120.725,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:23:28.877Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-26-1-1784258691069",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 26,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2
+    ],
+    "wordText": "drifting into",
+    "category": "vocab",
+    "customLemma": "drift into",
+    "sentenceContext": "We're drifting into the neighbour's fields.&nbsp; And foxes.",
+    "sentenceTranslation": "我们都快漂到邻居家的田里去了。 还有狐狸。",
+    "sentenceVocab": "⭐ drift into… —— 不知不觉偏到……；漂到……",
+    "startTime": 131.214,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:24:51.069Z"
   }
 ]
