@@ -10892,7 +10892,8 @@
           "english": "The country drifted into an economic crisis without anyone noticing."
         }
       ]
-    }
+    },
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“slowly enter”或“gradually go into”，但 native speaker 用 **drift into** 强调一种**无意识、被动、缓慢**的移动，像被风吹着走。比如“drift into sleep”不是“慢慢睡着”，而是“不知不觉滑入梦乡”。这里说“drift into neighbour's fields”暗示主角**没注意边界**，像漂流一样越界了，比“walk into”更生动。\n\n**2. 学术深度分析**  \n*Drift* 本意是“漂流”，所以 **drift into** 带有**被动、缓慢、甚至有点失控**的语感。感情色彩偏**中性或戏谑**，常用于描述无意的行为或状态变化。比如“drift into a conversation”表示“偶然加入谈话”。在专业汇报中，可以说“The project drifted into a different scope”，暗示范围不知不觉扩大了。\n\n**3. 趣味记忆**  \n想象你是一只**狐狸**（fox），偷偷溜进邻居的鸡舍，不是“跑进去”，而是“飘进去”——**drift into** 就像狐狸的轻手轻脚，加上“and foxes”这个梗，画面感爆棚！谐音梗：**“坠入”** 谐音 **“drift into”**，但“坠”是掉下去，而“drift”是飘着掉，更优雅。"
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-27-25-1784258716604",
@@ -10914,35 +10915,7 @@
     "sentenceVocab": "⭐ disappear into thin air —— 凭空消失（★★★★★）｜for a second —— 一瞬间",
     "startTime": 137.601,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:25:16.604Z",
-    "translationCache": {
-      "lemma": "disappear into thin air",
-      "ipa": "/ˌdɪsəˈpɪr ˈɪntuː θɪn ɛr/",
-      "translation": "消失得无影无踪",
-      "pronunciationGuide": "",
-      "collocations": "vanish into thin air, go into thin air, disappear like into thin air",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "魔术师一挥手，硬币就消失得无影无踪。",
-          "english": "The magician waved his hand, and the coin disappeared into thin air."
-        },
-        {
-          "chinese": "我的钥匙明明放在桌上，现在却消失得无影无踪。",
-          "english": "My keys were clearly on the table, but now they have disappeared into thin air."
-        },
-        {
-          "chinese": "目击者声称看到不明飞行物后，它便消失得无影无踪。",
-          "english": "The witness claimed that after seeing the UFO, it vanished into thin air."
-        },
-        {
-          "chinese": "那个嫌疑人似乎从监控摄像头前消失得无影无踪。",
-          "english": "The suspect seemed to disappear into thin air right in front of the surveillance camera."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-17T03:25:16.604Z"
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-29-3-1784258726550",
