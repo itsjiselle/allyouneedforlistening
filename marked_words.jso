@@ -10873,23 +10873,26 @@
     "dateAdded": "2026-07-17T03:28:36.904Z"
   },
   {
-    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-35-0-1784258925012",
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-35-0-1784258933888",
     "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
     "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
     "subtitleId": 35,
     "wordIndex": 0,
     "wordIndices": [
       0,
-      1
+      1,
+      3,
+      4,
+      5
     ],
-    "wordText": "If only",
+    "wordText": "If only ... were like this",
     "category": "pattern",
-    "customLemma": "If only",
+    "customLemma": "If only ... were like this",
     "sentenceContext": "If only women were like this, how much easier would my teenage years have been?",
     "sentenceTranslation": "要是女人也像这样就好了，那我的青春期该轻松多少啊。",
     "sentenceVocab": "⭐ If only… —— 要是……就好了（★★★★★）｜teenage years —— 青少年时期",
     "startTime": 186.039,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:28:45.012Z"
+    "dateAdded": "2026-07-17T03:28:53.888Z"
   }
 ]
