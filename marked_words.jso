@@ -11457,5 +11457,27 @@
         }
       ]
     }
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-9-12-1784301535643",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 9,
+    "wordIndex": 12,
+    "wordIndices": [
+      12,
+      13,
+      14,
+      15
+    ],
+    "wordText": "have the guts to",
+    "category": "idiom",
+    "customLemma": "have the guts to",
+    "sentenceContext": "And they just fly off at the last second, I don't even have the guts to end it!",
+    "sentenceTranslation": "结果总是在最后一秒飞走，好像在说：\"我连结束自己的勇气都没有！\"",
+    "sentenceVocab": "⭐ fly off —— 飞走｜at the last second —— 最后一刻｜have the guts to do… —— 有胆量做……",
+    "startTime": 56.024,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T15:18:55.643Z"
   }
 ]
