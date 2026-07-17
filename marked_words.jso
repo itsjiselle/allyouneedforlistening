@@ -10720,5 +10720,26 @@
     "startTime": 79.812,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:22:18.996Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-19-14-1784258572471",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 19,
+    "wordIndex": 14,
+    "wordIndices": [
+      14,
+      15,
+      16
+    ],
+    "wordText": "night shift animals",
+    "category": "idiom",
+    "customLemma": "night shift animals",
+    "sentenceContext": "And it was like all those lovely daytime animals were instantly replaced by the night shift animals.",
+    "sentenceTranslation": "仿佛白天那些可爱的小动物，一瞬间全都被\"夜班动物\"取代了。",
+    "sentenceVocab": "⭐ be replaced by —— 被……取代｜instantly —— 瞬间｜night shift —— 夜班（这里幽默地指\"夜行动物\"）",
+    "startTime": 90.338,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:22:52.471Z"
   }
 ]
