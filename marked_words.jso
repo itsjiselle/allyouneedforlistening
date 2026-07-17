@@ -10952,5 +10952,21 @@
     "startTime": 245.979,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:31:06.495Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-52-2-1784259070749",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 52,
+    "wordIndex": 2,
+    "wordText": "dip",
+    "category": "vocab",
+    "customLemma": "dip",
+    "sentenceContext": "There's a dip, there's a dip in the road, you'll feel it, you won't see it, you'll feel a slight dip. \"",
+    "sentenceTranslation": "路上有一个下坡，你会感觉得到，但你看不出来，就是一个轻微的起伏。\"",
+    "sentenceVocab": "⭐ dip —— 路面的凹陷；下坡｜slight —— 轻微的",
+    "startTime": 251.669,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:31:10.749Z"
   }
 ]
