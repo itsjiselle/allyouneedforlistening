@@ -11200,7 +11200,35 @@
     "sentenceVocab": "⭐ put somebody on —— 把电话转给某人（电话用语）",
     "startTime": 277.462,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:33:02.231Z"
+    "dateAdded": "2026-07-17T03:33:02.231Z",
+    "translationCache": {
+      "lemma": "put someone on",
+      "ipa": "/pʊt ˈsʌmwʌn ɒn/",
+      "translation": "让某人接电话；戏弄某人",
+      "pronunciationGuide": "",
+      "collocations": "put someone on hold, put someone on speaker, put someone on the spot",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "你能帮我接通销售部经理吗？",
+          "english": "Can you put me through to the sales manager?"
+        },
+        {
+          "chinese": "别信他的话，他只是在戏弄你。",
+          "english": "Don't believe him; he's just putting you on."
+        },
+        {
+          "chinese": "请稍等，我马上让他接电话。",
+          "english": "Please hold on; I'll put him on right away."
+        },
+        {
+          "chinese": "我以为他在开玩笑，结果他是认真的。",
+          "english": "I thought he was putting me on, but he was serious."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-61-1-1784259199340",
