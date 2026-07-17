@@ -10863,7 +10863,35 @@
     "sentenceVocab": "⭐ vile —— 令人作呕的；极其难听的（C1）",
     "startTime": 145.534,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:25:26.550Z"
+    "dateAdded": "2026-07-17T03:25:26.550Z",
+    "translationCache": {
+      "lemma": "vile",
+      "ipa": "/vaɪl/",
+      "translation": "adj. 卑鄙的；邪恶的；极坏的",
+      "pronunciationGuide": "",
+      "collocations": "vile creature, vile smell, vile temper, vile language",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他在会议上使用了极其卑鄙的语言，让所有人都感到震惊。",
+          "english": "He used such vile language at the meeting that everyone was shocked."
+        },
+        {
+          "chinese": "这种邪恶的行为在文明社会中是不可接受的。",
+          "english": "Such vile behavior is unacceptable in a civilized society."
+        },
+        {
+          "chinese": "那个罪犯的卑鄙行径激起了公众的愤怒。",
+          "english": "The criminal's vile actions aroused public outrage."
+        },
+        {
+          "chinese": "她无法忍受那种令人作呕的气味，立刻离开了房间。",
+          "english": "She couldn't stand that vile smell and left the room immediately."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-30-2-1784258747407",
