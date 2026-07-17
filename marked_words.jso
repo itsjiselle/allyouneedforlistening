@@ -10835,5 +10835,25 @@
     "startTime": 145.534,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:25:26.550Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-30-2-1784258747407",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 30,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3
+    ],
+    "wordText": "vomiting violently",
+    "category": "idiom",
+    "customLemma": "vomit violently",
+    "sentenceContext": "Like they're vomiting violently.",
+    "sentenceTranslation": "就像在拼命呕吐一样。",
+    "sentenceVocab": "⭐ vomit violently —— 剧烈呕吐",
+    "startTime": 146.968,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:25:47.407Z"
   }
 ]
