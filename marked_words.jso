@@ -10998,7 +10998,35 @@
     "sentenceVocab": "⭐ whine —— 呜咽；哀叫；发出尖细拖长的声音｜sinister —— 阴森的；不祥的",
     "startTime": 175.174,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:28:36.904Z"
+    "dateAdded": "2026-07-17T03:28:36.904Z",
+    "translationCache": {
+      "lemma": "whine",
+      "ipa": "/waɪn/",
+      "translation": "v. 发出哀鸣声；抱怨，发牢骚",
+      "pronunciationGuide": "",
+      "collocations": "whine about, stop whining, whine and complain",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "别再为那些小事发牢骚了，没人喜欢听你抱怨。",
+          "english": "Stop whining about those trivial matters; nobody likes to hear you complain."
+        },
+        {
+          "chinese": "那只狗整夜哀鸣，吵得我们无法入睡。",
+          "english": "The dog whined all night, keeping us awake."
+        },
+        {
+          "chinese": "他总是在会议上抱怨工作量太大，但从不提出解决方案。",
+          "english": "He always whines about the heavy workload in meetings, but never proposes any solutions."
+        },
+        {
+          "chinese": "孩子们因为不能看电视而哭闹，但父母坚持让他们先完成作业。",
+          "english": "The children whined because they couldn't watch TV, but their parents insisted they finish their homework first."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-35-0-1784258933888",
