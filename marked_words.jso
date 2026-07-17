@@ -10988,5 +10988,21 @@
     "startTime": 251.669,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:31:18.526Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-53-2-1784259084923",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 53,
+    "wordIndex": 2,
+    "wordText": "roadkill",
+    "category": "vocab",
+    "customLemma": "roadkill",
+    "sentenceContext": "There's some roadkill, it used to be there, there might be some roadkill, there's a left, there's a sharp left. \"",
+    "sentenceTranslation": "路边以前有一只路杀动物，也许现在还有；接着左转，再来一个急左转。\"",
+    "sentenceVocab": "⭐ roadkill —— 被车撞死在路上的动物（★★★★★）｜sharp left —— 急左转",
+    "startTime": 256.382,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:31:24.923Z"
   }
 ]
