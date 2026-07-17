@@ -11084,5 +11084,25 @@
     "startTime": 274.867,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:32:27.214Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-60-2-1784259182231",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 60,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      4
+    ],
+    "wordText": "put ... on",
+    "category": "idiom",
+    "customLemma": "put someone on",
+    "sentenceContext": "Can I put you on? \"",
+    "sentenceTranslation": "我能把电话转给你吗？\"（这里是脱口秀里的调侃说法）",
+    "sentenceVocab": "⭐ put somebody on —— 把电话转给某人（电话用语）",
+    "startTime": 277.462,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:33:02.231Z"
   }
 ]
