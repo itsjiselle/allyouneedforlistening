@@ -10797,5 +10797,27 @@
     "startTime": 131.214,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:24:51.069Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-27-25-1784258716604",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 27,
+    "wordIndex": 25,
+    "wordIndices": [
+      25,
+      27,
+      28,
+      29
+    ],
+    "wordText": "disappears ... into thin air",
+    "category": "idiom",
+    "customLemma": "disappear into thin air",
+    "sentenceContext": "In London, when you see a fox, you see it for a second and you just go, \"Oh, look, there's a fox,\" and then it disappears, like into thin air.",
+    "sentenceTranslation": "在伦敦，你看到狐狸时，它通常只出现一秒钟，你说一句\"哦，有只狐狸\"，它就像凭空消失了一样。",
+    "sentenceVocab": "⭐ disappear into thin air —— 凭空消失（★★★★★）｜for a second —— 一瞬间",
+    "startTime": 137.601,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:25:16.604Z"
   }
 ]
