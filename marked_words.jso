@@ -10917,7 +10917,35 @@
     "sentenceVocab": "⭐ vomit violently —— 剧烈呕吐",
     "startTime": 146.968,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:25:47.407Z"
+    "dateAdded": "2026-07-17T03:25:47.407Z",
+    "translationCache": {
+      "lemma": "vomit violently",
+      "ipa": "/ˈvɑmɪt ˈvaɪələntli/",
+      "translation": "剧烈呕吐",
+      "pronunciationGuide": "",
+      "collocations": "vomit violently after drinking, start vomiting violently, cause someone to vomit violently",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他昨晚喝得太多，结果在浴室里剧烈呕吐。",
+          "english": "He drank too much last night and ended up vomiting violently in the bathroom."
+        },
+        {
+          "chinese": "食物中毒后，她开始剧烈呕吐，不得不去医院。",
+          "english": "After food poisoning, she started vomiting violently and had to go to the hospital."
+        },
+        {
+          "chinese": "晕船让他剧烈呕吐，整个人都虚脱了。",
+          "english": "Seasickness made him vomit violently, leaving him completely exhausted."
+        },
+        {
+          "chinese": "那个恶心的场景让我差点剧烈呕吐。",
+          "english": "That disgusting scene almost made me vomit violently."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-34-13-1784258916904",
