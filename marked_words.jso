@@ -10805,7 +10805,40 @@
     "sentenceVocab": "⭐ edge towards… —— 小心翼翼地慢慢挪向……｜hold hands —— 牵手（💡这里 edge 是非常好的 C1 动词，表示\"缓慢、谨慎地移动\"。）",
     "startTime": 120.725,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:23:28.877Z"
+    "dateAdded": "2026-07-17T03:23:28.877Z",
+    "translationCache": {
+      "lemma": "edge to",
+      "ipa": "/ɛdʒ tuː/",
+      "translation": "（缓慢谨慎地）向…移动",
+      "pronunciationGuide": "",
+      "collocations": [
+        "edge to the door",
+        "edge to the front",
+        "edge to safety",
+        "edge to the side"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在浓雾中，我们小心翼翼地朝悬崖边缘移动。",
+          "english": "In the thick fog, we carefully edged to the cliff's edge."
+        },
+        {
+          "chinese": "她穿过拥挤的房间，慢慢朝出口移动。",
+          "english": "She edged to the exit through the crowded room."
+        },
+        {
+          "chinese": "随着风暴加剧，他们缓慢地朝避难所移动。",
+          "english": "As the storm intensified, they slowly edged to the shelter."
+        },
+        {
+          "chinese": "谈判陷入僵局，双方都谨慎地朝妥协方案移动。",
+          "english": "The negotiations were deadlocked, and both sides cautiously edged to a compromise."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-26-1-1784258691069",
