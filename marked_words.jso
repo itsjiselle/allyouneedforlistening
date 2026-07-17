@@ -11245,7 +11245,35 @@
     "sentenceVocab": "⭐ hedge —— 树篱｜trust —— 相信（这里指相信道路存在）",
     "startTime": 260.082,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:31:37.479Z"
+    "dateAdded": "2026-07-17T03:31:37.479Z",
+    "translationCache": {
+      "lemma": "hedge",
+      "ipa": "/hɛdʒ/",
+      "translation": "n. 树篱；v. 用树篱围住；避免直接回答",
+      "pronunciationGuide": "",
+      "collocations": "hedge fund, hedge against inflation, hedge one's bets",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了降低投资风险，他决定购买黄金作为对冲工具。",
+          "english": "To reduce investment risk, he decided to buy gold as a hedge (hedge against) against inflation."
+        },
+        {
+          "chinese": "当被问及是否支持该政策时，这位政客含糊其辞，避免直接回答。",
+          "english": "When asked whether he supported the policy, the politician hedged (hedged his bets) and avoided giving a direct answer."
+        },
+        {
+          "chinese": "花园四周的树篱修剪得非常整齐，形成了一道天然的屏障。",
+          "english": "The hedge around the garden was trimmed very neatly, forming a natural barrier."
+        },
+        {
+          "chinese": "在谈判中，双方都试图通过保留余地来规避风险。",
+          "english": "In the negotiations, both sides tried to hedge (hedge their bets) by leaving room for maneuver."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-57-1-1784259124096",
