@@ -10967,7 +10967,44 @@
     "sentenceVocab": "⭐ swap —— 交换",
     "startTime": 242.715,
     "reviewCount": 0,
-    "dateAdded": "2026-07-17T03:30:53.030Z"
+    "dateAdded": "2026-07-17T03:30:53.030Z",
+    "translationCache": {
+      "lemma": "Why don't you ...(do something)",
+      "ipa": "",
+      "translation": "用于提出建议或邀请，意为“你为什么不……呢？”",
+      "pronunciationGuide": "这是一个提出建议的常用句型，结构为“Why don't you + 动词原形 + 其他？”注意：动词必须用原形，后面可接宾语或状语。常见错误是误用动词的第三人称单数或过去式。",
+      "collocations": [],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to make a suggestion or invitation, implying that the speaker thinks it is a good idea for the listener to do something.",
+      "patternPractice": [
+        {
+          "chinese": "你为什么不试试这个新餐厅呢？",
+          "english": "Why don't you try (check out) this new restaurant?",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "你为什么不明天再完成这个报告呢？",
+          "english": "Why don't you finish (wrap up) this report tomorrow?",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "你为什么不考虑一下换一份工作呢？",
+          "english": "Why don't you consider (think about) changing jobs?",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你为什么不加入我们的读书俱乐部，和大家一起讨论呢？",
+          "english": "Why don't you join (sign up for) our book club and discuss with everyone?",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你为什么不把这个问题提交给经理，让他来做出决定呢？",
+          "english": "Why don't you submit (hand over) this issue to the manager and let him make the decision?",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-50-12-1784259066495",
