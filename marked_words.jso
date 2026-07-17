@@ -11126,5 +11126,32 @@
     "startTime": 281.361,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:33:19.340Z"
+  },
+  {
+    "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-73-10-1784259268000",
+    "materialId": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre",
+    "materialTitle": "The Terrifying Difference Between Night And Day In The Countryside_Michael McIntyre.mp4",
+    "subtitleId": 73,
+    "wordIndex": 10,
+    "wordIndices": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "wordText": "but what concerns me at this very moment is",
+    "category": "pattern",
+    "customLemma": "...(某种情况), but what concerns me at this very moment is ... ",
+    "sentenceContext": "Yes, you're right, I am the man of the house, but what concerns me at this very moment is I think there's another man in the house. \"",
+    "sentenceTranslation": "没错，你说得对，我确实是一家之主。但我现在真正担心的是——我觉得屋里还有另一个男人。\"",
+    "sentenceVocab": "⭐ what concerns me is… —— 我真正担心的是……（★★★★★）｜at this very moment —— 就在此刻",
+    "startTime": 317.733,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-17T03:34:28.000Z"
   }
 ]
