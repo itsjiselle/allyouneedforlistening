@@ -1,0 +1,856 @@
+1
+00:00:00,365 --> 00:00:11,202
+Welcome to Hubermanlab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health and performance.
+
+2
+00:00:11,202 --> 00:00:17,151
+I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+
+3
+00:00:17,151 --> 00:00:20,106
+And now for my discussion with Dr. Lane Norton.
+
+4
+00:00:20,106 --> 00:00:22,558
+Dr. Norton, thank you so much for being here. Norton
+
+5
+00:00:22,558 --> 00:00:28,609
+This is a long time coming and I have to say, as a fellow PhD scientist, I feel a great kinship with you.
+
+6
+00:00:28,609 --> 00:00:33,241
+I know you have tremendous experience in in fitness and nutrition in a number of areas.
+
+7
+00:00:33,241 --> 00:00:38,004
+I'd like to start with something that's rather basic and yet can be pretty complex.
+
+8
+00:00:38,004 --> 00:00:42,162
+And that's this issue of Energy Balance and energy utilization.
+
+9
+00:00:42,162 --> 00:00:54,699
+What happens when we eat food of any kind and how is that actually converted into energy as a way of framing up the discussion around Weight Loss, weight maintenance, weight gain, and body composition?
+
+10
+00:00:54,699 --> 00:01:03,041
+So a great question, and like you said, this is one of those things where, you know, people use the term Calories In Calories Out And they say, well, that's way too simplistic.
+
+11
+00:01:03,041 --> 00:01:08,826
+And I'm like, if you look at what actually makes up Calories In Calories Out, it's actually very complicated.
+
+12
+00:01:08,826 --> 00:01:13,758
+So a calorie just refers to a unit of energy of heat.
+
+13
+00:01:13,758 --> 00:01:22,274
+Specifically, really what you're talking about is the potential chemical energy that is in the bonds of the macronutrients of food, right?
+
+14
+00:01:22,274 --> 00:01:30,868
+And by digesting, assimilating, and metabolizing those nutrients, we are able to create energy.
+
+15
+00:01:30,868 --> 00:01:37,307
+The end product of that mostly is ATP,&nbsp; a Denizen Tri Phosphate, which is your body's energy currency.
+
+16
+00:01:37,307 --> 00:01:42,988
+So a lot of metabolism is simply creating a TP.
+
+17
+00:01:42,988 --> 00:01:56,590
+Protein's a little bit different because protein gets converted to amino acids, which can be used for muscle protein synthesis or protein synthesis and other tissues, but it also can be converted through gluconeogenesis to glucose.
+
+18
+00:01:56,590 --> 00:02:00,298
+And there also are some ketogenic amino acids as well.
+
+19
+00:02:00,298 --> 00:02:19,240
+Then you have fatty acids, which are able to create energy through what's called beta oxidation, where essentially you're taking these fatty acids in, you're lopping them off to carbons at a time to produce acetyl-CoA, which again, can go into the kreb cycle, produce those hydrogen ions that can then power the production of ATP.
+
+20
+00:02:19,240 --> 00:02:29,073
+So that's kind of like at the cellular level of how this stuff works, but stepping back and taking it back out like, well, what does that have to do with Weight Loss or weight gain, right?
+
+21
+00:02:29,073 --> 00:02:36,830
+When you think about the balance of energy in versus energy out, sounds very simple, but let's look at what actually makes up energy in versus energy out.
+
+22
+00:02:36,830 --> 00:02:44,663
+First of all, you've gotta realize that the energy inside of the equation is more difficult to track than people think.
+
+23
+00:02:44,663 --> 00:02:54,827
+So one Food Labels, which we like to think is being, you know, like from upon high can have up to a 20% error in them, really?
+
+24
+00:02:54,827 --> 00:02:59,196
+The second aspect is there's what's called your energy, but then there's also metabolizable energy, right?
+
+25
+00:02:59,196 --> 00:03:06,254
+So if you have food stuff with say, a lot of insoluble fiber, typically insoluble fiber is not really digestible.
+
+26
+00:03:06,254 --> 00:03:26,765
+And so you could have, you know, quite a bit of carbohydrate, but if you can't extract the energy from it, and typically this is because insoluble fiber from like plant material, the carbohydrate or, and even some of the protein is bound up in the plant structure, which makes it inaccessible to digestive enzymes.
+
+27
+00:03:26,765 --> 00:03:33,012
+And so this is what like adds bulk to your stool, stool and whatnot, but again, reduces the metabolizable energy in there.
+
+28
+00:03:33,012 --> 00:03:45,178
+And there's some evidence that based on people's individual gut microbiome, that some people may actually be better at extracting energy out of fiber compared to other people.
+
+29
+00:03:45,178 --> 00:03:51,861
+So just starting off right there, okay, there's, there's quite a bit of play in the energy inside of things.
+
+30
+00:03:51,861 --> 00:03:55,994
+Now one of the things people will say is, well, see, that's why you shouldn't worry about tracking calories.
+
+31
+00:03:55,994 --> 00:04:04,323
+'cause you know, if the Food Labels can be 20% off, and what I'll say is, okay, I understand where you're coming from, but typically if it's off, it's gonna be consistently off.
+
+32
+00:04:04,323 --> 00:04:10,638
+And if you're consistent with how you track it, eventually you'll be able to know kind of what you're taking in.
+
+33
+00:04:10,638 --> 00:04:14,748
+So now let's look at the energy outside of the equation, which is actually way more complicated, right?
+
+34
+00:04:14,748 --> 00:04:19,073
+And so your energy out is a few different buckets.
+
+35
+00:04:19,073 --> 00:04:23,547
+The first one, and the biggest one is your resting metabolic rate.
+
+36
+00:04:23,547 --> 00:04:29,487
+So your RMR, that for most people is anywhere from 50 to 70% of your total Daily Energy Expenditure.
+
+37
+00:04:29,487 --> 00:04:33,679
+Sedentary people will be on the higher end of that, so it'll be a bigger proportion.
+
+38
+00:04:33,679 --> 00:04:41,987
+Whereas people who are more active, it'll be a little bit lower, not because their metabolic rate is lower, but because they're expending a greater percentage of their calories from physical activity.
+
+39
+00:04:41,987 --> 00:04:48,378
+Then you have something called the thermic effect of food, which is a relatively small percentage of your total Daily Energy Expenditure.
+
+40
+00:04:48,378 --> 00:04:49,845
+It's about five to 10%.
+
+41
+00:04:49,845 --> 00:04:51,119
+Very difficult to measure.
+
+42
+00:04:51,119 --> 00:04:56,239
+And usually what researchers do when they're kind of looking at this stuff is they just kind of make an assumption about it.
+
+43
+00:04:56,239 --> 00:05:02,448
+They use a constant, and that refers to the amount of energy it takes to extract the energy out of food.
+
+44
+00:05:02,448 --> 00:05:08,019
+You can't just eat food and then you know, it just appears in your cells and you start doing stuff.
+
+45
+00:05:08,019 --> 00:05:13,680
+It has to be systematically broken down and put into forms that can actually produce energy.
+
+46
+00:05:13,680 --> 00:05:18,460
+A lot of times people will say something like, well, not all calories are created equal.
+
+47
+00:05:18,460 --> 00:05:22,248
+That's not true because calories just a unit of measurement, right?
+
+48
+00:05:22,248 --> 00:05:26,364
+That would be like saying not all seconds on a clock are created equal.
+
+49
+00:05:26,364 --> 00:05:32,560
+All sources of calories may have differential effects on energy, expenditure and appetite.
+
+50
+00:05:32,560 --> 00:05:38,229
+So if we look at something like fat, for example, the TEF of fat is about zero to 3%.
+
+51
+00:05:38,229 --> 00:05:42,524
+Meaning if you eat a hundred calories from fat, your net will be about 97 to a hundred.
+
+52
+00:05:42,524 --> 00:05:51,436
+So the process of breaking down that fat essentially subtracts some of the the calories away because you used it in creating energy, correct?
+
+53
+00:05:51,436 --> 00:05:54,214
+By breaking those chemical bonds to create ATP.
+
+54
+00:05:54,214 --> 00:05:57,085
+Fat is actually the easiest thing to convert into energy.
+
+55
+00:05:57,085 --> 00:06:01,080
+Then you have carbohydrate, which has a TEF of like five to 10%.
+
+56
+00:06:01,080 --> 00:06:05,915
+So you eat a hundred calories from carbohydrate and obviously like the fiber content makes a big difference on this.
+
+57
+00:06:05,915 --> 00:06:12,943
+But if you eat a hundred calories, you'll net 90 to 95 protein is about a 20 to 30% TEF.
+
+58
+00:06:12,943 --> 00:06:16,685
+So if you eat a hundred calories from protein, you're only netting 70 to 80.
+
+59
+00:06:16,685 --> 00:06:20,477
+Now you're still net, you know, people say, well, you can't eat too much protein.
+
+60
+00:06:20,477 --> 00:06:23,468
+Well, you know, people will ask, well, can protein be stored as fat?
+
+61
+00:06:23,468 --> 00:06:27,005
+The carbons from protein, it's unlikely it's gonna wind up in adipose tissue.
+
+62
+00:06:27,005 --> 00:06:34,489
+But if you're eating a lot of protein overall is part of a lot of calories, it has to be oxidized and it can provide a calorie cushion for other things to be stored in fat.
+
+63
+00:06:34,489 --> 00:06:42,998
+But protein itself does provide, you know, a net positive for calories, but less so than carbohydrate fat and tends to be more satiating.
+
+64
+00:06:42,998 --> 00:06:46,264
+So again, when people talk about, you know, are all calories created equal?
+
+65
+00:06:46,264 --> 00:06:50,922
+Yes, but all sources of calories may have differential effects on energy, expenditure and appetite.
+
+66
+00:06:50,922 --> 00:06:54,321
+So that's the TEF bucket and the BMR bucket.
+
+67
+00:06:54,321 --> 00:06:58,195
+Then we go to physical activity. And physical activity is essentially two parts.
+
+68
+00:06:58,195 --> 00:07:08,546
+There's exercise, which is kind of your purposeful movements, like you go out for a walk, you do a training session, I mean whatever, any purposeful activity.
+
+69
+00:07:08,546 --> 00:07:12,776
+And then you have what's called neat, which is non Exercise activity thermogenesis.
+
+70
+00:07:12,776 --> 00:07:20,355
+So for example, if I, when I'm talking, if I'm waving around my hands, if I'm tapping my feet, if I'm whatever, that's neat.
+
+71
+00:07:20,355 --> 00:07:23,405
+The calorie burn from NEAT is actually pretty significant.&nbsp;
+
+72
+00:07:23,405 --> 00:07:25,830
+We're not talking about a hundred calories or 200 calories per day.
+
+73
+00:07:25,830 --> 00:07:33,356
+We're talking about in some cases hundreds of thousands, excuse me, hundreds to maybe even close to a thousand calories per day.
+
+74
+00:07:33,356 --> 00:07:43,050
+And what's very interesting about NEAT is that seems to be the most modifiable of, you know, B-M-R-T-E-F and neat, neat seems to be far more modifiable.&nbsp;
+
+75
+00:07:43,050 --> 00:07:46,001
+The next thing is a lot of people weigh very sporadically.
+
+76
+00:07:46,001 --> 00:08:01,805
+And I'll tell people like, if you're gonna make an intentional Weight Loss a goal, And again, this can be different for different people, but typically I tell people weigh in first thing in the morning, or I have to go to the bathroom, do it every day, and take the average of that for the week and then compare that to the next week's average.
+
+77
+00:08:01,805 --> 00:08:05,464
+As somebody who weighs themselves pretty, pretty regularly.
+
+78
+00:08:05,464 --> 00:08:13,813
+I mean my weight will fluctuate, you know, five, six pounds and not seemingly changing much, you know, and that's just, you know, those short term changes are fluid.
+
+79
+00:08:13,813 --> 00:08:27,021
+So if you're somebody who just randomly is weighing in and you're eating in a calorie deficit and you just weigh in one day where you just whatever reason holding some more fluid, then you, oh, see this isn't working.
+
+80
+00:08:27,021 --> 00:08:29,868
+When in reality your average might be dropping.
+
+81
+00:08:29,868 --> 00:08:34,464
+Weight fluctuations are actually identified as a major reason why people get discouraged from Weight Loss.
+
+82
+00:08:34,464 --> 00:08:37,533
+It kind of stops the buy-in, you know, when they have a fluctuation up.
+
+83
+00:08:37,533 --> 00:08:39,160
+So that's one of the reasons, great point.
+
+84
+00:08:39,160 --> 00:08:46,919
+One of the reasons early on that low carb diets tend to work really well is 'cause people lose a lot of water weight really quickly And they get that buy-in. It's, oh, this is working.
+
+85
+00:08:46,919 --> 00:08:50,742
+People think about, I'm going to do a diet and I'm gonna lose this weight.
+
+86
+00:08:50,742 --> 00:08:53,933
+And they do not give any thought to what happens afterwards.
+
+87
+00:08:53,933 --> 00:08:57,349
+Think about if you have some kind of chronic disease or a diabetic, right?
+
+88
+00:08:57,349 --> 00:09:00,057
+You, you can't just take insulin once and that's it, right?
+
+89
+00:09:00,057 --> 00:09:03,855
+You gotta take it continuously, otherwise you're gonna have problems.
+
+90
+00:09:03,855 --> 00:09:09,233
+You can't create a new version of yourself while dragging your old habits and behaviors behind you.
+
+91
+00:09:09,233 --> 00:09:16,922
+So what I'll tell people is 'cause people say, well, I'm doing a carnivore diet or I'm doing this diet or that diet.
+
+92
+00:09:16,922 --> 00:09:19,256
+Do you see yourself doing that for the rest of your life?
+
+93
+00:09:19,256 --> 00:09:23,885
+And if the answer is no, you probably need to rethink what your approach is gonna be.
+
+94
+00:09:23,885 --> 00:09:35,158
+Could you briefly talk about how macronutrients, including protein impacts satiety from the standpoint of somebody who for instance, would like to quote unquote lose a few pounds, right?
+
+95
+00:09:35,158 --> 00:09:40,441
+Probably would be happy to gain a little bit of lean body mass provided it was in a particular location on their body.
+
+96
+00:09:40,441 --> 00:09:52,740
+That seems to be a a thing now directed hypertrophy, if you will, and how much they should focus on protein as a core component of creating this diet and our animal sources of protein.
+
+97
+00:09:52,740 --> 00:10:03,385
+Indeed more bioavailable, that's a tricky word for sake of muscle building, but also for sake of somebody who just would like to lose body fat, they don't wanna lose muscle and they'd like to bring their weight down a few pounds.
+
+98
+00:10:03,385 --> 00:10:17,019
+Of the macronutrients. Protein is definitely the biggest lever that you can pull because even if You know it doesn't take a ton of protein to get a lot of the muscle building benefits, I mean I think the benefits really start to plateau out around 1.6 grams per kilogram of body weight.
+
+99
+00:10:17,019 --> 00:10:24,613
+There's some evidence that maybe even up to like 2.4 or 2.8 grams per kilo may give like a little bit more benefit.
+
+100
+00:10:24,613 --> 00:10:32,218
+I think it probably looks something like an mope in terms of a curve where as you put more into the system you always get a little bit more.
+
+101
+00:10:32,218 --> 00:10:38,618
+But it just gets to the point where it's so infinitesimally small benefit that it's, for all intents purposes, no benefit.
+
+102
+00:10:38,618 --> 00:10:40,468
+There doesn't seem to be really downsides to it.
+
+103
+00:10:40,468 --> 00:10:42,471
+Even like up to very high levels of protein.
+
+104
+00:10:42,471 --> 00:11:01,877
+Jose Antonio did a study that was a year long randomized control trial And again, it's just one year, but they were looking at all sorts of different biomarkers and basically even up to like four grams per kilogram of protein, they couldn't really find any negative health outcomes from it other than people were just so satiated they ended up eating less calories. Jose Antonio
+
+105
+00:11:01,877 --> 00:11:06,798
+So protein is a big lever because one, it has a higher thermic effect of food.
+
+106
+00:11:06,798 --> 00:11:15,669
+So you're getting a little bit more calorie burn per day even though it's not a ton because TEF is a pretty small percentage of your overall energy expenditure, but still a benefit.
+
+107
+00:11:15,669 --> 00:11:20,460
+You're getting the effects on lean body mass, it's gonna, if you're in a diet, it's gonna help preserve lean body mass.
+
+108
+00:11:20,460 --> 00:11:23,438
+If you're at maintenance, it's gonna help build or preserve lean body mass.
+
+109
+00:11:23,438 --> 00:11:26,220
+And if you're in a surplus, it's gonna help build a preserved lean body mass.
+
+110
+00:11:26,220 --> 00:11:42,481
+If I'm going to eat, let's say two grams per kilogram of body weight protein, and I'm not eating multiple meals per, maybe I'm eating two or three meals per day, I'm certainly going to be eating more than the 30 gram threshold that was thrown around for a long time that we can only assimilate 30 grams of protein per meal.
+
+111
+00:11:42,481 --> 00:11:44,055
+Should I just not worry about that?
+
+112
+00:11:44,055 --> 00:11:47,031
+Some of it is gonna go towards the thermic effect of food.
+
+113
+00:11:47,031 --> 00:11:49,531
+Some of that might be converted into glucose of all things through gluconeogenesis.
+
+114
+00:00:00,000 --> 00:00:00,000
+1 (14m 0s):
+
+115
+00:00:00,000 --> 00:00:00,000
+You know, you can do it takes a little more planning and you're almost always, if you're a vegan especially, you're gonna be better off like supplement with some isolated form of protein or vegan form of protein. Now this is where it gets into, people say, well what about the limiting amino acids and those sorts of things. It's a consideration. Some of the better forms of vegan protein in terms of amino acid content are like Soy. Now I can everybody hear everybody screaming online about their testosterone levels in terms of actual outcomes and looking at testosterone, there was a recent meta-analysis looking at Soy and I think if it's your only source of protein, then maybe the dosage is high enough to cause some weird effects.
+
+116
+00:00:00,000 --> 00:00:00,000
+
+
+117
+00:00:00,000 --> 00:00:00,000
+1 (14m 41s):
+
+118
+00:00:00,000 --> 00:00:00,000
+But if you're just using it like once or twice a day doesn't seem to have an effect on testosterone or estrogen. So that can be a decent source of protein because it is a complete protein source. It does have a PD cause of one, which PD cause is basically a, a measure of protein quality based on does it provide enough of all the amino acids so that none are limiting. And so Soy is one of the only vegan sources that does that. Interestingly, potato protein isolate actually has a similar essential amino acid content to weigh so isolated potato protein, it's just really hard to find. Another reason using an Isolated Protein can be helpful is because it's more bioavailable as well when it's been isolated out, when it's the protein bound up in the actual plant material, it tends to be less bioavailable.
+
+119
+00:00:00,000 --> 00:00:00,000
+
+
+120
+00:00:00,000 --> 00:00:00,000
+1 (15m 27s):
+
+121
+00:00:00,000 --> 00:00:00,000
+Now cooking can help increase the bioavailability 'cause it breaks some of those bonds and and whatnot. The other thing to consider with the vegan sources of protein is the Leucine content. So one of the studies we did was we looked at wheat, Soy, egg and Whey iso nitrogenous meaning we equated protein between the groups isocaloric, we equated calories and we looked at muscle protein synthesis and I think this was, the meals were 15% of total energy from protein. So like a, like your food guide pyramid level of protein. And we saw that in the wheat and Soy group. They did not increase muscle protein synthesis, but the egg and Whey group increased muscle protein synthesis.
+
+122
+00:00:00,000 --> 00:00:00,000
+
+
+123
+00:00:00,000 --> 00:00:00,000
+1 (16m 9s):
+
+124
+00:00:00,000 --> 00:00:00,000
+Now what's really interesting is we went back and we took wheat and added free Leucine to it to match the Leucine content of Whey and the protein synthetic response was identical. Hmm. So again, I, I don't like to simplify things too much, but Leucine appears to really be driving this ship. A few different options for the vegan folks out there. You can use an isolated source of, of protein And again, like there's gonna be good options coming because this plant-based way is gonna be a great option for folks. You can add free Leucine to it to whatever your source of protein is. Just buy
+
+125
+00:00:00,000 --> 00:00:00,000
+
+
+126
+00:00:00,000 --> 00:00:00,000
+0 (16m 43s):
+
+127
+00:00:00,000 --> 00:00:00,000
+Supplemented Leucine
+
+128
+00:00:00,000 --> 00:00:00,000
+
+
+129
+00:00:00,000 --> 00:00:00,000
+1 (16m 44s):
+
+130
+00:00:00,000 --> 00:00:00,000
+Powder, just buy Leucine. Now it tastes horrible. It's completely nonpolar. It does not dissolve in anything. It is can be put into capsules. Gross. It can be put into capsules. Yeah. So you could take a capsule like for example if you're eating your normal meal, you could just take a capsule of like one gram of Leucine. It's probably gonna bump you off, bump you up enough that you're gonna be good to go. There's options like blends, especially with Corn. Corn is actually very high in Leucine as a percentage of its protein. Now you gotta remember like you, you go eat Corn on a cob and you're getting like two grams of total protein. So it's not that much Leucine, but if you isolate out the protein, put it into a powder, well now you know when you're getting like 80, 90% of the weight is now protein Corn is actually about 12% Leucine in terms of the protein.
+
+131
+00:00:00,000 --> 00:00:00,000
+
+
+132
+00:00:00,000 --> 00:00:00,000
+1 (17m 28s):
+
+133
+00:00:00,000 --> 00:00:00,000
+So a great source of Leucine, it is like almost frank deficient in some other amino acids. But you can blend it with a few other source of protein. Like you could blend it with a Soy, a pea and you can create these complimentary blends that would actually have quite a bit of Leucine but also some of the other essential amino acids. So there are options out there for plant-based folks and I mean we have seen people who are plant-based build impressive amounts of muscle. There's quite a few bodybuilders that are plant-based.
+
+134
+00:00:00,000 --> 00:00:00,000
+
+
+135
+00:00:00,000 --> 00:00:00,000
+0 (17m 54s):
+
+136
+00:00:00,000 --> 00:00:00,000
+Can we come up with a relatively short summary of the following? Tell me if this is correct or not. That most of us should be focused on ingesting non-processed and minimally Processed Foods.
+
+137
+00:00:00,000 --> 00:00:00,000
+
+
+138
+00:00:00,000 --> 00:00:00,000
+1 (18m 8s):
+
+139
+00:00:00,000 --> 00:00:00,000
+I would a hundred percent agree with what you said that trying to focus on minimally Processed Foods is very important. The one caveat I would say is I think it's important to understand why processed food just gets people to spontaneously eat more. Kevin Hall showed this in his study that was very, I mean he designed some of the most elegant studies in nutrition. They basically took people from a minimally processed food diet and then gave them access to ultra Processed Foods. Very few instructions just eat till you feel satisfied And they spontaneously increase their calorie intake by 500 calories a day. That's massive. Now that being said, it depends on the individual and their goals. If your goal is to, for example, build muscle or maintain a high body weight for a sport, for example, like an NFL offensive lineman or or something of that nature, your protein, your fiber, your micronutrients, these are your responsibilities.
+
+140
+00:00:00,000 --> 00:00:00,000
+
+
+141
+00:00:00,000 --> 00:00:00,000
+1 (18m 58s):
+
+142
+00:00:00,000 --> 00:00:00,000
+But those become much easier to hit when you have higher calories. If you're eating 4,000 calories a day for whatever goal you have, you're probably gonna have some leftover and like good luck eating 4,000 calories from minimally Processed Foods. You quite frankly, you'll be miserable because you're, you're gonna have such gut fill that you're gonna feel like you can't even move. And so that's why I'm so pedantic and a stickler about saying, okay, yes it's a good idea to eat the mentally processed food and try to avoid Processed Foods, but not because Processed Foods are bad per se, but what the outcome tends to be from a lot of processed food consumption, which is over consuming calories and then therefore, you know, energy toxicity negatively contributing to your health.
+
+143
+00:00:00,000 --> 00:00:00,000
+
+
+144
+00:00:00,000 --> 00:00:00,000
+0 (19m 43s):
+
+145
+00:00:00,000 --> 00:00:00,000
+This I think is a perfect segue for something that first brought us together to say, which was I know what's going, You know, which was this, this thing about artificial sweeteners. Artificial sweeteners are many things. So I'd like to talk about their effects on blood sugar in the acute sense. And then the gut microbiome data I think are interesting enough to discuss. Yeah, I have changed my view on artificial sweeteners based on what you've taught me. So this is a case where I've completely changed my view, which is that I don't have any problem with them whatsoever based on the current data. Which is not to say that I'm, You know, gulping down a cup fulls of suc lows, but I feel okay ingesting some stevia and some aspartame and I'm not too worried about it.
+
+146
+00:00:00,000 --> 00:00:00,000
+
+
+147
+00:00:00,000 --> 00:00:00,000
+1 (20m 26s):
+
+148
+00:00:00,000 --> 00:00:00,000
+We have to think about again, the hierarchy of importance, right? And what are you replacing with? There is no situation where it is not a net positive to take somebody who drinks sugar sweetened beverages and have them drink an artificially sweetened beverage. Like the, in the meta-analysis there was actually a recent network meta-analysis looking at like a markers of adiposity, you know, know HBA one c, a bunch of different health markers. And when you substitute, you know, we'll call it non-nutritive sweeteners since stevia is not artificial. But so when you substitute NNS for the sugar sweetened beverages, you see improvements in a lot of different things. And whenever I post about non sweeteners in the comments, there's always one or two or three people who say all I did was cut out soda and I drank diet soda instead and I lost 50 pounds or I lost 75 pounds, I even have one per se, I lost a hundred pounds.
+
+149
+00:00:00,000 --> 00:00:00,000
+
+
+150
+00:00:00,000 --> 00:00:00,000
+1 (21m 18s):
+
+151
+00:00:00,000 --> 00:00:00,000
+That's the only thing I did. Wow. I mean that's a pretty massive lever to pull if you consider somebody who might be having like, I mean five or six cokes a day, we're talking a serious amount of calories. Is that obese person who lost a hundred pounds by doing that? Do I really care about maybe a small alteration to their gut microbiome? No, because their gut microbiome is actually much more healthy now by them having lost all that excess adipose tissue. So I think it's one of those things that, again, it depends on the situation, right? Like if somebody's obese And they said, well this is gonna help me, you know, eliminate sugar sweetened beverage. Like why would you wanna take that tool away from 'em? Like that's a, a great lever to pull. I mean if somebody can lose literally a hundred pounds from just one change in lifestyle, that's not even really that inconvenient of a change that is powerful.
+
+152
+00:00:00,000 --> 00:00:00,000
+
+
+153
+00:00:00,000 --> 00:00:00,000
+1 (22m 4s):
+
+154
+00:00:00,000 --> 00:00:00,000
+But again, is it the most healthy thing they could do? And I think that's kind of like what tends to get asked. We don't know is it healthier than water? Mm, probably not. Maybe as healthy as it, who knows. But I really make all those caveats because you don't want to have people who could use this as a tool think, well no I can't do this 'cause it's actually bad for me. Right? If it helps you lose 50 pounds or 75 pounds or whatever it is, trust me, it's not bad for you.
+
+155
+00:00:00,000 --> 00:00:00,000
+
+
+156
+00:00:00,000 --> 00:00:00,000
+0 (22m 31s):
+
+157
+00:00:00,000 --> 00:00:00,000
+Seed Oils, there are a number of of folks out there who are arguing that seed oils are the source of, you know, the obesity epidemic, everything, everything. And then there are those that would argue just the opposite that you know, meat is the source of all problems, et cetera. And I think we've appropriately framed things that it's never that black and white, it's simply not are there any data on Seed Oils? The
+
+158
+00:00:00,000 --> 00:00:00,000
+
+
+159
+00:00:00,000 --> 00:00:00,000
+1 (22m 53s):
+
+160
+00:00:00,000 --> 00:00:00,000
+First thing I'll say is Seed Oils have, have negatively contributed to our overall health because people in the last, You know, 20, 30 years, what they have tend to add into their diet that has increased the overall calorie load is oil mostly from seed oils. But when we look at like one to one replacement with other fats, and so I if you look at the epidemiology, yeah you can find some epidemiology showing people who consume more CE oil have more negative health outcomes. Problem is again, tied up with a multitude of other behaviors. And then you can find mechanisms and the, the idea is, well there are polyunsaturated, which means in the fatty acid chain there's multiple double bonds, which those double bonds can be oxidized when they're exposed to heat and some other things.
+
+161
+00:00:00,000 --> 00:00:00,000
+
+
+162
+00:00:00,000 --> 00:00:00,000
+1 (23m 43s):
+
+163
+00:00:00,000 --> 00:00:00,000
+And so the idea is, well when you cook with these things And they may get oxidized and that's gonna cause inflammation in your body, that's a, a plausible mechanism. So as always, I defer to the human randomized control trials. What you tend to find when you substitute saturated fats for polyunsaturated fats, inflammation is basically neutral there. There's some studies that show a positive effect of doing polyunsaturated fats, but it probably depends on the individual polyunsaturated fat. And that's the other thing I, I don't really is difficult because you're, you're categorizing like everything in this one bucket and there are some differences between individual fatty acids, even with Saturated Fat, like for example, asteric acid doesn't tend to raise LDL cholesterol, whereas you know, Saturated Fat as a whole tends to raise LDL cholesterol but there are some saturated fats that don't.
+
+164
+00:00:00,000 --> 00:00:00,000
+
+
+165
+00:00:00,000 --> 00:00:00,000
+1 (24m 32s):
+
+166
+00:00:00,000 --> 00:00:00,000
+So again, it's like we're putting things in buckets and it's a little more nuanced than that. Then if you look at the effects of, you know, polyunsaturated fats on markers of cardiovascular disease, again tends to either be a neutral or positive effect when you substitute Saturated Fat for polyunsaturated fat. Now if you wanna get into like monounsaturated versus polyunsaturated, there's quite a bit of disagreement between the studies. What I would say based on the human randomized trials is that you're probably better off consuming monounsaturated and polyunsaturated in place of Saturated Fat. But again, if the idea is well that means polyunsaturated are good for me, so I'm just gonna dump a bunch of oil on everything and now you're upping your calories, well that's, that's, that's a negative now, right?
+
+167
+00:00:00,000 --> 00:00:00,000
+
+
+168
+00:00:00,000 --> 00:00:00,000
+1 (25m 18s):
+
+169
+00:00:00,000 --> 00:00:00,000
+Because you have to deal with the bigger problem of overall energy toxicity. So I'm not somebody who likes to demonize individual nutrients, I just haven't seen really compelling evidence that seed oils are the root cause of the problems that are being suggested. And I think this is a good example of kind of like whenever there's a, something that pops up in the fitness industry there's always like the opposite thing that pops up and it's like the reactionary, you know, extreme reaction to whatever this thing was over here. And I think that's what we're seeing with some of the seed oil stuff. It's mostly people who are trying to kind of expose the virtues of Saturated Fat. I think it's fine to consume sim Saturated Fat but I think limiting it to seven to 10% of your daily calorie intake is probably wise again based on the consensus of the evidence I've seen.
+
+170
+00:00:00,000 --> 00:00:00,000
+
+
+171
+00:00:00,000 --> 00:00:00,000
+1 (26m 7s):
+
+172
+00:00:00,000 --> 00:00:00,000
+And so once again, like we're, we're struggling with this, okay, we've got this epidemiology and these mechanisms that sound good but then what actually happens when we, we do some human randomized control trials and, and so far I just haven't seen the evidence to suggest that seed oils are independently bad for you independent of the calories they contain. I think we all have this idea that there's this one iconic diet out there that is going to be the best diet for Building Muscle and burning fat and preventing cancer and heart disease and, and the reality is like there's overall healthy dietary patterns that we see that are good for those things. But when we get down into the weeds, there's probably some push and pull here as well.
+
+173
+00:00:00,000 --> 00:00:00,000
+
+
+174
+00:00:00,000 --> 00:00:00,000
+0 (26m 51s):
+
+175
+00:00:00,000 --> 00:00:00,000
+I'd like to ask you about supplements for a moment. One that I'm very familiar with, which is Creatine Monohydrate not just for muscle building but maybe any other purposes for it. It
+
+176
+00:00:00,000 --> 00:00:00,000
+
+
+177
+00:00:00,000 --> 00:00:00,000
+1 (26m 59s):
+
+178
+00:00:00,000 --> 00:00:00,000
+Is the most tested, safe and effective sports supplement we have. I mean it's just there are thousands of studies on Creatine Monohydrate. Now I would say very clearly too, if you're using any other form of creatin, I think you're wasting your money. Creatin hydrochloride has some hype around it. It's, it's apparently it's a little more soluble. The claim is that you need less but there's only a couple studies on it and it's more expensive. So I tell people, just take Creatine Monohydrate. It is tried and true. It's been shown to saturate the muscle cells 100% with phosphocreatine and that's what you want. So creatine works through a few different methodologies. One through increasing phosphocreatine content, which helps improve exercise performance.
+
+179
+00:00:00,000 --> 00:00:00,000
+
+
+180
+00:00:00,000 --> 00:00:00,000
+1 (27m 40s):
+
+181
+00:00:00,000 --> 00:00:00,000
+It appears to improve recovery and it increases lean mass, a lot of which is through bringing water into the muscle cells. But that is, I mean muscle cells are mostly water. So when people say well it's just water, that's what muscle cells mostly are and it also increases strength and some other metrics. Now it also has been shown in studies that people tend to get a decrease in body fat percentage. Now that's probably because they're getting an increase in lean mass and so the relative is a decrease in body fat percentage. But there are a few studies that show a decrease in fat mass as well. I don't think the creatine's a fat burner. I think that people are able to train harder, build more lean tissue and so that's probably having an effect on fat mass.
+
+182
+00:00:00,000 --> 00:00:00,000
+
+
+183
+00:00:00,000 --> 00:00:00,000
+1 (28m 23s):
+
+184
+00:00:00,000 --> 00:00:00,000
+Then they've actually shown more recently some cognitive benefits to creatine, which I find really interesting as well. But the only knock on creatine that anybody's been able to come up with, 'cause they've, they've debunked the kidney stuff, they've debunked the liver stuff, they it, there's no evidence that it harms healthy kidney or liver is hair loss. So what about hair loss? 'cause there was one study in 2009 that showed that creatine increased DHT but they didn't really show an effect on any other sex hormone. So it's kind of strange like you would think if there was an increase in DHT, there would be like something else that changes as well. And it's only one study And again, didn't directly measure hair loss measured DHT, which we know is involved in the loss of the follicle.
+
+185
+00:00:00,000 --> 00:00:00,000
+
+
+186
+00:00:00,000 --> 00:00:00,000
+1 (29m 4s):
+
+187
+00:00:00,000 --> 00:00:00,000
+The follicle. So what I would say is that I am not convinced it's only one study never been replicated to my knowledge and it was looking at a mechanism rather than an outcome. Do
+
+188
+00:00:00,000 --> 00:00:00,000
+
+
+189
+00:00:00,000 --> 00:00:00,000
+0 (29m 14s):
+
+190
+00:00:00,000 --> 00:00:00,000
+You em emphasize the classic loading of creatine, taking it a bunch of times per day and then backing off or just taking it consistently at the, I think five grams per day is kind of the typical dose that people take. So
+
+191
+00:00:00,000 --> 00:00:00,000
+
+
+192
+00:00:00,000 --> 00:00:00,000
+1 (29m 28s):
+
+193
+00:00:00,000 --> 00:00:00,000
+Again, no solutions only trade-offs. You can load it and you'll saturate your phospho creatine stores faster. Like usually within a week. If you just take five grams per day, it'll take 2, 3, 4 weeks but you will get to the same place and you're probably gonna have a much lower risk of GI issues. Some people creatine can be a gut irritant if it is for some folks I would recommend splitting it into multiple doses. So maybe like multiple two, one or two gram doses per day and definitely don't load it if you're somebody who has GI issues from it. The more into the weeds people tend to get, And again this is just my own anecdote and observation, the more into the weeds they tend to get the less hard I see them train.
+
+194
+00:00:00,000 --> 00:00:00,000
+
+
+195
+00:00:00,000 --> 00:00:00,000
+1 (30m 9s):
+
+196
+00:00:00,000 --> 00:00:00,000
+And so one of the things I really like that Mike is Israel Toll said, who's got a PhD and is a bodybuilder himself. He said, you can't out science hard training if you're looking to build muscle and you're looking to improve your body composition. The main thing is just doing the work over time. And I think a lot of that is getting the confidence of doing something hard that there's a payoff at the end. I get asked a lot in my q and as, how do I get more confident? How do I become more confident? And I'll tell people, you have to do, you have there, there's no hack, you can't read about it, you gotta get in the arena. And I don't mean like compete in sports necessarily, but like doing a PhD or doing something just something hard where you're putting yourself out there and you're saying, this is my goal and I'm gonna go for it.
+
+197
+00:00:00,000 --> 00:00:00,000
+
+
+198
+00:00:00,000 --> 00:00:00,000
+1 (30m 55s):
+
+199
+00:00:00,000 --> 00:00:00,000
+You just learn so much by doing that about yourself.
+
+200
+00:00:00,000 --> 00:00:00,000
+
+
+201
+00:00:00,000 --> 00:00:00,000
+0 (30m 58s):
+
+202
+00:00:00,000 --> 00:00:00,000
+I must say this conversation for me has been tremendously rewarding. The amount of knowledge that you contain inside you is is astonishing and there's
+
+203
+00:00:00,000 --> 00:00:00,000
+
+
+204
+00:00:00,000 --> 00:00:00,000
+1 (31m 7s):
+
+205
+00:00:00,000 --> 00:00:00,000
+A lot of stuff rattle around
+
+206
+00:00:00,000 --> 00:00:00,000
+
+
+207
+00:00:00,000 --> 00:00:00,000
+0 (31m 8s):
+
+208
+00:00:00,000 --> 00:00:00,000
+Up there. Well, and, and we all benefit because your ability to pull from the mechanistic side, again, I think in, not limited to, but related to your background in biochemistry all the way through to the, the impact in humans, animal studies, being able to understand where those sit relative to one another. And then you're obviously a practitioner of you practice what you preach and what you talk about pertains to men, to women, younger people, older people, people who are vegan, keto, carnivore. You really are able to net a tremendous number of ideas while staying really nuanced and data-driven. And so I just wanna say for myself and on behalf of the listeners, really appreciate you coming in here today and and sharing with us your knowledge.
+
+209
+00:00:00,000 --> 00:00:00,000
+
+
+210
+00:00:00,000 --> 00:00:00,000
+0 (31m 51s):
+
+211
+00:00:00,000 --> 00:00:00,000
+So thank you so much for your time.
+
+212
+00:00:00,000 --> 00:00:00,000
+
+
+213
+00:00:00,000 --> 00:00:00,000
+1 (31m 53s):
+
+214
+00:00:00,000 --> 00:00:00,000
+Oh, thank you. I appreciate the opportunity. I really enjoyed it.
+
