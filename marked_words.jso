@@ -8988,9 +8988,7 @@
     "sentenceVocab": "⭐ It's giving… —— 很有……的感觉（近年流行网络表达）｜energy —— 气质；氛围感（口语引申义）",
     "startTime": 252.834,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:30:50.611Z",
-    "patternCategory": "表达观点或判断",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-15T07:30:50.611Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-47-9-1784100675044",
@@ -11546,7 +11544,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "突出当前重点",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-The_Terrifying_Difference_Between_Night_And_Day_In_The_Countryside_Michael_McIntyre-9-12-1784301535643",
