@@ -11645,6 +11645,7 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-18T03:18:02.746Z",
     "patternCategory": "比较或相关变化",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "customTopicIds": []
   }
 ]
