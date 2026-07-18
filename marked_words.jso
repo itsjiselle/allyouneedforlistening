@@ -11728,5 +11728,26 @@
     "startTime": 39.413,
     "reviewCount": 0,
     "dateAdded": "2026-07-18T13:20:17.957Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-13-4-1784380847362",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 13,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      6
+    ],
+    "wordText": "motherhood has softened",
+    "category": "idiom",
+    "customLemma": "motherhood has softened someone",
+    "sentenceContext": "-And it turns out motherhood has softened me, and I like to watch them win.",
+    "sentenceTranslation": "结果发现，成为母亲让我变得柔软了，我喜欢看着他们获胜。",
+    "sentenceVocab": "⭐ It turns out… —— 结果发现……（★★★★★）｜motherhood —— 母亲身份；育儿经历｜soften somebody —— 使某人变得柔和",
+    "startTime": 39.413,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-18T13:20:47.362Z"
   }
 ]
