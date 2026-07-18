@@ -11684,5 +11684,28 @@
         }
       ]
     }
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-5-4-1784380779962",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 5,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "wordText": "competitive when you play games",
+    "category": "idiom",
+    "customLemma": "be competitive when you play games",
+    "sentenceContext": "-I mean, are you competitive when you play games? Do you play games at home?",
+    "sentenceTranslation": "我的意思是，你玩游戏的时候会有竞争意识吗？你在家会玩游戏吗？",
+    "sentenceVocab": "⭐ be competitive —— 有竞争意识的（★★★★★）",
+    "startTime": 14.697,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-18T13:19:39.962Z"
   }
 ]
