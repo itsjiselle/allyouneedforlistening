@@ -11749,5 +11749,26 @@
     "startTime": 39.413,
     "reviewCount": 0,
     "dateAdded": "2026-07-18T13:20:47.362Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-17-3-1784380869488",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 17,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5
+    ],
+    "wordText": "throw the games",
+    "category": "idiom",
+    "customLemma": "throw the games",
+    "sentenceContext": "-And I don't throw the games. You know, I go – I really – And I play for – I play for money, too.",
+    "sentenceTranslation": "而且我不会故意输掉比赛。我是真的认真玩——而且我还会赌钱玩。",
+    "sentenceVocab": "⭐ throw a game —— 故意输掉比赛（★★★★★）｜play for money —— 赌钱玩",
+    "startTime": 53.234,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-18T13:21:09.488Z"
   }
 ]
