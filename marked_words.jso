@@ -11770,5 +11770,25 @@
     "startTime": 53.234,
     "reviewCount": 0,
     "dateAdded": "2026-07-18T13:21:09.488Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-20-14-1784380924465",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 20,
+    "wordIndex": 14,
+    "wordIndices": [
+      14,
+      15
+    ],
+    "wordText": "on set",
+    "category": "idiom",
+    "customLemma": "on set",
+    "sentenceContext": "-But there is a game – I was working last week and I was on set, and we were just passing the time.",
+    "sentenceTranslation": "不过有一个游戏——上周我工作的时候在片场，我们只是用它来打发时间。",
+    "sentenceVocab": "⭐ be on set —— 在片场（★★★★★）｜pass the time —— 打发时间（★★★★★）",
+    "startTime": 74.07300000000001,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-18T13:22:04.465Z"
   }
 ]
