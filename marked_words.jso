@@ -11646,6 +11646,43 @@
     "dateAdded": "2026-07-18T03:18:02.746Z",
     "patternCategory": "比较或相关变化",
     "patternCategoryManuallyEdited": false,
-    "customTopicIds": []
+    "customTopicIds": [],
+    "translationCache": {
+      "lemma": "The more ...(adj.) you are, the further away from the ...(n.) you ...(do sth)",
+      "ipa": "",
+      "translation": "你越……（形容词），你……（做某事）离……（名词）就越远。",
+      "pronunciationGuide": "该句式是“the more..., the further...”的比较级平行结构，强调两个变化之间的因果关系。使用时注意：第一个分句用“the more + 形容词 + 主语 + be”，第二个分句用“the further away from + 名词 + 主语 + 动词”。常见错误是忘记使用定冠词“the”或形容词比较级形式。",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to express a proportional relationship where an increase in one quality leads to a greater distance from something.",
+      "patternPractice": [
+        {
+          "chinese": "你越紧张，离成功就越远。",
+          "english": "The more nervous you are, the further away from success you get.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "你越不耐烦，离解决问题就越远。",
+          "english": "The more impatient you are, the further away from solving the problem you get.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "你越固执，离达成共识就越远。",
+          "english": "The more stubborn you are, the further away from reaching a consensus you get.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你越依赖他人，离独立自主就越远。",
+          "english": "The more dependent on others you are, the further away from independence you get.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你越沉迷于虚拟世界，离现实生活就越远。",
+          "english": "The more addicted to the virtual world you are, the further away from real life you get.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   }
 ]
