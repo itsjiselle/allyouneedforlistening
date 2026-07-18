@@ -11616,5 +11616,33 @@
     "startTime": 120.725,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T15:20:14.310Z"
+  },
+  {
+    "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose-49-0-1784344682746",
+    "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose",
+    "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
+    "subtitleId": 49,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11
+    ],
+    "wordText": "The more ... you are the further away from the ... you",
+    "category": "pattern",
+    "customLemma": "The more ...(adj.) you are, the further away from the ...(n.) you ..(do sth)",
+    "sentenceContext": "The more posh you are, the further away from the vehicle you pop the boot open.",
+    "sentenceTranslation": "越是\"贵族范儿\"，越喜欢离车老远就把后备箱打开。",
+    "sentenceVocab": "⭐ The + 比较级…, the + 比较级… —— 越……越……｜vehicle —— 车辆｜posh —— 上流的；高档的",
+    "startTime": 141.258,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-18T03:18:02.746Z"
   }
 ]
