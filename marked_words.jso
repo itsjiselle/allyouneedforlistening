@@ -12789,8 +12789,84 @@
     "startTime": 345.625,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:14:50.660Z",
-    "patternCategory": "表达情感",
-    "patternCategoryManuallyEdited": false
+    "patternCategory": "描述事件中的即时反应或感受",
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "highfive ...(某事) in one's head",
+      "ipa": "",
+      "translation": "在心里与……击掌（暗自庆祝）",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "用于表达内心暗自庆祝或得意，不实际做出击掌动作，而是想象中完成。",
+      "englishDefinition": "Used to express a private, internal celebration or self-congratulation for a personal achievement or clever thought, without any outward physical action.",
+      "patternPractice": [],
+      "patternAnalysis": {
+        "normalizedTarget": "highfive ...(something) in one's head",
+        "unitType": "lexical_frame",
+        "activeLearningRecommendation": "high",
+        "primaryCategory": "叙述个人经历与自我变化",
+        "primarySubcategory": "描述事件中的即时反应或感受",
+        "functionInContextZh": "说话者用此句式表达对自己行为的内心认可和得意，是一种幽默的自我表扬。",
+        "reusablePattern": "highfive [someone/something] in [possessive] head",
+        "retrievalScenarioZh": "你刚在会议上提出了一个绝妙的解决方案，虽然表面上保持冷静，但内心非常得意。你想用英语向朋友描述这种心情。",
+        "usageConstraintsZh": [
+          "非正式场合使用，适合口语或轻松书面语",
+          "主语通常为第一人称（I'm high-fiving myself）",
+          "highfive 可作动词或名词，此处为动词"
+        ],
+        "commonErrorsZh": [
+          "误用为实际击掌动作，忽略'in one's head'",
+          "忘记反身代词（myself）",
+          "时态错误，常用现在进行时或一般现在时"
+        ],
+        "modelExampleEn": "I'm high-fiving myself in my head for solving that tricky problem.",
+        "confidence": 0.95,
+        "promptVersion": "pattern-learning-v2"
+      },
+      "patternAnkiCards": [
+        {
+          "front": {
+            "scenarioZh": "你在公司会议上提出了一个创新方案，老板当场表扬了你。你表面上谦虚回应，但内心非常得意。会后你向好友描述这种心情。",
+            "taskZh": "用英语表达你正在心里与自己击掌庆祝。",
+            "hintEn": "I'm ... myself in my head for ..."
+          },
+          "back": {
+            "targetAnswerEn": "I'm high-fiving myself in my head for that idea.",
+            "acceptableAnswersEn": [
+              "I'm giving myself a mental high-five for that idea.",
+              "I'm high-fiving myself in my head right now."
+            ],
+            "reusablePattern": "highfive [someone/something] in [possessive] head",
+            "usageNoteZh": "强调内心活动，不是实际动作。常用进行时表示此刻的心情。",
+            "commonErrorsZh": [
+              "忘记反身代词myself",
+              "漏掉'in my head'变成实际击掌"
+            ]
+          }
+        },
+        {
+          "front": {
+            "scenarioZh": "你刚在考试中答出了一道难题，走出考场后，你内心暗自得意。用英语向朋友描述你正在心里与自己击掌。",
+            "taskZh": "用英语表达你正在心里与自己击掌庆祝答对难题。",
+            "hintEn": "I'm ... myself in my head for ... that tough question."
+          },
+          "back": {
+            "targetAnswerEn": "I'm high-fiving myself in my head for getting that tough question right.",
+            "acceptableAnswersEn": [
+              "I'm giving myself a mental high-five for answering that hard question.",
+              "I'm high-fiving myself in my head for solving that problem."
+            ],
+            "reusablePattern": "highfive [someone/something] in [possessive] head",
+            "usageNoteZh": "可以用于各种小成就，语气轻松幽默。",
+            "commonErrorsZh": [
+              "误用过去时（应现在时或进行时）",
+              "忘记介词'for'"
+            ]
+          }
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-88-2-1784430902474",
