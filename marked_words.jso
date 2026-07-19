@@ -11959,7 +11959,35 @@
     "sentenceVocab": "⭐ make one's Broadway debut —— 完成百老汇首演（★★★★★）｜debut —— 首次亮相",
     "startTime": 159.502,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:10:09.965Z"
+    "dateAdded": "2026-07-19T03:10:09.965Z",
+    "translationCache": {
+      "lemma": "make one's debut",
+      "ipa": "/meɪk wʌnz deɪˈbjuː/",
+      "translation": "首次亮相，初次登台",
+      "pronunciationGuide": "",
+      "collocations": "make one's Broadway debut, make one's acting debut, make one's debut album",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这位年轻钢琴家将在纽约卡内基音乐厅首次登台演出。",
+          "english": "The young pianist will make his debut at Carnegie Hall in New York."
+        },
+        {
+          "chinese": "她作为电影导演的处女作在戛纳电影节上首映。",
+          "english": "She made her debut as a film director at the Cannes Film Festival."
+        },
+        {
+          "chinese": "这支乐队在发行首张专辑后，于全国巡演中首次亮相。",
+          "english": "The band made their debut on a national tour after releasing their first album."
+        },
+        {
+          "chinese": "他在百老汇的首次演出获得了评论家的一致好评。",
+          "english": "He made his Broadway debut to critical acclaim."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-40-3-1784430614787",
@@ -12328,7 +12356,7 @@
     "sentenceTranslation": "然后接下来就发生了一连串有趣的事情。",
     "sentenceVocab": "⭐ the rest is history —— 后面的故事大家都知道（这里是变体）｜high jinks ensue —— 一系列滑稽/搞笑事件接连发生（★★★★★）",
     "startTime": 458.803,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-19T03:21:59.294Z"
   },
   {
