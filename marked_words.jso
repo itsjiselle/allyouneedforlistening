@@ -41,16 +41,13 @@
     "dateAdded": "2026-06-22T04:09:06.892Z",
     "translationCache": {
       "lemma": "lead",
-      "ipa": "/lid/",
-      "translation": "v. 导致，引起（常与 to 连用）；带领，引导；通往。在本句中为动词原形，与 to 连用表示“导致搁浅和死亡”。",
-      "pronunciationGuide": "在语流中，当 \"lead\" /lid/ 与后面的 \"to\" /tuː/ 连读时，/d/（浊齿龈爆破音）和 /t/（清齿龈爆破音）的发音部位相同。此时 /d/ 会发生“失去爆破”（unreleased stop），即舌尖顶住上齿龈做出 /d/ 的阻碍动作，但不爆破送气，而是直接过渡到 /t/ 的发音。此外，弱读时 \"to\" 常还原并弱读为 /tə/，因此 \"lead to\" 听起来非常接近 /liː.tə/ 或 /liːd.tə/，中间有短暂的停顿（憋气感）。",
-      "collocations": [
-        "lead to failure (导致失败)",
-        "lead a healthy lifestyle (过上健康的生活方式)",
-        "lead the discussion (主持/引导讨论)"
-      ],
-      "cefrLevel": "B1",
-      "idiomUsageNote": "“lead to” 是表达因果关系极高频且自然的万能短语，适用于从学术写作、商业报告到日常口语的所有语体。相比于语气较生硬、直接的“cause”， “lead to” 更侧重于事物发展的“导向”过程，多用于描述由于某一原因逐步引发或最终带来某种结果。"
+      "ipa": "/liːd/",
+      "translation": "v. 导致，引起",
+      "pronunciationGuide": "",
+      "collocations": "lead to, lead sb to do sth, lead the way",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": ""
     }
   },
   {
