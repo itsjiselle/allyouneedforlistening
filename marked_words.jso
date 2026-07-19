@@ -11830,5 +11830,27 @@
     "startTime": 86.426,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:06:39.193Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-28-16-1784430462317",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 28,
+    "wordIndex": 16,
+    "wordIndices": [
+      16,
+      18,
+      19,
+      21
+    ],
+    "wordText": "block ... out of ... mind",
+    "category": "idiom",
+    "customLemma": "block something out of one's mind",
+    "sentenceContext": "-Do you ever – Do you kind of do a project and then you kind of block it out of your mind or no?",
+    "sentenceTranslation": "你有没有这种情况——完成一个项目之后，会把它暂时从脑海里抹去，或者不再想它？",
+    "sentenceVocab": "⭐ block something out of your mind —— 刻意不去想某事；把某事排除在记忆之外（★★★★★）｜do a project —— 做一个项目；参与一个作品",
+    "startTime": 120.15,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:07:42.317Z"
   }
 ]
