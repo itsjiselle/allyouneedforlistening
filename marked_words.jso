@@ -276,12 +276,16 @@
     "translationCache": {
       "lemma": "get",
       "ipa": "/ɡɛt/",
-      "translation": "得到，获得（动词）",
-      "pronunciationGuide": "",
-      "collocations": "have gotten, had gotten, get it, get something done",
-      "cefrLevel": "",
+      "translation": "得到，获得（及物动词）",
+      "pronunciationGuide": "注意连读：had gotten it 中，'had' 弱读为 /həd/ 或 /əd/，'gotten' 的 /t/ 与 'it' 的 /ɪ/ 连读为 /tɪt/，整体发音为 /həd ˈɡɑtən ɪt/ 或 /əd ˈɡɑtən ɪt/。",
+      "collocations": [
+        "have gotten used to",
+        "have gotten better",
+        "have gotten a chance"
+      ],
+      "cefrLevel": "A2",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "to obtain, receive, or be given something"
     }
   },
   {
