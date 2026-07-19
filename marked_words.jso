@@ -11921,7 +11921,41 @@
     "sentenceVocab": "⭐ trivia game —— 知识问答游戏｜ask somebody questions —— 问某人问题",
     "startTime": 79.345,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:06:10.482Z"
+    "dateAdded": "2026-07-19T03:06:10.482Z",
+    "translationCache": {
+      "lemma": "trivia game",
+      "ipa": "/ˈtrɪviə ɡeɪm/",
+      "translation": "冷知识问答游戏（名词短语）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "play a trivia game",
+        "trivia game night",
+        "trivia game app",
+        "win a trivia game",
+        "trivia game questions"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "我们昨晚在酒吧玩了一款关于电影冷知识的问答游戏，结果我输给了我的朋友。",
+          "english": "We played a movie trivia game at the bar last night, and I ended up losing to my friend."
+        },
+        {
+          "chinese": "这款冷知识问答游戏应用每天都会更新题目，确保玩家总能学到新东西。",
+          "english": "This trivia game app updates its questions daily, ensuring that players always learn something new."
+        },
+        {
+          "chinese": "为了准备公司的团建活动，我设计了一个关于公司历史的冷知识问答游戏。",
+          "english": "To prepare for the company's team-building event, I designed a trivia game about the company's history."
+        },
+        {
+          "chinese": "虽然她平时不爱说话，但在冷知识问答游戏中她总是表现得非常出色。",
+          "english": "Although she is usually quiet, she always performs exceptionally well in trivia games."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-22-4-1784430399193",
@@ -12376,7 +12410,35 @@
     "sentenceVocab": "⭐ lean into something —— 顺势利用；进一步投入某种状态（★★★★★）",
     "startTime": 336.633,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:13:55.247Z"
+    "dateAdded": "2026-07-19T03:13:55.247Z",
+    "translationCache": {
+      "lemma": "lean into",
+      "ipa": "/liːn ˈɪntuː/",
+      "translation": "（面对困难或挑战时）积极应对，不回避",
+      "pronunciationGuide": "",
+      "collocations": "lean into the challenge, lean into discomfort, lean into the moment",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "面对这个新项目带来的不确定性，她选择积极应对，而不是退缩。",
+          "english": "Facing the uncertainty of this new project, she chose to lean into it rather than back down."
+        },
+        {
+          "chinese": "在演讲中，他故意谈论了一个有争议的话题，并坦然面对观众的强烈反应。",
+          "english": "During the speech, he deliberately brought up a controversial topic and leaned into the audience's strong reactions."
+        },
+        {
+          "chinese": "为了克服对公开演讲的恐惧，我决定接受每一次演讲机会，直面不适感。",
+          "english": "To overcome my fear of public speaking, I decided to accept (take on) every speaking opportunity and lean into the discomfort."
+        },
+        {
+          "chinese": "当团队遇到困难时，优秀的领导者会直面问题，而不是回避。",
+          "english": "When the team encounters difficulties, a good leader will lean into the problem rather than avoid it."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-85-4-1784430859236",
@@ -12695,7 +12757,44 @@
     "reviewCount": 1,
     "dateAdded": "2026-07-19T03:22:37.723Z",
     "patternCategory": "评价",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "A and B have great chemistry",
+      "ipa": "",
+      "translation": "A和B之间很有化学反应/默契",
+      "pronunciationGuide": "该句式结构为：主语（A and B）+ have + great chemistry。其中chemistry在此语境中比喻两人之间的默契、吸引力或良好互动，常用于描述演员、搭档或情侣之间的自然配合。注意：chemistry不可数，前面不加冠词；great可替换为其他形容词如amazing, incredible等。常见错误：误用复数chemistries或添加冠词a。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to describe a natural, positive connection or rapport between two people or entities, often implying mutual understanding, attraction, or effective collaboration.",
+      "patternPractice": [
+        {
+          "chinese": "汤姆和杰瑞很有默契。",
+          "english": "Tom and Jerry have great chemistry.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "这两位演员在银幕上很有化学反应。",
+          "english": "These two actors have great chemistry on screen.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "新来的项目经理和团队配合得很好。",
+          "english": "The new project manager and the team have great chemistry.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "虽然他们性格不同，但合作起来却很有默契。",
+          "english": "Although they have different personalities, they have great chemistry when working together.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这对双胞胎姐妹不仅在舞台上，在生活中也配合得天衣无缝。",
+          "english": "The twin sisters have great chemistry not only on stage but also in daily life.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-123-3-1784431421996",
