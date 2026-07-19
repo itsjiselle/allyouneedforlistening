@@ -11852,5 +11852,27 @@
     "startTime": 120.15,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:07:42.317Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-29-3-1784430472769",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 29,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "wordText": "It just so happens",
+    "category": "pattern",
+    "customLemma": "It just so happens that ",
+    "sentenceContext": "-You just – It just so happens you…",
+    "sentenceTranslation": "还是说你只是……恰好会……",
+    "sentenceVocab": "⭐ It just so happens that… —— 碰巧……（★★★★★）",
+    "startTime": 125.768,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:07:52.769Z"
   }
 ]
