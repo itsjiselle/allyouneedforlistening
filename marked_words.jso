@@ -12311,5 +12311,25 @@
     "startTime": 493.43,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:23:41.996Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-125-7-1784431468382",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 125,
+    "wordIndex": 7,
+    "wordIndices": [
+      7,
+      9
+    ],
+    "wordText": "get ... back",
+    "category": "idiom",
+    "customLemma": "get someone back",
+    "sentenceContext": "-I think it's time for you to get me back.",
+    "sentenceTranslation": "我觉得现在轮到你反击我了。",
+    "sentenceVocab": "⭐ get someone back —— 报复某人；回敬某人（★★★★★）",
+    "startTime": 507.369,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:24:28.382Z"
   }
 ]
