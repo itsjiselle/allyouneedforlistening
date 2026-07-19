@@ -101,34 +101,12 @@
     "translationCache": {
       "lemma": "teething problems",
       "ipa": "/ˈtiːðɪŋ ˈprɑːbləmz/",
-      "translation": "初期困难，成长中的问题",
+      "translation": "初期困难，成长中的问题（名词短语）",
       "pronunciationGuide": "",
-      "collocations": "have teething problems, experience teething problems, overcome teething problems",
+      "collocations": "have teething problems, experience teething problems, overcome teething problems, initial teething problems",
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "新软件在发布后的头几个月遇到了一些初期困难，但开发团队很快解决了它们。",
-          "english": "The new software had some teething problems in the first few months after release, but the development team quickly solved (sorted out) them.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "尽管新生产线有一些初期困难，但公司预计下个季度就能全面投产。",
-          "english": "Although the new production line experienced some teething problems, the company expects to be at full capacity next quarter.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "任何初创企业都必须预料到初期困难，并制定策略来有效克服它们。",
-          "english": "Any startup must anticipate teething problems and devise strategies to overcome them effectively.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "新交通系统在运营第一周就出现了初期困难，导致通勤者严重延误。",
-          "english": "The new transport system encountered teething problems in its first week of operation, causing significant delays for commuters.",
-          "difficulty": "高级"
-        }
-      ]
+      "englishDefinition": ""
     }
   },
   {
