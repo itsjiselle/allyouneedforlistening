@@ -12470,7 +12470,35 @@
     "sentenceVocab": "⭐ lame —— 无聊的；逊的（口语）",
     "startTime": 493.43,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:23:41.996Z"
+    "dateAdded": "2026-07-19T03:23:41.996Z",
+    "translationCache": {
+      "lemma": "lame",
+      "ipa": "/leɪm/",
+      "translation": "adj. 差劲的，蹩脚的；无说服力的",
+      "pronunciationGuide": "",
+      "collocations": "lame excuse, lame joke, lame duck",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他迟到了两个小时，却只给了一个蹩脚的借口，说他的闹钟没响。",
+          "english": "He was two hours late and only gave a lame excuse that his alarm clock didn't go off."
+        },
+        {
+          "chinese": "这部电影情节太差劲了，我们中途就离开了电影院。",
+          "english": "The plot of this movie was so lame that we left the cinema halfway through."
+        },
+        {
+          "chinese": "别再用那些蹩脚的玩笑来掩饰你的尴尬了，这只会让情况更糟。",
+          "english": "Stop using those lame jokes to cover up (hide) your embarrassment; it only makes things worse."
+        },
+        {
+          "chinese": "他的解释听起来很蹩脚，没有人相信他真的忘记了会议。",
+          "english": "His explanation sounded lame, and no one believed he actually forgot (slipped his mind) the meeting."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-125-7-1784431468382",
