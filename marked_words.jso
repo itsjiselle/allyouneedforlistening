@@ -11810,5 +11810,25 @@
     "startTime": 79.345,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:06:10.482Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-22-4-1784430399193",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 22,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      9
+    ],
+    "wordText": "having ... runs",
+    "category": "idiom",
+    "customLemma": "have a run",
+    "sentenceContext": "-And I was just having one of those, like, runs where I couldn't miss.",
+    "sentenceTranslation": "那天我刚好进入了一种状态，就是怎么都不会答错。",
+    "sentenceVocab": "⭐ have a run —— 有一段连续表现很好的时期｜can't miss —— 不会错；怎么都能答对",
+    "startTime": 86.426,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:06:39.193Z"
   }
 ]
