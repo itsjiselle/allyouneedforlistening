@@ -11843,7 +11843,39 @@
     "sentenceVocab": "⭐ throw a game —— 故意输掉比赛（★★★★★）｜play for money —— 赌钱玩",
     "startTime": 53.234,
     "reviewCount": 0,
-    "dateAdded": "2026-07-18T13:21:09.488Z"
+    "dateAdded": "2026-07-18T13:21:09.488Z",
+    "translationCache": {
+      "lemma": "throw the game",
+      "ipa": "/θroʊ ðə ɡeɪm/",
+      "translation": "故意输掉比赛（动词短语）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "throw a game",
+        "accuse someone of throwing the game",
+        "throw the match"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "尽管他声称自己尽力了，但许多人怀疑他为了赌债故意输掉了比赛。",
+          "english": "Although he claimed he tried his best, many suspected he threw the game to pay off his gambling debts."
+        },
+        {
+          "chinese": "教练被指控收受贿赂并故意输掉那场关键比赛。",
+          "english": "The coach was accused of accepting bribes and throwing the crucial game."
+        },
+        {
+          "chinese": "如果发现任何球员故意输掉比赛，他们将面临终身禁赛。",
+          "english": "If any player is found to have thrown the game, they will face a lifetime ban."
+        },
+        {
+          "chinese": "在调查中，他承认自己为了钱故意输掉了那场网球比赛。",
+          "english": "During the investigation, he admitted that he threw the tennis match for money."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-20-14-1784380924465",
