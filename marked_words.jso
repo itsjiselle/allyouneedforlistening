@@ -12630,7 +12630,35 @@
     "sentenceVocab": "⭐ begin streaming —— 开始上线播放（影视行业表达）｜on Prime Video —— 在 Prime Video 平台",
     "startTime": 595.1,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:28:00.068Z"
+    "dateAdded": "2026-07-19T03:28:00.068Z",
+    "translationCache": {
+      "lemma": "begin streaming on",
+      "ipa": "/bɪˈɡɪn ˈstriːmɪŋ ɒn/",
+      "translation": "开始流媒体播放（动词短语）",
+      "pronunciationGuide": "",
+      "collocations": "begin streaming on [platform], [movie/show] begins streaming on [date]",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这部新剧将于下周五在Netflix开始流媒体播放。",
+          "english": "The new series begins streaming on Netflix next Friday."
+        },
+        {
+          "chinese": "我们期待已久的纪录片终于要在Hulu开始流媒体播放了。",
+          "english": "The documentary we've been waiting for finally begins streaming on Hulu."
+        },
+        {
+          "chinese": "这部电影在影院上映后多久会在亚马逊Prime上开始流媒体播放？",
+          "english": "How long after its theatrical release does the movie begin streaming on Amazon Prime?"
+        },
+        {
+          "chinese": "所有剧集将在同一天开始流媒体播放，这样观众就可以一次性看完。",
+          "english": "All episodes will begin streaming on the same day, so viewers can binge-watch (watch all at once) them."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-150-0-1784431691844",
