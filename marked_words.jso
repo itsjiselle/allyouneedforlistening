@@ -12351,7 +12351,39 @@
     "sentenceVocab": "⭐ get someone back —— 报复某人；回敬某人（★★★★★）",
     "startTime": 507.369,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:24:28.382Z"
+    "dateAdded": "2026-07-19T03:24:28.382Z",
+    "translationCache": {
+      "lemma": "get someone back",
+      "ipa": "/ɡɛt ˈsʌmwʌn bæk/",
+      "translation": "报复某人；向某人报仇",
+      "pronunciationGuide": "",
+      "collocations": [
+        "get someone back for something",
+        "get someone back by doing something",
+        "get someone back eventually"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他上次在会议上让我难堪，我一定要找机会报复他。",
+          "english": "He embarrassed me at the meeting last time, so I must find a chance to get him back."
+        },
+        {
+          "chinese": "她偷了我的创意，我决定在项目汇报时让她也尝尝被抢功的滋味。",
+          "english": "She stole my idea, so I decided to get her back by taking credit for her work during the project presentation."
+        },
+        {
+          "chinese": "别担心，他迟早会为他的背叛付出代价，我们等着瞧吧。",
+          "english": "Don't worry, he will eventually get what he deserves for his betrayal; we'll just wait and see how we can get him back."
+        },
+        {
+          "chinese": "如果你再这样捉弄我，我一定会以牙还牙。",
+          "english": "If you keep playing tricks on me like this, I will definitely get you back."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-129-4-1784431510997",
