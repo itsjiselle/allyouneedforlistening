@@ -12128,7 +12128,44 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:11:22.827Z",
     "patternCategory": "评价",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "She's everything",
+      "ipa": "",
+      "translation": "她/他/它是一切，表示某人或某物极其完美、重要或令人满意。",
+      "pronunciationGuide": "这是一个主系表结构，主语 + be动词 + 名词（everything）。'everything' 在此处是抽象名词，意为“一切”，用于强调某人或某物具有所有优点或特质。使用时注意主语可以是任何人称或事物，be动词需相应变化。常见错误是误用为比较级或添加修饰语，如 'She's everything to me' 虽可接受，但原句型更简洁有力。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to express that someone or something is perfect, ideal, or possesses all desirable qualities.",
+      "patternPractice": [
+        {
+          "chinese": "他是我的全部。",
+          "english": "He's everything.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "这本书对我来说就是一切。",
+          "english": "This book is everything to me.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "她的微笑就是一切。",
+          "english": "Her smile is everything.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "那个假期对我来说就是一切。",
+          "english": "That vacation was everything to me.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "他对家庭的责任感就是一切。",
+          "english": "His sense of responsibility to his family is everything.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-62-7-1784430751469",
