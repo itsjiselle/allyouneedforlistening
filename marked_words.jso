@@ -12106,44 +12106,7 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:11:07.810Z",
     "patternCategory": "表达观点或判断",
-    "patternCategoryManuallyEdited": false,
-    "translationCache": {
-      "lemma": "You'd never see ...(someone) do something",
-      "ipa": "",
-      "translation": "你永远不会看到某人做某事",
-      "pronunciationGuide": "该句式用于表达对某人行为的强烈否定预期，强调该行为与某人的身份、性格或习惯完全不符。结构为：You'd never see + 某人 + 动词原形 + 其他。注意：动词必须用原形（不带to），因为see是感官动词。常见错误：误用动名词（如seeing）或带to的不定式。",
-      "collocations": [],
-      "cefrLevel": "B2",
-      "idiomUsageNote": "",
-      "englishDefinition": "Used to express a strong negative expectation that someone would never perform a certain action, emphasizing that the action is completely out of character or against their usual behavior.",
-      "patternPractice": [
-        {
-          "chinese": "你永远不会看到我穿裙子。",
-          "english": "You'd never see me wear a dress.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "你永远不会看到那位教授在课堂上开玩笑。",
-          "english": "You'd never see that professor tell (crack) a joke in class.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "你永远不会看到那位著名的作家在公共场合使用手机。",
-          "english": "You'd never see that famous writer use (pull out) a cell phone in public.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "你永远不会看到那位严格的教练在训练中容忍任何迟到行为。",
-          "english": "You'd never see that strict coach tolerate (put up with) any lateness during training.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "你永远不会看到那位优雅的女演员在红地毯上穿着运动鞋。",
-          "english": "You'd never see that elegant actress wear (sport) sneakers on the red carpet.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-52-0-1784430682827",
@@ -12675,7 +12638,7 @@
     "startTime": 556.395,
     "reviewCount": 1,
     "dateAdded": "2026-07-19T03:26:06.192Z",
-    "teacherExplanation": "### 1. 中式英语 vs 地道表达\n中国学生可能会说“enjoy doing”或“like doing”，但**“gets off on doing”** 带有强烈的**性暗示或病态快感**，类似“从…中获得变态的爽感”。Native speaker 用它时，往往带着**戏谑或鄙视**，比如吐槽ASMR爱好者“听尿尿声居然能高潮”。\n\n### 2. 学术深度分析与语用场景\n**语用学特征**：这是一个**俚语**，源自“get off”表示性高潮，引申为“从…中获得极大满足（通常指怪异或禁忌的）”。感情色彩**贬义或戏谑**，绝不适合正式场合。日常交流中，用它来**夸张吐槽**某人癖好，效果炸裂。\n\n### 3. 趣味记忆/联想\n想象一个**怪蜀黍**听到尿尿声就**原地高潮**，嘴里喊着“I get off on this!”——画面太美不敢看。谐音梗：“给他个 off 他就 get 了”，记住：**get off = 高潮，gets off on = 对…上瘾**。",
+    "teacherExplanation": "### 1. 【中式英语 vs 地道表达】\n你第一反应可能是“enjoys doing”或“likes doing”，但**“gets off on doing”** 是俚语中的战斗机，带有强烈的**性暗示或病态快感**。Native speaker 用它时，往往指某人从某种奇怪、变态或禁忌的事情中获得**兴奋**，比如“He gets off on watching people fail.” 普通词太正经，这个词才够**邪门**。\n\n### 2. 【学术深度分析与语用场景】\n语用上，**“get off on”** 源自性高潮的俚语“get off”，所以它**感情色彩强烈，通常是贬义或戏谑**。用在日常交流中，能瞬间营造一种**“这人有点变态”**的幽默效果。比如你问室友：“你该不会从听人尿尿中获得快感吧？” 用这个词，讽刺拉满。\n\n### 3. 【中文社媒/网络流行语对应】\n对应中文网络梗：**“好这口”** 或 **“有内味儿了”**，但更精准的是 **“从……中获得性奋”**。比如弹幕：“这主播是不是从被骂中获得性奋？” 一秒get到那种**猥琐又好笑**的感觉。\n\n### 4. 【趣味记忆/联想】\n想象一个人**“上车（get on）”**，但车是**“快感列车”**，他**“下车（get off）”**时一脸满足。所以**“gets off on”** = 从某事上**“下车”**时爽到飞起。谐音梗：**“给特斯昂”** → 给他一个特殊爱好，他就昂首挺胸。\n\n### 5. 【总结】\n记住：这个词是**俚语中的小黄人**，专治各种“普通表达”，用对地方，你就是**段子手兼语言学家**。",
     "translationCache": {
       "lemma": "get off on",
       "ipa": "/ɡɛt ɔf ɑn/",
