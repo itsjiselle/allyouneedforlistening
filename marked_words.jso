@@ -244,7 +244,17 @@
     "sentenceContext": "SEGARRA: The happy hour deals were pretty key. I actually liked the pizza. Happy hour 的优惠真的很重要。而且我其实还挺喜欢那里的披萨。⭐ deal 优惠活动｜be key 非常重要",
     "startTime": 31.09,
     "reviewCount": 1,
-    "dateAdded": "2026-07-02T05:25:31.610Z"
+    "dateAdded": "2026-07-02T05:25:31.610Z",
+    "translationCache": {
+      "lemma": "key",
+      "ipa": "/kiː/",
+      "translation": "adj. 关键的，重要的",
+      "pronunciationGuide": "",
+      "collocations": "be key to, play a key role, key factor, key point",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": ""
+    }
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-5-17-1782969978727",
