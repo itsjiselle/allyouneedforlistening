@@ -11936,5 +11936,25 @@
     "startTime": 146.029,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:08:48.995Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-39-1-1784430609965",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 39,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      6
+    ],
+    "wordText": "made ... debut",
+    "category": "idiom",
+    "customLemma": "make ...(n.) debut",
+    "sentenceContext": "-You made your kind of Broadway debut together in \"Gutenberg! The Musical!\"",
+    "sentenceTranslation": "你们还一起在《Gutenberg! The Musical!》中完成了某种意义上的百老汇首秀。",
+    "sentenceVocab": "⭐ make one's Broadway debut —— 完成百老汇首演（★★★★★）｜debut —— 首次亮相",
+    "startTime": 159.502,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:10:09.965Z"
   }
 ]
