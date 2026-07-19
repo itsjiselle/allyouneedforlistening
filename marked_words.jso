@@ -12131,5 +12131,25 @@
     "startTime": 345.625,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:14:50.660Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-88-2-1784430902474",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 88,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3
+    ],
+    "wordText": "get offstage",
+    "category": "idiom",
+    "customLemma": "get offstage",
+    "sentenceContext": "-And I get offstage and I'm just like, \"Well…\"",
+    "sentenceTranslation": "然后我下台之后，我就想：\"嗯……\"",
+    "sentenceVocab": "⭐ get offstage —— 下台",
+    "startTime": 350.516,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:15:02.474Z"
   }
 ]
