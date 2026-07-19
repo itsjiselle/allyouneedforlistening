@@ -10470,7 +10470,39 @@
     "sentenceVocab": "⭐ put the prices up —— 提高价格｜feel good about oneself —— 自我感觉良好",
     "startTime": 78.444,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:43:47.354Z"
+    "dateAdded": "2026-07-16T07:43:47.354Z",
+    "translationCache": {
+      "lemma": "put the prices up",
+      "ipa": "/pʊt ðə ˈpraɪsɪz ʌp/",
+      "translation": "提高价格",
+      "pronunciationGuide": "",
+      "collocations": [
+        "put the prices up by 10%",
+        "decide to put the prices up",
+        "put the prices up again"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "由于原材料成本上涨，这家面包店不得不将面包价格提高10%。",
+          "english": "Due to rising raw material costs, the bakery had to put the prices up by 10%."
+        },
+        {
+          "chinese": "每次节假日来临，这家酒店就会提高房价，游客对此抱怨连连。",
+          "english": "Every time the holidays approach, this hotel puts the prices up, and tourists complain about it constantly."
+        },
+        {
+          "chinese": "公司决定提高产品价格，但承诺会同时提升服务质量。",
+          "english": "The company decided to put the prices up, but promised to improve (enhance) the service quality at the same time."
+        },
+        {
+          "chinese": "如果需求持续增长，供应商可能会再次提高价格。",
+          "english": "If demand continues to grow, suppliers may put the prices up again."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-39-11-1784187857365",
