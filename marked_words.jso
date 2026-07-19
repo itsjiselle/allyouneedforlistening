@@ -13401,5 +13401,26 @@
     "startTime": 17.583,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T14:11:48.866Z"
+  },
+  {
+    "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-17-0-1784470389063",
+    "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+    "srtFingerprint": "74851f63",
+    "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+    "subtitleId": 17,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1
+    ],
+    "wordText": "Never has",
+    "category": "pattern",
+    "customLemma": "Never has sth ...(v.) so ...(adj.) ",
+    "sentenceContext": "Never has technology moved so quickly as the past 20-plus years.",
+    "sentenceTranslation": "过去二十多年里，科技的发展速度从未如此之快。",
+    "sentenceVocab": "⭐ Never has… —— 从未如此……（倒装，高级表达）｜20-plus years —— 二十多年",
+    "startTime": 65.438,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T14:13:09.063Z"
   }
 ]
