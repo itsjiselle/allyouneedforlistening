@@ -12452,7 +12452,44 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:22:37.723Z",
     "patternCategory": "评价",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "A and B have great chemistry",
+      "ipa": "",
+      "translation": "A和B之间很有化学反应/默契",
+      "pronunciationGuide": "该句式结构为：主语（A and B）+ have + great chemistry。其中chemistry在此语境中比喻两人之间的默契、吸引力或良好互动，常用于描述演员、搭档或情侣之间的自然配合。注意：chemistry不可数，前面不加冠词；great可替换为其他形容词如amazing, incredible等。常见错误：误用复数chemistries或添加冠词a。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to describe a natural, positive connection or rapport between two people or entities, often implying mutual understanding, attraction, or effective collaboration.",
+      "patternPractice": [
+        {
+          "chinese": "汤姆和杰瑞很有默契。",
+          "english": "Tom and Jerry have great chemistry.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "这两位演员在银幕上很有化学反应。",
+          "english": "These two actors have great chemistry on screen.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "新来的项目经理和团队配合得很好。",
+          "english": "The new project manager and the team have great chemistry.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "虽然他们性格不同，但合作起来却很有默契。",
+          "english": "Although they have different personalities, they have great chemistry when working together.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这对双胞胎姐妹不仅在舞台上，在生活中也配合得天衣无缝。",
+          "english": "The twin sisters have great chemistry not only on stage but also in daily life.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-123-3-1784431421996",
