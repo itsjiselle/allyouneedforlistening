@@ -10492,7 +10492,7 @@
     "sentenceTranslation": "你看，一旦有了一定财富，这些事情就已经成为过去了。",
     "sentenceVocab": "⭐ a certain amount of —— 一定数量的｜be behind you —— 已经成为过去",
     "startTime": 127.364,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-16T07:45:04.672Z",
     "patternCategory": "表示某一阶段已经结束",
     "patternCategoryManuallyEdited": false
@@ -10592,7 +10592,39 @@
     "sentenceVocab": "⭐ see the point —— 觉得有意义；理解这么做的价值",
     "startTime": 185.053,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:47:21.033Z"
+    "dateAdded": "2026-07-16T07:47:21.033Z",
+    "translationCache": {
+      "lemma": "i don't really see the point",
+      "ipa": "/aɪ doʊnt ˈrɪəli siː ðə pɔɪnt/",
+      "translation": "我看不出有什么意义",
+      "pronunciationGuide": "",
+      "collocations": [
+        "I don't really see the point of doing something",
+        "I don't really see the point in arguing",
+        "I don't really see the point anymore"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "我实在看不出每天花两小时通勤有什么意义，这完全是在浪费时间。",
+          "english": "I really don't see the point of commuting two hours every day; it's a complete waste of time."
+        },
+        {
+          "chinese": "她坚持要重新装修厨房，但我看不出有什么必要，因为现在的状态完全没问题。",
+          "english": "She insists on renovating the kitchen, but I don't really see the point, as it's perfectly fine as it is."
+        },
+        {
+          "chinese": "他们要求我们填写这么多表格，但我看不出有什么意义，因为数据根本不会用上。",
+          "english": "They require us to fill out so many forms, but I don't really see the point, since the data will never be used."
+        },
+        {
+          "chinese": "他一直在抱怨公司的政策，但从不提出解决方案，我实在看不出这样做的意义。",
+          "english": "He keeps complaining about the company's policies but never proposes any solutions; I really don't see the point of doing that."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-67-6-1784188070744",
