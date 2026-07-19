@@ -12438,5 +12438,26 @@
     "startTime": 595.1,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:28:00.068Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-150-0-1784431691844",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 150,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2
+    ],
+    "wordText": "Stick around everybody",
+    "category": "pattern",
+    "customLemma": "Stick around everybody",
+    "sentenceContext": "-Stick around, everybody.",
+    "sentenceTranslation": "大家不要走开。",
+    "sentenceVocab": "⭐ stick around —— 留下来；别离开（★★★★★）",
+    "startTime": 601.396,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:28:11.844Z"
   }
 ]
