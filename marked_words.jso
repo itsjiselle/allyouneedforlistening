@@ -12270,7 +12270,7 @@
     "sentenceTranslation": "它取得巨大成功，打破了纪录。",
     "sentenceVocab": "⭐ crush it —— 做得非常成功（★★★★★）｜break the record —— 打破纪录",
     "startTime": 386.826,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-19T03:16:31.541Z",
     "patternCategory": "评价",
     "patternCategoryManuallyEdited": false,
@@ -12310,7 +12310,11 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "customTranslation": "它大获成功/它打破了纪录",
+    "customTopicIds": [
+      "topic-1784380694225"
+    ]
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-100-2-1784431021473",
