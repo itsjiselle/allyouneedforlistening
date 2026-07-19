@@ -10306,7 +10306,44 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-16T07:41:40.262Z",
     "patternCategory": "推测",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "appear to have done sth",
+      "ipa": "",
+      "translation": "似乎已经做了某事",
+      "pronunciationGuide": "该句式由'appear'（系动词，意为'似乎'）后接不定式完成体'to have done'构成，表示对过去动作的推测或判断。'appear'后必须跟不定式，不可直接跟that从句。注意：'appear'的主语通常为人或事物，且该句式强调'看起来已经完成'的状态。常见错误：误用'appear doing'或'appear that'。",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to express that something seems to have happened or been done, based on available evidence or appearance.",
+      "patternPractice": [
+        {
+          "chinese": "他看起来已经完成了作业。",
+          "english": "He appears to have finished his homework.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "她似乎已经忘记了我们的约定。",
+          "english": "She appears to have forgotten (slipped up on) our appointment.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "这些文件似乎已经被处理过了。",
+          "english": "These documents appear to have been processed (dealt with).",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "那位科学家似乎已经发现了新的治疗方法。",
+          "english": "That scientist appears to have discovered (come up with) a new treatment method.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管多次警告，他仍然似乎没有吸取任何教训。",
+          "english": "Despite repeated warnings, he still appears to have learned (taken in) no lesson.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-27-8-1784187732148",
