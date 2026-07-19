@@ -12038,5 +12038,25 @@
     "startTime": 247.432,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:12:31.469Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-80-17-1784430817278",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 80,
+    "wordIndex": 17,
+    "wordIndices": [
+      17,
+      18
+    ],
+    "wordText": "went down",
+    "category": "idiom",
+    "customLemma": "go down",
+    "sentenceContext": "-And then, one night, I went out there and I said the line, and just the house went down.",
+    "sentenceTranslation": "然后某一天晚上，我上台说出了那句台词，整个剧场都沸腾了。",
+    "sentenceVocab": "⭐ the house went down —— 全场爆炸性反应（舞台表达）｜go down —— 发生；产生反应",
+    "startTime": 326.113,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:13:37.278Z"
   }
 ]
