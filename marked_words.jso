@@ -305,36 +305,18 @@
     "reviewCount": 2,
     "dateAdded": "2026-07-02T05:26:31.622Z",
     "translationCache": {
-      "lemma": "defensive maneuvers",
-      "ipa": "/dɪˈfɛnsɪv məˈnuːvərz/",
+      "lemma": "defensive maneuver",
+      "ipa": "/dɪˈfɛnsɪv məˈnuːvər/",
       "translation": "防御动作（名词短语）",
       "pronunciationGuide": "",
-      "collocations": "execute defensive maneuvers, practice defensive maneuvers, perform defensive maneuvers",
+      "collocations": [
+        "execute defensive maneuvers",
+        "practice defensive maneuvers",
+        "perform defensive maneuvers"
+      ],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在篮球比赛中，球员必须快速做出防御动作来阻止对手得分。",
-          "english": "In basketball, players must quickly execute defensive maneuvers to prevent opponents from scoring.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "军事演习中，士兵们练习了各种防御动作以应对可能的伏击。",
-          "english": "During the military exercise, soldiers practiced various defensive maneuvers to counter potential ambushes.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "尽管对手攻势猛烈，他仍通过巧妙的防御动作成功化解了危机。",
-          "english": "Despite the opponent's fierce attack, he successfully defused the crisis through clever defensive maneuvers.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "在辩论中，他运用了一系列防御动作来反驳对方的论点。",
-          "english": "In the debate, he employed a series of defensive maneuvers to refute the opponent's arguments.",
-          "difficulty": "高级"
-        }
-      ]
+      "englishDefinition": ""
     }
   },
   {
