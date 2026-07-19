@@ -12097,7 +12097,35 @@
     "sentenceVocab": "⭐ to this day —— 直到今天（★★★★★）｜all the time —— 一直；经常",
     "startTime": 138.074,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:08:31.582Z"
+    "dateAdded": "2026-07-19T03:08:31.582Z",
+    "translationCache": {
+      "lemma": "to this day",
+      "ipa": "/tə ðɪs deɪ/",
+      "translation": "直到今天，至今（副词短语）",
+      "pronunciationGuide": "",
+      "collocations": "to this day, I still...; to this day, no one knows...; to this day, it remains...",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "直到今天，我仍然记得第一次见到她时她脸上的笑容。",
+          "english": "To this day, I still remember the smile on her face when I first met her."
+        },
+        {
+          "chinese": "直到今天，没有人能解释那个古老建筑是如何建造的。",
+          "english": "To this day, no one can explain (account for) how that ancient building was constructed."
+        },
+        {
+          "chinese": "直到今天，那次事故的阴影仍然笼罩着整个社区。",
+          "english": "To this day, the shadow of that accident still hangs over (looms over) the entire community."
+        },
+        {
+          "chinese": "直到今天，她依然坚持每天早晨跑步五公里。",
+          "english": "To this day, she still persists in (sticks to) running five kilometers every morning."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-35-10-1784430528995",
