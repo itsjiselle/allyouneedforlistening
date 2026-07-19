@@ -152,15 +152,16 @@
     "translationCache": {
       "lemma": "phylum",
       "ipa": "/ˈfaɪləm/",
-      "translation": "n. （生物分类学中的）门。在文中指生物分类级别，介于“界”(kingdom)与“纲”(class)之间，复数形式为phyla。",
-      "pronunciationGuide": "字母组合ph在此处发清齿龈擦音/f/；第一音节/faɪ/为重读音节，双元音滑动要充分；第二音节中的元音弱化为/ə/，读作/ləm/，结尾的闭唇鼻音/m/要清晰、完整，避免漏音。",
+      "translation": "n. (生物分类)门",
+      "pronunciationGuide": "",
       "collocations": [
-        "animal phylum (动物门)",
-        "belong to a phylum (属于一个门)",
-        "taxonomic phylum (分类学之门)"
+        "belong to a phylum",
+        "phylum Tardigrada",
+        "different phyla"
       ],
-      "cefrLevel": "C2",
-      "idiomUsageNote": "该词是高度专业化的生物学分类术语，属于正式书面及学术语体。除了在严谨的科学报告、科普文章中出现外，日常口语中极少使用，偶尔在文学或幽默语境中被借用，用以比喻划分某种特异的人群或事物类别。"
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": ""
     }
   },
   {
