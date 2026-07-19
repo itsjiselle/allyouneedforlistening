@@ -12099,5 +12099,21 @@
     "startTime": 336.633,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:13:55.247Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-85-4-1784430859236",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 85,
+    "wordIndex": 4,
+    "wordText": "wings",
+    "category": "idiom",
+    "customLemma": "wings",
+    "sentenceContext": "-I look under the wings, the cast is losing their minds.",
+    "sentenceTranslation": "我看向舞台侧边，演员们也都激动疯了。",
+    "sentenceVocab": "⭐ the cast —— 演员阵容｜lose their minds —— 兴奋到失控",
+    "startTime": 343.626,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:14:19.236Z"
   }
 ]
