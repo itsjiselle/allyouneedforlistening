@@ -12516,7 +12516,44 @@
     "dateAdded": "2026-07-19T03:18:09.626Z",
     "customTopicIds": [],
     "patternCategoryManuallyEdited": false,
-    "patternCategory": "描述习惯或变化"
+    "patternCategory": "描述习惯或变化",
+    "translationCache": {
+      "lemma": "be off doing something",
+      "ipa": "",
+      "translation": "某人离开去做某事",
+      "pronunciationGuide": "该句式由系动词be + off + doing something构成，表示主语离开当前所在位置或状态，去进行某个活动。off在此处表示离开、出发，doing something是现在分词短语作目的状语。常见错误：漏掉be动词，或误用不定式to do代替doing。注意：off后必须接动名词形式。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to indicate that someone has gone away to do something, often implying a temporary absence for a specific activity.",
+      "patternPractice": [
+        {
+          "chinese": "他出去跑步了。",
+          "english": "He is off running.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "孩子们出去玩了。",
+          "english": "The children are off playing.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "老板出去开会了。",
+          "english": "The boss is off attending a meeting.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她出去和朋友喝咖啡了。",
+          "english": "She is off having coffee with friends.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "他们出去探索（考察）那座古城了。",
+          "english": "They are off exploring (checking out) the ancient city.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-115-5-1784431319294",
