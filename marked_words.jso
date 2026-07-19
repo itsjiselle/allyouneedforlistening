@@ -11792,7 +11792,39 @@
     "sentenceVocab": "⭐ It turns out… —— 结果发现……（★★★★★）｜motherhood —— 母亲身份；育儿经历｜soften somebody —— 使某人变得柔和",
     "startTime": 39.413,
     "reviewCount": 0,
-    "dateAdded": "2026-07-18T13:20:47.362Z"
+    "dateAdded": "2026-07-18T13:20:47.362Z",
+    "translationCache": {
+      "lemma": "motherhood has softened someone",
+      "ipa": "/ˈmʌðərhʊd hæz ˈsɔːfənd ˈsʌmwʌn/",
+      "translation": "母性使某人变得心软/温柔",
+      "pronunciationGuide": "",
+      "collocations": [
+        "motherhood has softened me/him/her",
+        "motherhood softens someone",
+        "be softened by motherhood"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "自从有了孩子，她变得心软了，连看动物纪录片都会哭。",
+          "english": "Motherhood has softened her so much that she even cries watching animal documentaries."
+        },
+        {
+          "chinese": "我没想到当妈妈会让我变得这么感性，现在看到别人成功我都会感动。",
+          "english": "I never expected motherhood would soften me this much; now I get emotional seeing others succeed."
+        },
+        {
+          "chinese": "他开玩笑说，当父亲并没有让他变得心软，但大家都知道他其实比以前温柔多了。",
+          "english": "He joked that fatherhood hasn't softened him, but everyone knows he's much gentler than before."
+        },
+        {
+          "chinese": "成为母亲后，她不再那么争强好胜了，反而更愿意为别人加油。",
+          "english": "Motherhood has softened her competitive edge; instead, she's more willing to cheer for others."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-17-3-1784380869488",
