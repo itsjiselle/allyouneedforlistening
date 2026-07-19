@@ -11874,5 +11874,26 @@
     "startTime": 125.768,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:07:52.769Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-30-3-1784430502121",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 30,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      5,
+      6
+    ],
+    "wordText": "I'm ... huge on",
+    "category": "idiom",
+    "customLemma": "be huge on (doing) something",
+    "sentenceContext": "-I don't know. I'm not huge on looking back.",
+    "sentenceTranslation": "我不知道。我其实不太喜欢回顾过去。",
+    "sentenceVocab": "⭐ be huge on something —— 非常喜欢某事；非常热衷某事（★★★★★）｜look back —— 回顾过去",
+    "startTime": 127.5,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:08:22.121Z"
   }
 ]
