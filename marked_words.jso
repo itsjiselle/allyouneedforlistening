@@ -1119,17 +1119,35 @@
     "dateAdded": "2026-07-03T05:50:52.998Z",
     "translationCache": {
       "lemma": "keep ... separate from",
-      "ipa": "/kiːp ... ˈsɛpərət frəm/",
+      "ipa": "/kiːp ... ˈsɛpərɪt frʌm/",
       "translation": "把……和……分开",
       "pronunciationGuide": "",
       "collocations": [
         "keep something separate from something else",
         "keep your personal life separate from work",
-        "keep the accounts separate from the budget"
+        "keep the receipts separate from the bills"
       ],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了保持工作与生活的平衡，她坚持把工作邮件和私人邮件分开管理。",
+          "english": "To maintain work-life balance, she insists on keeping her work emails separate from her personal emails."
+        },
+        {
+          "chinese": "在实验过程中，我们必须将对照组和实验组的数据严格分开，以避免污染。",
+          "english": "During the experiment, we must keep the control group data strictly separate from the experimental group data to avoid contamination."
+        },
+        {
+          "chinese": "他建议将应急基金和日常开支账户分开，这样就不会轻易动用储蓄。",
+          "english": "He suggested keeping the emergency fund separate from the daily expense account so that the savings won't be easily touched."
+        },
+        {
+          "chinese": "在项目管理中，最好将客户需求和技术实现分开考虑，以免混淆优先级。",
+          "english": "In project management, it's best to keep customer requirements separate from technical implementation to avoid confusing priorities."
+        }
+      ]
     }
   },
   {
