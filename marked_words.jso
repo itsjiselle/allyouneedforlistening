@@ -12173,5 +12173,25 @@
     "startTime": 383.728,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:16:23.607Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-98-0-1784430991541",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 98,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1
+    ],
+    "wordText": "It crushed",
+    "category": "pattern",
+    "customLemma": "It crushed",
+    "sentenceContext": "-It crushed, broke the record.",
+    "sentenceTranslation": "它取得巨大成功，打破了纪录。",
+    "sentenceVocab": "⭐ crush it —— 做得非常成功（★★★★★）｜break the record —— 打破纪录",
+    "startTime": 386.826,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:16:31.541Z"
   }
 ]
