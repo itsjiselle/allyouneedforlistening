@@ -13359,5 +13359,26 @@
         }
       ]
     }
+  },
+  {
+    "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-3-17-1784470283340",
+    "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+    "srtFingerprint": "74851f63",
+    "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+    "subtitleId": 3,
+    "wordIndex": 17,
+    "wordIndices": [
+      17,
+      18
+    ],
+    "wordText": "knock out",
+    "category": "idiom",
+    "customLemma": "knock out",
+    "sentenceContext": "The reason I say that, you watch, in the not too distant future, hackers are going to knock out our cellphones and the internet.",
+    "sentenceTranslation": "我这么说的原因是，你看，在不久的将来，黑客会让我们的手机和互联网瘫痪。",
+    "sentenceVocab": "⭐ the not too distant future —— 不久的将来（C1）｜knock out something —— 摧毁；使……失效（★★★★★）",
+    "startTime": 3.373,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T14:11:23.340Z"
   }
 ]
