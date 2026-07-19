@@ -12274,5 +12274,26 @@
     "startTime": 458.803,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:21:59.294Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-117-6-1784431357723",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 117,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7,
+      8
+    ],
+    "wordText": "have great chemistry",
+    "category": "pattern",
+    "customLemma": "A and B have great chemistry",
+    "sentenceContext": "-Nick Galitzine.&nbsp; &nbsp;-Oh, man, you guys have great chemistry.",
+    "sentenceTranslation": "天啊，你们两个的化学反应太好了。",
+    "sentenceVocab": "⭐ have great chemistry —— 彼此很有默契；有很好的互动感觉（★★★★★）",
+    "startTime": 464.995,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:22:37.723Z"
   }
 ]
