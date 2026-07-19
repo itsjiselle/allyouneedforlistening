@@ -12193,5 +12193,27 @@
     "startTime": 386.826,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:16:31.541Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-100-2-1784431021473",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 100,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "wordText": "set up what the",
+    "category": "pattern",
+    "customLemma": "set up what ...(something) is about ",
+    "sentenceContext": "-Can we set up what the movie's about?",
+    "sentenceTranslation": "我们可以先介绍一下这部电影讲什么吗？",
+    "sentenceVocab": "⭐ set up what something is about —— 介绍某件事的背景/内容（★★★★★）",
+    "startTime": 393.172,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:17:01.473Z"
   }
 ]
