@@ -2768,7 +2768,7 @@
       "topic-1784193883432"
     ],
     "patternCategoryManuallyEdited": false,
-    "patternCategory": "必要条件"
+    "patternCategory": "*表达义务&必要性"
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-13-11-1783396266860",
@@ -3968,7 +3968,7 @@
         }
       ]
     },
-    "patternCategory": "表达顿悟或认识转变",
+    "patternCategory": "*顿悟",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -4035,7 +4035,7 @@
         }
       ]
     },
-    "patternCategory": "引入或介绍背景",
+    "patternCategory": "*主观的观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -4136,7 +4136,7 @@
         }
       ]
     },
-    "patternCategory": "限定与程度",
+    "patternCategory": "*主观的观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -5555,7 +5555,7 @@
     "startTime": 528.514,
     "reviewCount": 0,
     "dateAdded": "2026-07-08T09:16:55.008Z",
-    "patternCategory": "评价",
+    "patternCategory": "*评价（包括赞美、批评等）",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -6017,7 +6017,7 @@
     "startTime": 638.625,
     "reviewCount": 0,
     "dateAdded": "2026-07-08T09:22:18.657Z",
-    "patternCategory": "描述习惯与变化",
+    "patternCategory": "*表达义务&必要性",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -8715,7 +8715,7 @@
         }
       ]
     },
-    "patternCategory": "引入记忆",
+    "patternCategory": "*介绍记忆",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -8778,7 +8778,7 @@
         }
       ]
     },
-    "patternCategory": "获取或确认信息",
+    "patternCategory": "*核实信息",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9029,7 +9029,7 @@
     "startTime": 252.834,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:30:50.611Z",
-    "patternCategory": "评价",
+    "patternCategory": "*主观的观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9571,7 +9571,7 @@
         }
       ]
     },
-    "patternCategory": "表达偏好或喜好",
+    "patternCategory": "描述习惯或变化",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9647,7 +9647,7 @@
     "startTime": 470.787,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T09:37:43.822Z",
-    "patternCategory": "描述习惯与变化",
+    "patternCategory": "表达偏好",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -10604,7 +10604,7 @@
     "startTime": 127.364,
     "reviewCount": 1,
     "dateAdded": "2026-07-16T07:45:04.672Z",
-    "patternCategory": "对比",
+    "patternCategory": "表示某一阶段已经结束",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11392,7 +11392,7 @@
         }
       ]
     },
-    "patternCategory": "影响对方行动",
+    "patternCategory": "提建议",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11557,7 +11557,7 @@
     "startTime": 272.421,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:32:04.096Z",
-    "patternCategory": "表达不满与寻求回应",
+    "patternCategory": "表达禁止或不赞同",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11640,7 +11640,7 @@
         }
       ]
     },
-    "patternCategory": "推测",
+    "patternCategory": "提建议",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -12445,7 +12445,7 @@
     "startTime": 195.504,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:11:07.810Z",
-    "patternCategory": "表达观点或判断",
+    "patternCategory": "主观观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -12845,7 +12845,7 @@
     "startTime": 393.172,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:17:01.473Z",
-    "patternCategory": "引入背景",
+    "patternCategory": "引入或介绍背景",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -12885,7 +12885,7 @@
     "dateAdded": "2026-07-19T03:18:09.626Z",
     "customTopicIds": [],
     "patternCategoryManuallyEdited": false,
-    "patternCategory": "描述习惯或变化",
+    "patternCategory": "描述事件中的即时反应或感受",
     "translationCache": {
       "lemma": "be off doing something",
       "ipa": "",
@@ -13124,7 +13124,7 @@
     "startTime": 520.277,
     "reviewCount": 1,
     "dateAdded": "2026-07-19T03:25:10.997Z",
-    "patternCategory": "表达观点或判断",
+    "patternCategory": "评价",
     "patternCategoryManuallyEdited": false,
     "translationCache": {
       "lemma": "... has a fan following",
@@ -13244,7 +13244,7 @@
     "startTime": 560.781,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:26:50.118Z",
-    "patternCategory": "表达观点或判断",
+    "patternCategory": "主观观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -13333,7 +13333,7 @@
     "startTime": 601.396,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:28:11.844Z",
-    "patternCategory": "提出要求",
+    "patternCategory": "维持互动或话轮",
     "patternCategoryManuallyEdited": false,
     "translationCache": {
       "lemma": "Stick around, everybody.",
@@ -13429,6 +13429,8 @@
     "sentenceVocab": "⭐ Never has… —— 从未如此……（倒装，高级表达）｜20-plus years —— 二十多年",
     "startTime": 65.438,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T14:13:09.063Z"
+    "dateAdded": "2026-07-19T14:13:09.063Z",
+    "patternCategory": "强调",
+    "patternCategoryManuallyEdited": false
   }
 ]
