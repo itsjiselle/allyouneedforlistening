@@ -12253,5 +12253,26 @@
     "dateAdded": "2026-07-19T03:18:09.626Z",
     "customTopicIds": [],
     "patternCategoryManuallyEdited": false
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-115-5-1784431319294",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 115,
+    "wordIndex": 5,
+    "wordIndices": [
+      5,
+      6,
+      7
+    ],
+    "wordText": "High jinks ensues",
+    "category": "vocab",
+    "customLemma": "High jinks ensues",
+    "sentenceContext": "-And the rest is – High jinks ensues.",
+    "sentenceTranslation": "然后接下来就发生了一连串有趣的事情。",
+    "sentenceVocab": "⭐ the rest is history —— 后面的故事大家都知道（这里是变体）｜high jinks ensue —— 一系列滑稽/搞笑事件接连发生（★★★★★）",
+    "startTime": 458.803,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:21:59.294Z"
   }
 ]
