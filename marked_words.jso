@@ -2759,7 +2759,8 @@
     "customTopicIds": [
       "topic-1784193883432"
     ],
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "patternCategory": "*表达义务&必要性"
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-13-11-1783396266860",
@@ -3743,7 +3744,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "条件或假设",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-5-2-1783491915953",
@@ -3956,7 +3959,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "*顿悟",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-33-3-1783492258948",
@@ -4021,7 +4026,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "*主观的观点与判断",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-35-7-1783492292708",
@@ -4120,7 +4127,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "*主观的观点与判断",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-36-21-1783499676548",
@@ -5537,7 +5546,9 @@
     "sentenceVocab": "⭐ It's a privilege to…：能够……是一种荣幸/幸运（B2）｜for a living：以此谋生",
     "startTime": 528.514,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:16:55.008Z"
+    "dateAdded": "2026-07-08T09:16:55.008Z",
+    "patternCategory": "*评价（包括赞美、批评等）",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-98-0-1783502224776",
@@ -5997,7 +6008,9 @@
     "sentenceVocab": "⭐ embrace：欣然接受；拥抱（新事物）（C1）｜more than I have been：比目前更加……",
     "startTime": 638.625,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:22:18.657Z"
+    "dateAdded": "2026-07-08T09:22:18.657Z",
+    "patternCategory": "*表达义务&必要性",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-125-4-1783502561791",
@@ -7501,7 +7514,9 @@
     "sentenceVocab": "⭐ in addition to：除……之外（B2）｜under the stress of…：在……应力作用下（C1）｜elastic qualities：弹性特性",
     "startTime": 81.39,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:06:03.581Z"
+    "dateAdded": "2026-07-10T08:06:03.581Z",
+    "patternCategory": "补充或递进",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-16-8-1783670785923",
@@ -7934,7 +7949,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "原因",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-39-0-1783671278347",
@@ -8229,7 +8246,9 @@
     "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
     "startTime": 200.15800000000002,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T09:55:05.569Z"
+    "dateAdded": "2026-07-14T09:55:05.569Z",
+    "patternCategory": "后果或推论",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-31-19-1784022941578",
@@ -8273,7 +8292,9 @@
     "sentenceVocab": "⭐ pain threshold：疼痛阈值（C1）｜allow sb to do sth：使某人能够……｜further and further：越来越远",
     "startTime": 231.111,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T09:56:15.251Z"
+    "dateAdded": "2026-07-14T09:56:15.251Z",
+    "patternCategory": "比较或相关变化",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-33-9-1784022984130",
@@ -8685,7 +8706,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "*介绍记忆",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-20-0-1784100313201",
@@ -8746,7 +8769,9 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "patternCategory": "*核实信息",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-25-2-1784100376352",
@@ -8973,7 +8998,9 @@
     "sentenceVocab": "⭐ would have to —— 得；只能",
     "startTime": 248.751,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:30:33.722Z"
+    "dateAdded": "2026-07-15T07:30:33.722Z",
+    "patternCategory": "推测",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-46-0-1784100650611",
@@ -8993,7 +9020,9 @@
     "sentenceVocab": "⭐ It's giving… —— 很有……的感觉（近年流行网络表达）｜energy —— 气质；氛围感（口语引申义）",
     "startTime": 252.834,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:30:50.611Z"
+    "dateAdded": "2026-07-15T07:30:50.611Z",
+    "patternCategory": "*主观的观点与判断",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-47-9-1784100675044",
@@ -12423,7 +12452,8 @@
     "customTranslation": "它大获成功/它打破了纪录",
     "customTopicIds": [
       "topic-1784380694225"
-    ]
+    ],
+    "teacherExplanation": "### 1. 【中式英语 vs 地道表达】\n你可能会说 \"It broke the record\"，这没错，但太像机器人念新闻。而 **\"It crushed\"** 就像绿巨人浩克砸碎记录——不仅打破，还碾成渣！Native speaker 用这个词时，自带一种“碾压式胜利”的嚣张感，普通词只是陈述事实，而它是在炫耀。\n\n### 2. 【学术深度分析与语用场景】\n语用学上，\"crush\" 是 **及物动词的绝对用法**，省略宾语后反而更显霸气（类似 \"It slays\"）。感情色彩：**褒义+戏谑**，常用于游戏、比赛、考试等场景。比如你朋友说“我考了满分”，你回 \"You crushed it!\" 就是“你牛掰炸了！”\n\n### 3. 【中文社媒/网络流行语对应】\n对应中文网络梗：**“杀疯了”** 或 **“直接碾压”**。想象一下，B站弹幕刷屏“这操作杀疯了！”——就是那种感觉。表情包：一只熊把记录板踩碎，配字“就这？”\n\n### 4. 【趣味记忆/联想】\n谐音梗：**“磕石子”**——想象你骑自行车，把路上的记录牌像石子一样磕碎，发出“咔咔”声。或者联想《复仇者联盟》里灭霸捏碎宝石：\"It crushed the record!\" 灭霸式碾压，懂？"
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-100-2-1784431021473",
