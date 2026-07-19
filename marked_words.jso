@@ -11790,5 +11790,25 @@
     "startTime": 74.07300000000001,
     "reviewCount": 0,
     "dateAdded": "2026-07-18T13:22:04.465Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-21-6-1784430370482",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 21,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7
+    ],
+    "wordText": "trivia game",
+    "category": "vocab",
+    "customLemma": "trivia game",
+    "sentenceContext": "-And have you seen that movie trivia game where it's cards and they just asks you questions?",
+    "sentenceTranslation": "你见过那种电影知识问答游戏吗？就是卡片形式，然后它会问你问题。",
+    "sentenceVocab": "⭐ trivia game —— 知识问答游戏｜ask somebody questions —— 问某人问题",
+    "startTime": 79.345,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:06:10.482Z"
   }
 ]
