@@ -67,14 +67,19 @@
     "reviewCount": 3,
     "dateAdded": "2026-06-22T04:16:14.162Z",
     "translationCache": {
-      "ipa": "/ˈsiːmz tə/",
-      "translation": "v. aux. 似乎，好像，看来",
-      "pronunciationGuide": "在日常连贯口语中，'seems to' 有两个关键的发音弱读与同化特征：首先，'to' 中的弱读极其普遍，其中的元音 /uː/ 会弱化为中央元音 /ə/（读作 /tə/）；其次，'seems' 结尾的字母 's' 本身发浊辅音 /z/，但当它紧跟清辅音 /t/ 时，受后字影响，/z/ 常会发生部分“清化”现象，听起来介于 /z/ 和 /s/ 之间。舌尖在完成齿龈擦音 /z/ 后，需立刻在同一位置紧贴齿龈形成阻碍，迅速爆破发出轻快的 /tə/。整体连读效果听起来紧凑，像 'seem-stuh'，千万不要把 'to' 拖长读成 'too' (/tuː/)。",
+      "lemma": "seem to",
+      "ipa": "",
+      "translation": "似乎，好像（系动词短语）",
+      "pronunciationGuide": "在连读中，'seems to' 常读作 /siːmz tə/，'s' 与 't' 之间失去爆破，'to' 弱化为 /tə/。",
       "collocations": [
-        "seems to be (似乎是/好像是)",
-        "seems to think (似乎认为)",
-        "seems to work (似乎管用/行得通)"
-      ]
+        "seems to be",
+        "seems to have",
+        "seems to indicate",
+        "seems to depend on"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "used to say that something appears to exist or be true, especially when it is not certain"
     }
   },
   {
