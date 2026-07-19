@@ -334,7 +334,23 @@
     "sentenceContext": "HERNANDEZ: Right. Well, we started thinking about how everything is so expensive right now, and specifically food, how food prices are just going up. 没错。我们开始思考，现在几乎所有东西都变得很贵，尤其是食品价格，一直在上涨。⭐ food prices 食品价格｜go up 上涨（口语高频）",
     "startTime": 85.64699999999999,
     "reviewCount": 0,
-    "dateAdded": "2026-07-02T15:54:20.148Z"
+    "dateAdded": "2026-07-02T15:54:20.148Z",
+    "translationCache": {
+      "lemma": "price",
+      "ipa": "/praɪs/",
+      "translation": "n. 价格；v. 定价",
+      "pronunciationGuide": "",
+      "collocations": [
+        "food prices",
+        "prices go up",
+        "prices rise",
+        "prices fall",
+        "prices are high"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": ""
+    }
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-16-1-1783007833511",
