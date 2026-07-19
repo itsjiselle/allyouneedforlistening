@@ -12227,7 +12227,35 @@
     "sentenceVocab": "⭐ the cast —— 演员阵容｜lose their minds —— 兴奋到失控",
     "startTime": 343.626,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:14:19.236Z"
+    "dateAdded": "2026-07-19T03:14:19.236Z",
+    "translationCache": {
+      "lemma": "wing",
+      "ipa": "/wɪŋ/",
+      "translation": "n. 翅膀；机翼；派系",
+      "pronunciationGuide": "",
+      "collocations": "under the wings, spread one's wings, take wing, left wing, right wing",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在舞台侧翼，我能看到演员们紧张地准备上场。",
+          "english": "In the wings of the stage, I could see the actors nervously preparing to go on."
+        },
+        {
+          "chinese": "这位年轻企业家在导师的庇护下迅速成长。",
+          "english": "The young entrepreneur grew rapidly under the wings of his mentor."
+        },
+        {
+          "chinese": "政党的左翼主张更激进的社会改革。",
+          "english": "The left wing of the party advocates for more radical social reforms."
+        },
+        {
+          "chinese": "小鸟受伤了，无法展翅飞翔。",
+          "english": "The little bird was injured and couldn't spread its wings and fly."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-86-1-1784430890660",
