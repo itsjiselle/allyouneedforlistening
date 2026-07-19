@@ -12058,5 +12058,26 @@
     "startTime": 326.113,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:13:37.278Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-81-0-1784430822080",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 81,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2
+    ],
+    "wordText": "You killed it",
+    "category": "pattern",
+    "customLemma": "You killed it",
+    "sentenceContext": "-You killed it.",
+    "sentenceTranslation": "你太棒了。你表现炸裂。",
+    "sentenceVocab": "⭐ kill it —— 表现极好；大获成功（★★★★★）",
+    "startTime": 331.688,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:13:42.081Z"
   }
 ]
