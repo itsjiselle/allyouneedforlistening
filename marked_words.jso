@@ -12353,5 +12353,26 @@
     "startTime": 520.277,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:25:10.997Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-137-9-1784431566192",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 137,
+    "wordIndex": 9,
+    "wordIndices": [
+      9,
+      10,
+      11
+    ],
+    "wordText": "gets off on",
+    "category": "idiom",
+    "customLemma": "gets off on doing ",
+    "sentenceContext": "-Are you a part of that ASMR community that gets off on listening to people pee?",
+    "sentenceTranslation": "你是不是那个 ASMR 社群的一员？他们喜欢听别人小便的声音来获得刺激？",
+    "sentenceVocab": "⭐ be a part of… —— 是……的一部分；属于……｜get off on something —— 从某事中获得快感/刺激（★★★★★）｜ASMR community —— ASMR 社群（注：get off on 是非常口语化表达，常用于\"从某事获得兴奋感\"，语气可能偏成人或调侃。）",
+    "startTime": 556.395,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:26:06.192Z"
   }
 ]
