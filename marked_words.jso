@@ -2754,7 +2754,12 @@
           "difficulty": "高级"
         }
       ]
-    }
+    },
+    "customTranslation": "某人/物必须……以便成为……",
+    "customTopicIds": [
+      "topic-1784193883432"
+    ],
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-13-11-1783396266860",
