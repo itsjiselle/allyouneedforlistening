@@ -13380,5 +13380,26 @@
     "startTime": 3.373,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T14:11:23.340Z"
+  },
+  {
+    "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-6-6-1784470308866",
+    "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+    "srtFingerprint": "74851f63",
+    "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+    "subtitleId": 6,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7
+    ],
+    "wordText": "old folks",
+    "category": "idiom",
+    "customLemma": "old folks",
+    "sentenceContext": "If we lose the internet, us old folks, we got a plan B.",
+    "sentenceTranslation": "如果互联网消失，我们这些老家伙还有备用方案。",
+    "sentenceVocab": "⭐ old folks —— 老人们（口语）｜plan B —— 备用方案（★★★★★）",
+    "startTime": 17.583,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T14:11:48.866Z"
   }
 ]
