@@ -13431,6 +13431,82 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T14:13:09.063Z",
     "patternCategory": "强调",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "Never has sth ...(v.) so ...(adj.)",
+      "ipa": "",
+      "translation": "从未有某物如此……",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "这是一个倒装结构，用于强调否定词'never'，通常出现在正式或书面语中，表达强烈的对比或惊讶。",
+      "englishDefinition": "This inverted structure is used to emphasize the negative adverb 'never', often to highlight a striking change or contrast, especially in formal or literary contexts.",
+      "patternPractice": [],
+      "patternAnalysis": {
+        "normalizedTarget": "Never has sth ...(v.) so ...(adj.)",
+        "unitType": "grammar_construction",
+        "activeLearningRecommendation": "high",
+        "primaryCategory": "表达立场与态度",
+        "primarySubcategory": "强调",
+        "functionInContextZh": "强调技术从未像过去20多年那样发展迅速，突出变化的剧烈程度。",
+        "reusablePattern": "Never has [noun] [verb] so [adjective] [as ...]",
+        "retrievalScenarioZh": "在学术讨论中，你想强调某个现象或变化达到了前所未有的程度。",
+        "usageConstraintsZh": [
+          "主要用于正式或书面语体",
+          "动词通常为过去分词或一般过去时",
+          "形容词前常用so，后接as引出比较对象"
+        ],
+        "commonErrorsZh": [
+          "忘记倒装：误用'Never has it been so...'为'It never has been so...'",
+          "时态错误：主句动词应用现在完成时或过去时",
+          "缺少比较对象：'Never has sth so adj.'不完整"
+        ],
+        "modelExampleEn": "Never has the importance of cybersecurity been so evident as in the wake of recent data breaches.",
+        "confidence": 0.95,
+        "promptVersion": "pattern-learning-v2"
+      },
+      "patternAnkiCards": [
+        {
+          "front": {
+            "scenarioZh": "你在一场国际气候会议上发言，想强调全球变暖的速度从未像过去十年那样快。",
+            "taskZh": "用倒装结构表达'全球变暖从未像过去十年那样迅速'。",
+            "hintEn": "Never has global warming ... so ... as ..."
+          },
+          "back": {
+            "targetAnswerEn": "Never has global warming accelerated so rapidly as in the past decade.",
+            "acceptableAnswersEn": [
+              "Never has global warming been so rapid as in the last ten years.",
+              "Never has the pace of global warming been so fast as over the past decade."
+            ],
+            "reusablePattern": "Never has [noun] [verb] so [adjective] as [comparison]",
+            "usageNoteZh": "注意动词时态：主句用现在完成时，as后接时间或比较对象。",
+            "commonErrorsZh": [
+              "误用一般现在时：'Never does global warming...'",
+              "遗漏as：'Never has global warming so rapid.'"
+            ]
+          }
+        },
+        {
+          "front": {
+            "scenarioZh": "你在一篇博客文章中评论社交媒体对青少年的影响，想表达'从未有如此多的青少年因社交媒体感到焦虑'。",
+            "taskZh": "用倒装结构写一个句子，强调数量或程度。",
+            "hintEn": "Never have so many teenagers ... so ... due to social media."
+          },
+          "back": {
+            "targetAnswerEn": "Never have so many teenagers felt so anxious due to social media.",
+            "acceptableAnswersEn": [
+              "Never have teenagers been so anxious because of social media.",
+              "Never has the anxiety among teenagers been so high due to social media."
+            ],
+            "reusablePattern": "Never have [plural noun] [verb] so [adjective] [prepositional phrase]",
+            "usageNoteZh": "主语为复数时，助动词用have。",
+            "commonErrorsZh": [
+              "主谓一致错误：'Never has so many teenagers...'",
+              "形容词位置错误：'Never have teenagers so anxious felt...'"
+            ]
+          }
+        }
+      ]
+    }
   }
 ]
