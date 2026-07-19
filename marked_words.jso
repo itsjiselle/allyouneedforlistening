@@ -12374,7 +12374,7 @@
       1
     ],
     "wordText": "It crushed",
-    "category": "pattern",
+    "category": "idiom",
     "customLemma": "It crushed",
     "sentenceContext": "-It crushed, broke the record.",
     "sentenceTranslation": "它取得巨大成功，打破了纪录。",
@@ -12382,7 +12382,6 @@
     "startTime": 386.826,
     "reviewCount": 1,
     "dateAdded": "2026-07-19T03:16:31.541Z",
-    "patternCategory": "评价",
     "patternCategoryManuallyEdited": false,
     "translationCache": {
       "lemma": "It crushed",
