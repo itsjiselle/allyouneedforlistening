@@ -12151,5 +12151,27 @@
     "startTime": 350.516,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:15:02.474Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-97-0-1784430983607",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 97,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "wordText": "The ... alone has gotten",
+    "category": "pattern",
+    "customLemma": "The ...(n.) alone has gotten ...(某种成就等)",
+    "sentenceContext": "-The trailer alone has gotten over 125 million views.",
+    "sentenceTranslation": "光是预告片就获得了超过 1.25 亿次观看。",
+    "sentenceVocab": "⭐ alone —— 单单；仅仅｜get views —— 获得观看量",
+    "startTime": 383.728,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:16:23.607Z"
   }
 ]
