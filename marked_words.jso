@@ -12331,5 +12331,27 @@
     "startTime": 507.369,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:24:28.382Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-129-4-1784431510997",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 129,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "wordText": "have a fan following",
+    "category": "pattern",
+    "customLemma": "... has a fan following",
+    "sentenceContext": "-Well, the book does have a fan following somewhere.",
+    "sentenceTranslation": "这本书确实在某些地方拥有自己的粉丝群。",
+    "sentenceVocab": "⭐ have a fan following —— 拥有粉丝群体（★★★★★）",
+    "startTime": 520.277,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:25:10.997Z"
   }
 ]
