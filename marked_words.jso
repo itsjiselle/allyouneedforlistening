@@ -12106,7 +12106,44 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:11:07.810Z",
     "patternCategory": "表达观点或判断",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "You'd never see ...(someone) do something",
+      "ipa": "",
+      "translation": "你永远不会看到某人做某事",
+      "pronunciationGuide": "该句式用于表达对某人行为的强烈否定预期，强调该行为与某人的身份、性格或习惯完全不符。结构为：You'd never see + 某人 + 动词原形 + 其他。注意：动词必须用原形（不带to），因为see是感官动词。常见错误：误用动名词（如seeing）或带to的不定式。",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to express a strong negative expectation that someone would never perform a certain action, emphasizing that the action is completely out of character or against their usual behavior.",
+      "patternPractice": [
+        {
+          "chinese": "你永远不会看到我穿裙子。",
+          "english": "You'd never see me wear a dress.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "你永远不会看到那位教授在课堂上开玩笑。",
+          "english": "You'd never see that professor tell (crack) a joke in class.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你永远不会看到那位著名的作家在公共场合使用手机。",
+          "english": "You'd never see that famous writer use (pull out) a cell phone in public.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "你永远不会看到那位严格的教练在训练中容忍任何迟到行为。",
+          "english": "You'd never see that strict coach tolerate (put up with) any lateness during training.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "你永远不会看到那位优雅的女演员在红地毯上穿着运动鞋。",
+          "english": "You'd never see that elegant actress wear (sport) sneakers on the red carpet.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-52-0-1784430682827",
