@@ -12115,5 +12115,21 @@
     "startTime": 343.626,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:14:19.236Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-86-1-1784430890660",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 86,
+    "wordIndex": 1,
+    "wordText": "highfiving",
+    "category": "pattern",
+    "customLemma": "highfive ...(某事) in one's head",
+    "sentenceContext": "-I'm high-fiving myself in my head.",
+    "sentenceTranslation": "我在心里和自己击掌庆祝。",
+    "sentenceVocab": "⭐ high-five myself —— 为自己庆祝；暗自得意（★★★★★）｜in my head —— 在心里",
+    "startTime": 345.625,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:14:50.660Z"
   }
 ]
