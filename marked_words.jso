@@ -12020,19 +12020,23 @@
     "dateAdded": "2026-07-19T03:11:22.827Z"
   },
   {
-    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-62-7-1784430737968",
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-62-7-1784430751469",
     "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
     "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
     "subtitleId": 62,
     "wordIndex": 7,
-    "wordText": "dig",
+    "wordIndices": [
+      7,
+      8
+    ],
+    "wordText": "dig at",
     "category": "idiom",
-    "customLemma": "dig",
+    "customLemma": "dig at someone ",
     "sentenceContext": "-I got the respect and also the dig at the same time. So it was perfect.",
     "sentenceTranslation": "我同时感受到了你的尊敬，也感受到了你的调侃，所以非常完美。",
     "sentenceVocab": "⭐ get the respect —— 感受到尊重｜a dig at someone —— 对某人的调侃；挖苦（★★★★★）｜at the same time —— 同时",
     "startTime": 247.432,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:12:17.968Z"
+    "dateAdded": "2026-07-19T03:12:31.469Z"
   }
 ]
