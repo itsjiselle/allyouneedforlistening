@@ -12079,5 +12079,25 @@
     "startTime": 331.688,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:13:42.081Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-83-6-1784430835247",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 83,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7
+    ],
+    "wordText": "leaned into",
+    "category": "idiom",
+    "customLemma": "lean into",
+    "sentenceContext": "-And so then, of course, I leaned into it, because you do.",
+    "sentenceTranslation": "所以后来，当然，我顺势加强了这种感觉，因为演员都会这么做。",
+    "sentenceVocab": "⭐ lean into something —— 顺势利用；进一步投入某种状态（★★★★★）",
+    "startTime": 336.633,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:13:55.247Z"
   }
 ]
