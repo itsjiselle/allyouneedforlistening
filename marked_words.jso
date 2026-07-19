@@ -12215,5 +12215,21 @@
     "startTime": 393.172,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:17:01.473Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-106-7-1784431061843",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 106,
+    "wordIndex": 7,
+    "wordText": "chaperoning",
+    "category": "vocab",
+    "customLemma": "chaperone something",
+    "sentenceContext": "-Because you're just a mom and you're chaperoning this thing and you go to this thing and then you see this boy band.",
+    "sentenceTranslation": "因为你的身份只是一个母亲，你负责陪同参加这个活动，然后在那里遇到了这个男团。",
+    "sentenceVocab": "⭐ chaperone something —— 陪同、监护某项活动（★★★★★）｜go to this thing —— 去参加这个活动（口语）",
+    "startTime": 418.69100000000003,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:17:41.843Z"
   }
 ]
