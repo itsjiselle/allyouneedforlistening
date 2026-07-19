@@ -2112,11 +2112,12 @@
     "translationCache": {
       "lemma": "order off ... menu",
       "ipa": "/ˈɔːrdər ɒf ... ˈmenjuː/",
-      "translation": "从……菜单上点餐",
+      "translation": "从...菜单上点餐",
       "pronunciationGuide": "",
       "collocations": [
         "order off the menu",
         "order off the kids' menu",
+        "order off the specials menu",
         "order off the à la carte menu"
       ],
       "cefrLevel": "",
@@ -2124,20 +2125,20 @@
       "englishDefinition": "",
       "patternPractice": [
         {
-          "chinese": "为了省钱，我通常会从午餐特价菜单上点餐。",
-          "english": "To save money, I usually order off the lunch special menu."
+          "chinese": "为了省钱，我决定从午餐特价菜单上点餐。",
+          "english": "To save money, I decided to order off the lunch specials menu."
         },
         {
-          "chinese": "尽管是成年人，她有时还是会从儿童菜单上点餐，因为份量更小。",
-          "english": "Even though she is an adult, she sometimes orders off the kids' menu because the portions are smaller."
+          "chinese": "虽然我是个成年人，但我有时会从儿童菜单上点餐，因为份量更小。",
+          "english": "Although I'm an adult, I sometimes order off the kids' menu because the portions are smaller."
         },
         {
-          "chinese": "这家餐厅允许顾客从任何菜单上点餐，包括素食菜单。",
-          "english": "This restaurant allows customers to order off any menu, including the vegetarian menu."
+          "chinese": "这家餐厅允许顾客从早餐菜单上点餐，即使是在晚餐时间。",
+          "english": "This restaurant allows customers to order off the breakfast menu even during dinner hours."
         },
         {
-          "chinese": "如果你不想吃套餐，可以从单点菜单上点餐。",
-          "english": "If you don't want the set meal, you can order off the à la carte menu."
+          "chinese": "如果你不想吃太多，可以从开胃菜菜单上点几道菜。",
+          "english": "If you don't want to eat too much, you can order off the appetizer menu a few dishes."
         }
       ]
     },
