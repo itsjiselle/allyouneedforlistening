@@ -12417,5 +12417,26 @@
     "startTime": 563.414,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:26:58.426Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-148-4-1784431680068",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 148,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      6
+    ],
+    "wordText": "begins streaming on",
+    "category": "idiom",
+    "customLemma": "...(剧名) begins streaming on ...",
+    "sentenceContext": "-\"The Idea of You\" begins streaming on Prime Video this Thursday. 《The Idea of You》",
+    "sentenceTranslation": "《The Idea of You》本周四开始在 Prime Video 上线播放。",
+    "sentenceVocab": "⭐ begin streaming —— 开始上线播放（影视行业表达）｜on Prime Video —— 在 Prime Video 平台",
+    "startTime": 595.1,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:28:00.068Z"
   }
 ]
