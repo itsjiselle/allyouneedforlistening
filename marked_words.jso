@@ -10233,7 +10233,39 @@
     "sentenceVocab": "⭐ moment of confession —— 坦白时刻｜till —— 收银台（英式英语）｜present —— 出示（正式）｜wrapper —— 包装纸",
     "startTime": 26.243,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:41:08.228Z"
+    "dateAdded": "2026-07-16T07:41:08.228Z",
+    "translationCache": {
+      "lemma": "wrapper",
+      "ipa": "/ˈræpər/",
+      "translation": "n. 包装纸；包装材料",
+      "pronunciationGuide": "",
+      "collocations": [
+        "candy wrapper",
+        "wrapper removal",
+        "wrapper disposal"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他尴尬地承认自己把整包薯片都吃完了，手里攥着皱巴巴的包装纸。",
+          "english": "He awkwardly admitted that he had finished the entire bag of chips, clutching the crumpled wrapper in his hand."
+        },
+        {
+          "chinese": "环保主义者呼吁减少一次性包装纸的使用，因为它们难以回收。",
+          "english": "Environmentalists are calling for a reduction in the use of disposable wrappers, as they are difficult to recycle."
+        },
+        {
+          "chinese": "她小心翼翼地把巧克力包装纸展开，打算用它来折一只小纸鹤。",
+          "english": "She carefully unfolded the chocolate wrapper, intending to fold it into a small paper crane."
+        },
+        {
+          "chinese": "收银员盯着他手里的空包装纸，他只好硬着头皮解释自己没付钱就吃了。",
+          "english": "The cashier stared at the empty wrapper in his hand, and he had to reluctantly explain that he had eaten it without paying."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-11-11-1784187670310",
