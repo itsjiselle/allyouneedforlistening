@@ -11729,7 +11729,44 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-18T13:20:17.957Z",
     "patternCategory": "表达确定性或证据来源",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "it turns out that",
+      "ipa": "",
+      "translation": "结果发现……，原来……",
+      "pronunciationGuide": "该句式用于表达一个出乎意料或之前未知的事实或结果。结构为：It turns out that + 完整从句。注意：'turns out' 是固定短语，不可拆分；'that' 在口语中可省略。常见错误：误用为 'it turns out to be' 后接名词短语，但本句式强调从句。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to indicate that something is discovered or becomes known after a period of uncertainty or surprise.",
+      "patternPractice": [
+        {
+          "chinese": "结果发现他是个老师。",
+          "english": "It turns out that he is a teacher.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "原来她昨天没来上班是因为生病了。",
+          "english": "It turns out that she didn't come to work yesterday because she was ill (sick).",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "结果发现我们之前忽略了一个重要细节。",
+          "english": "It turns out that we overlooked (missed) an important detail before.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "原来那个看似简单的解决方案实际上非常复杂。",
+          "english": "It turns out that the seemingly simple solution is actually very complex.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "结果发现，尽管他付出了巨大努力，项目还是失败了。",
+          "english": "It turns out that, despite his tremendous efforts, the project still failed.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-13-4-1784380847362",
