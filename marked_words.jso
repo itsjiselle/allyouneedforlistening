@@ -12687,6 +12687,38 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:28:11.844Z",
     "patternCategory": "提出要求",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "Stick around, everybody.",
+      "ipa": "",
+      "translation": "大家别走开，待在这儿。",
+      "pronunciationGuide": "这是一个祈使句，'Stick around' 是短语动词，意为'逗留、不走开'，'everybody' 是称呼语。使用时注意：'stick around' 通常用于非正式场合，表示希望某人留下或等待。常见错误是忘记逗号分隔称呼语。",
+      "collocations": [],
+      "cefrLevel": "A2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to tell a group of people to stay or remain in a place, often because something is about to happen.",
+      "patternPractice": [
+        {
+          "chinese": "大家别走开，我有事要说。",
+          "english": "Stick around, everybody. I have something to say.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "大家别走开，表演马上开始。",
+          "english": "Stick around, everybody. The show is about to start.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "大家别走开，我们需要讨论一下计划。",
+          "english": "Stick around, everybody. We need to discuss (talk over) the plan.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "大家别走开，惊喜即将揭晓。",
+          "english": "Stick around, everybody. The surprise is about to be revealed.",
+          "difficulty": "中级"
+        }
+      ]
+    }
   }
 ]
