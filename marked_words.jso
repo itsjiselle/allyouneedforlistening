@@ -12295,5 +12295,21 @@
     "startTime": 464.995,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:22:37.723Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-123-3-1784431421996",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 123,
+    "wordIndex": 3,
+    "wordText": "Lame",
+    "category": "idiom",
+    "customLemma": "Lame",
+    "sentenceContext": "-We don't read. Lame!",
+    "sentenceTranslation": "我们不读书。太逊了！",
+    "sentenceVocab": "⭐ lame —— 无聊的；逊的（口语）",
+    "startTime": 493.43,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:23:41.996Z"
   }
 ]
