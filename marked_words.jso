@@ -11895,5 +11895,26 @@
     "startTime": 127.5,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:08:22.121Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-32-6-1784430511582",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 32,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7,
+      8
+    ],
+    "wordText": "To this day",
+    "category": "idiom",
+    "customLemma": "to this day",
+    "sentenceContext": "-I watch you all the time. To this day, I watch you all the time.",
+    "sentenceTranslation": "我一直看你的作品。直到今天，我仍然经常看。",
+    "sentenceVocab": "⭐ to this day —— 直到今天（★★★★★）｜all the time —— 一直；经常",
+    "startTime": 138.074,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:08:31.582Z"
   }
 ]
