@@ -12125,7 +12125,8 @@
           "english": "To this day, she still persists in (sticks to) running five kilometers every morning."
         }
       ]
-    }
+    },
+    "teacherExplanation": "### 【中式英语 vs 地道表达】\n你可能会说“I still watch you all the time”，但**“to this day”** 自带一种**史诗感**——仿佛从盘古开天辟地起，我就在看你，一直看到今天。它强调**时间跨度**和**持续不变**，比“still”更正式、更深情（或更 creepy）。\n\n### 【学术深度分析与语用场景】\n**语用功能**：用于强调某个事实或习惯从过去某个时间点一直延续到现在，且**至今未变**。感情色彩偏**郑重**或**戏剧化**，常用于表白、怀旧、或吐槽（比如“To this day, I still can't believe he ate my lunch.”）。在口语中，它能让你的话瞬间有**故事感**。\n\n### 【中文社媒/网络流行语对应】\n对应中文网络梗：**“直到今天，我依然……”** 或 **“这么多年过去了，我还是……”** 比如：“To this day, I still watch you.” 可以神翻译为：**“这么多年了，我还在看你，就像当年一样。”** 配上《大话西游》的BGM，效果拉满。\n\n### 【趣味记忆/联想】\n谐音梗：**“吐死 day”** → 想象你每天吐糟一件事，吐到今天还在吐。或者联想：**“To this day” = “到今天”**，但语气像在说“直到世界尽头”。记住：**用“to this day”时，请自动脑补《泰坦尼克号》的“My heart will go on”。**"
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-35-10-1784430528995",
@@ -12554,35 +12555,7 @@
     "sentenceVocab": "⭐ get offstage —— 下台",
     "startTime": 350.516,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T03:15:02.474Z",
-    "translationCache": {
-      "lemma": "get offstage",
-      "ipa": "/ɡɛt ˌɔːfˈsteɪdʒ/",
-      "translation": "下台，离开舞台",
-      "pronunciationGuide": "",
-      "collocations": "get offstage quickly, get offstage after the show, get offstage and relax",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "演出结束后，她迅速下台，因为观众还在热烈鼓掌。",
-          "english": "After the performance, she quickly got offstage because the audience was still applauding enthusiastically."
-        },
-        {
-          "chinese": "他一下台就瘫坐在椅子上，感到如释重负。",
-          "english": "As soon as he got offstage, he collapsed into a chair, feeling relieved."
-        },
-        {
-          "chinese": "演讲者下台后，立即被记者围住采访。",
-          "english": "After getting offstage, the speaker was immediately surrounded by reporters for interviews."
-        },
-        {
-          "chinese": "她下台时不小心绊了一下，但很快稳住了。",
-          "english": "She stumbled slightly while getting offstage but quickly regained her balance."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-19T03:15:02.474Z"
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-97-0-1784430983607",
