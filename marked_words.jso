@@ -11916,5 +11916,25 @@
     "startTime": 138.074,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:08:31.582Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-35-10-1784430528995",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 35,
+    "wordIndex": 10,
+    "wordIndices": [
+      10,
+      11
+    ],
+    "wordText": "family touchstones",
+    "category": "idiom",
+    "customLemma": "family touchstones",
+    "sentenceContext": "-I love that it's become kind of one of those family touchstones.",
+    "sentenceTranslation": "我很喜欢它变成了那种家庭共同记忆中的重要作品。",
+    "sentenceVocab": "⭐ become one of those… —— 变成那类……之一｜family touchstone —— 家庭共同珍视的事物；家庭记忆符号（★★★★★）",
+    "startTime": 146.029,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:08:48.995Z"
   }
 ]
