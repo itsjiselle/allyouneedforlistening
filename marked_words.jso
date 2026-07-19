@@ -7524,7 +7524,83 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-10T08:06:03.581Z",
     "patternCategory": "补充或递进",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "in addition to those ...(adj.) qualities",
+      "ipa": "",
+      "translation": "除了那些……特质之外",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "用于列举或补充说明，强调在已有特质基础上还有额外特质。",
+      "englishDefinition": "Used to introduce an extra set of qualities or characteristics that are being considered alongside previously mentioned ones, often in a comparative or additive context.",
+      "patternPractice": [],
+      "patternAnalysis": {
+        "normalizedTarget": "in addition to those ... qualities",
+        "unitType": "lexical_frame",
+        "activeLearningRecommendation": "high",
+        "primaryCategory": "建立逻辑关系",
+        "primarySubcategory": "补充或递进",
+        "functionInContextZh": "在上下文中，该句式用于引出除了已提到的弹性特质之外，肌肉在拉伸应力下还有另一种变化。",
+        "reusablePattern": "in addition to those [adjective] qualities, [subject] [verb]...",
+        "retrievalScenarioZh": "在面试中，你正在描述一位候选人的优点：除了那些领导力特质外，他还具备出色的沟通能力。",
+        "usageConstraintsZh": [
+          "通常用于正式或半正式语境",
+          "后面常接名词短语，形容词修饰qualities",
+          "不用于口语中随意列举"
+        ],
+        "commonErrorsZh": [
+          "误用为'in addition of'",
+          "遗漏those或错误使用these",
+          "形容词位置错误"
+        ],
+        "modelExampleEn": "In addition to those technical qualities, she also brings strong leadership skills.",
+        "confidence": 0.95,
+        "promptVersion": "pattern-learning-v2"
+      },
+      "patternAnkiCards": [
+        {
+          "front": {
+            "scenarioZh": "你正在参加一个团队会议，讨论新产品的特性。产品经理已经列出了产品的几个核心功能（如耐用性、便携性）。现在你想补充说，除了这些功能特性外，产品还有环保的设计理念。",
+            "taskZh": "用英语表达：除了那些功能特性外，产品还有环保的设计理念。",
+            "hintEn": "In addition to those [adjective] qualities, the product also has..."
+          },
+          "back": {
+            "targetAnswerEn": "In addition to those functional qualities, the product also has an eco-friendly design concept.",
+            "acceptableAnswersEn": [
+              "In addition to those functional qualities, the product also features an eco-friendly design.",
+              "Besides those functional qualities, the product also incorporates an eco-friendly design."
+            ],
+            "reusablePattern": "in addition to those [adjective] qualities, [subject] [verb]...",
+            "usageNoteZh": "使用those指代前文已提到的特质，保持指代一致。",
+            "commonErrorsZh": [
+              "误用these代替those",
+              "遗漏形容词直接说in addition to those qualities"
+            ]
+          }
+        },
+        {
+          "front": {
+            "scenarioZh": "你是一位老师，正在给学生写评语。你之前提到了学生的学术能力（如分析能力、写作能力）。现在你想补充说，除了这些学术特质外，该学生还表现出很强的团队合作精神。",
+            "taskZh": "用英语表达：除了那些学术特质外，该学生还表现出很强的团队合作精神。",
+            "hintEn": "In addition to those [adjective] qualities, the student also demonstrates..."
+          },
+          "back": {
+            "targetAnswerEn": "In addition to those academic qualities, the student also demonstrates strong teamwork skills.",
+            "acceptableAnswersEn": [
+              "In addition to those academic qualities, the student also shows excellent teamwork.",
+              "Besides those academic qualities, the student also exhibits strong collaboration skills."
+            ],
+            "reusablePattern": "in addition to those [adjective] qualities, [subject] [verb]...",
+            "usageNoteZh": "形容词的选择要准确反映前文提到的特质类别。",
+            "commonErrorsZh": [
+              "忘记使用those导致指代不清",
+              "形容词与qualities搭配不当"
+            ]
+          }
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-16-8-1783670785923",
@@ -9721,7 +9797,7 @@
     "sentenceTranslation": "好了，我这边就到这里了。",
     "sentenceVocab": "⭐ That's it from me. —— 我就分享到这里。（演讲、采访结束时很自然）",
     "startTime": 514.52,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-15T09:38:58.494Z",
     "translationCache": {
       "lemma": "that's it from me",
