@@ -11956,5 +11956,47 @@
     "startTime": 159.502,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:10:09.965Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-40-3-1784430614787",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 40,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4
+    ],
+    "wordText": "go nuts",
+    "category": "idiom",
+    "customLemma": "go nuts",
+    "sentenceContext": "-Did the crowd go nuts?",
+    "sentenceTranslation": "现场观众是不是疯狂了？",
+    "sentenceVocab": "⭐ go nuts —— 疯狂；兴奋到失控（★★★★★）",
+    "startTime": 165.853,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:10:14.787Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-49-2-1784430667810",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 49,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      4,
+      9
+    ],
+    "wordText": "You'd never see ... wear",
+    "category": "pattern",
+    "customLemma": "You'd never see ...(someone) do something",
+    "sentenceContext": "-Yes, exactly. You'd never see Anna Wintour, from Vogue, wear a trucker hat.",
+    "sentenceTranslation": "对，完全正确。你永远不会看到 Vogue 的 Anna Wintour 戴卡车司机帽。",
+    "sentenceVocab": "⭐ You'd never see someone do something —— 你几乎不可能看到某人做某事",
+    "startTime": 195.504,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:11:07.810Z"
   }
 ]
