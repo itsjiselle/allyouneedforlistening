@@ -10217,7 +10217,39 @@
     "sentenceVocab": "⭐ at least —— 至少｜on the way round —— 逛的时候；一路上",
     "startTime": 17.518,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:40:30.940Z"
+    "dateAdded": "2026-07-16T07:40:30.940Z",
+    "translationCache": {
+      "lemma": "on the way round it",
+      "ipa": "/ɒn ðə weɪ raʊnd ɪt/",
+      "translation": "在去某地的路上顺便做某事",
+      "pronunciationGuide": "",
+      "collocations": [
+        "eat on the way round it",
+        "stop on the way round it",
+        "do something on the way round it"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "虽然我计划去超市，但我决定不在去的路上吃零食。",
+          "english": "Although I planned to go to the supermarket, I decided not to eat snacks on the way round it."
+        },
+        {
+          "chinese": "她总是在去健身房的路上顺便买杯咖啡。",
+          "english": "She always buys a coffee on the way round it to the gym."
+        },
+        {
+          "chinese": "为了避免迟到，他选择不在去学校的路上停下来聊天。",
+          "english": "To avoid being late, he chose not to stop and chat on the way round it to school."
+        },
+        {
+          "chinese": "我们可以在去电影院的路上顺便取一下包裹。",
+          "english": "We can pick up (collect) the package on the way round it to the cinema."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-11-18-1784187668228",
