@@ -12208,7 +12208,44 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:16:31.541Z",
     "patternCategory": "评价",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "It crushed",
+      "ipa": "",
+      "translation": "它大获成功/它打破了纪录",
+      "pronunciationGuide": "该句式结构为'It crushed'，是口语中表示某事非常成功、令人印象深刻的非正式表达。通常用于描述表演、比赛、项目等取得巨大成功。注意：'crush'在此为不及物动词，意为'大获成功'，后面不接宾语。常见错误是误加宾语，如'It crushed the record'，但原句'It crushed, broke the record'中'crushed'独立使用，后接逗号再接'broke the record'，表示递进关系。",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used informally to express that something was extremely successful, impressive, or outstanding, often in a competitive or performance context.",
+      "patternPractice": [
+        {
+          "chinese": "他的演讲大获成功。",
+          "english": "His speech crushed.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "那支乐队的演出大获成功，赢得了全场起立鼓掌。",
+          "english": "The band's performance crushed, earning a standing ovation.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "她的考试大获成功，取得了全班最高分。",
+          "english": "Her exam crushed, achieving (getting) the highest score in the class.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这个新产品的发布大获成功，打破了所有销售预期。",
+          "english": "The new product launch crushed, breaking (smashing) all sales expectations.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "他的即兴表演大获成功，让观众惊叹不已。",
+          "english": "His improvisation crushed, leaving the audience in awe.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-100-2-1784431021473",
