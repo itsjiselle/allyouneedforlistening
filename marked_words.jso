@@ -12231,5 +12231,25 @@
     "startTime": 418.69100000000003,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:17:41.843Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-109-3-1784431089626",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 109,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4
+    ],
+    "wordText": "is off",
+    "category": "idiom",
+    "customLemma": "be off doing something",
+    "sentenceContext": "-So, my daughter is off watching St. Vincent.",
+    "sentenceTranslation": "所以，我女儿去看 St. Vincent 的演出了。",
+    "sentenceVocab": "⭐ be off doing something —— 去做某事了（★★★★★）",
+    "startTime": 440.077,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:18:09.626Z"
   }
 ]
