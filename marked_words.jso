@@ -12401,5 +12401,21 @@
     "startTime": 560.781,
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:26:50.118Z"
+  },
+  {
+    "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-139-3-1784431618426",
+    "materialId": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You",
+    "materialTitle": "Jimmy Fallon - Anne Hathaway Forgets The Princess Diaries and The Devil Wears Prada Details, Chats The Idea of You.mp4",
+    "subtitleId": 139,
+    "wordIndex": 3,
+    "wordText": "trailer",
+    "category": "vocab",
+    "customLemma": "trailer",
+    "sentenceContext": "-It's actually my trailer.",
+    "sentenceTranslation": "其实这是我的休息车。",
+    "sentenceVocab": "⭐ actually —— 实际上；其实（纠正信息时高频）",
+    "startTime": 563.414,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-19T03:26:58.426Z"
   }
 ]
