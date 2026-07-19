@@ -2108,7 +2108,39 @@
     "sentenceContext": "A few other things - order off the kids' menu if the restaurant lets you. 还有一个办法，如果餐厅允许的话，可以直接点儿童菜单。⭐ kids' menu 儿童菜单｜if… lets you 如果允许的话",
     "startTime": 964.438,
     "reviewCount": 0,
-    "dateAdded": "2026-07-04T03:57:13.718Z"
+    "dateAdded": "2026-07-04T03:57:13.718Z",
+    "translationCache": {
+      "lemma": "order off ... menu",
+      "ipa": "/ˈɔːrdər ɒf ... ˈmenjuː/",
+      "translation": "从……菜单上点餐",
+      "pronunciationGuide": "",
+      "collocations": [
+        "order off the menu",
+        "order off the kids' menu",
+        "order off the à la carte menu"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了省钱，我通常会从午餐特价菜单上点餐。",
+          "english": "To save money, I usually order off the lunch special menu."
+        },
+        {
+          "chinese": "尽管是成年人，她有时还是会从儿童菜单上点餐，因为份量更小。",
+          "english": "Even though she is an adult, she sometimes orders off the kids' menu because the portions are smaller."
+        },
+        {
+          "chinese": "这家餐厅允许顾客从任何菜单上点餐，包括素食菜单。",
+          "english": "This restaurant allows customers to order off any menu, including the vegetarian menu."
+        },
+        {
+          "chinese": "如果你不想吃套餐，可以从单点菜单上点餐。",
+          "english": "If you don't want the set meal, you can order off the à la carte menu."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-128-10-1783137444328",
