@@ -12751,7 +12751,44 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-19T03:25:10.997Z",
     "patternCategory": "表达观点或判断",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": false,
+    "translationCache": {
+      "lemma": "... has a fan following",
+      "ipa": "",
+      "translation": "……拥有一批粉丝/追随者",
+      "pronunciationGuide": "该句式结构为：主语 + has/have + a fan following。其中 'fan following' 是固定搭配，意为'粉丝群体'或'追随者'。使用时注意主语可以是人、物、作品等，动词根据主语单复数变化。常见错误：漏掉冠词 'a' 或误用复数 'fan followings'（通常不可数）。",
+      "collocations": [],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "Used to indicate that someone or something has a group of dedicated fans or followers.",
+      "patternPractice": [
+        {
+          "chinese": "这位歌手有一批粉丝。",
+          "english": "This singer has a fan following.",
+          "difficulty": "初级"
+        },
+        {
+          "chinese": "那部电影在年轻人中有一批粉丝。",
+          "english": "That movie has a fan following among young people.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这位作家的新书在海外也有一批粉丝。",
+          "english": "This writer's new book also has a fan following overseas.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管争议不断，这位政治人物仍然拥有一批忠实的粉丝。",
+          "english": "Despite the controversy, this politician still has a loyal fan following.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "这个品牌通过社交媒体营销，在全球范围内积累了一批粉丝。",
+          "english": "This brand has built up (amassed) a fan following globally through social media marketing.",
+          "difficulty": "高级"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You-137-9-1784431566192",
