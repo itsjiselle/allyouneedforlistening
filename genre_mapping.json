@@ -1,0 +1,43 @@
+{
+  "genres": [
+    {
+      "id": "casual",
+      "name": "🗣️ 日常口语 / 播客",
+      "badge": "口语播客"
+    },
+    {
+      "id": "academic",
+      "name": "🏫 学术讲座 / 演讲风格",
+      "badge": "学术"
+    },
+    {
+      "id": "news",
+      "name": "📻 新闻报道 / 纪录片",
+      "badge": "新闻/纪录片"
+    },
+    {
+      "id": "business",
+      "name": "💼 名人采访",
+      "badge": "名人采访"
+    },
+    {
+      "id": "entertainment",
+      "name": "🎬 脱口秀",
+      "badge": "脱口秀"
+    }
+  ],
+  "genreMapping": {
+    "demo-motivation": "academic",
+    "demo-hotel-res": "casual",
+    "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem": "entertainment",
+    "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me": "business",
+    "github-cloud-Messi_The_Chosen_One__________": "news",
+    "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose": "entertainment",
+    "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking": "casual",
+    "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One": "business",
+    "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You": "business",
+    "github-cloud-BBC_News___Backlash_after_China_bubble_tea_firm_ordered_to_pay_Louis_Vuitton__1_5m": "news",
+    "github-cloud-i_D_Meets__Will_Gao": "business"
+  },
+  "updatedAt": 1784776277800
+}
