@@ -13921,5 +13921,29 @@
     "startTime": 215.6,
     "reviewCount": 0,
     "dateAdded": "2026-07-23T04:01:12.910Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-46-0-1784779285213",
+    "materialId": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One",
+    "srtFingerprint": "dafe3072",
+    "materialTitle": "WSJ Style - Emily Blunt on the Moment She Realized John Krasinski Could Direct_The One.mp4",
+    "subtitleId": 46,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "wordText": "It would have to be",
+    "category": "pattern",
+    "customLemma": "It would have to be",
+    "sentenceContext": "It would have to be for \"The Devil Wears Prada.\"",
+    "sentenceTranslation": "那一定是《穿普拉达的女王》。",
+    "sentenceVocab": "⭐ It would have to be... —— 一定是……（★★★★★）",
+    "startTime": 219.211,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-23T04:01:25.214Z"
   }
 ]
