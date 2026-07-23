@@ -1,0 +1,21 @@
+{
+  "materialTopics": [
+    {
+      "id": "topic-ielts",
+      "name": "雅思真题"
+    },
+    {
+      "id": "topic-daily",
+      "name": "日常英语"
+    },
+    {
+      "id": "topic-news",
+      "name": "新闻播客"
+    }
+  ],
+  "materialTopicMapping": {
+    "demo-motivation": "topic-daily",
+    "demo-hotel-res": "topic-daily"
+  },
+  "updatedAt": 1784775496429
+}
