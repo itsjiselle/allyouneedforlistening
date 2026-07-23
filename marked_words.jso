@@ -12839,7 +12839,35 @@
     "sentenceVocab": "⭐ the odds are stacked against someone —— 形势对某人不利（★★★★★）｜wobbly —— 不稳定的；摇摆的（C1）",
     "startTime": 360.812,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:17:28.643Z"
+    "dateAdded": "2026-07-23T04:17:28.643Z",
+    "translationCache": {
+      "lemma": "wobbly",
+      "ipa": "/ˈwɑːbli/",
+      "translation": "adj. 摇晃的，不稳的",
+      "pronunciationGuide": "注意双元音 /ɑː/ 的发音，嘴唇放松，舌位低；/b/ 和 /l/ 之间不要加元音。",
+      "collocations": "feel wobbly, look wobbly, get wobbly, wobbly legs",
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "moving unsteadily from side to side, or feeling weak and unable to balance.",
+      "patternPractice": [
+        {
+          "chinese": "她刚学会走路，所以走起路来摇摇晃晃的。",
+          "english": "She has just learned to walk, so she is super wobbly on her feet."
+        },
+        {
+          "chinese": "在长途飞行后，我的腿感觉软绵绵的，站都站不稳。",
+          "english": "After the long flight, my legs felt weak and I was super wobbly."
+        },
+        {
+          "chinese": "这张旧桌子的一条腿短了，所以放东西上去时特别不稳。",
+          "english": "This old table has one short leg, so it gets super wobbly when you put things on it."
+        },
+        {
+          "chinese": "他因为发烧而头晕目眩，走路摇摇晃晃的。",
+          "english": "He was dizzy from the fever and walked super wobbly."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-77-5-1784780258039",
