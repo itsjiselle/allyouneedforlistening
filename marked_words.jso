@@ -2820,7 +2820,7 @@
       "topic-1784193883432"
     ],
     "patternCategoryManuallyEdited": false,
-    "patternCategory": "必要条件"
+    "patternCategory": "*表达义务&必要性"
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-13-11-1783396266860",
@@ -4021,7 +4021,7 @@
         }
       ]
     },
-    "patternCategory": "表达顿悟或认识转变",
+    "patternCategory": "*顿悟",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -4088,7 +4088,7 @@
         }
       ]
     },
-    "patternCategory": "评价",
+    "patternCategory": "*主观的观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -4189,7 +4189,7 @@
         }
       ]
     },
-    "patternCategory": "限定与程度",
+    "patternCategory": "*主观的观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -5609,7 +5609,7 @@
     "startTime": 528.514,
     "reviewCount": 0,
     "dateAdded": "2026-07-08T09:16:55.008Z",
-    "patternCategory": "表达情感",
+    "patternCategory": "*评价（包括赞美、批评等）",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -6071,7 +6071,7 @@
     "startTime": 638.625,
     "reviewCount": 0,
     "dateAdded": "2026-07-08T09:22:18.657Z",
-    "patternCategory": "比较或相关变化",
+    "patternCategory": "*表达义务&必要性",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -8845,7 +8845,7 @@
         }
       ]
     },
-    "patternCategory": "引入记忆",
+    "patternCategory": "*介绍记忆",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -8908,7 +8908,7 @@
         }
       ]
     },
-    "patternCategory": "获取或确认信息",
+    "patternCategory": "*核实信息",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9159,7 +9159,7 @@
     "startTime": 252.834,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:30:50.611Z",
-    "patternCategory": "评价",
+    "patternCategory": "*主观的观点与判断",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9701,7 +9701,7 @@
         }
       ]
     },
-    "patternCategory": "表达偏好或喜好",
+    "patternCategory": "描述习惯或变化",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9777,7 +9777,7 @@
     "startTime": 470.787,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T09:37:43.822Z",
-    "patternCategory": "表达偏好或喜好",
+    "patternCategory": "表达偏好",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -10734,7 +10734,7 @@
     "startTime": 127.364,
     "reviewCount": 1,
     "dateAdded": "2026-07-16T07:45:04.672Z",
-    "patternCategory": "对比",
+    "patternCategory": "表示某一阶段已经结束",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11522,7 +11522,7 @@
         }
       ]
     },
-    "patternCategory": "影响对方行动",
+    "patternCategory": "提建议",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11687,7 +11687,7 @@
     "startTime": 272.421,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:32:04.096Z",
-    "patternCategory": "表达不满与寻求回应",
+    "patternCategory": "表达禁止或不赞同",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11770,7 +11770,7 @@
         }
       ]
     },
-    "patternCategory": "推测",
+    "patternCategory": "提建议",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -13827,7 +13827,9 @@
     "sentenceVocab": "⭐ kaleidoscopic —— 千变万化的；丰富多彩的（C2）｜experience of my life —— 我人生中的经历",
     "startTime": 107.303,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T03:25:22.345Z"
+    "dateAdded": "2026-07-23T03:25:22.345Z",
+    "patternCategory": "评价",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-20-0-1784779138744",
@@ -13905,7 +13907,9 @@
     "sentenceVocab": "⭐ that bit —— 那一段；那个部分（英式口语★★★★★）",
     "startTime": 212.34,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:00:52.338Z"
+    "dateAdded": "2026-07-23T04:00:52.338Z",
+    "patternCategory": "表达情感",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-45-7-1784779272910",
@@ -13952,7 +13956,9 @@
     "sentenceVocab": "⭐ It would have to be... —— 一定是……（★★★★★）",
     "startTime": 219.211,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:01:25.214Z"
+    "dateAdded": "2026-07-23T04:01:25.214Z",
+    "patternCategory": "推测",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-52-0-1784779348304",
@@ -13976,7 +13982,9 @@
     "sentenceVocab": "⭐ have a hallucination —— 产生幻觉（C1）",
     "startTime": 257.651,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:02:28.304Z"
+    "dateAdded": "2026-07-23T04:02:28.304Z",
+    "patternCategory": "获取或确认信息",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-54-4-1784779430105",
@@ -14022,7 +14030,9 @@
     "sentenceVocab": "⭐ in the blink of an eye —— 转瞬之间（★★★★★）｜feel like a blink —— 感觉时间飞逝",
     "startTime": 284.572,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:04:28.537Z"
+    "dateAdded": "2026-07-23T04:04:28.537Z",
+    "patternCategory": "描述事件中的即时反应或感受",
+    "patternCategoryManuallyEdited": false
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-59-9-1784779496063",
