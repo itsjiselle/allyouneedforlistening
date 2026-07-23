@@ -14371,7 +14371,8 @@
       "wordText": "available as a person",
       "category": "vocab",
       "categories": [
-        "vocab"
+        "vocab",
+        "idiom"
       ],
       "customLemma": "available as a person",
       "sentenceContext": "He is so available as a person.",
@@ -14384,5 +14385,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784780444811
+  "updatedAt": 1784780447256
 }
