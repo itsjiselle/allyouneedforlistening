@@ -14343,7 +14343,8 @@
     "wordText": "stick that landing with",
     "category": "idiom",
     "categories": [
-      "idiom"
+      "idiom",
+      "vocab"
     ],
     "customLemma": "stick that landing with",
     "sentenceContext": "Even on the day, I remember Chris Nolan saying, \"Don't be afraid to just stick that landing with that line.\"",
