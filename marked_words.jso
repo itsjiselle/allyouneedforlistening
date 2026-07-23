@@ -14370,7 +14370,8 @@
     "wordText": "available as a person",
     "category": "vocab",
     "categories": [
-      "vocab"
+      "vocab",
+      "idiom"
     ],
     "customLemma": "available as a person",
     "sentenceContext": "He is so available as a person.",
