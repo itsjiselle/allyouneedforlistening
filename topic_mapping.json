@@ -9,10 +9,6 @@
       "name": "日常英语"
     },
     {
-      "id": "topic-news",
-      "name": "新闻播客"
-    },
-    {
       "id": "topic-1784775667232",
       "name": "Shopping🛍️"
     },
@@ -40,5 +36,5 @@
     "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose": "topic-1784775667232",
     "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking": "topic-1784775906777"
   },
-  "updatedAt": 1784776279710
+  "updatedAt": 1784776484873
 }
