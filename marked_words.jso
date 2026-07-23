@@ -12999,7 +12999,35 @@
     "sentenceVocab": "⭐ joyous —— 快乐的（C1）｜buoyant —— 乐观积极的；充满活力的（C1）｜be around someone —— 和某人在一起",
     "startTime": 416.126,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:21:10.773Z"
+    "dateAdded": "2026-07-23T04:21:10.773Z",
+    "translationCache": {
+      "lemma": "available and joyous and buoyant",
+      "ipa": "",
+      "translation": "adj. 可用的；快乐的；轻快的",
+      "pronunciationGuide": "注意连读：available末尾的/l/与and的/æ/连读；joyous和buoyant中的/j/和/b/发音清晰。",
+      "collocations": "be available and joyous and buoyant; feel available and joyous and buoyant; remain available and joyous and buoyant",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "Describing a person who is approachable, cheerful, and full of energy, making others feel happy in their presence.",
+      "patternPractice": [
+        {
+          "chinese": "尽管工作压力很大，她总是保持一种可亲近、快乐且充满活力的状态，这让整个团队都感到振奋。",
+          "english": "Despite the heavy work pressure, she always remains available and joyous and buoyant, which uplifts the entire team."
+        },
+        {
+          "chinese": "在聚会上，他那种可亲近、快乐且充满活力的气质立刻吸引了所有人的注意。",
+          "english": "At the party, his available and joyous and buoyant demeanor immediately caught everyone's attention."
+        },
+        {
+          "chinese": "作为一名老师，她努力营造一种可亲近、快乐且充满活力的课堂氛围，让学生们乐于参与。",
+          "english": "As a teacher, she strives to create an available and joyous and buoyant classroom atmosphere that encourages students to participate (take part in) actively."
+        },
+        {
+          "chinese": "他的朋友描述他是一个可亲近、快乐且充满活力的人，无论走到哪里都能带来欢笑。",
+          "english": "His friends describe him as an available and joyous and buoyant person who brings laughter wherever he goes."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-88-0-1784780480126",
