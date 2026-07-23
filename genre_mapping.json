@@ -24,6 +24,11 @@
       "id": "entertainment",
       "name": "🎬 脱口秀",
       "badge": "脱口秀"
+    },
+    {
+      "id": "genre-1784776453756",
+      "name": "TV Shows",
+      "badge": "TV Shows"
     }
   ],
   "genreMapping": {
@@ -39,5 +44,5 @@
     "github-cloud-BBC_News___Backlash_after_China_bubble_tea_firm_ordered_to_pay_Louis_Vuitton__1_5m": "news",
     "github-cloud-i_D_Meets__Will_Gao": "business"
   },
-  "updatedAt": 1784776277808
+  "updatedAt": 1784776458346
 }
