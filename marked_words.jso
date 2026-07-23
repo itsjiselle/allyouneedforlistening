@@ -14225,5 +14225,30 @@
     "startTime": 344.921,
     "reviewCount": 0,
     "dateAdded": "2026-07-23T04:16:37.828Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-74-3-1784780211421",
+    "materialId": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One",
+    "srtFingerprint": "dafe3072",
+    "materialTitle": "WSJ Style - Emily Blunt on the Moment She Realized John Krasinski Could Direct_The One.mp4",
+    "subtitleId": 74,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5
+    ],
+    "wordText": "volatile and unreliable",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "volatile and unreliable",
+    "sentenceContext": "And becoming more volatile and unreliable.",
+    "sentenceTranslation": "并且变得更加情绪不稳定、无法预测。",
+    "sentenceVocab": "⭐ volatile —— 易怒的；情绪不稳定的（C1）｜unreliable —— 不可靠的（C1）",
+    "startTime": 355.52,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-23T04:16:51.421Z"
   }
 ]
