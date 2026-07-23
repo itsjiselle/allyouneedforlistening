@@ -15,11 +15,15 @@
     {
       "id": "topic-1784775667232",
       "name": "Shopping🛍️"
+    },
+    {
+      "id": "topic-1784775681934",
+      "name": "aesthetic&personal care"
     }
   ],
   "materialTopicMapping": {
     "demo-motivation": "topic-daily",
     "demo-hotel-res": "topic-daily"
   },
-  "updatedAt": 1784775672069
+  "updatedAt": 1784775685437
 }
