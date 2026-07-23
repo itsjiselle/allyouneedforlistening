@@ -14174,5 +14174,33 @@
     "startTime": 331.093,
     "reviewCount": 0,
     "dateAdded": "2026-07-23T04:15:55.715Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-70-0-1784780162803",
+    "materialId": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One",
+    "srtFingerprint": "dafe3072",
+    "materialTitle": "WSJ Style - Emily Blunt on the Moment She Realized John Krasinski Could Direct_The One.mp4",
+    "subtitleId": 70,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "wordText": "I don't think ... would presume to",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "I don't think ... would presume to",
+    "sentenceContext": "I don't think she would presume to.",
+    "sentenceTranslation": "但我觉得她不会自认为有资格这样做。",
+    "sentenceVocab": "⭐ presume to do something —— 自以为有资格做某事（C2）",
+    "startTime": 331.093,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-23T04:16:02.803Z"
   }
 ]
