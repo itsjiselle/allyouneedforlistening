@@ -14379,5 +14379,29 @@
     "startTime": 406.603,
     "reviewCount": 0,
     "dateAdded": "2026-07-23T04:20:41.053Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-87-5-1784780453827",
+    "materialId": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One",
+    "srtFingerprint": "dafe3072",
+    "materialTitle": "WSJ Style - Emily Blunt on the Moment She Realized John Krasinski Could Direct_The One.mp4",
+    "subtitleId": 87,
+    "wordIndex": 5,
+    "wordIndices": [
+      5,
+      6
+    ],
+    "wordText": "dork out",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "dork out",
+    "sentenceContext": "Even if you want to dork out and ask him endless stories about \"ET\" or \"Indiana Jones.\"",
+    "sentenceTranslation": "即使你想像个影迷一样兴奋地问他关于《ET》或《夺宝奇兵》的各种故事。",
+    "sentenceVocab": "⭐ dork out —— 像宅男/粉丝一样兴奋讨论（口语）｜endless stories —— 无尽的故事",
+    "startTime": 409.513,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-23T04:20:53.827Z"
   }
 ]
