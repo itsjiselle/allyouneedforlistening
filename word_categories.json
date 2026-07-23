@@ -13852,7 +13852,15 @@
       "sentenceVocab": "⭐ attest —— 证明；证实（C1/C2）",
       "startTime": 85.65899999999999,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T03:58:58.744Z"
+      "dateAdded": "2026-07-23T03:58:58.744Z",
+      "customTopicIds": [
+        "topic-ielts"
+      ],
+      "patternCategories": [],
+      "categories": [
+        "pattern"
+      ],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-29-10-1784779162565",
@@ -14111,5 +14119,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784779857869
+  "updatedAt": 1784780083095
 }
