@@ -1,10 +1,6 @@
 {
   "materialTopics": [
     {
-      "id": "topic-ielts",
-      "name": "雅思真题"
-    },
-    {
       "id": "topic-daily",
       "name": "日常英语"
     },
@@ -57,5 +53,5 @@
     "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me": "topic-1784776674665",
     "github-cloud-i_D_Meets__Will_Gao": "topic-1784776719656"
   },
-  "updatedAt": 1784779899365
+  "updatedAt": 1784779903526
 }
