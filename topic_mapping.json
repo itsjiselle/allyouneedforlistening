@@ -27,6 +27,10 @@
     {
       "id": "topic-1784776517091",
       "name": "Technology📱🛜"
+    },
+    {
+      "id": "topic-1784776577423",
+      "name": "环境类(室外)🌳🏖️"
     }
   ],
   "materialTopicMapping": {
@@ -41,5 +45,5 @@
     "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking": "topic-1784775906777",
     "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem": "topic-1784776517091"
   },
-  "updatedAt": 1784776541156
+  "updatedAt": 1784776580712
 }
