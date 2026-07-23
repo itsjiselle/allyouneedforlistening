@@ -12580,7 +12580,39 @@
     "sentenceVocab": "⭐ impart wisdom —— 传授智慧（C2）｜feel like doing something —— 想做某事（★★★★★）",
     "startTime": 321.355,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:05:33.986Z"
+    "dateAdded": "2026-07-23T04:05:33.986Z",
+    "translationCache": {
+      "lemma": "impart wisdom on someone",
+      "ipa": "/ɪmˈpɑːrt ˈwɪzdəm ɒn ˈsʌmwʌn/",
+      "translation": "向某人传授智慧",
+      "pronunciationGuide": "",
+      "collocations": [
+        "impart wisdom on the younger generation",
+        "impart wisdom on students",
+        "impart wisdom on a subject"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这位老教授总是乐于向年轻同事传授智慧，分享他几十年的研究经验。",
+          "english": "The old professor is always willing to impart wisdom on younger colleagues, sharing his decades of research experience."
+        },
+        {
+          "chinese": "她不喜欢别人以居高临下的态度向她传授智慧，她更倾向于通过讨论来学习。",
+          "english": "She doesn't like it when people try to impart wisdom on her in a condescending manner; she prefers to learn through discussion."
+        },
+        {
+          "chinese": "在领导力培训中，导师向学员们传授智慧，强调同理心和战略思维的重要性。",
+          "english": "In the leadership training, the mentor imparted wisdom on the participants, emphasizing the importance of empathy and strategic thinking."
+        },
+        {
+          "chinese": "父母应该避免一味地向孩子传授智慧，而应该鼓励他们自己从经历中学习。",
+          "english": "Parents should avoid simply imparting wisdom on their children; instead, they should encourage them to learn from their own experiences."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-66-2-1784779845671",
