@@ -12238,9 +12238,8 @@
     "sentenceTranslation": "—高中时期，你拒绝了一份流行音乐唱片合约？—是的。",
     "sentenceVocab": "⭐ turn down something（这里省略）—— 拒绝（★★★★★）｜record contract —— 唱片合约",
     "startTime": 32.498,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-23T03:08:29.098Z",
-    "teacherExplanation": "### 【中式英语 vs 地道表达】\n你第一反应可能是“produce”或“make”，但**turn out**更妙——它暗含“意外之喜”或“结果出乎意料”的意味。就像你本来只想搞个乐队玩玩，结果**turn out**一张唱片合约，有种“哎哟，不错哦”的惊喜感。\n\n### 【学术深度分析与语用场景】\n**Turn out** 是**结果性动词**，强调从过程到结果的转变，且常带**意想不到**的色彩。感情色彩偏**戏谑/轻松**，适合口语或非正式场合。比如：\n- “The party turned out to be a disaster.”（派对结果成了灾难。）\n- 在对话中，**turn out a contract** 比“get”或“sign”更生动，仿佛合同是“生产”出来的，有种轻描淡写的酷。\n\n### 【中文社媒/网络流行语对应】\n对应中文网络梗：**“整活儿”**。比如：“高中你就整出一张唱片合约？” 完美传达那种“搞事情”的随意感和惊喜感。\n\n### 【趣味记忆/联想】\n**Turn out** = **“转出来”**。想象一个魔术师从帽子里**转出一只兔子**——你从高中**转出一张合约**，是不是很魔幻？谐音梗：**“烫奥特”**（烫得奥特曼都惊了），记住这惊喜感！"
+    "reviewCount": 1,
+    "dateAdded": "2026-07-23T03:08:29.098Z"
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-11-3-1784776155356",
@@ -13055,7 +13054,84 @@
     "sentenceVocab": "⭐ joyous —— 快乐的（C1）｜buoyant —— 乐观积极的；充满活力的（C1）｜be around someone —— 和某人在一起",
     "startTime": 416.126,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:21:20.126Z"
+    "dateAdded": "2026-07-23T04:21:20.126Z",
+    "translationCache": {
+      "lemma": "He's ...(adj.) to be around",
+      "ipa": "",
+      "translation": "他这个人……（让人感觉）和他在一起很……",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "用于描述一个人的性格或状态给人带来的主观感受，强调与他人相处时的体验。",
+      "englishDefinition": "Used to describe a person's character or state as perceived by others when spending time with them, focusing on the emotional or qualitative experience of their company.",
+      "patternPractice": [],
+      "patternAnalysis": {
+        "normalizedTarget": "He's ...(adj.) to be around",
+        "unitType": "lexical_frame",
+        "activeLearningRecommendation": "high",
+        "primaryCategory": "表达立场与态度",
+        "primarySubcategory": "评价",
+        "functionInContextZh": "说话人通过三个并列的形容词（available, joyous, buoyant）来评价这个人的性格特质，强调与他相处时令人愉悦的感受。",
+        "reusablePattern": "Subject + be + (adjective) + to be around",
+        "retrievalScenarioZh": "你和朋友聊起新来的同事，想表达他性格开朗、充满活力，和他一起工作很开心。",
+        "usageConstraintsZh": [
+          "形容词通常为描述性格或情绪状态的词，如fun, easy, difficult, pleasant, annoying等。",
+          "常用于口语和非正式书面语。",
+          "主语通常为人，但也可用于动物或拟人化对象。"
+        ],
+        "commonErrorsZh": [
+          "误用副词修饰形容词，如说'He's happily to be around'（应为'He's happy to be around'，但意思不同）。",
+          "混淆'to be around'与'to be with'，前者强调在场/相处，后者强调陪伴。",
+          "形容词选择不当，如用'He's tall to be around'（不自然）。"
+        ],
+        "modelExampleEn": "She's so easygoing and fun to be around that everyone loves inviting her to parties.",
+        "confidence": 0.95,
+        "promptVersion": "pattern-learning-v2"
+      },
+      "patternAnkiCards": [
+        {
+          "front": {
+            "scenarioZh": "你和朋友聊起新来的同事小王，他性格开朗、充满活力，和他一起工作很开心。你想向朋友表达这个意思。",
+            "taskZh": "用英语描述小王这个人，强调和他相处时的感受。",
+            "hintEn": "He's ... and ... to be around."
+          },
+          "back": {
+            "targetAnswerEn": "He's cheerful and energetic to be around.",
+            "acceptableAnswersEn": [
+              "He's lively and fun to be around.",
+              "He's so upbeat and pleasant to be around."
+            ],
+            "reusablePattern": "Subject + be + (adjective) + to be around",
+            "usageNoteZh": "形容词需为描述性格或情绪状态的词，且通常为积极或消极的评价。",
+            "commonErrorsZh": [
+              "误用副词：如'He's happily to be around'。",
+              "形容词选择不当：如'He's tall to be around'。"
+            ]
+          }
+        },
+        {
+          "front": {
+            "scenarioZh": "你向朋友抱怨你的室友，他总是不开心、爱抱怨，和他待在一起很压抑。",
+            "taskZh": "用英语描述你的室友，强调和他相处时的负面感受。",
+            "hintEn": "He's ... and ... to be around."
+          },
+          "back": {
+            "targetAnswerEn": "He's grumpy and negative to be around.",
+            "acceptableAnswersEn": [
+              "He's always moody and difficult to be around.",
+              "He's so depressing and draining to be around."
+            ],
+            "reusablePattern": "Subject + be + (adjective) + to be around",
+            "usageNoteZh": "此结构也可用于负面评价，形容词需恰当。",
+            "commonErrorsZh": [
+              "误用副词：如'He's sadly to be around'。",
+              "形容词选择不当：如'He's short to be around'。"
+            ]
+          }
+        }
+      ]
+    },
+    "patternCategory": "评价"
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-89-0-1784780509491",
