@@ -1,5 +1,75 @@
 [
   {
+    "id": "custom-10_4_4_mp3-6-6-1782211306165",
+    "materialId": "custom-10_4_4_mp3",
+    "materialTitle": "10-4-4.mp3",
+    "subtitleId": 6,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7
+    ],
+    "wordText": "teething problems",
+    "category": "vocab",
+    "sentenceContext": "However, all new technologies have their teething problems. 然而，所有新技术在发展初期都会遇到一些问题。（teething problems = 初期困难、成长中的问题，IELTS常考）",
+    "startTime": 39.048,
+    "reviewCount": 0,
+    "dateAdded": "2026-06-23T10:41:46.165Z"
+  },
+  {
+    "id": "custom-10_4_4_mp3-8-16-1782211373029",
+    "materialId": "custom-10_4_4_mp3",
+    "materialTitle": "10-4-4.mp3",
+    "subtitleId": 8,
+    "wordIndex": 16,
+    "wordText": "inserting",
+    "category": "pronounce",
+    "sentenceContext": "Numerous science-fiction books and movies have raised people's fears about nanotechnology - with scenarios such as inserting little nano-robots into your body that monitor everything you do without you realising it, or self-replicating nano-robots that eventually take over the world. 大量科幻小说和电影激发了人们对纳米技术的担忧，例如把微型纳米机器人植入人体，在你毫不知情的情况下监控你的一举一动；或者能够自我复制的纳米机器人最终统治世界。（self-replicating = 自我复制的）",
+    "startTime": 50.399,
+    "reviewCount": 0,
+    "dateAdded": "2026-06-23T10:42:53.029Z",
+    "translationCache": {
+      "ipa": "/ɪnˈsɜrtɪŋ/",
+      "translation": "v. 插入，植入，嵌入（insert的现在分词或动名词）",
+      "pronunciationGuide": "在美音日常快速口语中，'inserting' 的发音有以下几个重要特征：1. 重音在第二音节，其中的卷舌元音 /ɜr/ 需舌尖往后缩并微卷。2. 【闪音/t/（Flapped T）】：夹在卷舌音 /r/ 和后面的弱读元音 /ɪ/ 之间的清辅音 /t/，在美式快读中往往会发生浊化，舌尖快速弹击齿龈，听起来非常像一个轻快的 /d/（即发音接近 /ɪnˈsɜrdɪŋ/）。3. 词尾的鼻音 /ŋ/ 应轻短，避免拖腔；在非正式极快口语中，也经常会被弱化简化成 /n/（听起来像 'insertin'）。",
+      "collocations": [
+        "inserting a coin (投币)",
+        "inserting a SIM card (插入SIM卡)",
+        "inserting into the body (植入体内)"
+      ]
+    }
+  },
+  {
+    "id": "custom-15_2_2_mp3-9-3-1782305546712",
+    "materialId": "custom-15_2_2_mp3",
+    "materialTitle": "15-2-2.mp3",
+    "subtitleId": 9,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4
+    ],
+    "wordText": "waste land",
+    "category": "vocab",
+    "sentenceContext": "Minster was some waste land, Minster 最初是一块荒地。（waste land = 荒地、废弃土地）",
+    "startTime": 43.589,
+    "reviewCount": 0,
+    "dateAdded": "2026-06-24T12:52:26.712Z"
+  },
+  {
+    "id": "custom-15_2_2_mp3-13-3-1782305592336",
+    "materialId": "custom-15_2_2_mp3",
+    "materialTitle": "15-2-2.mp3",
+    "subtitleId": 13,
+    "wordIndex": 3,
+    "wordText": "took",
+    "category": "pronounce",
+    "sentenceContext": "when the council took possession of it. 当时市议会接管了这块土地。（take possession of = 取得所有权、接管）",
+    "startTime": 60.881,
+    "reviewCount": 0,
+    "dateAdded": "2026-06-24T12:53:12.336Z"
+  },
+  {
     "id": "custom-9_1_4_mp3-15-31",
     "materialId": "custom-9_1_4_mp3",
     "materialTitle": "9-1-4.mp3",
@@ -41,13 +111,16 @@
     "dateAdded": "2026-06-22T04:09:06.892Z",
     "translationCache": {
       "lemma": "lead",
-      "ipa": "/liːd/",
-      "translation": "v. 导致，引起",
-      "pronunciationGuide": "",
-      "collocations": "lead to, lead sb to do sth, lead the way",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": ""
+      "ipa": "/lid/",
+      "translation": "v. 导致，引起（常与 to 连用）；带领，引导；通往。在本句中为动词原形，与 to 连用表示“导致搁浅和死亡”。",
+      "pronunciationGuide": "在语流中，当 \"lead\" /lid/ 与后面的 \"to\" /tuː/ 连读时，/d/（浊齿龈爆破音）和 /t/（清齿龈爆破音）的发音部位相同。此时 /d/ 会发生“失去爆破”（unreleased stop），即舌尖顶住上齿龈做出 /d/ 的阻碍动作，但不爆破送气，而是直接过渡到 /t/ 的发音。此外，弱读时 \"to\" 常还原并弱读为 /tə/，因此 \"lead to\" 听起来非常接近 /liː.tə/ 或 /liːd.tə/，中间有短暂的停顿（憋气感）。",
+      "collocations": [
+        "lead to failure (导致失败)",
+        "lead a healthy lifestyle (过上健康的生活方式)",
+        "lead the discussion (主持/引导讨论)"
+      ],
+      "cefrLevel": "B1",
+      "idiomUsageNote": "“lead to” 是表达因果关系极高频且自然的万能短语，适用于从学术写作、商业报告到日常口语的所有语体。相比于语气较生硬、直接的“cause”， “lead to” 更侧重于事物发展的“导向”过程，多用于描述由于某一原因逐步引发或最终带来某种结果。"
     }
   },
   {
@@ -67,19 +140,14 @@
     "reviewCount": 3,
     "dateAdded": "2026-06-22T04:16:14.162Z",
     "translationCache": {
-      "lemma": "seem to",
-      "ipa": "",
-      "translation": "似乎，好像（系动词短语）",
-      "pronunciationGuide": "在连读中，'seems to' 常读作 /siːmz tə/，'s' 与 't' 之间失去爆破，'to' 弱化为 /tə/。",
+      "ipa": "/ˈsiːmz tə/",
+      "translation": "v. aux. 似乎，好像，看来",
+      "pronunciationGuide": "在日常连贯口语中，'seems to' 有两个关键的发音弱读与同化特征：首先，'to' 中的弱读极其普遍，其中的元音 /uː/ 会弱化为中央元音 /ə/（读作 /tə/）；其次，'seems' 结尾的字母 's' 本身发浊辅音 /z/，但当它紧跟清辅音 /t/ 时，受后字影响，/z/ 常会发生部分“清化”现象，听起来介于 /z/ 和 /s/ 之间。舌尖在完成齿龈擦音 /z/ 后，需立刻在同一位置紧贴齿龈形成阻碍，迅速爆破发出轻快的 /tə/。整体连读效果听起来紧凑，像 'seem-stuh'，千万不要把 'to' 拖长读成 'too' (/tuː/)。",
       "collocations": [
-        "seems to be",
-        "seems to have",
-        "seems to indicate",
-        "seems to depend on"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "used to say that something appears to exist or be true, especially when it is not certain"
+        "seems to be (似乎是/好像是)",
+        "seems to think (似乎认为)",
+        "seems to work (似乎管用/行得通)"
+      ]
     }
   },
   {
@@ -101,12 +169,34 @@
     "translationCache": {
       "lemma": "teething problems",
       "ipa": "/ˈtiːðɪŋ ˈprɑːbləmz/",
-      "translation": "初期困难，成长中的问题（名词短语）",
+      "translation": "初期困难，成长中的问题",
       "pronunciationGuide": "",
-      "collocations": "have teething problems, experience teething problems, overcome teething problems, initial teething problems",
+      "collocations": "have teething problems, experience teething problems, overcome teething problems",
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "新软件在发布后的头几个月遇到了一些初期困难，但开发团队很快解决了它们。",
+          "english": "The new software had some teething problems in the first few months after release, but the development team quickly solved (sorted out) them.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管新生产线有一些初期困难，但公司预计下个季度就能全面投产。",
+          "english": "Although the new production line experienced some teething problems, the company expects to be at full capacity next quarter.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "任何初创企业都必须预料到初期困难，并制定策略来有效克服它们。",
+          "english": "Any startup must anticipate teething problems and devise strategies to overcome them effectively.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "新交通系统在运营第一周就出现了初期困难，导致通勤者严重延误。",
+          "english": "The new transport system encountered teething problems in its first week of operation, causing significant delays for commuters.",
+          "difficulty": "高级"
+        }
+      ]
     }
   },
   {
@@ -152,16 +242,15 @@
     "translationCache": {
       "lemma": "phylum",
       "ipa": "/ˈfaɪləm/",
-      "translation": "n. (生物分类)门",
-      "pronunciationGuide": "",
+      "translation": "n. （生物分类学中的）门。在文中指生物分类级别，介于“界”(kingdom)与“纲”(class)之间，复数形式为phyla。",
+      "pronunciationGuide": "字母组合ph在此处发清齿龈擦音/f/；第一音节/faɪ/为重读音节，双元音滑动要充分；第二音节中的元音弱化为/ə/，读作/ləm/，结尾的闭唇鼻音/m/要清晰、完整，避免漏音。",
       "collocations": [
-        "belong to a phylum",
-        "phylum Tardigrada",
-        "different phyla"
+        "animal phylum (动物门)",
+        "belong to a phylum (属于一个门)",
+        "taxonomic phylum (分类学之门)"
       ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": ""
+      "cefrLevel": "C2",
+      "idiomUsageNote": "该词是高度专业化的生物学分类术语，属于正式书面及学术语体。除了在严谨的科学报告、科普文章中出现外，日常口语中极少使用，偶尔在文学或幽默语境中被借用，用以比喻划分某种特异的人群或事物类别。"
     }
   },
   {
@@ -194,6 +283,167 @@
       "cefrLevel": "C1",
       "idiomUsageNote": "该表达多用于学术、科技、历史及语言学语境，用来追溯特定名词、术语或概念的首次提出。语气客观且较正式，不常用于随意的日常口语沟通。",
       "englishDefinition": "To invent or be the first to use a particular name, word, or phrase."
+    }
+  },
+  {
+    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-2-0-1782901422415",
+    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
+    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
+    "subtitleId": 2,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1
+    ],
+    "wordText": "Hailed by",
+    "category": "idiom",
+    "sentenceContext": "Hailed by football enthusiasts, analysts, and even fellow professionals as the greatest footballer to ever play the sport.",
+    "startTime": 9.57,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-01T10:23:42.415Z",
+    "translationCache": {
+      "ipa": "/heɪld baɪ/",
+      "translation": "v. 被...颂扬，被...誉为",
+      "pronunciationGuide": "在快速口语中，'hailed' 结尾的浊辅音 /d/ 紧跟 'by' 的双唇音 /b/，此时 /d/ 会发生失去爆破（unreleased stop）。发音时舌尖抵住上齿龈做出 /d/ 的阻碍，但不释放气流，直接闭唇发出 /b/ 的音，听起来像是 /heɪl-(d)-baɪ/，使两个词无缝衔接。",
+      "collocations": [
+        "hailed by critics (被评论家赞誉)",
+        "hailed by the public (受到公众推崇)",
+        "hailed by many as (被许多人誉为)"
+      ],
+      "cefrLevel": "C1",
+      "idiomUsageNote": "该表达具有较强的正式和书面语色彩，常见于新闻报道、艺术评论及人物传记。它不仅表示普通的‘称赞’，更侧重于‘高度赞誉、被公认为’某种杰出代表，语境多用于社会公认的成就，常与 as 连用。"
+    }
+  },
+  {
+    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-5-6-1782919877572",
+    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
+    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
+    "subtitleId": 5,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7,
+      8
+    ],
+    "wordText": "Ballon d'Or awards",
+    "category": "vocab",
+    "sentenceContext": "He has achieved a groundbreaking six Ballon d'Or awards, six European Golden Shoes, and holds records for the most goals and assists in La Liga history.",
+    "startTime": 40.369,
+    "reviewCount": 1,
+    "dateAdded": "2026-07-01T15:31:17.572Z",
+    "translationCache": {
+      "lemma": "ballon d'or awards",
+      "ipa": "/bəˈlɔːn dɔːr əˈwɔːrdz/",
+      "translation": "金球奖（奖项）",
+      "pronunciationGuide": "",
+      "collocations": "win the Ballon d'Or award, receive a Ballon d'Or award, be nominated for the Ballon d'Or award",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "梅西创纪录地赢得了七次金球奖，巩固了他作为史上最伟大球员之一的地位。",
+          "english": "Messi has won a record seven Ballon d'Or awards, cementing his status as one of the greatest players of all time.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "尽管球队表现不佳，但这位前锋仍然有望获得金球奖。",
+          "english": "Despite the team's poor performance, the forward is still expected to win the Ballon d'Or award.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "金球奖的评选标准近年来受到了批评，许多人认为它过于偏重进攻球员。",
+          "english": "The selection criteria for the Ballon d'Or award have been criticized in recent years, with many arguing that it favors attacking players too much.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "她成为首位获得金球奖的女性球员，激励了全球数百万年轻女孩。",
+          "english": "She became the first female player to receive the Ballon d'Or award, inspiring millions of young girls around the world.",
+          "difficulty": "中级"
+        }
+      ]
+    }
+  },
+  {
+    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-7-13-1782919947613",
+    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
+    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
+    "subtitleId": 7,
+    "wordIndex": 13,
+    "wordText": "derailed",
+    "category": "idiom",
+    "sentenceContext": "Diagnosed with a medical condition at just 11 years old that could have derailed his career before it even started, Messi defied expectations and stunned the world with his extraordinary footballing talent.",
+    "startTime": 61.929,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-01T15:32:27.613Z",
+    "translationCache": {
+      "lemma": "derail",
+      "ipa": "/dɪˈreɪl/",
+      "translation": "v. 阻挠，干扰（计划、进程等）；使（火车）脱轨。在此处以过去分词形式 derailed 与 could have 连用，表示“本可能毁掉/使（职业生涯）偏离正轨”。",
+      "pronunciationGuide": "在首音节/dɪ/中，元音发音短促。重音在第二音节/reɪl/，双元音/eɪ/要发得饱满，随后舌尖过渡到齿龈，发出“深L”（dark L）音。在原句的过去式 derailed /dɪˈreɪld/ 中，词尾/d/在快速语流中（如后接辅音）常会发生失去爆破，仅保留舌位而不送气。",
+      "collocations": [
+        "derail a plan (使计划流产)",
+        "derail peace talks (破坏和平谈判)",
+        "completely derailed (彻底偏离轨道/彻底搞砸)"
+      ],
+      "cefrLevel": "C1",
+      "idiomUsageNote": "derail 原意指火车“脱轨”，在新闻和职场中高频用作比喻，指因外部突发事件而导致原本顺利进行的计划、谈判或职业生涯彻底中断或失败。该词比 ruin 或 stop 更具画面感，是描述项目、事业偏离预定轨道时非常地道的表达。"
+    }
+  },
+  {
+    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-7-21-1782919951075",
+    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
+    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
+    "subtitleId": 7,
+    "wordIndex": 21,
+    "wordText": "defied",
+    "category": "vocab",
+    "sentenceContext": "Diagnosed with a medical condition at just 11 years old that could have derailed his career before it even started, Messi defied expectations and stunned the world with his extraordinary footballing talent.",
+    "startTime": 61.929,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-01T15:32:31.075Z",
+    "translationCache": {
+      "lemma": "defy",
+      "ipa": "/dɪˈfaɪ/",
+      "translation": "v. 违抗，反抗；蔑视；使…不可能",
+      "pronunciationGuide": "",
+      "collocations": [
+        "defy expectations",
+        "defy the odds",
+        "defy authority",
+        "defy logic",
+        "defy description"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "尽管医生说他可能再也无法行走，但他凭借顽强的意志力打破了所有预期。",
+          "english": "Despite doctors saying he might never walk again, he defied all expectations through sheer willpower.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "这位年轻企业家在重重困难中逆势而上，创立了一家价值数十亿美元的公司。",
+          "english": "The young entrepreneur defied the odds and built a billion-dollar company against all challenges.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "她的最新小说难以归类，融合了多种文学体裁，挑战了传统的叙事结构。",
+          "english": "Her latest novel defies categorization, blending multiple genres and challenging traditional narrative structures.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "抗议者公然违抗禁令，在广场上集会要求改革。",
+          "english": "The protesters openly defied the ban and gathered in the square demanding reforms.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "这座建筑的设计违背了所有物理定律，看起来仿佛悬浮在空中。",
+          "english": "The building's design defies the laws of physics, appearing to float in mid-air.",
+          "difficulty": "中级"
+        }
+      ]
     }
   },
   {
@@ -244,17 +494,7 @@
     "sentenceContext": "SEGARRA: The happy hour deals were pretty key. I actually liked the pizza. Happy hour 的优惠真的很重要。而且我其实还挺喜欢那里的披萨。⭐ deal 优惠活动｜be key 非常重要",
     "startTime": 31.09,
     "reviewCount": 1,
-    "dateAdded": "2026-07-02T05:25:31.610Z",
-    "translationCache": {
-      "lemma": "key",
-      "ipa": "/kiː/",
-      "translation": "adj. 关键的，重要的",
-      "pronunciationGuide": "",
-      "collocations": "be key to, play a key role, key factor, key point",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": ""
-    }
+    "dateAdded": "2026-07-02T05:25:31.610Z"
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-5-17-1782969978727",
@@ -276,16 +516,12 @@
     "translationCache": {
       "lemma": "get",
       "ipa": "/ɡɛt/",
-      "translation": "得到，获得（及物动词）",
-      "pronunciationGuide": "注意连读：had gotten it 中，'had' 弱读为 /həd/ 或 /əd/，'gotten' 的 /t/ 与 'it' 的 /ɪ/ 连读为 /tɪt/，整体发音为 /həd ˈɡɑtən ɪt/ 或 /əd ˈɡɑtən ɪt/。",
-      "collocations": [
-        "have gotten used to",
-        "have gotten better",
-        "have gotten a chance"
-      ],
-      "cefrLevel": "A2",
+      "translation": "得到，获得（动词）",
+      "pronunciationGuide": "",
+      "collocations": "have gotten, had gotten, get it, get something done",
+      "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": "to obtain, receive, or be given something"
+      "englishDefinition": ""
     }
   },
   {
@@ -305,18 +541,36 @@
     "reviewCount": 2,
     "dateAdded": "2026-07-02T05:26:31.622Z",
     "translationCache": {
-      "lemma": "defensive maneuver",
-      "ipa": "/dɪˈfɛnsɪv məˈnuːvər/",
+      "lemma": "defensive maneuvers",
+      "ipa": "/dɪˈfɛnsɪv məˈnuːvərz/",
       "translation": "防御动作（名词短语）",
       "pronunciationGuide": "",
-      "collocations": [
-        "execute defensive maneuvers",
-        "practice defensive maneuvers",
-        "perform defensive maneuvers"
-      ],
+      "collocations": "execute defensive maneuvers, practice defensive maneuvers, perform defensive maneuvers",
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在篮球比赛中，球员必须快速做出防御动作来阻止对手得分。",
+          "english": "In basketball, players must quickly execute defensive maneuvers to prevent opponents from scoring.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "军事演习中，士兵们练习了各种防御动作以应对可能的伏击。",
+          "english": "During the military exercise, soldiers practiced various defensive maneuvers to counter potential ambushes.",
+          "difficulty": "中级"
+        },
+        {
+          "chinese": "尽管对手攻势猛烈，他仍通过巧妙的防御动作成功化解了危机。",
+          "english": "Despite the opponent's fierce attack, he successfully defused the crisis through clever defensive maneuvers.",
+          "difficulty": "高级"
+        },
+        {
+          "chinese": "在辩论中，他运用了一系列防御动作来反驳对方的论点。",
+          "english": "In the debate, he employed a series of defensive maneuvers to refute the opponent's arguments.",
+          "difficulty": "高级"
+        }
+      ]
     }
   },
   {
@@ -334,23 +588,7 @@
     "sentenceContext": "HERNANDEZ: Right. Well, we started thinking about how everything is so expensive right now, and specifically food, how food prices are just going up. 没错。我们开始思考，现在几乎所有东西都变得很贵，尤其是食品价格，一直在上涨。⭐ food prices 食品价格｜go up 上涨（口语高频）",
     "startTime": 85.64699999999999,
     "reviewCount": 0,
-    "dateAdded": "2026-07-02T15:54:20.148Z",
-    "translationCache": {
-      "lemma": "price",
-      "ipa": "/praɪs/",
-      "translation": "n. 价格；v. 定价",
-      "pronunciationGuide": "",
-      "collocations": [
-        "food prices",
-        "prices go up",
-        "prices rise",
-        "prices fall",
-        "prices are high"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": ""
-    }
+    "dateAdded": "2026-07-02T15:54:20.148Z"
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-16-1-1783007833511",
@@ -406,22 +644,7 @@
     "sentenceContext": "And those casual interactions with strangers, with acquaintances, they can actually boost our mental health a little bit. 而这些和陌生人、熟人的随意交流，其实能够在一定程度上提升我们的心理健康。⭐ casual interactions 随意交流｜acquaintance 熟人｜boost 提升",
     "startTime": 178.624,
     "reviewCount": 0,
-    "dateAdded": "2026-07-02T16:07:04.883Z",
-    "translationCache": {
-      "lemma": "boost mental health",
-      "ipa": "/buːst ˈmɛntəl hɛlθ/",
-      "translation": "提升心理健康",
-      "pronunciationGuide": "",
-      "collocations": [
-        "boost your mental health",
-        "boost mental health and well-being",
-        "boost mental health through exercise",
-        "boost mental health significantly"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": ""
-    }
+    "dateAdded": "2026-07-02T16:07:04.883Z"
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-21-11-1783046678169",
@@ -1119,35 +1342,17 @@
     "dateAdded": "2026-07-03T05:50:52.998Z",
     "translationCache": {
       "lemma": "keep ... separate from",
-      "ipa": "/kiːp ... ˈsɛpərɪt frʌm/",
+      "ipa": "/kiːp ... ˈsɛpərət frəm/",
       "translation": "把……和……分开",
       "pronunciationGuide": "",
       "collocations": [
         "keep something separate from something else",
         "keep your personal life separate from work",
-        "keep the receipts separate from the bills"
+        "keep the accounts separate from the budget"
       ],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "为了保持工作与生活的平衡，她坚持把工作邮件和私人邮件分开管理。",
-          "english": "To maintain work-life balance, she insists on keeping her work emails separate from her personal emails."
-        },
-        {
-          "chinese": "在实验过程中，我们必须将对照组和实验组的数据严格分开，以避免污染。",
-          "english": "During the experiment, we must keep the control group data strictly separate from the experimental group data to avoid contamination."
-        },
-        {
-          "chinese": "他建议将应急基金和日常开支账户分开，这样就不会轻易动用储蓄。",
-          "english": "He suggested keeping the emergency fund separate from the daily expense account so that the savings won't be easily touched."
-        },
-        {
-          "chinese": "在项目管理中，最好将客户需求和技术实现分开考虑，以免混淆优先级。",
-          "english": "In project management, it's best to keep customer requirements separate from technical implementation to avoid confusing priorities."
-        }
-      ]
+      "englishDefinition": ""
     }
   },
   {
@@ -1934,31 +2139,7 @@
     "sentenceContext": "SEGARRA: And I also think about not just what's easier to make, but what is more expensive versus less expensive, right? 我考虑的不只是哪些东西更容易做，还会考虑哪些食材更贵、哪些更便宜。⭐ versus 相比；对比（正式口语）",
     "startTime": 856.9639999999999,
     "reviewCount": 0,
-    "dateAdded": "2026-07-04T03:50:29.766Z",
-    "translationCache": {
-      "lemma": "versus",
-      "ipa": "/ˈvɜːrsəs/",
-      "translation": "prep. 与...相比；相对于",
-      "pronunciationGuide": "",
-      "collocations": "versus less expensive, versus less time, versus less effort",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在选择手机时，我总是在比较更贵的型号和更便宜的型号。",
-          "english": "When choosing a phone, I always compare the more expensive model versus the less expensive one."
-        },
-        {
-          "chinese": "我们需要权衡更快的解决方案和更便宜的方案。",
-          "english": "We need to weigh the faster solution versus the less costly one."
-        },
-        {
-          "chinese": "在预算有限的情况下，我们不得不考虑更耐用的材料与更便宜的材料。",
-          "english": "With a limited budget, we have to consider more durable materials versus less expensive ones."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-04T03:50:29.766Z"
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-112-12-1783137115032",
@@ -2125,42 +2306,8 @@
     "customLemma": "order off ... menu",
     "sentenceContext": "A few other things - order off the kids' menu if the restaurant lets you. 还有一个办法，如果餐厅允许的话，可以直接点儿童菜单。⭐ kids' menu 儿童菜单｜if… lets you 如果允许的话",
     "startTime": 964.438,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-04T03:57:13.718Z",
-    "translationCache": {
-      "lemma": "order off ... menu",
-      "ipa": "/ˈɔːrdər ɒf ... ˈmenjuː/",
-      "translation": "从...菜单上点餐",
-      "pronunciationGuide": "",
-      "collocations": [
-        "order off the menu",
-        "order off the kids' menu",
-        "order off the specials menu",
-        "order off the à la carte menu"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "为了省钱，我决定从午餐特价菜单上点餐。",
-          "english": "To save money, I decided to order off the lunch specials menu."
-        },
-        {
-          "chinese": "虽然我是个成年人，但我有时会从儿童菜单上点餐，因为份量更小。",
-          "english": "Although I'm an adult, I sometimes order off the kids' menu because the portions are smaller."
-        },
-        {
-          "chinese": "这家餐厅允许顾客从早餐菜单上点餐，即使是在晚餐时间。",
-          "english": "This restaurant allows customers to order off the breakfast menu even during dinner hours."
-        },
-        {
-          "chinese": "如果你不想吃太多，可以从开胃菜菜单上点几道菜。",
-          "english": "If you don't want to eat too much, you can order off the appetizer menu a few dishes."
-        }
-      ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“order from the kids' menu”，但 native speaker 更爱用 **off**，因为 **off** 暗示“从菜单上摘下来”，有种随手一拿的随意感。就像我们说“从树上摘苹果”用 **off the tree**，而不是 **from the tree**。**Off** 更生动、更口语化，仿佛你在跟服务员说：“嘿，给我从那个小菜单上顺一个！”  \n\n**2. 学术深度分析与语用场景**  \n**Order off** 是典型的介词短语动词，语用上带有 **戏谑和自嘲** 色彩。成年人点儿童菜单，本身就有点“厚脸皮”，用 **off** 更显轻松幽默，好像在说“我偷偷摸摸从儿童区捞点好处”。感情色彩：**褒义/戏谑**，适合朋友聚餐、省钱攻略等非正式场合。  \n\n**3. 中文社媒/网络流行语对应**  \n对应中文网络梗：**“薅儿童餐羊毛”** 或 **“偷偷点个儿童套餐，假装自己三岁”**。就像表情包里那个大人戴儿童帽的图，配文：“只要我不尴尬，尴尬的就是别人。”  \n\n**4. 趣味记忆/联想**  \n想象你是个大胃王，但想省钱，于是对服务员说：“**Order me off the kids' menu!**” 就像在说：“把我从成人菜单上‘卸’下来，扔到儿童区！” 谐音梗：**Off** 听起来像“傲夫”，傲娇的丈夫点儿童餐，画面感拉满！"
+    "reviewCount": 0,
+    "dateAdded": "2026-07-04T03:57:13.718Z"
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-128-10-1783137444328",
@@ -2494,40 +2641,7 @@
     "sentenceVocab": "⭐ score a point —— 得一分｜be at least two points ahead —— 至少领先两分",
     "startTime": 15.771,
     "reviewCount": 1,
-    "dateAdded": "2026-07-07T03:46:43.433Z",
-    "translationCache": {
-      "lemma": "must score",
-      "ipa": "/mʌst skɔːr/",
-      "translation": "必须得分（情态动词+动词）",
-      "pronunciationGuide": "",
-      "collocations": [
-        "must score a goal",
-        "must score points",
-        "must score high",
-        "must score well"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "为了晋级决赛，我们队今晚必须至少得30分。",
-          "english": "To advance to the finals, our team must score at least 30 points tonight."
-        },
-        {
-          "chinese": "在这项测试中，你必须得80分以上才能获得证书。",
-          "english": "In this test, you must score above 80 to receive the certificate."
-        },
-        {
-          "chinese": "他意识到自己必须在最后一场比赛中得高分才能打破纪录。",
-          "english": "He realized he must score high in the final game to break the record."
-        },
-        {
-          "chinese": "根据规则，选手必须连续得两分才能赢得这一局。",
-          "english": "According to the rules, a player must score two consecutive points to win the set."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-07T03:46:43.433Z"
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-4-16-1783396038058",
@@ -2546,7 +2660,7 @@
     "sentenceTranslation": "例如，如果比分是20比20，比赛将继续进行，直到某位选手或某组搭档领先2分。",
     "sentenceVocab": "⭐ carry on —— 继续进行｜have a two-point lead —— 领先两分",
     "startTime": 20.164,
-    "reviewCount": 2,
+    "reviewCount": 1,
     "dateAdded": "2026-07-07T03:47:18.058Z",
     "translationCache": {
       "lemma": "have",
@@ -2776,7 +2890,7 @@
     "sentenceTranslation": "羽毛球必须越过球网，并落在规定的发球区域内，发球才算合法。",
     "sentenceVocab": "⭐ travel over the net —— 飞越球网｜be defined for… —— 被规定用于……｜legal serve —— 合法发球",
     "startTime": 56.652,
-    "reviewCount": 3,
+    "reviewCount": 2,
     "dateAdded": "2026-07-07T03:50:26.274Z",
     "translationCache": {
       "lemma": "The ...(n.) must ...(v.) to be ...(adj.)",
@@ -2814,13 +2928,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "customTranslation": "某人/物必须……以便成为……",
-    "customTopicIds": [
-      "topic-1784193883432"
-    ],
-    "patternCategoryManuallyEdited": false,
-    "patternCategory": "*表达义务&必要性"
+    }
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-13-11-1783396266860",
@@ -3358,7 +3466,7 @@
     "sentenceTranslation": "中国媒体上周报道称，江苏省一家法院裁定，这家总部位于深圳的茶饮公司复制了路易威登标志性的四瓣花图案。",
     "sentenceVocab": "⭐ be based in… —— 总部位于……｜iconic design —— 标志性设计｜copy a design —— 抄袭设计",
     "startTime": 28.162,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-07-07T06:25:39.838Z",
     "translationCache": {
       "lemma": "copy iconic ... design",
@@ -3373,8 +3481,7 @@
       "cefrLevel": "",
       "idiomUsageNote": "",
       "englishDefinition": ""
-    },
-    "teacherExplanation": "### 1. 中式英语 vs 地道表达\n你可能会说“copy the design of LV”，但老外会说 **“copy iconic ... design”**。区别在哪？**“iconic”** 不是普通的“经典”，而是“标志性到一眼就能认出是LV的”。就像你说“山寨了LV的经典四叶草”，但 **“iconic”** 自带一种“这设计牛到被全世界抄袭”的戏谑感。\n\n### 2. 学术深度分析与语用场景\n**语用学特征**：这个词组常用于**法律、商业报道**或**吐槽山寨**。感情色彩**中性偏贬**，但带点幽默——比如你朋友买了个假包，你可以说：“Wow, you really *copied the iconic design* of that brand.” 既专业又损人。\n\n### 3. 中文社媒/网络流行语对应\n对应中文网络梗：**“像素级复刻”** 或 **“1:1还原”**。比如：“这茶饮店把LV的经典四叶草设计‘像素级复刻’了。” 一秒get到那种“抄得一模一样”的微妙感。\n\n### 4. 趣味记忆/联想\n**谐音梗**：**“copy iconic”** 听起来像 **“拷皮·爱康你”** —— 想象你拷了一个LV的皮包，然后对朋友说：“爱康你（iconic），这设计我抄定了！” 脑洞大开，过目不忘。"
+    }
   },
   {
     "id": "github-cloud-BBC_News___Backlash_after_China_bubble_tea_firm_ordered_to_pay_Louis_Vuitton__1_5m_mp3-3-24-1783405546500",
@@ -3686,8 +3793,7 @@
       "cefrLevel": "",
       "idiomUsageNote": "",
       "englishDefinition": ""
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是“agree with the court's decision”，但“support the verdict”更正式、更法律范儿。Verdict是陪审团或法官的正式裁决，而decision太普通，像在说“我支持食堂今天做宫保鸡丁”。Native speaker在讨论法律案件时，会用verdict来显得专业又严谨。\n\n**2. 学术深度分析与语用场景**  \n“Support the court's verdict”语用上偏中性或褒义，表示对司法结果的认可。常用于社交媒体评论、新闻报道或法律讨论中，比如“But some online supported the court's verdict”就带点“虽然争议大，但有人站法院”的微妙感。感情色彩不戏谑，但如果你用“totally stan the verdict”，那就变饭圈了。\n\n**3. 趣味记忆/联想**  \n谐音梗：verdict = “我滴个天”，想象你听到判决后惊呼“我滴个天，我支持！” 或者联想“very dict”，很权威的dict（话），所以是判决。记住：支持判决，别只说agree，要说support the verdict，瞬间从吃瓜群众变法律达人。"
+    }
   },
   {
     "id": "github-cloud-BBC_News___Backlash_after_China_bubble_tea_firm_ordered_to_pay_Louis_Vuitton__1_5m_mp3-1-6-1783410229232",
@@ -3805,9 +3911,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "patternCategory": "条件或假设",
-    "patternCategoryManuallyEdited": false
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-5-2-1783491915953",
@@ -3822,7 +3926,7 @@
     "sentenceTranslation": "这把椅子有点歪歪扭扭的。",
     "sentenceVocab": "⭐ wonky 歪的；不稳的；有点坏掉的",
     "startTime": 18.486,
-    "reviewCount": 3,
+    "reviewCount": 2,
     "dateAdded": "2026-07-08T06:25:15.953Z",
     "translationCache": {
       "lemma": "wonky",
@@ -3834,9 +3938,7 @@
       "idiomUsageNote": "",
       "englishDefinition": "",
       "patternPractice": []
-    },
-    "customTranslation": "adj. 摇晃的，不稳的",
-    "customTopicId": "topic-1784196043599"
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-8-4-1783492020367",
@@ -3899,12 +4001,7 @@
       "idiomUsageNote": "",
       "englishDefinition": "",
       "patternPractice": []
-    },
-    "customTranslation": "adj. 湿软的，黏糊糊的",
-    "customTopicIds": [
-      "topic-daily",
-      "topic-1784194018432"
-    ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-13-5-1783492044650",
@@ -3935,12 +4032,7 @@
       "idiomUsageNote": "",
       "englishDefinition": "",
       "patternPractice": []
-    },
-    "customTranslation": "常去的地方，经常出没的场所（名词短语）",
-    "customTopicIds": [
-      "topic-daily",
-      "topic-1784196979926"
-    ]
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-26-23-1783492137103",
@@ -4020,9 +4112,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "patternCategory": "*顿悟",
-    "patternCategoryManuallyEdited": false
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-33-3-1783492258948",
@@ -4049,7 +4139,7 @@
     "sentenceTranslation": "在电视上，尤其是在英国，族群代表性一直是一个很大的问题。",
     "sentenceVocab": "⭐ have an issue with… 在……方面存在问题｜representation 代表性；多元呈现",
     "startTime": 131.773,
-    "reviewCount": 2,
+    "reviewCount": 1,
     "dateAdded": "2026-07-08T06:30:58.948Z",
     "translationCache": {
       "lemma": "in the ...(n. 国家或地区) we have such an issue with representation",
@@ -4087,9 +4177,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "patternCategory": "*主观的观点与判断",
-    "patternCategoryManuallyEdited": false
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-35-7-1783492292708",
@@ -4188,9 +4276,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "patternCategory": "*主观的观点与判断",
-    "patternCategoryManuallyEdited": false
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-36-21-1783499676548",
@@ -4232,10 +4318,7 @@
     "sentenceVocab": "⭐ be connected with 与……有合作/联系｜choir 合唱团｜niche 小众的；特定群体的",
     "startTime": 177.612,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:35:29.473Z",
-    "customTopicIds": [
-      "topic-daily"
-    ]
+    "dateAdded": "2026-07-08T08:35:29.473Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-39-20-1783499755326",
@@ -4332,44 +4415,7 @@
     "sentenceVocab": "⭐ Beijing opera 京剧｜intense 张力十足的；感染力很强的",
     "startTime": 193.336,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:36:32.978Z",
-    "translationCache": {
-      "lemma": "intense",
-      "ipa": "/ɪnˈtɛns/",
-      "translation": "adj. 强烈的，剧烈的；紧张的，激烈的",
-      "pronunciationGuide": "",
-      "collocations": "intense pressure, intense competition, intense emotion, intense focus, intense heat",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "这部电影的情感冲击力如此强烈，以至于观众在片尾字幕滚动时仍久久无法平静。",
-          "english": "The emotional impact of the film was so intense that the audience remained unsettled long after the credits rolled.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "在激烈的谈判中，双方都坚持自己的立场，毫不让步。",
-          "english": "During the intense negotiations, both sides stuck to their positions and refused to compromise (give in).",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "她专注于解决这个复杂问题，以至于没有注意到周围发生的一切。",
-          "english": "Her focus on solving (sorting out) the complex problem was so intense that she didn't notice what was happening around her.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "在炎热的沙漠中，太阳的炙烤让人难以忍受，他们不得不寻找阴凉处休息。",
-          "english": "In the scorching desert, the intense heat of the sun was unbearable, forcing them to seek (look for) shade to rest.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "这两位顶尖选手之间的竞争异常激烈，每一分都至关重要。",
-          "english": "The competition between these two top athletes was incredibly intense, with every point being crucial.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T08:36:32.978Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-42-11-1783500054836",
@@ -4389,34 +4435,7 @@
     "sentenceVocab": "⭐ organized carnage 有序的混乱；极其热闹、眼花缭乱",
     "startTime": 198.8,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:40:54.836Z",
-    "translationCache": {
-      "lemma": "organized carnage",
-      "ipa": "/ˈɔːrɡənaɪzd ˈkɑːrnɪdʒ/",
-      "translation": "有组织的屠杀（名词短语）",
-      "pronunciationGuide": "",
-      "collocations": "absolute organized carnage, scene of organized carnage, witness organized carnage",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "黑色星期五的促销活动简直就是一场有组织的屠杀，顾客们为了抢购商品互相推搡。",
-          "english": "The Black Friday sale was absolute organized carnage, with customers pushing and shoving each other to grab items.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "那个音乐节的后台混乱不堪，但工作人员说那只是有组织的屠杀，一切都在掌控之中。",
-          "english": "The backstage of the music festival was chaotic, but the staff said it was just organized carnage and everything was under control.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "在限时抢购活动中，人们疯狂抢购，场面如同有组织的屠杀。",
-          "english": "During the flash sale, people went on a shopping frenzy, creating a scene of organized carnage.",
-          "difficulty": "中级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T08:40:54.836Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-44-11-1783500119013",
@@ -4494,45 +4513,8 @@
     "sentenceTranslation": "到时候你就会发现，所有的努力都是值得的。\"",
     "sentenceVocab": "⭐ pay off 得到回报；获得成果",
     "startTime": 245.794,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T08:43:02.103Z",
-    "translationCache": {
-      "lemma": "pay off",
-      "ipa": "/ˌpeɪ ˈɔːf/",
-      "translation": "（付清工资后）解雇；还清（债务）；得到好结果，取得成功",
-      "pronunciationGuide": "",
-      "collocations": "pay off debts, pay off a loan, hard work pays off, risk pays off",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "经过几个月的刻苦训练，他的努力终于得到了回报，他在比赛中赢得了金牌。",
-          "english": "After months of rigorous training, his hard work finally paid off, and he won the gold medal in the competition.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "公司决定投资新技术，希望这笔投资能在未来五年内得到回报。",
-          "english": "The company decided to invest in new technology, hoping that the investment would pay off within the next five years.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "她坚持每天学习英语，最终她的努力得到了回报，她获得了理想的海外工作机会。",
-          "english": "She persisted in studying English every day, and eventually her efforts paid off when she got the ideal overseas job opportunity.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "尽管面临诸多挑战，但团队的不懈努力最终得到了回报，项目提前完成并获得了客户的高度赞扬。",
-          "english": "Despite numerous challenges, the team's relentless efforts ultimately paid off, as the project was completed ahead of schedule and received high praise from the client.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "他冒险投资了一家初创公司，虽然起初风险很大，但最终这笔投资得到了丰厚的回报。",
-          "english": "He took a risk by investing in a startup, and although it was initially very risky, the investment eventually paid off handsomely.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T08:43:02.103Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-47-6-1783500188517",
@@ -4611,7 +4593,7 @@
     "sentenceTranslation": "在那方面，我真的很幸运。",
     "sentenceVocab": "⭐ be blessed in that respect 在这方面很幸运",
     "startTime": 261.099,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-07-08T08:48:46.424Z",
     "translationCache": {
       "lemma": "be blessed in that respect",
@@ -4653,8 +4635,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "teacherExplanation": "**1. 【中式英语 vs 地道表达】** 中国学生可能会说“I was lucky in that aspect”，但 native speaker 更爱用“blessed”——这个词自带一种“老天爷赏饭吃”的宿命感，比 lucky 更谦卑、更感恩。想象一下，你说“I was lucky”像是在炫耀运气，而“I was blessed”则像在感谢上帝（或宇宙）的恩赐，瞬间拉满谦逊光环。\n\n**2. 【学术深度分析与语用场景】** “Be blessed in that respect”常用于谈论某个特定方面的优势，语气偏褒义，但带点自嘲或幽默。比如你朋友抱怨自己发际线高，你说“I was blessed in that respect”并摸摸自己浓密的头发——既显摆又不会太欠揍。感情色彩：正面，但用对场合能制造反差萌。\n\n**3. 【中文社媒/网络流行语对应】** 对应中文网络梗：“在这一点上，我是被老天追着喂饭的”。或者更接地气：“这方面，我简直是欧皇附体”。想象一下表情包：一个熊猫头双手合十，配文“感恩，这方面我确实被眷顾了”。\n\n**4. 【趣味记忆/联想】** 谐音梗：“blessed”听起来像“不累死的”——因为被眷顾，所以不累死。或者联想：你考试蒙对选择题，心里默念“I am blessed in that respect”，然后嘴角上扬，仿佛开了外挂。"
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-55-24-1783500584805",
@@ -4795,39 +4776,7 @@
     "sentenceVocab": "⭐ ensemble cast 群像演员阵容",
     "startTime": 299.524,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:50:31.577Z",
-    "translationCache": {
-      "lemma": "ensemble cast",
-      "ipa": "/ɑnˈsɑmbəl kæst/",
-      "translation": "n. 群戏阵容，全体演员",
-      "pronunciationGuide": "",
-      "collocations": "an ensemble cast of; feature an ensemble cast; work with an ensemble cast",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "这部电影之所以成功，很大程度上归功于其出色的群戏阵容。",
-          "english": "The success of this film is largely due to its excellent ensemble cast.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "导演决定采用群戏阵容，以便更好地展现角色之间的互动。",
-          "english": "The director decided to use an ensemble cast to better showcase the interactions between characters.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "与一群同龄演员合作群戏，让每个人都能在表演中相互激发。",
-          "english": "Working with an ensemble cast of actors the same age allows everyone to inspire each other in their performances.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "虽然这是一部群戏，但每个角色都有鲜明的个性，令人印象深刻。",
-          "english": "Although it is an ensemble cast, each character has a distinct personality that leaves a lasting impression.",
-          "difficulty": "中级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T08:50:31.577Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-60-2-1783500662664",
@@ -4849,48 +4798,7 @@
     "sentenceVocab": "⭐ turn up a notch 提升一个等级；更进一步｜accelerator pedal 油门（比喻人生加速）",
     "startTime": 316.683,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T08:51:02.664Z",
-    "translationCache": {
-      "lemma": "turn up a notch",
-      "ipa": "/tɜːrn ʌp ə nɑːtʃ/",
-      "translation": "提高一个档次；加大力度",
-      "pronunciationGuide": "",
-      "collocations": [
-        "turn up a notch (the volume)",
-        "turn up a notch (the intensity)",
-        "turn up a notch (the effort)"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "为了赢得比赛，他们决定把训练强度提高一个档次。",
-          "english": "To win the competition, they decided to turn up the intensity of their training a notch.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "当主唱加入时，整个演唱会的氛围瞬间提升了一个档次。",
-          "english": "When the lead singer joined, the atmosphere of the concert turned up a notch instantly.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "如果你想让这道菜更美味，不妨把辣度提高一个档次。",
-          "english": "If you want to make this dish more delicious, you might turn up the spiciness a notch.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "随着竞争的加剧，公司不得不把营销策略的力度加大一个档次。",
-          "english": "As competition intensified, the company had to turn up their marketing strategy a notch.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "在最后冲刺阶段，运动员们把速度提高了一个档次，最终打破了纪录。",
-          "english": "During the final sprint, the athletes turned up their speed a notch and eventually broke the record.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T08:51:02.664Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-61-6-1783500753543",
@@ -4974,8 +4882,7 @@
     "sentenceVocab": "⭐ afterparty｜be nuts 疯狂得不得了",
     "startTime": 372.417,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:11:48.753Z",
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是 *'they are crazy'*，但 **'nuts'** 更口语、更带劲！Native speaker 在描述**疯狂、离谱、超出预期**的场景时（比如时尚秀后的派对），会优先用 *nuts*，因为它自带一种**夸张、幽默、甚至有点无奈**的语气，比 *crazy* 更生动。  \n\n**2. 褒贬含义 & 语体**  \n**中性偏贬**（取决于语境），但这里明显是**褒义**（哇塞，太疯了！）。**非正式口语**，千万别用在论文里，否则教授会 *go nuts*（气疯）。  \n\n**3. 诙谐记忆**  \n想象一颗**核桃**（nut）在派对上**蹦迪**，边跳边喊：“我疯了！”——**'nuts'** 就是那颗**疯核桃**，又硬又疯，敲不开！"
+    "dateAdded": "2026-07-08T09:11:48.753Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-73-4-1783501944536",
@@ -4996,7 +4903,7 @@
     "sentenceTranslation": "去北京郊区看我的外婆\"姥姥\"，然后陪她住一段时间。",
     "sentenceVocab": "⭐ the outskirts of… ……郊区",
     "startTime": 385.17,
-    "reviewCount": 2,
+    "reviewCount": 0,
     "dateAdded": "2026-07-08T09:12:24.536Z",
     "translationCache": {
       "lemma": "in the outskirts of",
@@ -5034,8 +4941,7 @@
           "difficulty": "中级"
         }
       ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“on the edge of Beijing”或“in the suburb of Beijing”，但native speaker更爱用**in the outskirts**，因为它自带一种“城乡结合部”的荒凉感——不是整齐的suburb，而是有点乱、有点野、可能还有菜地的边缘地带。比如你姥姥住那儿，画面感立刻拉满：土路、平房、鸡叫。  \n\n**2. 学术深度分析**  \n*Outskirts* 源自 *out-*（外）+ *skirt*（裙子边缘），字面“裙摆外沿”，引申为“城市裙边”。语用上略带**疏离感**或**怀旧色彩**，常用于描述非中心、欠发达但有人情味的区域。感情色彩中性偏暖，适合讲故事时营造“远离喧嚣”的氛围。  \n\n**3. 趣味记忆**  \n想象城市是一条裙子，*outskirts*就是裙摆的蕾丝边——好看但容易沾泥。你姥姥住那儿，就像裙摆上的一颗纽扣，虽然偏，但不可或缺。谐音梗：outskirts = “奥特skirts”，奥特曼打小怪兽的郊区，够野！"
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-75-8-1783501985910",
@@ -5050,7 +4956,7 @@
     "sentenceTranslation": "如果是从北京带到伦敦，我最想把那些卖热花生、小吃和中式煎饼的小摊一起搬过去。",
     "sentenceVocab": "⭐ food stall｜traditional Chinese pancakes",
     "startTime": 393.589,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-07-08T09:13:05.910Z",
     "translationCache": {
       "lemma": "stall",
@@ -5083,8 +4989,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "teacherExplanation": "**1. 【中式英语 vs 地道表达】** 你第一反应可能是“摊位”的普通词 `stand`，但 `stall` 更地道！`Stall` 强调那种**临时、可移动、带点市井烟火气**的小摊，比如街边卖烤红薯的推车。而 `stand` 更偏固定、正式（如展会展台）。Native speaker 说 `stall` 时，脑子里自带“老板吆喝、热气腾腾”的画面。\n\n**2. 【学术深度分析与语用场景】** `Stall` 在这里是**名词**，但它的动词用法更骚——`stall` 作动词指“拖延、熄火”，比如车 `stall` 了（抛锚）。所以你说 `stall` 时，有种“小摊随时可能被城管赶走”的**戏谑感**，感情色彩**中性偏褒**，带点生活气息。\n\n**3. 【趣味记忆/联想】** 谐音梗：`stall` = “死到哦”→ 小摊老板死守摊位到最后一刻！或者联想 `stall` 和 `still` 发音像：小摊**仍然**（still）在那，但随时可能**停滞**（stall）。\n\n**总结**：用 `stall` 瞬间拉满街头感，比 `stand` 更鲜活！"
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-77-17-1783502001837",
@@ -5105,7 +5010,7 @@
     "sentenceTranslation": "我记得每次早上到北京，我外婆都会用刚从市场买回来的新鲜食材给我们准备早餐。",
     "sentenceVocab": "⭐ fresh from the market 刚从市场买来的",
     "startTime": 404.991,
-    "reviewCount": 2,
+    "reviewCount": 1,
     "dateAdded": "2026-07-08T09:13:21.837Z",
     "translationCache": {
       "lemma": "fresh from the market",
@@ -5143,8 +5048,7 @@
           "difficulty": "中级"
         }
       ]
-    },
-    "teacherExplanation": "**中式英语 vs 地道表达**：你可能会说“just bought from the market”，但native speaker用**fresh from the market**，强调的不是购买动作，而是食材的**鲜活感**——仿佛还带着露水和泥土香。就像说“刚出炉的面包”比“刚买的面包”更有画面感。\n\n**学术深度分析**：这个短语是**隐喻性转喻**，用“市场”代指“新鲜状态”，语用上自带**褒义**和**怀旧滤镜**。常用于描述记忆中的美好场景，比如祖母的菜，瞬间拉满温馨氛围。\n\n**趣味记忆**：想象一颗番茄从市场**蹦**到你碗里，大喊：“我！还！活！着！”——这就是fresh from the market的灵魂。"
+    }
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-78-3-1783502008804",
@@ -5307,11 +5211,7 @@
     "sentenceVocab": "⭐ improvise 即兴发挥｜pass down 代代相传",
     "startTime": 426.006,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:14:01.447Z",
-    "customTopicIds": [
-      "topic-daily",
-      "topic-1784194018432"
-    ]
+    "dateAdded": "2026-07-08T09:14:01.447Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-83-1-1783502048222",
@@ -5388,41 +5288,8 @@
     "sentenceTranslation": "我真是给我妈妈丢脸了。",
     "sentenceVocab": "⭐ be a shame to somebody 让某人觉得丢脸",
     "startTime": 437.783,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T09:14:22.114Z",
-    "translationCache": {
-      "lemma": "be a shame to someone",
-      "ipa": "/biː ə ʃeɪm tə ˈsʌmwʌn/",
-      "translation": "让某人蒙羞，使某人丢脸",
-      "pronunciationGuide": "",
-      "collocations": "be a shame to one's family, be a shame to one's parents, feel like a shame to someone",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "他考试作弊被抓，让全家蒙羞。",
-          "english": "He was caught cheating on the exam, which made him a shame to his whole family.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "她觉得自己糟糕的英语水平让父母丢脸。",
-          "english": "She felt that her poor English skills were a shame to her parents.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "那个腐败的官员让整个国家蒙羞。",
-          "english": "That corrupt official was a shame to the entire nation.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "他因犯罪行为让家族蒙羞，至今无法抬头。",
-          "english": "His criminal behavior made him a shame to his family, and he still can't hold his head up.",
-          "difficulty": "高级"
-        }
-      ]
-    },
-    "teacherExplanation": "**中式英语 vs 地道表达**：你第一反应可能是“I'm a shame to my mum”，但native speaker会说“I'm a **disgrace** to my mum”或“I bring shame to my mum”。因为“be a shame”通常指“可惜的事”（如“It's a shame you can't come”），而“be a shame to someone”是中式直译，地道说法用“disgrace”或“bring shame upon”。\n\n**褒贬含义 & 语体**：强烈贬义，口语/非正式，常用于自责或自嘲。\n\n**诙谐记忆**：想象你妈说“You're a shame to me!” 你回“No, Mum, I'm a *shame* to you? That's a shame.” 然后你妈追着你打——记住，**shame**是“可惜”，**disgrace**才是“丢脸”。别让你妈追你！"
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:14:22.114Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-86-5-1783502088178",
@@ -5442,45 +5309,8 @@
     "sentenceTranslation": "后来乐队慢慢有了起色，我们开始演出，还发行了一张成绩很不错的EP。",
     "sentenceVocab": "⭐ start to build 开始发展起来｜release an EP｜do well 取得不错的成绩",
     "startTime": 453.997,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T09:14:48.178Z",
-    "translationCache": {
-      "lemma": "start to build",
-      "ipa": "/stɑːrt tə bɪld/",
-      "translation": "开始建立；开始形成",
-      "pronunciationGuide": "",
-      "collocations": "start to build momentum, start to build a relationship, start to build confidence",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "随着项目推进，团队成员之间的信任开始逐渐建立起来。",
-          "english": "As the project progressed, trust among team members started to build (grow).",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "在演讲的结尾，他的情绪开始高涨，观众也被深深打动。",
-          "english": "Towards the end of his speech, his emotion started to build (intensify), and the audience was deeply moved.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "这家初创公司通过社交媒体营销开始积累大量忠实客户。",
-          "english": "The startup started to build (cultivate) a large base of loyal customers through social media marketing.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "经过几个月的努力，她的自信心开始逐渐增强，最终在比赛中表现出色。",
-          "english": "After months of effort, her confidence started to build (grow), and she eventually performed excellently in the competition.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "随着经济复苏，消费者信心开始恢复，零售业也迎来了转机。",
-          "english": "As the economy recovered, consumer confidence started to build (rebound), and the retail industry saw a turnaround.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:14:48.178Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-87-5-1783502107236",
@@ -5502,46 +5332,8 @@
     "sentenceTranslation": "后来我们就一下子投入到发歌、录音、跑演出这样忙碌又混乱的生活中，不过真的特别开心。",
     "sentenceVocab": "⭐ be thrown into 被一下子投入到……｜be in the studio 在录音棚录音｜gig 现场演出｜chaos 忙乱；混乱状态",
     "startTime": 458.765,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T09:15:07.236Z",
-    "translationCache": {
-      "lemma": "be thrown into ... chaos of",
-      "ipa": "/bi θroʊn ˈɪntu ... ˈkeɪɑs əv/",
-      "translation": "被抛入……的混乱之中",
-      "pronunciationGuide": "注意'be'弱读为/bɪ/；'thrown'中/θ/需咬舌；'into'中/t/在快速语流中可能变为弹舌音；'chaos'读作/ˈkeɪɑs/，重音在第一音节；'of'弱读为/əv/。",
-      "collocations": [
-        "be thrown into chaos",
-        "be thrown into a state of chaos",
-        "be thrown into the chaos of war",
-        "be thrown into the chaos of daily life"
-      ],
-      "cefrLevel": "B2",
-      "idiomUsageNote": "",
-      "englishDefinition": "to be suddenly forced into a situation that is completely disorganized or confused.",
-      "patternPractice": [
-        {
-          "chinese": "当公司突然宣布破产时，所有员工都被抛入了失业的混乱之中。",
-          "english": "When the company suddenly declared bankruptcy, all employees were thrown into the chaos of unemployment.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "地震后，整个城市被抛入了救援和重建的混乱之中。",
-          "english": "After the earthquake, the entire city was thrown into the chaos of rescue and reconstruction.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "新政策实施后，学校被抛入了课程调整和师资分配的混乱之中。",
-          "english": "After the new policy was implemented, the school was thrown into the chaos of curriculum adjustment and teacher allocation.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "他辞职后，团队被抛入了项目管理和任务分配的混乱之中。",
-          "english": "After he resigned, the team was thrown into the chaos of project management and task assignment.",
-          "difficulty": "中级"
-        }
-      ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“I was suddenly very busy with...”，但native speaker用 **be thrown into chaos** 就像被扔进搅拌机——被动、突然、失控感拉满。普通词像白开水，这个表达像冰镇可乐加跳跳糖。\n\n**2. 学术深度分析**  \n**thrown into** 暗示外力强加（如命运、老板），**chaos** 不是普通忙乱，而是“有序宇宙崩塌成混沌”。感情色彩：**戏谑+无奈**，像在说“生活把我丢进滚筒洗衣机，但我还挺享受”。适合吐槽工作、学业、乐队巡演等“甜蜜的负担”。\n\n**3. 趣味记忆**  \n想象你正优雅喝咖啡，突然被一只巨手扔进 **Chaos 大澡堂**，里面全是尖叫的乐谱、吉他线和演出海报。你扑腾着喊：“这澡洗得真带劲！” —— **be thrown into chaos** = 被扔进混乱澡堂，还觉得爽。"
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:15:07.236Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-87-21-1783502127238",
@@ -5608,9 +5400,7 @@
     "sentenceVocab": "⭐ It's a privilege to…：能够……是一种荣幸/幸运（B2）｜for a living：以此谋生",
     "startTime": 528.514,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:16:55.008Z",
-    "patternCategory": "*评价（包括赞美、批评等）",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-08T09:16:55.008Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-98-0-1783502224776",
@@ -5666,37 +5456,8 @@
     "sentenceTranslation": "她很沉着、很冷静，我们俩就像阴和阳一样互补。",
     "sentenceVocab": "⭐ collected：沉着冷静的（C1）｜yin and yang：阴阳，比喻性格互补",
     "startTime": 543.812,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T09:17:35.522Z",
-    "translationCache": {
-      "lemma": "collected ... calm",
-      "ipa": "/kəˈlɛktɪd ... kɑm/",
-      "translation": "adj. 冷静的；镇定的；adj. 平静的；镇静的",
-      "pronunciationGuide": "",
-      "collocations": "remain collected and calm; stay collected and calm; appear collected and calm",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "尽管面临巨大压力，她依然保持冷静沉着，这让整个团队都感到安心。",
-          "english": "Despite immense pressure, she remained collected and calm, which reassured the entire team."
-        },
-        {
-          "chinese": "在紧急情况下，医生必须保持冷静沉着，才能做出正确的决定。",
-          "english": "In an emergency, a doctor must stay collected and calm to make the right decisions."
-        },
-        {
-          "chinese": "他那种冷静沉着的态度在激烈的辩论中显得尤为突出。",
-          "english": "His collected and calm demeanor stood out during the heated debate."
-        },
-        {
-          "chinese": "面试时，她表现得冷静沉着，给面试官留下了深刻印象。",
-          "english": "During the interview, she appeared collected and calm, impressing the interviewers."
-        }
-      ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“She is calm and composed”，但native speaker用“collected... calm”时，**collected**暗示情绪被“收集”起来，像把散落的拼图归位，比“composed”更动态、更酷。  \n\n**2. 学术深度分析**  \n“Collected”源自拉丁语*colligere*（收集），语用上强调**主动控制**，而非被动平静。感情色彩**褒义**，常用于描述压力下的优雅，比如谈判专家或禅修大师。  \n\n**3. 趣味记忆**  \n想象你是一台**扫地机器人**：把烦躁的碎片“收集”进垃圾箱，然后“calm”地充电——**collected + calm = 阴阳平衡**，像太极推手，稳如老狗。"
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:17:35.522Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-100-10-1783502266790",
@@ -5774,40 +5535,8 @@
     "sentenceTranslation": "写歌的时候，一个想法往往是从零开始产生的。",
     "sentenceVocab": "⭐ from scratch：从零开始（B2）",
     "startTime": 552.747,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T09:18:07.522Z",
-    "translationCache": {
-      "lemma": "come from scratch",
-      "ipa": "/kʌm frəm skrætʃ/",
-      "translation": "从零开始，白手起家",
-      "pronunciationGuide": "",
-      "collocations": "start from scratch, build from scratch, learn from scratch",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "他决定放弃之前的所有工作，从零开始创业。",
-          "english": "He decided to abandon (give up) all his previous work and start his business from scratch.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "这个食谱是我祖母传下来的，但我每次都得从零开始做，因为我没有现成的材料。",
-          "english": "This recipe was passed down from my grandmother, but I have to make it from scratch every time because I don't have any pre-made ingredients.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "在经历了那次失败后，他不得不从零开始重建他的职业生涯。",
-          "english": "After that failure, he had to rebuild (build up) his career from scratch.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "学习一门新语言就像从零开始建造一座房子，需要耐心和毅力。",
-          "english": "Learning a new language is like building a house from scratch; it requires patience and perseverance.",
-          "difficulty": "中级"
-        }
-      ]
-    }
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:18:07.522Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-108-3-1783502342983",
@@ -5827,39 +5556,7 @@
     "sentenceVocab": "⭐ believe in yourself：相信自己（固定搭配）｜be a big thing：非常重要",
     "startTime": 575.657,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:19:02.983Z",
-    "translationCache": {
-      "lemma": "with acting",
-      "ipa": "/wɪð ˈæktɪŋ/",
-      "translation": "prep. + n. 与表演相关；在表演方面",
-      "pronunciationGuide": "",
-      "collocations": "with acting and music; with acting, I...; struggle with acting; help with acting",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在表演方面，她总是能完全融入角色，让观众感同身受。",
-          "english": "With acting, she always fully immerses herself in the character, making the audience empathize (relate to) the role.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "许多演员在表演和歌唱方面都很有天赋，但很少有人能两者都精通。",
-          "english": "Many actors are talented with acting and singing, but few can master (excel in) both.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "在表演方面，他最大的挑战是克服怯场，尤其是在大型舞台上。",
-          "english": "With acting, his biggest challenge is overcoming stage fright, especially on large stages.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "在表演和导演方面，她积累了丰富的经验，这使她在电影界备受尊敬。",
-          "english": "With acting and directing, she has accumulated (built up) extensive experience, which makes her highly respected in the film industry.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T09:19:02.983Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-109-12-1783502375877",
@@ -5902,48 +5599,7 @@
     "sentenceVocab": "⭐ see someone live：看某人的现场演出｜insane（口语）：厉害得离谱；惊艳（B2）",
     "startTime": 603.139,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:19:46.016Z",
-    "translationCache": {
-      "lemma": "she is just insane",
-      "ipa": "/ʃiː ɪz dʒʌst ɪnˈseɪn/",
-      "translation": "她简直疯了（口语，表示极度赞赏或惊讶）",
-      "pronunciationGuide": "",
-      "collocations": [
-        "absolutely insane",
-        "just insane",
-        "totally insane"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "昨晚那场音乐会简直太疯狂了，主唱的能量让人难以置信。",
-          "english": "The concert last night was just insane; the lead singer's energy was unbelievable.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "她在这部电影里的演技简直绝了，每个细节都完美无缺。",
-          "english": "Her performance in this movie is just insane; every detail is flawless.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "那个运动员在决赛中的表现简直令人咋舌，他打破了世界纪录。",
-          "english": "That athlete's performance in the final was just insane; he broke the world record.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "这家餐厅的甜点简直好吃到爆，我从未尝过如此美味的巧克力蛋糕。",
-          "english": "The dessert at this restaurant is just insane; I've never tasted such a delicious chocolate cake.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "他能在这么短的时间内学会弹钢琴，简直不可思议。",
-          "english": "He learned to play the piano in such a short time; it's just insane.",
-          "difficulty": "中级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T09:19:46.016Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-114-15-1783502412686",
@@ -5964,45 +5620,8 @@
     "sentenceTranslation": "它就像是一封写给 20 世纪 80 年代日本的情书，但又是通过现代流行音乐的视角来呈现，这对我和 Olivia 来说特别有启发。",
     "sentenceVocab": "⭐ a love letter to…：献给……的情书；向……致敬（C1）｜through the lens of…：通过……的视角（C1）｜modern-day：现代的，当代的",
     "startTime": 611.477,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T09:20:12.686Z",
-    "translationCache": {
-      "lemma": "through the lens of",
-      "ipa": "/θruː ðə lɛnz əv/",
-      "translation": "通过...的视角；从...的角度来看",
-      "pronunciationGuide": "",
-      "collocations": [
-        "through the lens of history",
-        "through the lens of a camera",
-        "through the lens of pop culture",
-        "through the lens of experience"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "通过历史的视角来看，这次事件标志着社会变革的一个重要转折点。",
-          "english": "Viewed through the lens of history, this event marks a significant turning point in social change.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "她通过一个母亲的视角来分析教育政策，提出了许多独到的见解。",
-          "english": "She analyzes education policy through the lens of a mother, offering many unique insights.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "这部电影通过一个孩子的视角来探讨战争的残酷，令人深思。",
-          "english": "The film explores the horrors of war through the lens of a child, provoking deep thought.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "通过经济学的视角，我们可以更好地理解全球化带来的机遇与挑战。",
-          "english": "Through the lens of economics, we can better understand the opportunities and challenges brought by globalization.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:20:12.686Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-115-6-1783502467470",
@@ -6070,9 +5689,7 @@
     "sentenceVocab": "⭐ embrace：欣然接受；拥抱（新事物）（C1）｜more than I have been：比目前更加……",
     "startTime": 638.625,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T09:22:18.657Z",
-    "patternCategory": "*表达义务&必要性",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-08T09:22:18.657Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-125-4-1783502561791",
@@ -6107,45 +5724,8 @@
     "sentenceTranslation": "我希望把我的两个世界融合在一起，去尝试那些能够同时结合音乐和表演的项目。",
     "sentenceVocab": "⭐ fuse…into…：把……融合成……（C1）｜incorporate：包含；融合（C1）",
     "startTime": 658.9590000000001,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-08T09:22:47.659Z",
-    "translationCache": {
-      "lemma": "incorporate",
-      "ipa": "/ɪnˈkɔːrpəreɪt/",
-      "translation": "v. 包含，吸收；合并，并入",
-      "pronunciationGuide": "",
-      "collocations": "incorporate into, incorporate with, incorporate in",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "新政策将环保措施纳入城市规划中。",
-          "english": "The new policy will incorporate environmental measures into urban planning.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "她建议在演讲中融入更多互动元素，以吸引观众。",
-          "english": "She suggested incorporating more interactive elements into the speech to engage the audience.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "公司决定将人工智能技术整合到现有系统中，以提高效率。",
-          "english": "The company decided to incorporate artificial intelligence technology into the existing system to boost efficiency.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "设计师巧妙地将传统元素与现代风格融为一体，创造出独特的作品。",
-          "english": "The designer skillfully incorporated traditional elements with modern style to create a unique piece.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "为了促进团队合作，经理将每个成员的意见都纳入了项目计划。",
-          "english": "To foster teamwork, the manager incorporated each member's opinions into the project plan.",
-          "difficulty": "中级"
-        }
-      ]
-    }
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:22:47.659Z"
   },
   {
     "id": "github-cloud-i_D_Meets__Will_Gao_mp3-130-9-1783502595869",
@@ -6218,46 +5798,8 @@
     "sentenceTranslation": "希望这一段不会被剪进最终版本。",
     "sentenceVocab": "⭐ make the final cut：进入最终剪辑版；最终被保留下来（C1，影视常用）",
     "startTime": 697.283,
-    "reviewCount": 2,
-    "dateAdded": "2026-07-08T09:23:34.052Z",
-    "translationCache": {
-      "lemma": "make the final cut",
-      "ipa": "/meɪk ðə ˈfaɪnəl kʌt/",
-      "translation": "被最终选中；进入最后名单",
-      "pronunciationGuide": "",
-      "collocations": "make the final cut, not make the final cut, hope to make the final cut",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "导演对这部电影的结局不太满意，担心它可能无法进入最终剪辑版。",
-          "english": "The director is not satisfied with the ending of the film and worries it might not make the final cut.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "尽管他表现不错，但由于名额有限，他可能无法进入最终入选名单。",
-          "english": "Even though he performed well, due to limited spots, he might not make the final cut.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "在提交简历后，她焦急地等待着是否能够进入面试的最终名单。",
-          "english": "After submitting her resume, she anxiously waited to see if she would make the final cut for the interview.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "这个提案虽然很有创意，但预算限制可能导致它无法被最终采纳。",
-          "english": "Although the proposal is very creative, budget constraints may cause it not to make the final cut.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "在激烈的竞争中，只有最优秀的选手才能进入决赛圈。",
-          "english": "In fierce competition, only the best contestants can make the final cut.",
-          "difficulty": "中级"
-        }
-      ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**\n中国学生第一反应可能是“I hope this won't be chosen at the end”，但老外会说“I hope this doesn't make the final cut”。前者像机器人，后者像电影剪辑师——**“final cut”** 是影视术语，指最终剪辑版。用在这里，瞬间有了导演吐槽自己烂片的幽默感。\n\n**2. 学术深度分析**\n语用上，这句话是**自嘲式谦虚**或**黑色幽默**。比如你刚讲了个冷笑话，补一句“I hope this doesn't make the final cut”，既暗示内容可能很烂，又显得你很有自知之明。感情色彩：**戏谑为主**，偶尔带点真担心。\n\n**3. 趣味记忆**\n想象你是个导演，拍了一部烂片，剪辑时对剪辑师说：“这段别剪进去啊！”——**“final cut”** 就是那个“剪进去”的动作。谐音梗：**“饭呢？砍了！”**（final cut）——饭被砍了，所以没进最终菜单。"
+    "reviewCount": 0,
+    "dateAdded": "2026-07-08T09:23:34.052Z"
   },
   {
     "id": "github-cloud-How_to_Ski___REI_mp4-36-21-1783518401056",
@@ -6834,7 +6376,7 @@
     "sentenceTranslation": "我的小腿向前倾，所以我的脚踝也是弯曲发力的。",
     "sentenceVocab": "⭐ be tilted forward 向前倾｜flexed 弯曲发力的",
     "startTime": 59.629,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-08T14:33:26.001Z",
     "translationCache": {
       "lemma": "tilt forward",
@@ -7132,8 +6674,7 @@
           "difficulty": "中级"
         }
       ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生可能会说“turn your feet inward”，但老外更爱用 **“turn toes in”**，因为脚趾是动作的焦点，更精准、更形象。就像说“翘二郎腿”是“cross your legs”，而不是“put one leg on the other”。  \n\n**2. 学术深度分析与语用场景**  \n这是**运动/舞蹈指令**中的地道用法，强调脚趾主动内旋，带动腿部打开。感情色彩中性，但听起来很专业，像瑜伽教练或物理治疗师的口吻。用在健身、芭蕾、康复训练中，瞬间提升你的口语“含专量”。  \n\n**3. 趣味记忆/联想**  \n想象你是一只**企鹅**，走路时脚趾内八，然后突然想劈叉——腿就打开了！所以“turn toes in” = 企鹅准备劈叉。🐧 或者谐音梗：“疼，偷死硬”——脚趾内转时，疼得僵硬，但为了打开腿，忍了！"
+    }
   },
   {
     "id": "github-cloud-How_to_Ski___REI_mp4-31-16-1783521547298",
@@ -7153,43 +6694,7 @@
     "sentenceVocab": "⭐ braking wedge 制动楔形（刹车八字）",
     "startTime": 147.151,
     "reviewCount": 0,
-    "dateAdded": "2026-07-08T14:39:07.298Z",
-    "translationCache": {
-      "lemma": "braking wedge",
-      "ipa": "/ˈbreɪkɪŋ wɛdʒ/",
-      "translation": "刹车楔（滑雪或滑冰时通过将板尾张开形成三角形来减速的技术）",
-      "pronunciationGuide": "",
-      "collocations": [
-        "perform a braking wedge",
-        "use a braking wedge to stop",
-        "braking wedge technique"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在陡坡上，初学者应该练习使用刹车楔来控制速度。",
-          "english": "On steep slopes, beginners should practice using a braking wedge to control their speed.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "教练强调，在紧急情况下，刹车楔是避免碰撞最有效的方法。",
-          "english": "The instructor emphasized that in emergency situations, the braking wedge is the most effective way to avoid a collision.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "尽管他尝试了刹车楔，但由于速度太快，他还是无法完全停下来。",
-          "english": "Even though he attempted a braking wedge, he couldn't come to a complete stop due to the high speed.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "在高级滑雪课程中，学员需要掌握如何从平行转弯平稳过渡到刹车楔。",
-          "english": "In advanced skiing lessons, students need to master how to smoothly transition from parallel turns to a braking wedge.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-08T14:39:07.298Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-3-10-1783670541000",
@@ -7230,40 +6735,8 @@
     "sentenceTranslation": "第一种是动态拉伸，它是指受控制的动作，在整个动作过程中会调动多组肌肉。",
     "sentenceVocab": "⭐ dynamic stretch：动态拉伸（C1）｜controlled movement：受控制的动作｜engage a range of muscles：调动多组肌肉（C1）｜throughout the motion：在整个动作过程中",
     "startTime": 38.989,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-10T08:03:04.980Z",
-    "translationCache": {
-      "lemma": "dynamic stretches",
-      "ipa": "/daɪˈnæmɪk ˈstrɛtʃɪz/",
-      "translation": "动态拉伸（名词短语）",
-      "pronunciationGuide": "",
-      "collocations": "perform dynamic stretches, include dynamic stretches, dynamic stretching routine",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在开始跑步之前，你应该做五分钟的动态拉伸来激活你的肌肉。",
-          "english": "Before you start running, you should do five minutes of dynamic stretches to activate your muscles.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "教练强调，动态拉伸比静态拉伸更能有效预防运动损伤。",
-          "english": "The coach emphasized that dynamic stretches are more effective than static stretches in preventing sports injuries.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "许多运动员将动态拉伸纳入他们的赛前热身程序，以提高表现。",
-          "english": "Many athletes incorporate dynamic stretches into their pre-competition warm-up routine to enhance performance.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "如果你在锻炼前跳过动态拉伸，你的肌肉可能会更容易拉伤。",
-          "english": "If you skip dynamic stretches before your workout, your muscles may be more prone to strains.",
-          "difficulty": "中级"
-        }
-      ]
-    }
+    "reviewCount": 0,
+    "dateAdded": "2026-07-10T08:03:04.980Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-8-7-1783670593694",
@@ -7423,43 +6896,7 @@
     "sentenceVocab": "⭐ think of… as…：把……看作……｜be comprised of：由……组成（C1）｜tissue type：组织类型｜interact：相互作用（B2）",
     "startTime": 61.182,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:04:45.558Z",
-    "translationCache": {
-      "lemma": "be comprised of",
-      "ipa": "/bi kəmˈpraɪzd əv/",
-      "translation": "由...组成，包含",
-      "pronunciationGuide": "",
-      "collocations": [
-        "be comprised of many parts",
-        "be comprised of various elements",
-        "be comprised of different types"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "这个委员会由来自不同部门的代表组成。",
-          "english": "The committee is comprised of representatives from various departments.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "该生态系统由多种相互依存的物种组成。",
-          "english": "This ecosystem is comprised of many interdependent species.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "她的饮食主要由有机蔬菜和全谷物组成。",
-          "english": "Her diet is comprised mainly of organic vegetables and whole grains.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "这个复杂的机器由数百个精密零件组成。",
-          "english": "This complex machine is comprised of hundreds of precision parts.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-10T08:04:45.558Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-12-2-1783670717297",
@@ -7576,85 +7013,7 @@
     "sentenceVocab": "⭐ in addition to：除……之外（B2）｜under the stress of…：在……应力作用下（C1）｜elastic qualities：弹性特性",
     "startTime": 81.39,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:06:03.581Z",
-    "patternCategory": "补充或递进",
-    "patternCategoryManuallyEdited": false,
-    "translationCache": {
-      "lemma": "in addition to those ...(adj.) qualities",
-      "ipa": "",
-      "translation": "除了那些……特质之外",
-      "pronunciationGuide": "",
-      "collocations": [],
-      "cefrLevel": "B2",
-      "idiomUsageNote": "用于列举或补充说明，强调在已有特质基础上还有额外特质。",
-      "englishDefinition": "Used to introduce an extra set of qualities or characteristics that are being considered alongside previously mentioned ones, often in a comparative or additive context.",
-      "patternPractice": [],
-      "patternAnalysis": {
-        "normalizedTarget": "in addition to those ... qualities",
-        "unitType": "lexical_frame",
-        "activeLearningRecommendation": "high",
-        "primaryCategory": "建立逻辑关系",
-        "primarySubcategory": "补充或递进",
-        "functionInContextZh": "在上下文中，该句式用于引出除了已提到的弹性特质之外，肌肉在拉伸应力下还有另一种变化。",
-        "reusablePattern": "in addition to those [adjective] qualities, [subject] [verb]...",
-        "retrievalScenarioZh": "在面试中，你正在描述一位候选人的优点：除了那些领导力特质外，他还具备出色的沟通能力。",
-        "usageConstraintsZh": [
-          "通常用于正式或半正式语境",
-          "后面常接名词短语，形容词修饰qualities",
-          "不用于口语中随意列举"
-        ],
-        "commonErrorsZh": [
-          "误用为'in addition of'",
-          "遗漏those或错误使用these",
-          "形容词位置错误"
-        ],
-        "modelExampleEn": "In addition to those technical qualities, she also brings strong leadership skills.",
-        "confidence": 0.95,
-        "promptVersion": "pattern-learning-v2"
-      },
-      "patternAnkiCards": [
-        {
-          "front": {
-            "scenarioZh": "你正在参加一个团队会议，讨论新产品的特性。产品经理已经列出了产品的几个核心功能（如耐用性、便携性）。现在你想补充说，除了这些功能特性外，产品还有环保的设计理念。",
-            "taskZh": "用英语表达：除了那些功能特性外，产品还有环保的设计理念。",
-            "hintEn": "In addition to those [adjective] qualities, the product also has..."
-          },
-          "back": {
-            "targetAnswerEn": "In addition to those functional qualities, the product also has an eco-friendly design concept.",
-            "acceptableAnswersEn": [
-              "In addition to those functional qualities, the product also features an eco-friendly design.",
-              "Besides those functional qualities, the product also incorporates an eco-friendly design."
-            ],
-            "reusablePattern": "in addition to those [adjective] qualities, [subject] [verb]...",
-            "usageNoteZh": "使用those指代前文已提到的特质，保持指代一致。",
-            "commonErrorsZh": [
-              "误用these代替those",
-              "遗漏形容词直接说in addition to those qualities"
-            ]
-          }
-        },
-        {
-          "front": {
-            "scenarioZh": "你是一位老师，正在给学生写评语。你之前提到了学生的学术能力（如分析能力、写作能力）。现在你想补充说，除了这些学术特质外，该学生还表现出很强的团队合作精神。",
-            "taskZh": "用英语表达：除了那些学术特质外，该学生还表现出很强的团队合作精神。",
-            "hintEn": "In addition to those [adjective] qualities, the student also demonstrates..."
-          },
-          "back": {
-            "targetAnswerEn": "In addition to those academic qualities, the student also demonstrates strong teamwork skills.",
-            "acceptableAnswersEn": [
-              "In addition to those academic qualities, the student also shows excellent teamwork.",
-              "Besides those academic qualities, the student also exhibits strong collaboration skills."
-            ],
-            "reusablePattern": "in addition to those [adjective] qualities, [subject] [verb]...",
-            "usageNoteZh": "形容词的选择要准确反映前文提到的特质类别。",
-            "commonErrorsZh": [
-              "忘记使用those导致指代不清",
-              "形容词与qualities搭配不当"
-            ]
-          }
-        }
-      ]
-    }
+    "dateAdded": "2026-07-10T08:06:03.581Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-16-8-1783670785923",
@@ -7692,40 +7051,8 @@
     "sentenceTranslation": "从宏观层面来看，这次腿后肌拉伸会牵拉包裹肌纤维的多层保护组织，以及连接肌肉和附近骨骼的肌腱。",
     "sentenceVocab": "⭐ at the large scale：从宏观层面来看（C1）｜pull on：牵拉｜protective tissue：保护组织｜muscle fiber：肌纤维｜tendon：肌腱（C1）",
     "startTime": 90.594,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-10T08:06:38.656Z",
-    "translationCache": {
-      "lemma": "tendon",
-      "ipa": "/ˈtɛndən/",
-      "translation": "n. 肌腱",
-      "pronunciationGuide": "",
-      "collocations": "Achilles tendon, tendon injury, tendon repair, tendonitis, flexor tendon",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "医生建议他通过物理治疗来修复受损的跟腱。",
-          "english": "The doctor recommended physical therapy to repair the damaged Achilles tendon.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "运动员因肌腱撕裂不得不退出比赛，这让他非常沮丧。",
-          "english": "The athlete had to withdraw (pull out of) the competition due to a torn tendon, which left him deeply frustrated.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "长期重复性动作可能导致肌腱发炎，从而引起慢性疼痛。",
-          "english": "Long-term repetitive movements can lead to tendon inflammation, resulting in chronic pain.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "外科医生小心翼翼地缝合断裂的肌腱，以恢复手部的正常功能。",
-          "english": "The surgeon carefully sutured the ruptured tendon to restore normal function of the hand.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "reviewCount": 0,
+    "dateAdded": "2026-07-10T08:06:38.656Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-17-3-1783670821639",
@@ -7813,39 +7140,7 @@
     "sentenceVocab": "⭐ contain：含有｜collagen：胶原蛋白（C1）｜elastin：弹性蛋白（C2）｜elongate：拉长；延长（C1）｜over the duration of…：在……持续期间（C1）",
     "startTime": 101.344,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:07:06.622Z",
-    "translationCache": {
-      "lemma": "elastin",
-      "ipa": "/ɪˈlæstɪn/",
-      "translation": "n. 弹性蛋白",
-      "pronunciationGuide": "",
-      "collocations": "elastin fibers, collagen and elastin, elastin production, elastin degradation",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "随着年龄增长，皮肤中的弹性蛋白逐渐减少，导致皱纹和松弛。",
-          "english": "As we age, the elastin in our skin gradually decreases, leading to wrinkles and sagging.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "研究人员正在探索如何通过刺激弹性蛋白的生成来改善伤口愈合。",
-          "english": "Researchers are exploring how to improve wound healing by stimulating elastin production.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "这种新型合成材料模仿了天然弹性蛋白的特性，具有极佳的伸缩性。",
-          "english": "This new synthetic material mimics the properties of natural elastin, exhibiting excellent stretchability.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "弹性蛋白的降解与多种心血管疾病的发生有关。",
-          "english": "The degradation of elastin is associated with the development of various cardiovascular diseases.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-10T08:07:06.622Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-17-14-1783670833130",
@@ -7861,48 +7156,7 @@
     "sentenceVocab": "⭐ contain：含有｜collagen：胶原蛋白（C1）｜elastin：弹性蛋白（C2）｜elongate：拉长；延长（C1）｜over the duration of…：在……持续期间（C1）",
     "startTime": 101.344,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:07:13.130Z",
-    "translationCache": {
-      "lemma": "elongate",
-      "ipa": "/ɪˈlɔːŋɡeɪt/",
-      "translation": "v. 拉长，伸长",
-      "pronunciationGuide": "",
-      "collocations": [
-        "elongate the muscles",
-        "elongate the spine",
-        "elongate the fibers"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "瑜伽教练建议我们在做前屈动作时，慢慢拉长脊柱。",
-          "english": "The yoga instructor advised us to slowly elongate the spine during the forward bend.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "这种材料在高温下会显著伸长，因此不适合用于精密仪器。",
-          "english": "This material elongates significantly under high temperatures, making it unsuitable for precision instruments.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "为了改善姿势，她每天练习拉伸动作以拉长背部肌肉。",
-          "english": "To improve her posture, she practices stretching exercises daily to elongate the back muscles.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "科学家发现，某些蛋白质在受到机械应力时会伸长并改变结构。",
-          "english": "Scientists have found that certain proteins elongate and change their structure when subjected to mechanical stress.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "在物理治疗中，逐步拉长疤痕组织有助于恢复关节的活动范围。",
-          "english": "In physical therapy, gradually elongating scar tissue helps restore the joint's range of motion.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-10T08:07:13.130Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-18-13-1783670859095",
@@ -7918,43 +7172,7 @@
     "sentenceVocab": "⭐ at the smaller scale：从微观层面来看（C1）｜skeletal muscle fibers：骨骼肌纤维（C1）｜be comprised of：由……组成（C1）｜sarcomere：肌小节（C2）｜contracting unit：收缩单位（C2）",
     "startTime": 110.67099999999999,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:07:39.095Z",
-    "translationCache": {
-      "lemma": "sarcomere",
-      "ipa": "/ˈsɑːrkəˌmɪr/",
-      "translation": "n. 肌节",
-      "pronunciationGuide": "",
-      "collocations": [
-        "sarcomere structure",
-        "sarcomere contraction",
-        "sarcomere length"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在显微镜下，研究人员观察到肌节在肌肉收缩过程中明显缩短。",
-          "english": "Under the microscope, the researchers observed that the sarcomere shortens significantly during muscle contraction.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "肌节的精确排列对于骨骼肌产生高效力量至关重要。",
-          "english": "The precise arrangement of sarcomeres is crucial for skeletal muscles to generate efficient force.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "运动员的训练计划旨在增加肌节数量，从而提高肌肉力量。",
-          "english": "Athletes' training programs aim to increase the number of sarcomeres, thereby enhancing muscle strength.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "肌节长度的变化会影响肌肉的收缩速度和力量输出。",
-          "english": "Changes in sarcomere length can affect the contraction speed and force output of muscles.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-10T08:07:39.095Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-19-27-1783670911922",
@@ -7970,39 +7188,7 @@
     "sentenceVocab": "⭐ fibrous proteins：纤维蛋白（C1）｜elongate muscle fibers：拉长肌纤维（C1）｜contract：收缩（B2）｜pull on：牵拉｜propel：推动；驱动（C1）",
     "startTime": 121.263,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:08:31.922Z",
-    "translationCache": {
-      "lemma": "propel",
-      "ipa": "/prəˈpel/",
-      "translation": "v. 推动；驱动；推进",
-      "pronunciationGuide": "",
-      "collocations": "propel forward, propel into, be propelled by",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "这项新技术有望将可再生能源行业推向新的高度。",
-          "english": "This new technology is expected to propel the renewable energy industry to new heights.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "他的雄心壮志推动他克服了无数障碍。",
-          "english": "His ambition propelled him to overcome countless obstacles.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "火箭由强大的引擎推进，以每小时数千英里的速度飞行。",
-          "english": "The rocket is propelled by powerful engines, traveling at thousands of miles per hour.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "经济危机迫使公司进行彻底重组。",
-          "english": "The economic crisis propelled the company into a complete restructuring.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-10T08:08:31.922Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-22-5-1783670970172",
@@ -8050,46 +7236,57 @@
     "sentenceVocab": "⭐ due to：由于（B2）｜elastic properties：弹性特性（C1）｜further activity：后续活动",
     "startTime": 163.882,
     "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:10:01.408Z",
-    "translationCache": {
-      "lemma": "due to ...(n.)'s ...(adj.) properties",
-      "ipa": "",
-      "translation": "由于……的……特性",
-      "pronunciationGuide": "该句式用于解释原因，强调某事物的某种属性导致某种结果。结构为 'due to' 后接名词所有格（...'s）加形容词加 'properties'。注意：'due to' 后接名词性成分，不能接从句。常见错误是误用 'because of' 代替 'due to'，但两者可互换。",
-      "collocations": [],
-      "cefrLevel": "B2",
-      "idiomUsageNote": "",
-      "englishDefinition": "Used to attribute a result to the inherent characteristics of a noun, emphasizing the specific property that causes the effect.",
-      "patternPractice": [
-        {
-          "chinese": "由于橡胶的弹性特性，它可以被拉伸。",
-          "english": "Due to rubber's elastic properties, it can be stretched.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "由于这种材料的防水特性，它被用于制造雨衣。",
-          "english": "Due to this material's waterproof properties, it is used to make (produce) raincoats.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "由于该合金的耐热特性，它被广泛应用于航空航天工业。",
-          "english": "Due to the alloy's heat-resistant properties, it is widely used in the aerospace industry.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "由于这种新型聚合物的可降解特性，它有望解决塑料污染问题。",
-          "english": "Due to this new polymer's biodegradable properties, it is expected to solve (resolve) the plastic pollution problem.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "由于这种植物的药用特性，它在传统医学中已被使用了几个世纪。",
-          "english": "Due to this plant's medicinal properties, it has been used in traditional medicine for centuries.",
-          "difficulty": "高级"
-        }
-      ]
-    },
-    "patternCategory": "原因",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-10T08:10:01.408Z"
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-28-17-1783671119607",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 28,
+    "wordIndex": 17,
+    "wordIndices": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "wordText": "requires a comprehensive stretching regimen",
+    "category": "pattern",
+    "customLemma": "require a comprehensive ...(n./adj.) regimen",
+    "sentenceContext": "Sarcomeres are added and subtracted to muscles depending on how frequently they're used, so improving overall flexibility requires a comprehensive stretching regimen.",
+    "sentenceTranslation": "肌小节会根据肌肉使用的频率不断增加或减少，因此，提高整体柔韧性需要一套系统、全面的拉伸计划。",
+    "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
+    "startTime": 200.15800000000002,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-10T08:11:59.607Z"
+  },
+  {
+    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-33-0-1783671201446",
+    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
+    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
+    "subtitleId": 33,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "wordText": "The more you ... the higher your pain threshold becomes",
+    "category": "pattern",
+    "customLemma": "The more you ... the higher your pain threshold becomes",
+    "sentenceContext": "The more you stretch a muscle, the higher your pain threshold becomes, allowing you to stretch further and further.",
+    "sentenceTranslation": "你拉伸肌肉越多，你的疼痛耐受阈值就会越高，从而使你能够拉得越来越远。",
+    "sentenceVocab": "⭐ pain threshold：疼痛阈值（C1）｜allow sb to do sth：使某人能够……｜further and further：越来越远",
+    "startTime": 231.111,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-10T08:13:21.446Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-39-0-1783671278347",
@@ -8137,43 +7334,7 @@
     "sentenceVocab": "⭐ feel comfortable doing sth 做某事已经得心应手｜move around 四处移动｜on the flats 在平地上｜up the ante 提高难度；加码（⭐C1）｜figure out 弄清楚",
     "startTime": 177.132,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T06:37:40.904Z",
-    "translationCache": {
-      "lemma": "up the ante",
-      "ipa": "/ʌp ðə ˈænti/",
-      "translation": "提高赌注；增加风险或要求",
-      "pronunciationGuide": "",
-      "collocations": [
-        "up the ante in negotiations",
-        "up the ante by offering more",
-        "up the ante significantly"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "为了赢得合同，他们决定提高赌注，提供更优惠的条件。",
-          "english": "To win the contract, they decided to up the ante by offering more favorable terms.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "在谈判中，对方突然提高要求，使得协议更难达成。",
-          "english": "In the negotiations, the other side suddenly upped the ante, making the agreement harder to reach.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "随着竞争的加剧，两家公司都在不断加大投入，提高赌注。",
-          "english": "As competition intensifies, both companies are constantly increasing their investment and upping the ante.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "如果你想在比赛中获胜，就必须提高赌注，冒更大的风险。",
-          "english": "If you want to win the competition, you have to up the ante and take greater risks.",
-          "difficulty": "中级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-14T06:37:40.904Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-10-15-1784016863933",
@@ -8384,9 +7545,7 @@
     "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
     "startTime": 200.15800000000002,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T09:55:05.569Z",
-    "patternCategory": "后果或推论",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-14T09:55:05.569Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-31-19-1784022941578",
@@ -8430,9 +7589,7 @@
     "sentenceVocab": "⭐ pain threshold：疼痛阈值（C1）｜allow sb to do sth：使某人能够……｜further and further：越来越远",
     "startTime": 231.111,
     "reviewCount": 0,
-    "dateAdded": "2026-07-14T09:56:15.251Z",
-    "patternCategory": "比较或相关变化",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-14T09:56:15.251Z"
   },
   {
     "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-33-9-1784022984130",
@@ -8667,8 +7824,7 @@
           "difficulty": "中级"
         }
       ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“cooperate to make a smoothie”或“work together on a smoothie”，但 native speaker 会用 **do a collab**。Collab 是 collaboration 的酷炫缩写，自带“临时组队搞事情”的 vibe，比 cooperate 更 casual、更 trendy，尤其用于品牌联名、网红合作等场景。  \n\n**2. 学术深度分析与语用场景**  \n**do ... collab** 是轻动词结构（light verb construction），类似“do a deal”“do a project”。它把“合作”这个抽象动作具体化为一个可“做”的名词，语感上更生动、更口语化。感情色彩偏中性或积极，带点“我们搞了个大新闻”的戏谑感。适合日常聊天、商业汇报或社交媒体文案。  \n\n**3. 趣味记忆/联想**  \n想象两个网红在说：“Let's do a collab!” 听起来像“do a cab”（打个车），但 collab 是“合作的车”，一起上车搞事情！谐音梗：collab = “靠拉布”，靠拉拢布料（品牌）搞联名。记住：**do a collab** = 搞个联名，比“合作”潮一百倍！"
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-14-6-1784100213384",
@@ -8704,35 +7860,7 @@
     "sentenceVocab": "⭐ made-up recipe —— 自己设计的配方｜boost up —— 提升；加强｜hyaluronic —— 透明质酸｜peptides —— 胜肽｜collagen —— 胶原蛋白｜be born —— 诞生",
     "startTime": 71.315,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:23:51.059Z",
-    "translationCache": {
-      "lemma": "hyaluronic",
-      "ipa": "/ˌhaɪəˈlʊrɑnɪk/",
-      "translation": "adj. 透明质酸的",
-      "pronunciationGuide": "",
-      "collocations": [
-        "hyaluronic acid",
-        "hyaluronic acid serum",
-        "hyaluronic acid injection"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "这款精华液含有高浓度的透明质酸，能深层补水。",
-          "english": "This serum contains a high concentration of hyaluronic acid, which provides deep hydration."
-        },
-        {
-          "chinese": "随着年龄增长，皮肤中的透明质酸含量会逐渐减少。",
-          "english": "As we age, the level of hyaluronic acid in our skin gradually decreases."
-        },
-        {
-          "chinese": "许多护肤品都宣称含有透明质酸，但实际效果可能因配方而异。",
-          "english": "Many skincare products claim to contain hyaluronic acid, but the actual effectiveness may vary depending on the formulation."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-15T07:23:51.059Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-14-31-1784100233365",
@@ -8806,47 +7934,8 @@
     "sentenceTranslation": "我隐约记得，她说我当时在她肚子里动来动去，就像哈雷彗星一样，所以才给我取了这个名字。",
     "sentenceVocab": "⭐ have the recollection that… —— 依稀记得……｜move around —— 动来动去｜belly —— 肚子（口语）",
     "startTime": 100.19,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-15T07:24:49.746Z",
-    "translationCache": {
-      "lemma": "I have this recollection that ...",
-      "ipa": "",
-      "translation": "我有这样一个记忆……",
-      "pronunciationGuide": "该句式用于引出说话人模糊或特定的回忆，结构为“I have this recollection that + 从句”。注意：recollection 前用 this 表示强调，that 引导同位语从句。常见错误：遗漏 that 或误用 which。",
-      "collocations": [],
-      "cefrLevel": "B2",
-      "idiomUsageNote": "",
-      "englishDefinition": "Used to introduce a specific memory or recollection, often with a sense of emphasis or personal reflection.",
-      "patternPractice": [
-        {
-          "chinese": "我有这样一个记忆：她那天穿了一件红裙子。",
-          "english": "I have this recollection that she wore a red dress that day.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "我有这样一个记忆：他曾经说过他喜欢旅行。",
-          "english": "I have this recollection that he once said he liked traveling.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "我有这样一个记忆：我们在公园里散步时，她突然笑了起来。",
-          "english": "I have this recollection that she suddenly laughed (burst out laughing) while we were walking in the park.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "我有这样一个记忆：老师解释这个复杂概念时，全班都安静了下来。",
-          "english": "I have this recollection that the whole class fell silent (quieted down) when the teacher explained this complex concept.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "我有这样一个记忆：尽管当时情况艰难，他依然坚持完成了那个项目。",
-          "english": "I have this recollection that he still persisted in (stuck with) completing that project despite the difficult circumstances at that time.",
-          "difficulty": "高级"
-        }
-      ]
-    },
-    "patternCategory": "*介绍记忆",
-    "patternCategoryManuallyEdited": false
+    "reviewCount": 0,
+    "dateAdded": "2026-07-15T07:24:49.746Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-20-0-1784100313201",
@@ -8907,9 +7996,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "patternCategory": "*核实信息",
-    "patternCategoryManuallyEdited": false
+    }
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-25-2-1784100376352",
@@ -9136,9 +8223,7 @@
     "sentenceVocab": "⭐ would have to —— 得；只能",
     "startTime": 248.751,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:30:33.722Z",
-    "patternCategory": "推测",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-15T07:30:33.722Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-46-0-1784100650611",
@@ -9158,9 +8243,7 @@
     "sentenceVocab": "⭐ It's giving… —— 很有……的感觉（近年流行网络表达）｜energy —— 气质；氛围感（口语引申义）",
     "startTime": 252.834,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:30:50.611Z",
-    "patternCategory": "*主观的观点与判断",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-15T07:30:50.611Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-47-9-1784100675044",
@@ -9493,45 +8576,7 @@
     "sentenceVocab": "⭐ vent about —— 倾诉；发泄｜connect on —— 在……方面产生共鸣｜make it easier —— 让事情变得更容易",
     "startTime": 380.157,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:59:13.158Z",
-    "translationCache": {
-      "lemma": "vent about",
-      "ipa": "/vɛnt əˈbaʊt/",
-      "translation": "v. 发泄（情绪），倾诉（烦恼）",
-      "pronunciationGuide": "",
-      "collocations": [
-        "vent about problems",
-        "vent about work",
-        "vent about frustrations",
-        "need to vent about",
-        "vent about something"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "工作压力大的时候，我喜欢向朋友倾诉烦恼。",
-          "english": "When work gets stressful, I like to vent about my frustrations to friends."
-        },
-        {
-          "chinese": "她花了一个小时向同事抱怨老板的不公。",
-          "english": "She spent an hour venting about her boss's unfairness to her colleague."
-        },
-        {
-          "chinese": "我们需要一个安全的空间来倾诉困扰我们的事情。",
-          "english": "We need a safe space to vent about things that are bothering us."
-        },
-        {
-          "chinese": "他经常在社交媒体上发泄对交通状况的不满。",
-          "english": "He often vents about traffic conditions on social media."
-        }
-      ]
-    },
-    "customTranslation": "v. 发泄（情绪），倾诉（烦恼）",
-    "customTopicIds": [
-      "topic-daily"
-    ]
+    "dateAdded": "2026-07-15T07:59:13.158Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-72-18-1784102358013",
@@ -9567,43 +8612,7 @@
     "sentenceVocab": "⭐ tretinoin —— 维A酸（护肤成分）",
     "startTime": 399.221,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T07:59:34.979Z",
-    "translationCache": {
-      "lemma": "tretinoin",
-      "ipa": "/ˈtrɛtɪnoʊɪn/",
-      "translation": "n. 维A酸",
-      "pronunciationGuide": "",
-      "collocations": [
-        "prescribe tretinoin",
-        "tretinoin cream",
-        "use tretinoin for acne"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "皮肤科医生给我开了维A酸来治疗我的顽固痤疮。",
-          "english": "The dermatologist prescribed tretinoin to treat my stubborn acne."
-        },
-        {
-          "chinese": "许多护肤爱好者认为维A酸是抗衰老的黄金标准。",
-          "english": "Many skincare enthusiasts consider tretinoin the gold standard for anti-aging."
-        },
-        {
-          "chinese": "使用维A酸时，必须严格防晒，因为它会增加皮肤对阳光的敏感性。",
-          "english": "When using tretinoin, you must strictly apply sunscreen because it increases skin sensitivity to sunlight."
-        },
-        {
-          "chinese": "她开始使用维A酸乳膏后，皮肤质地有了显著改善。",
-          "english": "After she started using tretinoin cream, her skin texture improved significantly."
-        }
-      ]
-    },
-    "customTranslation": "n. 维A酸",
-    "customTopicIds": [
-      "topic-1784194076847"
-    ]
+    "dateAdded": "2026-07-15T07:59:34.979Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-82-5-1784102416320",
@@ -9663,46 +8672,7 @@
     "sentenceVocab": "⭐ depending on… —— 取决于……｜be involved —— 包含；涉及（这里指\"含有\"）",
     "startTime": 268.598,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T09:36:06.554Z",
-    "translationCache": {
-      "lemma": "get something that has ... involved",
-      "ipa": "",
-      "translation": "得到某物，该物涉及……",
-      "pronunciationGuide": "该句式结构为：get + 名词/名词短语 + that has + 名词/名词短语 + involved。其中'get'意为'得到、获得'，'that has ... involved'是定语从句修饰前面的名词，表示'该物涉及/包含……'。注意'involved'是过去分词作后置定语，常与'has'连用表示'包含有……'。常见错误：遗漏'involved'或误用'involving'。",
-      "collocations": [],
-      "cefrLevel": "B1",
-      "idiomUsageNote": "",
-      "englishDefinition": "Used to express obtaining something that includes or involves a particular element or feature.",
-      "patternPractice": [
-        {
-          "chinese": "我想要一杯有牛奶的咖啡。",
-          "english": "I want to get a coffee that has some milk involved.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "她买了一个有巧克力夹心的蛋糕。",
-          "english": "She bought a cake that has some chocolate filling involved.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "我们得找一个有游泳池的酒店。",
-          "english": "We need to get a hotel that has a swimming pool involved.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "他想要一份有奖金的工作。",
-          "english": "He wants to get a job that has some bonus involved.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "她打算买一辆有导航系统的车。",
-          "english": "She plans to get a car that has a navigation system involved.",
-          "difficulty": "中级"
-        }
-      ]
-    },
-    "patternCategory": "描述习惯或变化",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-15T09:36:06.554Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-77-2-1784108218013",
@@ -9776,9 +8746,7 @@
     "sentenceVocab": "⭐ scent of choice —— 首选香味；最常用的香水（非常地道）",
     "startTime": 470.787,
     "reviewCount": 0,
-    "dateAdded": "2026-07-15T09:37:43.822Z",
-    "patternCategory": "表达偏好",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-15T09:37:43.822Z"
   },
   {
     "id": "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me_mp4-96-16-1784108273679",
@@ -9851,7 +8819,7 @@
     "sentenceTranslation": "好了，我这边就到这里了。",
     "sentenceVocab": "⭐ That's it from me. —— 我就分享到这里。（演讲、采访结束时很自然）",
     "startTime": 514.52,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-07-15T09:38:58.494Z",
     "translationCache": {
       "lemma": "that's it from me",
@@ -9884,9 +8852,7 @@
           "difficulty": "高级"
         }
       ]
-    },
-    "patternCategory": "结束话轮",
-    "patternCategoryManuallyEdited": false
+    }
   },
   {
     "id": "custom-Messi_The_Chosen_One___________mp4-2-0-1784185416922",
@@ -10050,291 +9016,6 @@
     "dateAdded": "2026-07-16T07:05:32.474Z"
   },
   {
-    "id": "custom-10_4_4_mp3-6-6-1782211306165",
-    "materialId": "custom-10_4_4_mp3",
-    "materialTitle": "10-4-4.mp3",
-    "subtitleId": 6,
-    "wordIndex": 6,
-    "wordIndices": [
-      6,
-      7
-    ],
-    "wordText": "teething problems",
-    "category": "vocab",
-    "sentenceContext": "However, all new technologies have their teething problems. 然而，所有新技术在发展初期都会遇到一些问题。（teething problems = 初期困难、成长中的问题，IELTS常考）",
-    "startTime": 39.048,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-23T10:41:46.165Z"
-  },
-  {
-    "id": "custom-10_4_4_mp3-8-16-1782211373029",
-    "materialId": "custom-10_4_4_mp3",
-    "materialTitle": "10-4-4.mp3",
-    "subtitleId": 8,
-    "wordIndex": 16,
-    "wordText": "inserting",
-    "category": "pronounce",
-    "sentenceContext": "Numerous science-fiction books and movies have raised people's fears about nanotechnology - with scenarios such as inserting little nano-robots into your body that monitor everything you do without you realising it, or self-replicating nano-robots that eventually take over the world. 大量科幻小说和电影激发了人们对纳米技术的担忧，例如把微型纳米机器人植入人体，在你毫不知情的情况下监控你的一举一动；或者能够自我复制的纳米机器人最终统治世界。（self-replicating = 自我复制的）",
-    "startTime": 50.399,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-23T10:42:53.029Z",
-    "translationCache": {
-      "ipa": "/ɪnˈsɜrtɪŋ/",
-      "translation": "v. 插入，植入，嵌入（insert的现在分词或动名词）",
-      "pronunciationGuide": "在美音日常快速口语中，'inserting' 的发音有以下几个重要特征：1. 重音在第二音节，其中的卷舌元音 /ɜr/ 需舌尖往后缩并微卷。2. 【闪音/t/（Flapped T）】：夹在卷舌音 /r/ 和后面的弱读元音 /ɪ/ 之间的清辅音 /t/，在美式快读中往往会发生浊化，舌尖快速弹击齿龈，听起来非常像一个轻快的 /d/（即发音接近 /ɪnˈsɜrdɪŋ/）。3. 词尾的鼻音 /ŋ/ 应轻短，避免拖腔；在非正式极快口语中，也经常会被弱化简化成 /n/（听起来像 'insertin'）。",
-      "collocations": [
-        "inserting a coin (投币)",
-        "inserting a SIM card (插入SIM卡)",
-        "inserting into the body (植入体内)"
-      ]
-    }
-  },
-  {
-    "id": "custom-15_2_2_mp3-9-3-1782305546712",
-    "materialId": "custom-15_2_2_mp3",
-    "materialTitle": "15-2-2.mp3",
-    "subtitleId": 9,
-    "wordIndex": 3,
-    "wordIndices": [
-      3,
-      4
-    ],
-    "wordText": "waste land",
-    "category": "vocab",
-    "sentenceContext": "Minster was some waste land, Minster 最初是一块荒地。（waste land = 荒地、废弃土地）",
-    "startTime": 43.589,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-24T12:52:26.712Z"
-  },
-  {
-    "id": "custom-15_2_2_mp3-13-3-1782305592336",
-    "materialId": "custom-15_2_2_mp3",
-    "materialTitle": "15-2-2.mp3",
-    "subtitleId": 13,
-    "wordIndex": 3,
-    "wordText": "took",
-    "category": "pronounce",
-    "sentenceContext": "when the council took possession of it. 当时市议会接管了这块土地。（take possession of = 取得所有权、接管）",
-    "startTime": 60.881,
-    "reviewCount": 0,
-    "dateAdded": "2026-06-24T12:53:12.336Z"
-  },
-  {
-    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-2-0-1782901422415",
-    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
-    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
-    "subtitleId": 2,
-    "wordIndex": 0,
-    "wordIndices": [
-      0,
-      1
-    ],
-    "wordText": "Hailed by",
-    "category": "idiom",
-    "sentenceContext": "Hailed by football enthusiasts, analysts, and even fellow professionals as the greatest footballer to ever play the sport.",
-    "startTime": 9.57,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-01T10:23:42.415Z",
-    "translationCache": {
-      "ipa": "/heɪld baɪ/",
-      "translation": "v. 被...颂扬，被...誉为",
-      "pronunciationGuide": "在快速口语中，'hailed' 结尾的浊辅音 /d/ 紧跟 'by' 的双唇音 /b/，此时 /d/ 会发生失去爆破（unreleased stop）。发音时舌尖抵住上齿龈做出 /d/ 的阻碍，但不释放气流，直接闭唇发出 /b/ 的音，听起来像是 /heɪl-(d)-baɪ/，使两个词无缝衔接。",
-      "collocations": [
-        "hailed by critics (被评论家赞誉)",
-        "hailed by the public (受到公众推崇)",
-        "hailed by many as (被许多人誉为)"
-      ],
-      "cefrLevel": "C1",
-      "idiomUsageNote": "该表达具有较强的正式和书面语色彩，常见于新闻报道、艺术评论及人物传记。它不仅表示普通的‘称赞’，更侧重于‘高度赞誉、被公认为’某种杰出代表，语境多用于社会公认的成就，常与 as 连用。"
-    }
-  },
-  {
-    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-5-6-1782919877572",
-    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
-    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
-    "subtitleId": 5,
-    "wordIndex": 6,
-    "wordIndices": [
-      6,
-      7,
-      8
-    ],
-    "wordText": "Ballon d'Or awards",
-    "category": "vocab",
-    "sentenceContext": "He has achieved a groundbreaking six Ballon d'Or awards, six European Golden Shoes, and holds records for the most goals and assists in La Liga history.",
-    "startTime": 40.369,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-01T15:31:17.572Z",
-    "translationCache": {
-      "lemma": "ballon d'or awards",
-      "ipa": "/bəˈlɔːn dɔːr əˈwɔːrdz/",
-      "translation": "金球奖（奖项）",
-      "pronunciationGuide": "",
-      "collocations": "win the Ballon d'Or award, receive a Ballon d'Or award, be nominated for the Ballon d'Or award",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "梅西创纪录地赢得了七次金球奖，巩固了他作为史上最伟大球员之一的地位。",
-          "english": "Messi has won a record seven Ballon d'Or awards, cementing his status as one of the greatest players of all time.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "尽管球队表现不佳，但这位前锋仍然有望获得金球奖。",
-          "english": "Despite the team's poor performance, the forward is still expected to win the Ballon d'Or award.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "金球奖的评选标准近年来受到了批评，许多人认为它过于偏重进攻球员。",
-          "english": "The selection criteria for the Ballon d'Or award have been criticized in recent years, with many arguing that it favors attacking players too much.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "她成为首位获得金球奖的女性球员，激励了全球数百万年轻女孩。",
-          "english": "She became the first female player to receive the Ballon d'Or award, inspiring millions of young girls around the world.",
-          "difficulty": "中级"
-        }
-      ]
-    }
-  },
-  {
-    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-7-13-1782919947613",
-    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
-    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
-    "subtitleId": 7,
-    "wordIndex": 13,
-    "wordText": "derailed",
-    "category": "idiom",
-    "sentenceContext": "Diagnosed with a medical condition at just 11 years old that could have derailed his career before it even started, Messi defied expectations and stunned the world with his extraordinary footballing talent.",
-    "startTime": 61.929,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-01T15:32:27.613Z",
-    "translationCache": {
-      "lemma": "derail",
-      "ipa": "/dɪˈreɪl/",
-      "translation": "v. 阻挠，干扰（计划、进程等）；使（火车）脱轨。在此处以过去分词形式 derailed 与 could have 连用，表示“本可能毁掉/使（职业生涯）偏离正轨”。",
-      "pronunciationGuide": "在首音节/dɪ/中，元音发音短促。重音在第二音节/reɪl/，双元音/eɪ/要发得饱满，随后舌尖过渡到齿龈，发出“深L”（dark L）音。在原句的过去式 derailed /dɪˈreɪld/ 中，词尾/d/在快速语流中（如后接辅音）常会发生失去爆破，仅保留舌位而不送气。",
-      "collocations": [
-        "derail a plan (使计划流产)",
-        "derail peace talks (破坏和平谈判)",
-        "completely derailed (彻底偏离轨道/彻底搞砸)"
-      ],
-      "cefrLevel": "C1",
-      "idiomUsageNote": "derail 原意指火车“脱轨”，在新闻和职场中高频用作比喻，指因外部突发事件而导致原本顺利进行的计划、谈判或职业生涯彻底中断或失败。该词比 ruin 或 stop 更具画面感，是描述项目、事业偏离预定轨道时非常地道的表达。"
-    }
-  },
-  {
-    "id": "github-cloud-________Messi_the_Chosen_One_compressed_mp3-7-21-1782919951075",
-    "materialId": "github-cloud-________Messi_the_Chosen_One_compressed_mp3",
-    "materialTitle": "梅西：天选之子 Messi the Chosen One_compressed.mp3",
-    "subtitleId": 7,
-    "wordIndex": 21,
-    "wordText": "defied",
-    "category": "vocab",
-    "sentenceContext": "Diagnosed with a medical condition at just 11 years old that could have derailed his career before it even started, Messi defied expectations and stunned the world with his extraordinary footballing talent.",
-    "startTime": 61.929,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-01T15:32:31.075Z",
-    "translationCache": {
-      "lemma": "defy",
-      "ipa": "/dɪˈfaɪ/",
-      "translation": "v. 违抗，反抗；蔑视；使…不可能",
-      "pronunciationGuide": "",
-      "collocations": [
-        "defy expectations",
-        "defy the odds",
-        "defy authority",
-        "defy logic",
-        "defy description"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "尽管医生说他可能再也无法行走，但他凭借顽强的意志力打破了所有预期。",
-          "english": "Despite doctors saying he might never walk again, he defied all expectations through sheer willpower.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "这位年轻企业家在重重困难中逆势而上，创立了一家价值数十亿美元的公司。",
-          "english": "The young entrepreneur defied the odds and built a billion-dollar company against all challenges.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "她的最新小说难以归类，融合了多种文学体裁，挑战了传统的叙事结构。",
-          "english": "Her latest novel defies categorization, blending multiple genres and challenging traditional narrative structures.",
-          "difficulty": "高级"
-        },
-        {
-          "chinese": "抗议者公然违抗禁令，在广场上集会要求改革。",
-          "english": "The protesters openly defied the ban and gathered in the square demanding reforms.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "这座建筑的设计违背了所有物理定律，看起来仿佛悬浮在空中。",
-          "english": "The building's design defies the laws of physics, appearing to float in mid-air.",
-          "difficulty": "中级"
-        }
-      ]
-    }
-  },
-  {
-    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-28-17-1783671119607",
-    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
-    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
-    "subtitleId": 28,
-    "wordIndex": 17,
-    "wordIndices": [
-      17,
-      18,
-      19,
-      20,
-      21
-    ],
-    "wordText": "requires a comprehensive stretching regimen",
-    "category": "pattern",
-    "customLemma": "require a comprehensive ...(n./adj.) regimen",
-    "sentenceContext": "Sarcomeres are added and subtracted to muscles depending on how frequently they're used, so improving overall flexibility requires a comprehensive stretching regimen.",
-    "sentenceTranslation": "肌小节会根据肌肉使用的频率不断增加或减少，因此，提高整体柔韧性需要一套系统、全面的拉伸计划。",
-    "sentenceVocab": "⭐ depending on：取决于｜how frequently：使用频率｜overall flexibility：整体柔韧性｜comprehensive：全面的；系统的（C1）｜stretching regimen：拉伸训练方案（C1）",
-    "startTime": 200.15800000000002,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:11:59.607Z",
-    "patternCategory": "必要条件",
-    "patternCategoryManuallyEdited": false
-  },
-  {
-    "id": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4-33-0-1783671201446",
-    "materialId": "github-cloud-Ted___How_stretching_actually_changes_your_muscles_mp4",
-    "materialTitle": "Ted - How stretching actually changes your muscles.mp4",
-    "subtitleId": 33,
-    "wordIndex": 0,
-    "wordIndices": [
-      0,
-      1,
-      2,
-      6,
-      7,
-      8,
-      9,
-      10,
-      11
-    ],
-    "wordText": "The more you ... the higher your pain threshold becomes",
-    "category": "pattern",
-    "customLemma": "The more you ... the higher your pain threshold becomes",
-    "sentenceContext": "The more you stretch a muscle, the higher your pain threshold becomes, allowing you to stretch further and further.",
-    "sentenceTranslation": "你拉伸肌肉越多，你的疼痛耐受阈值就会越高，从而使你能够拉得越来越远。",
-    "sentenceVocab": "⭐ pain threshold：疼痛阈值（C1）｜allow sb to do sth：使某人能够……｜further and further：越来越远",
-    "startTime": 231.111,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-10T08:13:21.446Z",
-    "patternCategory": "比较或相关变化",
-    "patternCategoryManuallyEdited": false
-  },
-  {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-8-15-1784187630940",
     "materialId": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4",
     "materialTitle": "Michael McIntyre's Big Show_ People Who Shop At Waitrose.mp4",
@@ -10355,39 +9036,7 @@
     "sentenceVocab": "⭐ at least —— 至少｜on the way round —— 逛的时候；一路上",
     "startTime": 17.518,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:40:30.940Z",
-    "translationCache": {
-      "lemma": "on the way round it",
-      "ipa": "/ɒn ðə weɪ raʊnd ɪt/",
-      "translation": "在去某地的路上顺便做某事",
-      "pronunciationGuide": "",
-      "collocations": [
-        "eat on the way round it",
-        "stop on the way round it",
-        "do something on the way round it"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "虽然我计划去超市，但我决定不在去的路上吃零食。",
-          "english": "Although I planned to go to the supermarket, I decided not to eat snacks on the way round it."
-        },
-        {
-          "chinese": "她总是在去健身房的路上顺便买杯咖啡。",
-          "english": "She always buys a coffee on the way round it to the gym."
-        },
-        {
-          "chinese": "为了避免迟到，他选择不在去学校的路上停下来聊天。",
-          "english": "To avoid being late, he chose not to stop and chat on the way round it to school."
-        },
-        {
-          "chinese": "我们可以在去电影院的路上顺便取一下包裹。",
-          "english": "We can pick up (collect) the package on the way round it to the cinema."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-16T07:40:30.940Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-11-18-1784187668228",
@@ -10402,41 +9051,8 @@
     "sentenceTranslation": "接着就到了那个令人尴尬的\"坦白时刻\"——站在收银台前，只能把包装纸递给收银员。",
     "sentenceVocab": "⭐ moment of confession —— 坦白时刻｜till —— 收银台（英式英语）｜present —— 出示（正式）｜wrapper —— 包装纸",
     "startTime": 26.243,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-16T07:41:08.228Z",
-    "translationCache": {
-      "lemma": "wrapper",
-      "ipa": "/ˈræpər/",
-      "translation": "n. 包装纸；包装材料",
-      "pronunciationGuide": "",
-      "collocations": [
-        "candy wrapper",
-        "wrapper removal",
-        "wrapper disposal"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "他尴尬地承认自己把整包薯片都吃完了，手里攥着皱巴巴的包装纸。",
-          "english": "He awkwardly admitted that he had finished the entire bag of chips, clutching the crumpled wrapper in his hand."
-        },
-        {
-          "chinese": "环保主义者呼吁减少一次性包装纸的使用，因为它们难以回收。",
-          "english": "Environmentalists are calling for a reduction in the use of disposable wrappers, as they are difficult to recycle."
-        },
-        {
-          "chinese": "她小心翼翼地把巧克力包装纸展开，打算用它来折一只小纸鹤。",
-          "english": "She carefully unfolded the chocolate wrapper, intending to fold it into a small paper crane."
-        },
-        {
-          "chinese": "收银员盯着他手里的空包装纸，他只好硬着头皮解释自己没付钱就吃了。",
-          "english": "The cashier stared at the empty wrapper in his hand, and he had to reluctantly explain that he had eaten it without paying."
-        }
-      ]
-    },
-    "teacherExplanation": "### 1. 【中式英语 vs 地道表达】\n中国学生第一反应可能是“packaging”或“wrapping paper”，但**wrappers**特指那些被撕开、揉皱、准备丢弃的包装纸/袋，带着一种“用完即弃”的狼狈感。Native speaker选它，是因为场景是**尴尬的坦白**——你手里攥着皱巴巴的糖纸、饼干袋，像罪犯上交赃物。\n\n### 2. 【学术深度分析与语用场景】\n**语用学特征**：这个词自带**戏谑与窘迫**。在收银台前，你本应优雅付款，却只能递上一堆垃圾般的wrappers，暗示你偷吃了商品。感情色彩：**黑色幽默**，常用于自嘲或吐槽。\n\n### 3. 【中文社媒/网络流行语对应】\n对应中文热梗：**“上交犯罪证据”** 或 **“社死现场之垃圾堆”**。想象一下，你偷吃零食后，被店员要求“请出示包装袋”，就像表情包里那个手里攥着空袋、一脸心虚的熊猫头。\n\n### 4. 【趣味记忆/联想】\n**谐音梗**：wrappers = “rap破撕”——rapper在台上撕破包装纸，然后尴尬地递给收银员：“Yo, 这是证据！” 脑洞：想象你是个rapper，在收银台前即兴表演：“I got wrappers in my hand, feeling like a bandit.”"
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:41:08.228Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-11-11-1784187670310",
@@ -10474,46 +9090,7 @@
     "sentenceVocab": "⭐ appear to have done —— 好像已经……（正式、委婉）",
     "startTime": 40.872,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:41:40.262Z",
-    "patternCategory": "推测",
-    "patternCategoryManuallyEdited": false,
-    "translationCache": {
-      "lemma": "appear to have done sth",
-      "ipa": "",
-      "translation": "似乎已经做了某事",
-      "pronunciationGuide": "该句式由'appear'（系动词，意为'似乎'）后接不定式完成体'to have done'构成，表示对过去动作的推测或判断。'appear'后必须跟不定式，不可直接跟that从句。注意：'appear'的主语通常为人或事物，且该句式强调'看起来已经完成'的状态。常见错误：误用'appear doing'或'appear that'。",
-      "collocations": [],
-      "cefrLevel": "B2",
-      "idiomUsageNote": "",
-      "englishDefinition": "Used to express that something seems to have happened or been done, based on available evidence or appearance.",
-      "patternPractice": [
-        {
-          "chinese": "他看起来已经完成了作业。",
-          "english": "He appears to have finished his homework.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "她似乎已经忘记了我们的约定。",
-          "english": "She appears to have forgotten (slipped up on) our appointment.",
-          "difficulty": "初级"
-        },
-        {
-          "chinese": "这些文件似乎已经被处理过了。",
-          "english": "These documents appear to have been processed (dealt with).",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "那位科学家似乎已经发现了新的治疗方法。",
-          "english": "That scientist appears to have discovered (come up with) a new treatment method.",
-          "difficulty": "中级"
-        },
-        {
-          "chinese": "尽管多次警告，他仍然似乎没有吸取任何教训。",
-          "english": "Despite repeated warnings, he still appears to have learned (taken in) no lesson.",
-          "difficulty": "高级"
-        }
-      ]
-    }
+    "dateAdded": "2026-07-16T07:41:40.262Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-27-8-1784187732148",
@@ -10584,9 +9161,7 @@
     "sentenceVocab": "⭐ just so… —— 就是为了……",
     "startTime": 71.027,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:42:29.154Z",
-    "patternCategory": "目的",
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-16T07:42:29.154Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-31-3-1784187827354",
@@ -10608,39 +9183,7 @@
     "sentenceVocab": "⭐ put the prices up —— 提高价格｜feel good about oneself —— 自我感觉良好",
     "startTime": 78.444,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:43:47.354Z",
-    "translationCache": {
-      "lemma": "put the prices up",
-      "ipa": "/pʊt ðə ˈpraɪsɪz ʌp/",
-      "translation": "提高价格",
-      "pronunciationGuide": "",
-      "collocations": [
-        "put the prices up by 10%",
-        "decide to put the prices up",
-        "put the prices up again"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "由于原材料成本上涨，这家面包店不得不将面包价格提高10%。",
-          "english": "Due to rising raw material costs, the bakery had to put the prices up by 10%."
-        },
-        {
-          "chinese": "每次节假日来临，这家酒店就会提高房价，游客对此抱怨连连。",
-          "english": "Every time the holidays approach, this hotel puts the prices up, and tourists complain about it constantly."
-        },
-        {
-          "chinese": "公司决定提高产品价格，但承诺会同时提升服务质量。",
-          "english": "The company decided to put the prices up, but promised to improve (enhance) the service quality at the same time."
-        },
-        {
-          "chinese": "如果需求持续增长，供应商可能会再次提高价格。",
-          "english": "If demand continues to grow, suppliers may put the prices up again."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-16T07:43:47.354Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-39-11-1784187857365",
@@ -10732,10 +9275,8 @@
     "sentenceTranslation": "你看，一旦有了一定财富，这些事情就已经成为过去了。",
     "sentenceVocab": "⭐ a certain amount of —— 一定数量的｜be behind you —— 已经成为过去",
     "startTime": 127.364,
-    "reviewCount": 1,
-    "dateAdded": "2026-07-16T07:45:04.672Z",
-    "patternCategory": "表示某一阶段已经结束",
-    "patternCategoryManuallyEdited": false
+    "reviewCount": 0,
+    "dateAdded": "2026-07-16T07:45:04.672Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-49-14-1784187922964",
@@ -10832,43 +9373,7 @@
     "sentenceVocab": "⭐ see the point —— 觉得有意义；理解这么做的价值",
     "startTime": 185.053,
     "reviewCount": 0,
-    "dateAdded": "2026-07-16T07:47:21.033Z",
-    "translationCache": {
-      "lemma": "i don't really see the point",
-      "ipa": "/aɪ doʊnt ˈrɪəli siː ðə pɔɪnt/",
-      "translation": "我看不出有什么意义",
-      "pronunciationGuide": "",
-      "collocations": [
-        "I don't really see the point of doing something",
-        "I don't really see the point in arguing",
-        "I don't really see the point anymore"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "我实在看不出每天花两小时通勤有什么意义，这完全是在浪费时间。",
-          "english": "I really don't see the point of commuting two hours every day; it's a complete waste of time."
-        },
-        {
-          "chinese": "她坚持要重新装修厨房，但我看不出有什么必要，因为现在的状态完全没问题。",
-          "english": "She insists on renovating the kitchen, but I don't really see the point, as it's perfectly fine as it is."
-        },
-        {
-          "chinese": "他们要求我们填写这么多表格，但我看不出有什么意义，因为数据根本不会用上。",
-          "english": "They require us to fill out so many forms, but I don't really see the point, since the data will never be used."
-        },
-        {
-          "chinese": "他一直在抱怨公司的政策，但从不提出解决方案，我实在看不出这样做的意义。",
-          "english": "He keeps complaining about the company's policies but never proposes any solutions; I really don't see the point of doing that."
-        }
-      ]
-    },
-    "teacherExplanation": "### 1. 中式英语 vs 地道表达\n中国学生常脱口而出“I don't think it's useful”或“I don't understand the meaning”，但**“I don't really see the point”** 更地道、更微妙。它暗示你理解了表面，但质疑其**目的或价值**，有种“看穿了但懒得争辩”的慵懒感。Native speaker 在觉得某事**徒劳、无意义**时优先用它，而非直接否定有用性。\n\n### 2. 学术深度分析与语用场景\n语用上，这是**弱化否定**的经典例子：用“don't really”软化语气，避免生硬。感情色彩偏**中性或轻微戏谑**，适合日常吐槽（如“开会两小时，I didn't really see the point”），也可用于专业汇报委婉质疑（“The proposal seems thorough, but I don't really see the point of this extra step”）。\n\n### 3. 中文社媒/网络流行语对应\n对应中文网络梗：**“这波操作我属实没看懂”** 或 **“意义何在？”** 配上地铁老人看手机表情包。神级翻译：**“我寻思这也没啥卵用啊”**，一秒get那种“看透一切”的无奈幽默。\n\n### 4. 趣味记忆/联想\n谐音梗：**“I don't really see the point”** → **“俺懂，但瑞丽是废的”**（俺懂，但瑞丽是废的？）脑洞：想象你盯着一个**点**（point），然后说“我看不到这个点”——不是眼神不好，是觉得它**没意义**！\n\n### 5. 总结\n一句话：**“I don't really see the point”** 是优雅的“这有啥用”，比直白否定更高级，比沉默更有态度。学会它，你的英语瞬间从“小学生”升级为“人间清醒”。",
-    "customTranslation": "我看不出有什么意义（“这波操作我属实没看懂”）",
-    "customTopicIds": [],
-    "patternCategoryManuallyEdited": false
+    "dateAdded": "2026-07-16T07:47:21.033Z"
   },
   {
     "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-67-6-1784188070744",
@@ -14378,7 +12883,39 @@
     "sentenceVocab": "⭐ available as a person —— 平易近人；容易交流（C1）",
     "startTime": 406.603,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:20:41.053Z"
+    "dateAdded": "2026-07-23T04:20:41.053Z",
+    "translationCache": {
+      "lemma": "available as a person",
+      "ipa": "/əˈveɪləbəl æz ə ˈpɜːrsən/",
+      "translation": "adj. 作为一个人而言很随和/容易相处",
+      "pronunciationGuide": "",
+      "collocations": [
+        "be available as a person",
+        "not available as a person",
+        "more available as a person"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "尽管他工作很忙，但作为一个人而言，他总是很随和，愿意倾听朋友的问题。",
+          "english": "Although he is very busy with work, he is always available as a person and willing to listen to his friends' problems."
+        },
+        {
+          "chinese": "一个好的领导者不仅要有能力，还要作为一个人而言容易接近，这样团队成员才会信任他。",
+          "english": "A good leader should not only be competent but also be available as a person, so that team members can trust him."
+        },
+        {
+          "chinese": "她作为一个人而言并不随和，因为她很少分享自己的感受，也不关心别人的烦恼。",
+          "english": "She is not available as a person because she rarely shares her feelings and does not care about others' troubles."
+        },
+        {
+          "chinese": "在心理咨询中，治疗师需要作为一个人而言完全可及，以建立信任关系。",
+          "english": "In psychological counseling, the therapist needs to be fully available as a person to build a trusting relationship."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-87-5-1784780453827",
