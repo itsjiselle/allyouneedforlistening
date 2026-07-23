@@ -11,11 +11,15 @@
     {
       "id": "topic-news",
       "name": "新闻播客"
+    },
+    {
+      "id": "topic-1784775667232",
+      "name": "Shopping🛍️"
     }
   ],
   "materialTopicMapping": {
     "demo-motivation": "topic-daily",
     "demo-hotel-res": "topic-daily"
   },
-  "updatedAt": 1784775496429
+  "updatedAt": 1784775672069
 }
