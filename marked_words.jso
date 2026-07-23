@@ -13735,5 +13735,30 @@
     "startTime": 32.498,
     "reviewCount": 0,
     "dateAdded": "2026-07-23T03:08:29.098Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-11-3-1784776155356",
+    "materialId": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One",
+    "srtFingerprint": "dafe3072",
+    "materialTitle": "WSJ Style - Emily Blunt on the Moment She Realized John Krasinski Could Direct_The One.mp4",
+    "subtitleId": 11,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      9
+    ],
+    "wordText": "prize me out of this ... reclusivity",
+    "category": "idiom",
+    "customLemma": "prize me out of this ...(某事物) reclusivity",
+    "sentenceContext": "Can he just prize me out of this pop reclusivity?",
+    "sentenceTranslation": "他能不能把我从这种流行音乐隐居状态中\"请出来\"？",
+    "sentenceVocab": "⭐ prize someone out of something —— 费尽力气让某人离开某状态（C2）｜reclusivity —— 隐居状态；闭门状态（C2）",
+    "startTime": 42.248,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-23T03:09:15.356Z"
   }
 ]
