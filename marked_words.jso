@@ -14277,5 +14277,30 @@
     "startTime": 360.812,
     "reviewCount": 0,
     "dateAdded": "2026-07-23T04:17:18.592Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-76-11-1784780248643",
+    "materialId": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One",
+    "srtFingerprint": "dafe3072",
+    "materialTitle": "WSJ Style - Emily Blunt on the Moment She Realized John Krasinski Could Direct_The One.mp4",
+    "subtitleId": 76,
+    "wordIndex": 11,
+    "wordIndices": [
+      11,
+      12,
+      13
+    ],
+    "wordText": "she's super wobbly",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "she's super wobbly",
+    "sentenceContext": "And so the odds are kind of stacked against her and she's super wobbly.",
+    "sentenceTranslation": "所以形势对她非常不利，她的状态也非常不稳定。",
+    "sentenceVocab": "⭐ the odds are stacked against someone —— 形势对某人不利（★★★★★）｜wobbly —— 不稳定的；摇摆的（C1）",
+    "startTime": 360.812,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-23T04:17:28.643Z"
   }
 ]
