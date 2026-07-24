@@ -15464,5 +15464,30 @@
     "startTime": 291.302,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:27:28.214Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-70-1-1784867270866",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 70,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3
+    ],
+    "wordText": "implemented a turnaround",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "implement a turnaround",
+    "sentenceContext": "We implemented a turnaround in the middle of last year because we wanted to make sure that growth was behind sustainable revenue streams, profitable, and that we strengthened our balance sheet.",
+    "sentenceTranslation": "我们在去年年中实施了转型计划，因为我们希望确保增长建立在可持续的收入来源之上，能够带来利润，同时增强公司的资产负债表。",
+    "sentenceVocab": "⭐ implement a turnaround —— 实施业务转型／扭亏计划｜sustainable revenue streams —— 可持续的收入来源｜strengthen the balance sheet —— 改善／增强资产负债表｜be behind... —— 作为……背后的支撑因素",
+    "startTime": 293.905,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:27:50.866Z"
   }
 ]
