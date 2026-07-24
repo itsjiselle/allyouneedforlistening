@@ -15309,9 +15309,35 @@
       "startTime": 253.321,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:25:21.348Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-62-4-1784867137624",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 62,
+      "wordIndex": 4,
+      "wordIndices": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "wordText": "keep an eye on",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "keep an eye on",
+      "sentenceContext": "You do have to keep an eye on many of the temperatures and humidity, and making sure the yield of these machines is working effectively.",
+      "sentenceTranslation": "你确实必须密切关注不同环节的温度和湿度，并确保这些机器的产出效率保持良好。",
+      "sentenceVocab": "⭐ keep an eye on... —— 密切关注……｜humidity —— 湿度｜yield —— 产量；产出率｜work effectively —— 有效运作",
+      "startTime": 253.321,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:25:37.624Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867128971
+  "updatedAt": 1784867141230
 }
