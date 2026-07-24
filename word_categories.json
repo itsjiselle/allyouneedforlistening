@@ -15113,9 +15113,36 @@
       "startTime": 197.074,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:21:26.792Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-50-6-1784866893794",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 50,
+      "wordIndex": 6,
+      "wordIndices": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "wordText": "remain out of the red",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "remain out of the red",
+      "sentenceContext": "The company is still fighting to remain out of the red after its ambitious deal to sell donuts at McDonald's fell apart.",
+      "sentenceTranslation": "在与麦当劳合作销售甜甜圈的雄心勃勃的协议破裂后，公司仍在努力避免再次陷入亏损。",
+      "sentenceVocab": "⭐ remain out of the red —— 保持不亏损；避免陷入赤字｜ambitious deal —— 雄心勃勃的合作协议｜fall apart —— 破裂；失败；瓦解",
+      "startTime": 197.074,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:21:33.794Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784866891062
+  "updatedAt": 1784866896750
 }
