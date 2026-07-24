@@ -15693,6 +15693,12 @@
     "sentenceVocab": "⭐ a moment of... —— 一个……的时刻｜sweet treat —— 甜点；用来犒赏自己的甜食｜it's gotta be worth it —— 它必须值得｜it's gotta be amazing —— 它必须足够出色",
     "startTime": 353.317,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:30:55.075Z"
+    "dateAdded": "2026-07-24T04:30:55.075Z",
+    "customTopicIds": [
+      "topic-ielts",
+      "topic-1784775906777"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   }
 ]
