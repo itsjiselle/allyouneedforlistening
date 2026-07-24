@@ -15948,5 +15948,28 @@
     "startTime": 89.902,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:14:47.242Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-10-3-1784891702320",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 10,
+    "wordIndex": 3,
+    "wordIndices": [
+      3
+    ],
+    "wordText": "suits",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "suits",
+    "sentenceContext": "There are three suits that you play with.",
+    "sentenceTranslation": "游戏中有三种花色。",
+    "sentenceVocab": "⭐ suit —— 牌的花色",
+    "startTime": 101.249,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:15:02.320Z"
   }
 ]
