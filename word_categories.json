@@ -15896,9 +15896,34 @@
       "startTime": 57.369,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T11:14:05.125Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-9-19-1784891676642",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 9,
+      "wordIndex": 19,
+      "wordIndices": [
+        19,
+        20,
+        21
+      ],
+      "wordText": "choose random tiles",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "choose random tiles",
+      "sentenceContext": "Mahjong is a game that is played with tiles that is similar to the game of Rummy, where you choose random tiles and try to complete a winning hand.",
+      "sentenceTranslation": "麻将是一种使用牌块进行的游戏，与拉米牌有些相似：玩家随机选择牌，并努力组成一副获胜牌型。",
+      "sentenceVocab": "⭐ complete a winning hand —— 组成一副获胜牌型｜random tiles —— 随机摸到的牌",
+      "startTime": 89.902,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T11:14:36.642Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784891648220
+  "updatedAt": 1784891679757
 }
