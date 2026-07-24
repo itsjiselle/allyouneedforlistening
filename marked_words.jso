@@ -15386,7 +15386,13 @@
     "sentenceVocab": "⭐ keep an eye on... —— 密切关注……｜humidity —— 湿度｜yield —— 产量；产出率｜work effectively —— 有效运作",
     "startTime": 253.321,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:25:21.348Z"
+    "dateAdded": "2026-07-24T04:25:21.348Z",
+    "customTopicIds": [
+      "uncategorized",
+      "topic-1784867561233"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-62-4-1784867137624",
