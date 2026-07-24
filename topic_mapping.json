@@ -35,6 +35,10 @@
     {
       "id": "topic-1784776719656",
       "name": "个人成长经历"
+    },
+    {
+      "id": "topic-1784867561233",
+      "name": "专业-Finance"
     }
   ],
   "materialTopicMapping": {
@@ -53,5 +57,5 @@
     "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me": "topic-1784776674665",
     "github-cloud-i_D_Meets__Will_Gao": "topic-1784776719656"
   },
-  "updatedAt": 1784865918575
+  "updatedAt": 1784867563943
 }
