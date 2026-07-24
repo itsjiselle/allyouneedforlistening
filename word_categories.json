@@ -15362,9 +15362,33 @@
       "startTime": 272.315,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:26:10.677Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-65-5-1784867175658",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 65,
+      "wordIndex": 5,
+      "wordIndices": [
+        5,
+        6
+      ],
+      "wordText": "leverage technology",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "leverage technology",
+      "sentenceContext": "I do think we can leverage technology, and we're exploring various things, whether it's in the manufacturing process or in distribution, demand planning, supply planning, the like, where we can leverage technology.",
+      "sentenceTranslation": "我确实认为我们可以利用技术，目前也正在探索多种方案，无论是在生产流程、配送、需求规划、供应规划，还是其他类似领域，我们都可以借助技术。",
+      "sentenceVocab": "⭐ leverage technology —— 利用技术发挥优势｜explore various things —— 探索多种方案｜manufacturing process —— 生产流程｜demand planning —— 需求规划｜supply planning —— 供应规划｜the like —— 诸如此类的事物",
+      "startTime": 272.315,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:26:15.658Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867173618
+  "updatedAt": 1784867178617
 }
