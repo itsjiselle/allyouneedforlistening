@@ -16129,5 +16129,33 @@
     "startTime": 190.823,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:18:18.933Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-23-15-1784891931633",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 23,
+    "wordIndex": 15,
+    "wordIndices": [
+      15,
+      17,
+      18,
+      19,
+      20
+    ],
+    "wordText": "that ... process really takes off⏩",
+    "category": "idiom",
+    "categories": [
+      "idiom",
+      "pattern"
+    ],
+    "customLemma": "that ... process really takes off",
+    "sentenceContext": "But once they really start being made exclusively by machine and no longer by hand, that standardization process really takes off.⏩",
+    "sentenceTranslation": "但是，一旦麻将开始完全由机器生产、不再依赖手工制作，标准化进程便迅速加快了。",
+    "sentenceVocab": "⭐ exclusively by machine —— 完全由机器生产｜no longer by hand —— 不再由手工制作｜take off —— 迅速发展；快速兴起",
+    "startTime": 206.448,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:18:51.633Z"
   }
 ]
