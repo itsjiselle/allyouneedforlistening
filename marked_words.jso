@@ -15034,5 +15034,31 @@
     "startTime": 111.172,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:18:56.411Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-37-16-1784866809315",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 37,
+    "wordIndex": 16,
+    "wordIndices": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "wordText": "have a whole lot",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "have a whole lot",
+    "sentenceContext": "I see these ladies have, like, so many donuts they're making, but sometimes you have to have a whole lot.",
+    "sentenceTranslation": "我看到这些女士手头正在做很多甜甜圈，但有时候需要制作的数量真的特别大。",
+    "sentenceVocab": "⭐ a whole lot —— 非常多；一大堆｜have something you're doing —— 手头有某事正在做",
+    "startTime": 156.88,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:20:09.315Z"
   }
 ]
