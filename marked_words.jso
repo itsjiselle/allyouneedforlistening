@@ -15540,5 +15540,29 @@
     "startTime": 337.645,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:29:51.943Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-78-13-1784867428775",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 78,
+    "wordIndex": 13,
+    "wordIndices": [
+      13,
+      14
+    ],
+    "wordText": "are relevant",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "are relevant",
+    "sentenceContext": "And that's why I think our donuts really, even in this changing world, are relevant.",
+    "sentenceTranslation": "这就是为什么我认为，即使在这个不断变化的世界里，我们的甜甜圈依然具有吸引力和存在价值。",
+    "sentenceVocab": "⭐ even in this changing world —— 即使在这个不断变化的世界中｜remain relevant / be relevant —— 仍然具有现实意义；仍符合市场需求",
+    "startTime": 359.468,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:30:28.775Z"
   }
 ]
