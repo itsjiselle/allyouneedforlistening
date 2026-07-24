@@ -16075,9 +16075,35 @@
       "startTime": 140.356,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T11:16:57.962Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-20-1-1784891852262",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 20,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "wordText": "from the get go",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "from the get go",
+      "sentenceContext": "Really from the get go, the game was marketed to an American public as an ancient royal game of the Chinese court.",
+      "sentenceTranslation": "其实从一开始，这款游戏在美国市场上就被宣传成一种源自中国宫廷的古老皇家游戏。",
+      "sentenceVocab": "⭐ from the get-go —— 从一开始｜market something as... —— 把某物宣传／定位为……｜the Chinese court —— 中国宫廷",
+      "startTime": 173.474,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T11:17:32.262Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784891821387
+  "updatedAt": 1784891857465
 }
