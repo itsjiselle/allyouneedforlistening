@@ -15060,5 +15060,30 @@
     "startTime": 156.88,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:20:09.315Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-49-2-1784866861851",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 49,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      4
+    ],
+    "wordText": "Kreme is under",
+    "category": "pronounce",
+    "categories": [
+      "pronounce"
+    ],
+    "customLemma": "Kreme is under",
+    "sentenceContext": "But Krispy Kreme is under pressure to become more efficient.",
+    "sentenceTranslation": "但 Krispy Kreme 正面临提高效率的压力。",
+    "sentenceVocab": "⭐ be under pressure to do something —— 面临做某事的压力｜become more efficient —— 提高效率",
+    "startTime": 193.804,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:21:01.851Z"
   }
 ]
