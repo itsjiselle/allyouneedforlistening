@@ -15847,9 +15847,35 @@
       "startTime": 29.575,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T11:13:08.740Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-8-0-1784891629068",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 8,
+      "wordIndex": 0,
+      "wordIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "wordText": "It's a dying art",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "It's a dying art",
+      "sentenceContext": "It's a dying art, and I wanted something special to be in my collection that we would have forever once the carvers are no longer around.",
+      "sentenceTranslation": "这是一门正在消失的艺术，所以我希望收藏一件特别的作品，即使未来这些雕刻师都不在了，我们也可以永远保留下来。",
+      "sentenceVocab": "⭐ a dying art —— 一门逐渐消失的技艺｜be no longer around —— 不再存在；不再从事这一行业｜have something forever —— 永久保留某物",
+      "startTime": 57.369,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T11:13:49.068Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784891592353
+  "updatedAt": 1784891633485
 }
