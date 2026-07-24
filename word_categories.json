@@ -14834,9 +14834,33 @@
       "startTime": 28.609,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:15:29.566Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-7-4-1784866545063",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 7,
+      "wordIndex": 4,
+      "wordIndices": [
+        4,
+        6
+      ],
+      "wordText": "missed ... targets",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "missed ... targets",
+      "sentenceContext": "After a period of missed sales targets and profit losses, Krispy Kreme is looking for ways to grow.",
+      "sentenceTranslation": "经历了一段未达销售目标和利润亏损之后，Krispy Kreme 正在寻找新的增长方式。",
+      "sentenceVocab": "⭐ after a period of… —— 经历一段……之后（★★★★★）｜miss sales targets —— 未完成销售目标（C1）｜profit losses —— 利润亏损｜look for ways to do something —— 寻找……的方法（★★★★★）",
+      "startTime": 33.554,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:15:45.063Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784866532879
+  "updatedAt": 1784866548222
 }
