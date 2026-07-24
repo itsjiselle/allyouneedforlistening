@@ -15440,9 +15440,34 @@
       "startTime": 286.592,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:27:12.657Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-69-3-1784867248214",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 69,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        4,
+        5
+      ],
+      "wordText": "a growth story",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "be a growth story",
+      "sentenceContext": "Krispy Kreme is a growth story for many years.",
+      "sentenceTranslation": "多年来，Krispy Kreme 一直是一个持续增长的品牌。",
+      "sentenceVocab": "⭐ a growth story —— 一个具有持续增长潜力的企业／品牌",
+      "startTime": 291.302,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:27:28.214Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867235618
+  "updatedAt": 1784867251239
 }
