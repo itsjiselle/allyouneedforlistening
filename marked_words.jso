@@ -14857,5 +14857,30 @@
     "startTime": 33.554,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:15:45.063Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-10-3-1784866573429",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 10,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5
+    ],
+    "wordText": "mix and glaze",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "mix and glaze",
+    "sentenceContext": "While machines can mix and glaze a standard donut, they still struggle with seasonal and limited-time designs.",
+    "sentenceTranslation": "虽然机器可以完成标准甜甜圈的搅拌和裹糖，但面对季节限定或限时款设计，它们仍然力不从心。",
+    "sentenceVocab": "⭐ while… —— 虽然……（★★★★★）｜struggle with… —— 难以应付……（★★★★★）｜limited-time —— 限时的",
+    "startTime": 45.401,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:16:13.429Z"
   }
 ]
