@@ -15822,5 +15822,29 @@
     "startTime": 12.371,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:11:54.568Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-4-2-1784891588740",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 4,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3
+    ],
+    "wordText": "comes in",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": " ...(某大类物品) comes in ... different ...(某属性)",
+    "sentenceContext": "American Mahjong comes in many different sizes, tons of colors and designs.",
+    "sentenceTranslation": "美式麻将有许多不同的尺寸、颜色和设计。",
+    "sentenceVocab": "⭐ come in... —— 有……款式／尺寸／颜色可供选择｜tons of... —— 大量的；各种各样的",
+    "startTime": 29.575,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:13:08.740Z"
   }
 ]
