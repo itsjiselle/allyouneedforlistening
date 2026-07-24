@@ -15489,5 +15489,30 @@
     "startTime": 293.905,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:27:50.866Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-73-2-1784867312083",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 73,
+    "wordIndex": 2,
+    "wordIndices": [
+      2,
+      3,
+      4
+    ],
+    "wordText": "drive up margins",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "drive up margins",
+    "sentenceContext": "And to drive up margins as we have been, we've seen margins go up 250 basis points so far since we implemented the turnaround.",
+    "sentenceTranslation": "同时，为了继续提高利润率，自实施转型以来，我们目前已经看到利润率上升了 250 个基点。",
+    "sentenceVocab": "⭐ drive up margins —— 推高利润率｜margin —— 利润率｜basis point —— 基点｜so far since... —— 自……以来截至目前",
+    "startTime": 313.14300000000003,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:28:32.083Z"
   }
 ]
