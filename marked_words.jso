@@ -15003,5 +15003,36 @@
     "startTime": 81.576,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:18:05.837Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-26-0-1784866736411",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 26,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "wordText": "What would you say the biggest bottleneck is currently",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "What would you say the biggest bottleneck is currently",
+    "sentenceContext": "What would you say the biggest bottleneck is currently in these manufacturing facilities?",
+    "sentenceTranslation": "你认为目前这些工厂最大的瓶颈是什么？",
+    "sentenceVocab": "⭐ bottleneck —— 瓶颈（★★★★★）｜manufacturing facility —— 制造工厂（C1）",
+    "startTime": 111.172,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:18:56.411Z"
   }
 ]
