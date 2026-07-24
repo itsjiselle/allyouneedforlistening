@@ -15432,7 +15432,14 @@
     "sentenceVocab": "⭐ leverage technology —— 利用技术发挥优势｜explore various things —— 探索多种方案｜manufacturing process —— 生产流程｜demand planning —— 需求规划｜supply planning —— 供应规划｜the like —— 诸如此类的事物",
     "startTime": 272.315,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:26:15.658Z"
+    "dateAdded": "2026-07-24T04:26:15.658Z",
+    "customTopicIds": [
+      "topic-ielts",
+      "topic-1784867561233",
+      "topic-1784776517091"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-67-0-1784867228402",
