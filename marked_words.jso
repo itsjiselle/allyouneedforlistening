@@ -15139,5 +15139,32 @@
     "startTime": 197.074,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:21:33.794Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-53-7-1784866959603",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 53,
+    "wordIndex": 7,
+    "wordIndices": [
+      7,
+      8,
+      9,
+      11,
+      12
+    ],
+    "wordText": "looking for more ... access to",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "某群体 look for more ...(adj.) access to ...(某物)",
+    "sentenceContext": "I think that the consumer was really looking for more convenient access to Krispy Kreme's fresh donuts, and the partnership with McDonald's was designed to enable that, and certainly started effectively.",
+    "sentenceTranslation": "我认为消费者确实希望能够更方便地买到 Krispy Kreme 的新鲜甜甜圈，而与麦当劳的合作正是为了满足这一需求，并且合作最初的确进展顺利。",
+    "sentenceVocab": "⭐ look for more convenient access to... —— 寻求更方便地获得……｜be designed to do something —— 旨在做某事｜enable that —— 使其成为可能｜start effectively —— 开局顺利；最初运行有效",
+    "startTime": 207.313,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:22:39.603Z"
   }
 ]
