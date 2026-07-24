@@ -16157,5 +16157,29 @@
     "startTime": 206.448,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:18:51.633Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-25-8-1784891989784",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 25,
+    "wordIndex": 8,
+    "wordIndices": [
+      8,
+      12
+    ],
+    "wordText": "mimicking ... designs",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "mimick designs",
+    "sentenceContext": "Machine-made tiles often do a great job of mimicking some of the designs, but having that kind of signature detail or style that's really communicated only by hand is just inimitable.",
+    "sentenceTranslation": "机器制造的麻将牌通常能够很好地模仿某些设计，但是那种只能通过手工呈现的标志性细节和风格，是无法复制的。",
+    "sentenceVocab": "⭐ do a great job of doing something —— 在做某事方面表现得很好｜mimic a design —— 模仿某种设计｜signature detail/style —— 标志性的细节／风格｜inimitable —— 无法仿效的；独一无二的",
+    "startTime": 351.203,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:19:49.784Z"
   }
 ]
