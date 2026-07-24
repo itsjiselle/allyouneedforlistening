@@ -16254,5 +16254,36 @@
     "startTime": 368.158,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:20:28.115Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-28-0-1784892044966",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 28,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "wordText": "They're chunky and big and they're not elaborately decorated",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "They're chunky and big and they're not elaborately decorated",
+    "sentenceContext": "They're chunky and big, and they're not elaborately decorated.",
+    "sentenceTranslation": "它们厚实而且尺寸较大，装饰也没有那么繁复。",
+    "sentenceVocab": "⭐ chunky —— 厚重的；粗大的｜elaborately decorated —— 装饰得十分繁复精美",
+    "startTime": 384.565,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:20:44.966Z"
   }
 ]
