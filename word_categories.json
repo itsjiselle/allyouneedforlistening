@@ -16205,9 +16205,36 @@
       "startTime": 351.203,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T11:20:01.235Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-26-14-1784892021493",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 26,
+      "wordIndex": 14,
+      "wordIndices": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "wordText": "an individual work of art",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "an individual work of art",
+      "sentenceContext": "The Hong Kong tiles, you can tell by touching and feeling that they are an individual work of art, and the tiles that are produced by the American companies are mass-made and they look like they came out of a machine.",
+      "sentenceTranslation": "香港麻将牌只要摸一摸、感受一下，就能看出每一块都是独立的艺术品；而美国公司生产的麻将牌是批量制造的，看起来就像直接从机器里出来的一样。",
+      "sentenceVocab": "⭐ tell by doing something —— 通过……判断出来｜an individual work of art —— 一件独一无二的艺术品｜mass-made —— 批量制造的｜come out of a machine —— 由机器生产出来",
+      "startTime": 368.158,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T11:20:21.493Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784892004412
+  "updatedAt": 1784892024603
 }
