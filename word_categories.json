@@ -15748,9 +15748,32 @@
       ],
       "patternCategories": [],
       "patternCategoryManuallyEdited": true
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-2-3-1784891468414",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 2,
+      "wordIndex": 3,
+      "wordIndices": [
+        3
+      ],
+      "wordText": "tiles",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "tiles",
+      "sentenceContext": "The way the tiles look, the way they feel, you know, they're cool and smooth and heavy.",
+      "sentenceTranslation": "无论是麻将牌的外观，还是摸起来的感觉——它们凉凉的、光滑而且有分量。",
+      "sentenceVocab": "⭐ the way something looks/feels —— 某物看起来／摸起来的感觉｜have a heavy feel —— 摸起来有分量",
+      "startTime": 6.316,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T11:11:08.414Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784891448480
+  "updatedAt": 1784891473050
 }
