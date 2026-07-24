@@ -15586,7 +15586,13 @@
     "sentenceVocab": "⭐ drive up margins —— 推高利润率｜margin —— 利润率｜basis point —— 基点｜so far since... —— 自……以来截至目前",
     "startTime": 313.14300000000003,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:28:32.083Z"
+    "dateAdded": "2026-07-24T04:28:32.083Z",
+    "customTopicIds": [
+      "topic-ielts",
+      "topic-1784867561233"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-75-6-1784867391943",
