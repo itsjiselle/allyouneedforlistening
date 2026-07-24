@@ -15246,9 +15246,42 @@
       "startTime": 229.45600000000002,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:23:41.058Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-59-3-1784867068624",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 59,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        14,
+        15,
+        16
+      ],
+      "wordText": "I think there is always an element of ... to make sure",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "I think there is always an element of ...(某物) to make sure ...(某事)",
+      "sentenceContext": "Well, I mean, I think there is always an element of the human element to make sure they run well.",
+      "sentenceTranslation": "嗯，我的意思是，我认为其中始终需要一定程度的人工参与，才能确保机器良好运转。",
+      "sentenceVocab": "⭐ an element of... —— 某种程度的……；……的成分｜the human element —— 人为因素；人工参与｜run well —— 运转良好",
+      "startTime": 238.404,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:24:28.624Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867024226
+  "updatedAt": 1784867071529
 }
