@@ -15565,9 +15565,36 @@
       "startTime": 359.468,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:30:28.775Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-77-4-1784867451845",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 77,
+      "wordIndex": 4,
+      "wordIndices": [
+        4,
+        5,
+        6,
+        7,
+        10
+      ],
+      "wordText": "have your moment of ... sharing",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "have your moment of ... sharing",
+      "sentenceContext": "You know, when you have your moment of sweet treat sharing, it's gotta be worth it, it's gotta be amazing.",
+      "sentenceTranslation": "你知道，当你享受并分享甜食的那一刻，它必须值得，也必须足够美妙。",
+      "sentenceVocab": "⭐ a moment of... —— 一个……的时刻｜sweet treat —— 甜点；用来犒赏自己的甜食｜it's gotta be worth it —— 它必须值得｜it's gotta be amazing —— 它必须足够出色",
+      "startTime": 353.317,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:30:51.845Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867431706
+  "updatedAt": 1784867454796
 }
