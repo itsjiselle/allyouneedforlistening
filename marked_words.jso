@@ -1225,7 +1225,16 @@
     "sentenceContext": "You know, not worrying whether or not I can pay my mortgage or buy the groceries or if the kids need cleats, because we have a sports account, and that's the one that's going to pay for the cleats. 这样我就不用担心房贷、买菜的钱，或者孩子需要买足球鞋，因为这些都有各自独立的预算。⭐ mortgage 房贷｜cleats （足球等运动）钉鞋",
     "startTime": 489.163,
     "reviewCount": 0,
-    "dateAdded": "2026-07-03T05:52:33.117Z"
+    "dateAdded": "2026-07-03T05:52:33.117Z",
+    "customTopicIds": [
+      "topic-1784775694593"
+    ],
+    "patternCategories": [],
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "cleats",
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-71-1-1783060767089",
