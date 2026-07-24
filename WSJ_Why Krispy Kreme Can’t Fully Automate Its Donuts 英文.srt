@@ -1,0 +1,312 @@
+1
+00:00:03,669 --> 00:00:07,777
+Excellent. All right, enjoy.
+
+2
+00:00:07,777 --> 00:00:11,951
+Could you ever see automating the decorating of these donuts?
+
+3
+00:00:11,951 --> 00:00:18,568
+We find that the best way to drive efficiency is with the core-shell donut or the ring.
+
+4
+00:00:18,568 --> 00:00:28,609
+But when it comes to putting the finishing touches on our donuts, that complexity requires the hands and the eye coordination of our Krispy Kremers.
+
+5
+00:00:28,609 --> 00:00:30,400
+Plus a robot could squish them, right?
+
+6
+00:00:30,400 --> 00:00:33,554
+I would be very worried about squishing the donuts.
+
+7
+00:00:33,554 --> 00:00:38,812
+After a period of missed sales targets and profit losses, Krispy Kreme is looking for ways to grow.
+
+8
+00:00:38,812 --> 00:00:42,797
+That means pushing its donut-making machines to do more and more.
+
+9
+00:00:42,797 --> 00:00:45,401
+But even here, automation has its limits.
+
+10
+00:00:45,401 --> 00:00:52,302
+While machines can mix and glaze a standard donut, they still struggle with seasonal and limited-time designs.
+
+11
+00:00:52,302 --> 00:00:59,864
+We have piloted a couple of robot-style solutions to see if they would work, but it got super messy.
+
+12
+00:00:59,864 --> 00:01:02,501
+The glaze got into the joints of the robots.
+
+13
+00:01:02,501 --> 00:01:13,273
+It's pretty tough to not harm the quality of the donut, and that's the most important thing for us.
+
+14
+00:01:13,273 --> 00:01:15,752
+Oh, look, there's the donuts.
+
+15
+00:01:15,752 --> 00:01:19,652
+Yeah, this is one of our largest lines that we operate across the country.
+
+16
+00:01:19,652 --> 00:01:21,576
+It can make 400 dozen donuts an hour.
+
+17
+00:01:21,576 --> 00:01:25,905
+More than 50% of the donuts we sell are our original glaze.
+
+18
+00:01:25,905 --> 00:01:29,690
+So it's absolutely critical that we get this process right.
+
+19
+00:01:29,690 --> 00:01:32,151
+How many unusable donuts do you tend to have?
+
+20
+00:01:32,151 --> 00:01:37,064
+So what we do is, we try and aim for over 93% efficiency.
+
+21
+00:01:37,064 --> 00:01:41,656
+We obviously do make sure that the donut has to be perfect.
+
+22
+00:01:41,656 --> 00:01:43,388
+We really care about quality a lot.
+
+23
+00:01:43,388 --> 00:01:45,430
+I just saw one got taken off.
+
+24
+00:01:45,430 --> 00:01:48,213
+It looked a little sad.
+
+25
+00:01:48,213 --> 00:01:51,172
+It's really important that they retain the perfect shape.
+
+26
+00:01:51,172 --> 00:01:57,212
+What would you say the biggest bottleneck is currently in these manufacturing facilities?
+
+27
+00:01:57,212 --> 00:02:03,839
+Making sure that as we change flavors, we're setting the teams up for success.
+
+28
+00:02:03,839 --> 00:02:09,184
+The fact that we still have that hand-decorated element allows us to be incredibly agile as a business.
+
+29
+00:02:09,184 --> 00:02:11,595
+And offer a huge variety for our guests.
+
+30
+00:02:11,595 --> 00:02:13,374
+But it is costly, right?
+
+31
+00:02:13,374 --> 00:02:18,383
+It is costly, but it's definitely worth it.
+
+32
+00:02:18,383 --> 00:02:25,348
+Krispy Kreme has more than 6,500 employees across the US, and about 10% to 15% of them work as decorators.&nbsp;
+
+33
+00:02:25,348 --> 00:02:29,269
+Each can decorate up to 50 dozen donuts per hour.
+
+34
+00:02:29,269 --> 00:02:30,668
+[和员工对话] What's the hardest part of your job?
+
+35
+00:02:30,668 --> 00:02:33,371
+The hardest part, the demand.
+
+36
+00:02:33,371 --> 00:02:36,880
+Yeah, it'd be the demand, 'cause sometimes you have a lot to make.
+
+37
+00:02:36,880 --> 00:02:41,292
+I see these ladies have, like, so many donuts they're making, but sometimes you have to have a whole lot.
+
+38
+00:02:41,292 --> 00:02:45,289
+Depending on how popular the donut is, it really sells a whole lot.
+
+39
+00:02:45,289 --> 00:02:49,801
+And part of that is because you have so many limited-time offers, right?
+
+40
+00:02:49,801 --> 00:02:53,630
+Yes, yes. Limited-time offers and sales, they merge together and people are like, "Hey, donuts."
+
+41
+00:02:53,630 --> 00:02:57,244
+Do you think your job could be automated ever?
+
+42
+00:02:57,244 --> 00:02:58,742
+Could it be automated?
+
+43
+00:02:58,742 --> 00:03:00,896
+I mean, to an extent maybe.
+
+44
+00:03:00,896 --> 00:03:06,008
+But all the different things that we do on top of the donut, I don't think a machine could do that.
+
+45
+00:03:06,008 --> 00:03:07,688
+Doesn't do it with love.
+
+46
+00:03:07,688 --> 00:03:09,842
+There's no love in that.
+
+47
+00:03:09,842 --> 00:03:10,854
+Robot can't do that.
+
+48
+00:03:10,854 --> 00:03:13,804
+Not at all, I don't think so.
+
+49
+00:03:13,804 --> 00:03:17,074
+[Narrator] But Krispy Kreme is under pressure to become more efficient.
+
+50
+00:03:17,074 --> 00:03:23,817
+The company is still fighting to remain out of the red after its ambitious deal to sell donuts at McDonald's fell apart.
+
+51
+00:03:23,817 --> 00:03:25,561
+[和Manager对话问答] Let's talk about McDonald's.
+
+52
+00:03:25,561 --> 00:03:27,313
+What happened with that?
+
+53
+00:03:27,313 --> 00:03:40,446
+I think that the consumer was really looking for more convenient access to Krispy Kreme's fresh donuts, and the partnership with McDonald's was designed to enable that, and certainly started effectively.
+
+54
+00:03:40,446 --> 00:03:49,456
+However, we found that the revenue streams weren't necessarily sustainable over time because the conditions weren't as optimum as we have with many of our other customers.
+
+55
+00:03:49,456 --> 00:03:51,036
+Let's get more into the nuts and bolts.
+
+56
+00:03:51,036 --> 00:03:54,683
+I know you manufacture a lot of your own equipment.
+
+57
+00:03:54,683 --> 00:03:57,180
+It's kind of unusual.
+
+58
+00:03:57,180 --> 00:03:58,404
+How precise are these machines?
+
+59
+00:03:58,404 --> 00:04:03,966
+Well, I mean, I think there is always an element of the human element to make sure they run well.
+
+60
+00:04:03,966 --> 00:04:10,702
+But yeah, they can do, one of our lines, a standard line, does 200 dozen donuts an hour.
+
+61
+00:04:10,702 --> 00:04:13,321
+We have ones that can do all the way up to 400 dozen.
+
+62
+00:04:13,321 --> 00:04:22,020
+You do have to keep an eye on many of the temperatures and humidity, and making sure the yield of these machines is working effectively.
+
+63
+00:04:22,020 --> 00:04:26,999
+I always think that our Krispy Kreme employees bring something special to our donuts.
+
+64
+00:04:26,999 --> 00:04:32,315
+I do think that there's opportunity to improve and become more efficient.
+
+65
+00:04:32,315 --> 00:04:42,918
+I do think we can leverage technology, and we're exploring various things, whether it's in the manufacturing process or in distribution, demand planning, supply planning, the like, where we can leverage technology.
+
+66
+00:04:42,918 --> 00:04:46,592
+But I'm really proud of what our Krispy Kreme does too.
+
+67
+00:04:46,592 --> 00:04:49,113
+Where would you say you are in your turnaround story right now?
+
+68
+00:04:49,113 --> 00:04:51,302
+Yeah, we've been growing the brand.
+
+69
+00:04:51,302 --> 00:04:53,905
+Krispy Kreme is a growth story for many years.
+
+70
+00:04:53,905 --> 00:05:05,995
+We implemented a turnaround in the middle of last year because we wanted to make sure that growth was behind sustainable revenue streams, profitable, and that we strengthened our balance sheet.
+
+71
+00:05:05,995 --> 00:05:08,357
+And you are forecasting a profitable year this year?
+
+72
+00:05:08,357 --> 00:05:13,143
+We are, we're forecasting 2% to 4% system-wide sales growth.
+
+73
+00:05:13,143 --> 00:05:22,539
+And to drive up margins as we have been, we've seen margins go up 250 basis points so far since we implemented the turnaround.
+
+74
+00:05:22,539 --> 00:05:37,645
+We expect to continue to see that margin improvement, all as we shift to a more capital-like model, franchising becoming a bigger part of the revenue stream, so that we can continue to grow, but in a more capital-efficient way.
+
+75
+00:05:37,645 --> 00:05:43,507
+What is the future for donuts in this kind of health-conscious GLP-1 era?
+
+76
+00:05:43,507 --> 00:05:53,317
+What I think our customers are looking for when it comes to donuts is great quality, great tasting, fresh donuts, and that's what Krispy Kreme does.
+
+77
+00:05:53,317 --> 00:05:59,468
+You know, when you have your moment of sweet treat sharing, it's gotta be worth it, it's gotta be amazing.
+
+78
+00:05:59,468 --> 00:06:01,968
+And that's why I think our donuts really, even in this changing world, are relevant.
+

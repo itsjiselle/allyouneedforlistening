@@ -1,0 +1,312 @@
+1
+00:00:03,669 --> 00:00:07,777
+⭐ enjoy —— 慢慢享用；祝你享受（口语★★★★★）
+
+2
+00:00:07,777 --> 00:00:11,951
+⭐ could you ever see doing something? —— 你觉得……有可能发生吗（★★★★★）｜automate —— 使自动化（C1）｜decorate —— 装饰
+
+3
+00:00:11,951 --> 00:00:18,568
+⭐ drive efficiency —— 提高效率（★★★★★）｜the best way to do something —— 做某事最好的方式
+
+4
+00:00:18,568 --> 00:00:28,609
+⭐ when it comes to… —— 说到……（★★★★★）｜put the finishing touches on… —— 做最后的润色/收尾（★★★★★）｜eye coordination —— 手眼协调（C1）
+
+5
+00:00:28,609 --> 00:00:30,400
+⭐ plus —— 而且（口语★★★★★）｜squish —— 压扁；压坏（口语）
+
+6
+00:00:30,400 --> 00:00:33,554
+⭐ be worried about… —— 担心……｜squish —— 压坏
+
+7
+00:00:33,554 --> 00:00:38,812
+⭐ after a period of… —— 经历一段……之后（★★★★★）｜miss sales targets —— 未完成销售目标（C1）｜profit losses —— 利润亏损｜look for ways to do something —— 寻找……的方法（★★★★★）
+
+8
+00:00:38,812 --> 00:00:42,797
+⭐ that means… —— 这意味着……｜push something to do more —— 提高……能力；推动……承担更多工作（★★★★★）
+
+9
+00:00:42,797 --> 00:00:45,401
+⭐ have its limits —— 有其局限（★★★★★）
+
+10
+00:00:45,401 --> 00:00:52,302
+⭐ while… —— 虽然……（★★★★★）｜struggle with… —— 难以应付……（★★★★★）｜limited-time —— 限时的
+
+11
+00:00:52,302 --> 00:00:59,864
+⭐ pilot（动词）—— 试点；测试（C1）｜robot-style solution —— 机器人方案｜get messy —— 变得一团糟（★★★★★）
+
+12
+00:00:59,864 --> 00:01:02,501
+⭐ get into… —— 进入……｜joint —— 关节；连接部位（C1）
+
+13
+00:01:02,501 --> 00:01:13,273
+⭐ harm the quality —— 损害品质（★★★★★）｜the most important thing —— 最重要的事情
+
+14
+00:01:13,273 --> 00:01:15,752
+⭐ there's… —— 那就是……
+
+15
+00:01:15,752 --> 00:01:19,652
+⭐ production line（这里省略了 production）｜operate across the country —— 在全国运营（★★★★★）
+
+16
+00:01:19,652 --> 00:01:21,576
+⭐ dozen —— 一打（12个）（★★★★★）
+
+17
+00:01:21,576 --> 00:01:25,905
+⭐ more than… —— 超过……｜original glaze —— 原味糖霜
+
+18
+00:01:25,905 --> 00:01:29,690
+⭐ it's critical that… —— ……至关重要（★★★★★）｜get something right —— 把某事做好（★★★★★）
+
+19
+00:01:29,690 --> 00:01:32,151
+⭐ unusable —— 无法使用的（C1）｜tend to… —— 通常会……
+
+20
+00:01:32,151 --> 00:01:37,064
+⭐ aim for… —— 目标是……（★★★★★）｜efficiency —— 效率（★★★★★）
+
+21
+00:01:37,064 --> 00:01:41,656
+⭐ make sure that… —— 确保……（★★★★★）｜perfect —— 完美的
+
+22
+00:01:41,656 --> 00:01:43,388
+⭐ care about… —— 重视；在乎（★★★★★）
+
+23
+00:01:43,388 --> 00:01:45,430
+⭐ take something off —— 拿走；移除（★★★★★）
+
+24
+00:01:45,430 --> 00:01:48,213
+⭐ look sad —— 看起来状态不好（这里是拟人化）
+
+25
+00:01:48,213 --> 00:01:51,172
+⭐ retain —— 保持（C1）｜retain the shape —— 保持形状
+
+26
+00:01:51,172 --> 00:01:57,212
+⭐ bottleneck —— 瓶颈（★★★★★）｜manufacturing facility —— 制造工厂（C1）
+
+27
+00:01:57,212 --> 00:02:03,839
+⭐ set someone up for success —— 为某人的成功创造条件（★★★★★）｜change flavors —— 更换口味
+
+28
+00:02:03,839 --> 00:02:09,184
+⭐ the fact that… —— ……这一事实（★★★★★）｜hand-decorated —— 人工装饰的｜allow someone to do… —— 使……能够……｜agile —— 灵活的（C1）
+
+29
+00:02:09,184 --> 00:02:11,595
+⭐ offer a huge variety —— 提供丰富的选择（★★★★★）
+
+30
+00:02:11,595 --> 00:02:13,374
+⭐ costly —— 成本高昂的（C1）
+
+31
+00:02:13,374 --> 00:02:18,383
+⭐ be worth it —— 值得（★★★★★）
+
+32
+00:02:18,383 --> 00:02:25,348
+⭐ across the US —— 遍布全美｜work as... —— 从事……工作；担任……
+
+33
+00:02:25,348 --> 00:02:29,269
+⭐ up to... —— 多达；最高可达……｜per hour —— 每小时
+
+34
+00:02:29,269 --> 00:02:30,668
+[和员工对话] ⭐ the hardest part of... —— ……中最困难的部分
+
+35
+00:02:30,668 --> 00:02:33,371
+⭐ demand —— 需求；需求量
+
+36
+00:02:33,371 --> 00:02:36,880
+⭐ it'd be... —— 应该是……｜have a lot to do/make —— 有很多事情要做／有很多产品要制作
+
+37
+00:02:36,880 --> 00:02:41,292
+⭐ a whole lot —— 非常多；一大堆｜have something you're doing —— 手头有某事正在做
+
+38
+00:02:41,292 --> 00:02:45,289
+⭐ depending on... —— 取决于……；根据……｜sell a whole lot —— 销量很大
+
+39
+00:02:45,289 --> 00:02:49,801
+⭐ part of that is because... —— 其中一部分原因是……｜limited-time offer —— 限时产品；限时优惠
+
+40
+00:02:49,801 --> 00:02:53,630
+⭐ merge together —— 融合在一起；叠加｜people are like... —— 人们就会说／想……
+
+41
+00:02:53,630 --> 00:02:57,244
+⭐ be automated —— 实现自动化｜could...ever...? —— 将来有没有可能……？
+
+42
+00:02:57,244 --> 00:02:58,742
+⭐ automate —— 使自动化
+
+43
+00:02:58,742 --> 00:03:00,896
+⭐ to an extent —— 在一定程度上｜I mean —— 我的意思是；我是说
+
+44
+00:03:00,896 --> 00:03:06,008
+⭐ on top of... —— 在……上面｜all the different things that... —— ……所涉及的各种不同操作
+
+45
+00:03:06,008 --> 00:03:07,688
+⭐ do something with love —— 用心、有爱地做某事
+
+46
+00:03:07,688 --> 00:03:09,842
+⭐ there's no...in that —— 那里面没有……
+
+47
+00:03:09,842 --> 00:03:10,854
+
+
+48
+00:03:10,854 --> 00:03:13,804
+⭐ not at all —— 完全不；一点也不｜I don't think so —— 我不这么认为
+
+49
+00:03:13,804 --> 00:03:17,074
+[Narrator] ⭐ be under pressure to do something —— 面临做某事的压力｜become more efficient —— 提高效率
+
+50
+00:03:17,074 --> 00:03:23,817
+⭐ remain out of the red —— 保持不亏损；避免陷入赤字｜ambitious deal —— 雄心勃勃的合作协议｜fall apart —— 破裂；失败；瓦解
+
+51
+00:03:23,817 --> 00:03:25,561
+[和Manager对话问答] ⭐ let's talk about... —— 我们来谈谈……
+
+52
+00:03:25,561 --> 00:03:27,313
+⭐ what happened with...? —— ……出了什么情况？
+
+53
+00:03:27,313 --> 00:03:40,446
+⭐ look for more convenient access to... —— 寻求更方便地获得……｜be designed to do something —— 旨在做某事｜enable that —— 使其成为可能｜start effectively —— 开局顺利；最初运行有效
+
+54
+00:03:40,446 --> 00:03:49,456
+⭐ revenue stream —— 收入来源；营收渠道｜not necessarily —— 未必；不一定｜sustainable over time —— 长期可持续的｜optimum conditions —— 最佳条件；理想条件
+
+55
+00:03:49,456 --> 00:03:51,036
+⭐ get into the nuts and bolts —— 深入讨论具体细节和实际运作｜the nuts and bolts —— 基本原理；具体操作细节
+
+56
+00:03:51,036 --> 00:03:54,683
+⭐ manufacture one's own equipment —— 自行制造设备
+
+57
+00:03:54,683 --> 00:03:57,180
+⭐ kind of —— 有点；某种程度上｜unusual —— 不寻常的
+
+58
+00:03:57,180 --> 00:03:58,404
+⭐ precise —— 精确的；精准的
+
+59
+00:03:58,404 --> 00:04:03,966
+⭐ an element of... —— 某种程度的……；……的成分｜the human element —— 人为因素；人工参与｜run well —— 运转良好
+
+60
+00:04:03,966 --> 00:04:10,702
+⭐ standard line —— 标准生产线
+
+61
+00:04:10,702 --> 00:04:13,321
+⭐ all the way up to... —— 一直到；最高可达……
+
+62
+00:04:13,321 --> 00:04:22,020
+⭐ keep an eye on... —— 密切关注……｜humidity —— 湿度｜yield —— 产量；产出率｜work effectively —— 有效运作
+
+63
+00:04:22,020 --> 00:04:26,999
+⭐ bring something special to... —— 为……增添独特价值
+
+64
+00:04:26,999 --> 00:04:32,315
+⭐ there's opportunity to... —— 有机会／有空间做……｜do think —— 的确认为；确实觉得
+
+65
+00:04:32,315 --> 00:04:42,918
+⭐ leverage technology —— 利用技术发挥优势｜explore various things —— 探索多种方案｜manufacturing process —— 生产流程｜demand planning —— 需求规划｜supply planning —— 供应规划｜the like —— 诸如此类的事物
+
+66
+00:04:42,918 --> 00:04:46,592
+⭐ be proud of... —— 为……感到骄傲
+
+67
+00:04:46,592 --> 00:04:49,113
+⭐ turnaround story —— 企业扭亏为盈／业务复苏历程｜where would you say you are...? —— 你认为目前处于什么阶段？
+
+68
+00:04:49,113 --> 00:04:51,302
+⭐ grow the brand —— 推动品牌发展；扩大品牌规模
+
+69
+00:04:51,302 --> 00:04:53,905
+⭐ a growth story —— 一个具有持续增长潜力的企业／品牌
+
+70
+00:04:53,905 --> 00:05:05,995
+⭐ implement a turnaround —— 实施业务转型／扭亏计划｜sustainable revenue streams —— 可持续的收入来源｜strengthen the balance sheet —— 改善／增强资产负债表｜be behind... —— 作为……背后的支撑因素
+
+71
+00:05:05,995 --> 00:05:08,357
+⭐ forecast a profitable year —— 预计实现全年盈利
+
+72
+00:05:08,357 --> 00:05:13,143
+⭐ system-wide sales growth —— 全系统销售增长｜forecast...growth —— 预计……增长
+
+73
+00:05:13,143 --> 00:05:22,539
+⭐ drive up margins —— 推高利润率｜margin —— 利润率｜basis point —— 基点｜so far since... —— 自……以来截至目前
+
+74
+00:05:22,539 --> 00:05:37,645
+⭐ margin improvement —— 利润率改善｜shift to... —— 转向……｜franchising —— 特许经营｜become a bigger part of... —— 在……中占据更大比重｜capital-efficient —— 资本效率高的｜in a more...way —— 以一种更加……的方式
+
+75
+00:05:37,645 --> 00:05:43,507
+⭐ health-conscious —— 注重健康的｜the future for... —— ……的未来｜in this kind of...era —— 在这样一个……的时代
+
+76
+00:05:43,507 --> 00:05:53,317
+⭐ what customers are looking for —— 顾客所追求的东西｜when it comes to... —— 说到……｜that's what...does —— 那正是……所做的
+
+77
+00:05:53,317 --> 00:05:59,468
+⭐ a moment of... —— 一个……的时刻｜sweet treat —— 甜点；用来犒赏自己的甜食｜it's gotta be worth it —— 它必须值得｜it's gotta be amazing —— 它必须足够出色
+
+78
+00:05:59,468 --> 00:06:01,968
+⭐ even in this changing world —— 即使在这个不断变化的世界中｜remain relevant / be relevant —— 仍然具有现实意义；仍符合市场需求
+
