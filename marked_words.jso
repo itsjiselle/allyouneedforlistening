@@ -15994,5 +15994,29 @@
     "startTime": 104.471,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:15:20.944Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-12-1-1784891726349",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 12,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      9
+    ],
+    "wordText": "Cracks ... Bams",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "Cracks ... Bams",
+    "sentenceContext": "The Cracks, which stands for Chinese characters, and the Bams, which are usually green and stands for bamboo.",
+    "sentenceTranslation": "第二种是万子，代表汉字；第三种是条子，通常是绿色的，代表竹子。",
+    "sentenceVocab": "⭐ stand for... —— 代表；象征……",
+    "startTime": 107.765,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:15:26.349Z"
   }
 ]
