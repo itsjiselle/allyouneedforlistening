@@ -16308,5 +16308,31 @@
     "startTime": 389.847,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:20:53.534Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-29-14-1784892059829",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 29,
+    "wordIndex": 14,
+    "wordIndices": [
+      14,
+      16,
+      17,
+      18
+    ],
+    "wordText": "set ... on the table",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "set ... on the table",
+    "sentenceContext": "You don't use the racks that we use in American Mahjong, and you just set them on the table.",
+    "sentenceTranslation": "玩这种麻将时，不会使用美式麻将里的牌架，而是直接把牌立在桌面上。",
+    "sentenceVocab": "⭐ set something on the table —— 把某物放置在桌面上｜rack —— 牌架",
+    "startTime": 389.847,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:20:59.829Z"
   }
 ]
