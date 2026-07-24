@@ -14712,5 +14712,29 @@
     "startTime": 11.951,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:14:01.611Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-3-12-1784866461340",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 3,
+    "wordIndex": 12,
+    "wordIndices": [
+      12,
+      13
+    ],
+    "wordText": "coreshell donut",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "coreshell donut",
+    "sentenceContext": "We find that the best way to drive efficiency is with the core-shell donut or the ring.",
+    "sentenceTranslation": "我们发现，提高效率最好的方式，是生产基础款甜甜圈（圆环甜甜圈）。",
+    "sentenceVocab": "⭐ drive efficiency —— 提高效率（★★★★★）｜the best way to do something —— 做某事最好的方式",
+    "startTime": 11.951,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:14:21.340Z"
   }
 ]
