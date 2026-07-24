@@ -14736,5 +14736,30 @@
     "startTime": 11.951,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:14:21.340Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-4-7-1784866480784",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 4,
+    "wordIndex": 7,
+    "wordIndices": [
+      7,
+      8,
+      9
+    ],
+    "wordText": "finishing touches on",
+    "category": "pronounce",
+    "categories": [
+      "pronounce"
+    ],
+    "customLemma": "finishing touches on",
+    "sentenceContext": "But when it comes to putting the finishing touches on our donuts, that complexity requires the hands and the eye coordination of our Krispy Kremers.",
+    "sentenceTranslation": "但是，说到给甜甜圈做最后的装饰，这种复杂的工作还是需要 Krispy Kreme 员工的双手和手眼协调能力。",
+    "sentenceVocab": "⭐ when it comes to… —— 说到……（★★★★★）｜put the finishing touches on… —— 做最后的润色/收尾（★★★★★）｜eye coordination —— 手眼协调（C1）",
+    "startTime": 18.568,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:14:40.784Z"
   }
 ]
