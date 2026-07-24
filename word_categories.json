@@ -14736,7 +14736,13 @@
       "sentenceVocab": "⭐ drive efficiency —— 提高效率（★★★★★）｜the best way to do something —— 做某事最好的方式",
       "startTime": 11.951,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T04:14:21.340Z"
+      "dateAdded": "2026-07-24T04:14:21.340Z",
+      "customTopicIds": [
+        "topic-ielts",
+        "topic-1784775906777"
+      ],
+      "patternCategories": [],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-4-7-1784866480784",
@@ -15620,5 +15626,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867458140
+  "updatedAt": 1784867485392
 }
