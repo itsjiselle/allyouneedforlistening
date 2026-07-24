@@ -16334,5 +16334,32 @@
     "startTime": 389.847,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:20:59.829Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-33-1-1784892161969",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 33,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "wordText": "after all my digging",
+    "category": "idiom",
+    "categories": [
+      "idiom",
+      "pattern"
+    ],
+    "customLemma": "after all my digging",
+    "sentenceContext": "Somehow, after all my digging, I found a lady on Instagram and she visited this particular artist, the last female artisan in Hong Kong.",
+    "sentenceTranslation": "不知怎么，在进行了一番深入搜寻之后，我在 Instagram 上找到了一位女士，而她拜访了这位特别的艺术家——香港最后一位女性麻将雕刻工匠。",
+    "sentenceVocab": "⭐ after all my digging —— 在进行了一番深入搜寻之后｜particular artist —— 这位特定的／特别的艺术家｜female artisan —— 女性手工艺人",
+    "startTime": 428.224,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:22:41.969Z"
   }
 ]
