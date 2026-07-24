@@ -14887,7 +14887,13 @@
     "sentenceVocab": "⭐ while… —— 虽然……（★★★★★）｜struggle with… —— 难以应付……（★★★★★）｜limited-time —— 限时的",
     "startTime": 45.401,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:16:13.429Z"
+    "dateAdded": "2026-07-24T04:16:13.429Z",
+    "customTopicIds": [
+      "topic-ielts",
+      "topic-1784775906777"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-10-5-1784866591310",
