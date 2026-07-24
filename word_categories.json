@@ -15232,7 +15232,13 @@
       "sentenceVocab": "⭐ revenue stream —— 收入来源；营收渠道｜not necessarily —— 未必；不一定｜sustainable over time —— 长期可持续的｜optimum conditions —— 最佳条件；理想条件",
       "startTime": 220.446,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T04:23:02.776Z"
+      "dateAdded": "2026-07-24T04:23:02.776Z",
+      "customTopicIds": [
+        "topic-ielts",
+        "topic-1784867561233"
+      ],
+      "patternCategories": [],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-55-5-1784867005215",
@@ -15662,5 +15668,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867758187
+  "updatedAt": 1784867764636
 }
