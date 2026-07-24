@@ -26,7 +26,17 @@
         "cefrLevel": "C1",
         "idiomUsageNote": "在科普和学术场景（如雅思、托福考试）中，该词常用来描述海洋生物如鲸鱼或海豚的‘搁浅’（其动名词形式 stranding 尤为常见）。而在日常口语与新闻中，其过去分词形式 stranded 极常作形容词使用，用来形容人因航班取消、车辆故障等客观原因被‘困在某地、无法脱身’的尴尬境遇。",
         "englishDefinition": "To run aground or become driven onto a beach or shore, leaving a marine animal or vessel unable to move; or to leave someone in a helpless, difficult position without any means of transport or resources."
-      }
+      },
+      "customTopicIds": [
+        "uncategorized"
+      ],
+      "patternCategories": [],
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "strand",
+      "customTranslation": "v. (使)搁浅，(使)滞留，陷于困境",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "custom-9_1_4_mp3-11-17",
@@ -15742,5 +15752,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784869944792
+  "updatedAt": 1784891448480
 }
