@@ -15524,7 +15524,13 @@
     "sentenceVocab": "⭐ a growth story —— 一个具有持续增长潜力的企业／品牌",
     "startTime": 291.302,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:27:28.214Z"
+    "dateAdded": "2026-07-24T04:27:28.214Z",
+    "customTopicIds": [
+      "topic-ielts",
+      "topic-1784867561233"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-70-1-1784867270866",
