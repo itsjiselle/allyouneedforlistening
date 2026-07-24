@@ -255,7 +255,15 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": ""
-      }
+      },
+      "customTopicIds": [],
+      "patternCategories": [],
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "key",
+      "customTranslation": "adj. 关键的，重要的",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-5-17-1782969978727",
@@ -15705,5 +15713,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867869266
+  "updatedAt": 1784869806427
 }
