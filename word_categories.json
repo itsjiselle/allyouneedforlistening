@@ -15515,9 +15515,35 @@
       "startTime": 313.14300000000003,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:28:32.083Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-75-6-1784867391943",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 75,
+      "wordIndex": 6,
+      "wordIndices": [
+        6,
+        7,
+        10,
+        12
+      ],
+      "wordText": "in this ... healthconscious ... era",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "in this health-conscious era",
+      "sentenceContext": "What is the future for donuts in this kind of health-conscious GLP-1 era?",
+      "sentenceTranslation": "在这样一个注重健康、GLP-1 药物盛行的时代，甜甜圈的未来会怎样？",
+      "sentenceVocab": "⭐ health-conscious —— 注重健康的｜the future for... —— ……的未来｜in this kind of...era —— 在这样一个……的时代",
+      "startTime": 337.645,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:29:51.943Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867315044
+  "updatedAt": 1784867394863
 }
