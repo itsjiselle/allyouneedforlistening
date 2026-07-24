@@ -15493,7 +15493,13 @@
     "sentenceVocab": "⭐ turnaround story —— 企业扭亏为盈／业务复苏历程｜where would you say you are...? —— 你认为目前处于什么阶段？",
     "startTime": 286.592,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:27:12.657Z"
+    "dateAdded": "2026-07-24T04:27:12.657Z",
+    "customTopicIds": [
+      "topic-ielts",
+      "topic-1784867561233"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-69-3-1784867248214",
