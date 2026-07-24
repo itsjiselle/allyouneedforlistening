@@ -15167,9 +15167,33 @@
       "startTime": 207.313,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:22:39.603Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-54-5-1784866982776",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 54,
+      "wordIndex": 5,
+      "wordIndices": [
+        5,
+        6
+      ],
+      "wordText": "revenue streams",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "revenue streams",
+      "sentenceContext": "However, we found that the revenue streams weren't necessarily sustainable over time because the conditions weren't as optimum as we have with many of our other customers.",
+      "sentenceTranslation": "然而，我们发现这些收入来源未必能够长期持续，因为相关条件不如我们与许多其他客户合作时那样理想。",
+      "sentenceVocab": "⭐ revenue stream —— 收入来源；营收渠道｜not necessarily —— 未必；不一定｜sustainable over time —— 长期可持续的｜optimum conditions —— 最佳条件；理想条件",
+      "startTime": 220.446,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:23:02.776Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784866962527
+  "updatedAt": 1784866986789
 }
