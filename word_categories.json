@@ -14980,9 +14980,33 @@
       "startTime": 52.302,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:17:01.735Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-17-10-1784866685837",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 17,
+      "wordIndex": 10,
+      "wordIndices": [
+        10,
+        11
+      ],
+      "wordText": "original glaze",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "original glaze",
+      "sentenceContext": "More than 50% of the donuts we sell are our original glaze.",
+      "sentenceTranslation": "我们销售的甜甜圈中，有超过一半都是经典糖霜款。",
+      "sentenceVocab": "⭐ more than… —— 超过……｜original glaze —— 原味糖霜",
+      "startTime": 81.576,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:18:05.837Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784866624615
+  "updatedAt": 1784866688722
 }
