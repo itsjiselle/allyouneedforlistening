@@ -15190,5 +15190,30 @@
     "startTime": 220.446,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:23:02.776Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-55-5-1784867005215",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 55,
+    "wordIndex": 5,
+    "wordIndices": [
+      5,
+      6,
+      7
+    ],
+    "wordText": "nuts and bolts",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "nuts and bolts",
+    "sentenceContext": "Let's get more into the nuts and bolts.",
+    "sentenceTranslation": "我们来进一步谈谈具体细节。",
+    "sentenceVocab": "⭐ get into the nuts and bolts —— 深入讨论具体细节和实际运作｜the nuts and bolts —— 基本原理；具体操作细节",
+    "startTime": 229.45600000000002,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:23:25.215Z"
   }
 ]
