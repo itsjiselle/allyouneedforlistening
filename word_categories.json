@@ -14811,9 +14811,32 @@
       "startTime": 28.609,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:15:22.112Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-5-4-1784866529566",
+      "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+      "srtFingerprint": "a82eaaf4",
+      "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+      "subtitleId": 5,
+      "wordIndex": 4,
+      "wordIndices": [
+        4
+      ],
+      "wordText": "squish",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "squish",
+      "sentenceContext": "Plus a robot could squish them, right?",
+      "sentenceTranslation": "而且机器人还有可能把它们压扁，对吧？",
+      "sentenceVocab": "⭐ plus —— 而且（口语★★★★★）｜squish —— 压扁；压坏（口语）",
+      "startTime": 28.609,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-24T04:15:29.566Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784866525040
+  "updatedAt": 1784866532879
 }
