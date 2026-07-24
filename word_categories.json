@@ -15033,7 +15033,13 @@
       "sentenceVocab": "⭐ more than… —— 超过……｜original glaze —— 原味糖霜",
       "startTime": 81.576,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T04:18:05.837Z"
+      "dateAdded": "2026-07-24T04:18:05.837Z",
+      "customTopicIds": [
+        "topic-ielts",
+        "topic-1784775906777"
+      ],
+      "patternCategories": [],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-26-0-1784866736411",
@@ -15650,5 +15656,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784867742816
+  "updatedAt": 1784867750147
 }
