@@ -295,7 +295,15 @@
         "cefrLevel": "A2",
         "idiomUsageNote": "",
         "englishDefinition": "to obtain, receive, or be given something"
-      }
+      },
+      "customTopicIds": [],
+      "patternCategories": [],
+      "categories": [
+        "pronounce"
+      ],
+      "customLemma": "get",
+      "customTranslation": "得到，获得（及物动词）",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-6-5-1782969991622",
@@ -15713,5 +15721,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784869806427
+  "updatedAt": 1784869812622
 }
