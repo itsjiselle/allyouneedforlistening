@@ -15797,5 +15797,30 @@
     "startTime": 6.316,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:11:37.672Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-3-10-1784891514568",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 3,
+    "wordIndex": 10,
+    "wordIndices": [
+      10,
+      11,
+      12
+    ],
+    "wordText": "mix or wash",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "mix or wash",
+    "sentenceContext": "There's nothing like the sound of Mahjong tiles as you mix or wash them.",
+    "sentenceTranslation": "没有什么声音能比得上洗牌时麻将牌相互碰撞的声音。",
+    "sentenceVocab": "⭐ there's nothing like... —— 没有什么能比得上……｜wash the tiles —— 洗牌",
+    "startTime": 12.371,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T11:11:54.568Z"
   }
 ]
