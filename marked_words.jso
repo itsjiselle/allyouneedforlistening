@@ -14956,5 +14956,28 @@
     "startTime": 52.302,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T04:16:57.980Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-11-2-1784866621735",
+    "materialId": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts",
+    "srtFingerprint": "a82eaaf4",
+    "materialTitle": "WSJ_Why Krispy Kreme Can’t Fully Automate Its Donuts.mp4",
+    "subtitleId": 11,
+    "wordIndex": 2,
+    "wordIndices": [
+      2
+    ],
+    "wordText": "piloted",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "piloted",
+    "sentenceContext": "We have piloted a couple of robot-style solutions to see if they would work, but it got super messy.",
+    "sentenceTranslation": "我们试验过几种机器人方案，看看是否可行，但最后现场一团糟。",
+    "sentenceVocab": "⭐ pilot（动词）—— 试点；测试（C1）｜robot-style solution —— 机器人方案｜get messy —— 变得一团糟（★★★★★）",
+    "startTime": 52.302,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-24T04:17:01.735Z"
   }
 ]
