@@ -15174,7 +15174,13 @@
     "sentenceVocab": "⭐ remain out of the red —— 保持不亏损；避免陷入赤字｜ambitious deal —— 雄心勃勃的合作协议｜fall apart —— 破裂；失败；瓦解",
     "startTime": 197.074,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:21:33.794Z"
+    "dateAdded": "2026-07-24T04:21:33.794Z",
+    "customTopicIds": [
+      "topic-ielts",
+      "topic-1784867561233"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-53-7-1784866959603",
