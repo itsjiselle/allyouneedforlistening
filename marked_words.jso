@@ -14823,7 +14823,13 @@
     "sentenceVocab": "⭐ when it comes to… —— 说到……（★★★★★）｜put the finishing touches on… —— 做最后的润色/收尾（★★★★★）｜eye coordination —— 手眼协调（C1）",
     "startTime": 18.568,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:14:55.845Z"
+    "dateAdded": "2026-07-24T04:14:55.845Z",
+    "customTopicIds": [
+      "uncategorized",
+      "topic-1784775906777"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-5-0-1784866522112",
