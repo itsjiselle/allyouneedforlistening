@@ -16534,5 +16534,33 @@
     "startTime": 479.433,
     "reviewCount": 0,
     "dateAdded": "2026-07-25T02:50:22.715Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-46-33-1784947916299",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 46,
+    "wordIndex": 33,
+    "wordIndices": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ],
+    "wordText": "it's probably a little odd to",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "it's probably a little odd to",
+    "sentenceContext": "I started this thing just six, eight months ago, so I love all the new designs, but I can understand people who have been playing for 50 years or maybe their grandmother played, it's probably a little odd to see things that aren't the traditional faces on the tiles.",
+    "sentenceTranslation": "我接触麻将才六到八个月，所以我很喜欢所有这些新设计；但我也能理解那些已经打了50年麻将，或者祖母也打过麻将的人。看到牌面上出现不属于传统图案的东西，对他们来说可能确实有些奇怪。",
+    "sentenceVocab": "⭐ have been doing something for... —— 已经做某事……时间｜traditional faces on the tiles —— 牌面上的传统图案｜feel a little odd —— 感觉有些奇怪",
+    "startTime": 530.61,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-25T02:51:56.299Z"
   }
 ]
