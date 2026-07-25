@@ -16361,7 +16361,7 @@
       "sentenceTranslation": "玩这种麻将时，不会使用美式麻将里的牌架，而是直接把牌立在桌面上。",
       "sentenceVocab": "⭐ set something on the table —— 把某物放置在桌面上｜rack —— 牌架",
       "startTime": 389.847,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-24T11:20:53.534Z",
       "translationCache": {
         "lemma": "rack",
@@ -16824,5 +16824,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784949340888
+  "updatedAt": 1784949347057
 }
