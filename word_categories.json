@@ -16512,7 +16512,7 @@
       "sentenceTranslation": "不知怎么，在进行了一番深入搜寻之后，我在 Instagram 上找到了一位女士，而她拜访了这位特别的艺术家——香港最后一位女性麻将雕刻工匠。",
       "sentenceVocab": "⭐ after all my digging —— 在进行了一番深入搜寻之后｜particular artist —— 这位特定的／特别的艺术家｜female artisan —— 女性手工艺人",
       "startTime": 428.224,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-24T11:22:41.969Z",
       "translationCache": {
         "lemma": "after all one's digging",
@@ -16967,5 +16967,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784952014401
+  "updatedAt": 1784952098813
 }
