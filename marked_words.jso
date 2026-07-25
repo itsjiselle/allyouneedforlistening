@@ -15769,7 +15769,35 @@
     "sentenceVocab": "⭐ the way something looks/feels —— 某物看起来／摸起来的感觉｜have a heavy feel —— 摸起来有分量",
     "startTime": 6.316,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:11:08.414Z"
+    "dateAdded": "2026-07-24T11:11:08.414Z",
+    "translationCache": {
+      "lemma": "tile",
+      "ipa": "/taɪl/",
+      "translation": "n. 瓷砖；瓦片；地砖",
+      "pronunciationGuide": "双元音 /aɪ/ 发音饱满，末尾 /l/ 需舌尖抵上齿龈。美音中 't' 为清晰爆破音。整体发音与 'tail' 相似，注意不要混淆。",
+      "collocations": "ceramic tiles, floor tiles, roof tiles, lay tiles, tile a wall",
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "a thin, flat piece of baked clay or other material used for covering floors, walls, or roofs.",
+      "patternPractice": [
+        {
+          "chinese": "我们打算在客厅铺上新地砖，因为它们耐用且容易清洁。",
+          "english": "We plan to lay (put down) new floor tiles in the living room because they are durable and easy to clean."
+        },
+        {
+          "chinese": "他注意到厨房墙上的几块瓷砖已经松动了，需要马上固定。",
+          "english": "He noticed that several wall tiles in the kitchen were loose and needed to be fixed immediately."
+        },
+        {
+          "chinese": "暴风雨后，我们不得不更换屋顶上近一百块瓦片。",
+          "english": "We had to replace nearly one hundred roof tiles after the storm."
+        },
+        {
+          "chinese": "在开始铺瓷砖之前，测量墙面面积以估算所需数量至关重要。",
+          "english": "It is crucial to measure the wall area to estimate the quantity needed before starting to lay (put down) the tiles."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-2-5-1784891497672",
@@ -16025,8 +16053,7 @@
     "sentenceVocab": "⭐ stand for... —— 代表；象征……",
     "startTime": 107.765,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:15:26.349Z",
-    "teacherExplanation": "**Cracks & Bams: 麻将桌上的地道黑话** 🀄\n\n如果你把“万”字牌叫“characters”，把“条”叫“bamboos”，老外会以为你在讨论古文字或竹子盆栽。但一句 **Cracks**（万）和 **Bams**（条），立刻让你从麻将小白变身雀圣！\n\n**语用潜规则**：这两个词是口语化缩写，源自圈内俚语，带着老赌棍的**戏谑味**——就像中文牌桌说“条子”“万子”透出的江湖气。正式比赛也许用 characters / bamboos，但老手开打必喊：“Gimme that crack!”（快丢那张三万！）\n\n**中文梗对应**：这相当于麻将界的“栓Q”“YYDS”——非正式、贼上口，谁用谁知道。想象一张表情包：熊猫举着麻将牌，配文 **“给劳资来张Bam！”** 瞬间融入。\n\n**神级记忆**：Cracks 像牌上裂开的缝（crack），一碰就胡；Bams 音拟爆炸声“砰💥”，出张青色的条子如同丢手雷，气势拉满！"
+    "dateAdded": "2026-07-24T11:15:26.349Z"
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-13-9-1784891735814",
