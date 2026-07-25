@@ -16377,8 +16377,7 @@
         "在麻将比赛中，每位选手都有自己的牌架，以确保游戏有序进行。",
         "虽然这个香料架看起来不起眼，但它能把你所有的调料都摆放得整整齐齐，节省了寻找的时间。"
       ]
-    },
-    "teacherExplanation": "🀄 **中式英语 vs 地道表达**  \n一说“rack”，中国学生第一反应多是“架子”，比如“shelf”。但老美打麻将时，**rack**专指那个木制牌架，用来立牌防窥。普通词“shelf”太泛，而“rack”自带“有序排列、展示”的意味。Native speaker在这儿绝不会说“mahjong shelf”，不然就像把“杠上开花”翻译成“flower on a pole”一样诡异。\n\n🧠 **学术语用深扒**  \n`rack`源自古英语`reccan`（伸展），本义是“挂东西的横档”，现在多指专用托架（如wine rack, bike rack）。在麻将场景中，它既是工具，也是社交符号——美国麻将里，rack一摆，仪式感拉满；而中国麻将桌上，牌直接摊在手里或桌面，更显江湖气。所以这句话的潜台词是：“我们讲究，你们随意。”  \n\n🔥 **中文网络神对应**  \n这里的`rack`堪称麻将界的**“牌面子工程”**——就像社媒上“精致摆拍”的仪式感。可译为：“你们不用我们美式麻将的**排面架**，直接桌上摊牌。” 或玩梗：“不用‘牌格’吗？那你们纯粹靠手速灵魂摸牌？”  \n\n🤣 **趣味记忆梗**  \n谐音“**软壳**”——想象你的牌都穿着软壳冲锋衣，整齐排开，又辣又专业。Rack → “软壳牌架”，瞬间刻入DNA。"
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-29-14-1784892059829",
@@ -16454,7 +16453,35 @@
     "sentenceVocab": "⭐ thanks to... —— 得益于……｜a resurgence of interest in... —— 对……兴趣的复兴｜globally —— 在全球范围内｜there is enough of a market —— 存在足够大的市场｜continue a craft —— 继续从事／传承一门手艺",
     "startTime": 451.448,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T14:07:02.729Z"
+    "dateAdded": "2026-07-24T14:07:02.729Z",
+    "translationCache": {
+      "lemma": "resurgence",
+      "ipa": "/rɪˈsɜːrdʒəns/",
+      "translation": "n. 复苏；复兴；再次兴起",
+      "pronunciationGuide": "重音在第二音节，发音类似于“瑞-瑟-真斯”，注意/sɜːr/是长元音，卷舌，然后/dʒəns/。",
+      "collocations": "a resurgence of interest, economic resurgence, resurgence in popularity, see a resurgence, experience a resurgence",
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "an increase of activity or interest in something that had become less common or popular, after a period of time",
+      "patternPractice": [
+        {
+          "chinese": "在经历多年的衰退后，这座城市的制造业近来出现了显著的复苏。",
+          "english": "After years of decline, the city's manufacturing industry has recently seen a remarkable resurgence."
+        },
+        {
+          "chinese": "政府对新能源的投资引发了对太阳能技术的重新关注。",
+          "english": "Government investment in new energy has triggered (brought about) a resurgence of interest in solar technology."
+        },
+        {
+          "chinese": "社交媒体的普及使得黑胶唱片再次流行起来。",
+          "english": "The popularity of social media has caused (led to) a resurgence in the popularity of vinyl records."
+        },
+        {
+          "chinese": "这位导演的新电影让武侠片这一类型重新焕发了生机。",
+          "english": "The director's new film has sparked (given rise to) a resurgence of the martial arts film genre."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-34-0-1784947678535",
