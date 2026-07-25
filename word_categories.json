@@ -15824,47 +15824,9 @@
       "sentenceTranslation": "无论是麻将牌的外观，还是摸起来的感觉——它们凉凉的、光滑而且有分量。",
       "sentenceVocab": "⭐ the way something looks/feels —— 某物看起来／摸起来的感觉｜have a heavy feel —— 摸起来有分量",
       "startTime": 6.316,
-      "reviewCount": 1,
+      "reviewCount": 0,
       "dateAdded": "2026-07-24T11:11:37.672Z",
-      "teacherExplanation": "**“the way they feel… heavy”** 地道到骨子里！中国学生易脱口而出 *“the feeling is heavy”* 或 *“it feels like heavy”*，瞬间暴露“语感肌无力”。  \n\nNative speaker 这里用 **feel heavy** 直击触觉本质，比空洞的 *feeling* 更性感——**feel** 作系动词，后接形容词，把“手感沉闷沉”的物理重量与质地冷峻一并打包，暗含一种扎实的质感。语用上，常说于推销瓷砖、把玩物件，带点痴汉般的赞美，褒义中透着小傲娇：“这么重，肯定高级！”  \n\n中文互联网神翻译：**“这砖，手感老沉了”**，或者小红书体 **“分量感绝绝子”**，犹如你掂着爱机说“这手机好有料”。  \n\n趣味记忆：一招 **“妃欧 Heavy”**——想象甄嬛说：“皇上，这瓷砖摸起来 feel heavy，像您的江山一样沉！” 下次想显摆地道，记得用 **feel + 形容词**，别再用名词 feeling 啦！",
-      "translationCache": {
-        "lemma": "a heavy feel",
-        "ipa": "/ə ˈhɛvi fil/",
-        "translation": "一种沉重的质感；厚重的感觉（名词短语，尤指触觉或整体印象）",
-        "pronunciationGuide": "在美式发音中，不定冠词“a”弱读为/ə/；“heavy”中的/h/需清晰送气，元音/ɛ/开口适中；“feel”的/f/为清唇齿擦音，舌侧音/l/在词尾时舌尖抵住上齿龈，避免吞音。在快速语流中，“heavy feel”可连读为/ˈhɛvi.fil/，注意不要读成“heav-y feel”。",
-        "collocations": [
-          "have a heavy feel to it",
-          "give something a heavy feel",
-          "with a heavy feel",
-          "that heavy feel of old furniture",
-          "a heavy, substantial feel"
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "A quality of seeming weighty or substantial when touched or experienced, often giving an impression of solidity, density, or seriousness; the tactile or atmospheric sensation of heaviness.",
-        "patternPractice": [
-          {
-            "chinese": "这件手工木雕拿在手里有一种厚重的感觉，让人立刻觉得它价值不菲。",
-            "english": "This hand-carved wooden sculpture has a heavy feel in the hand, which immediately makes you think it is valuable."
-          },
-          {
-            "chinese": "这窗帘的厚重材质给整个房间带来一种沉闷的感觉，也许我们应该换成亚麻的。",
-            "english": "The thick material of the curtains gives the whole room a heavy feel; perhaps we should swap them for linen (switch to linen)."
-          },
-          {
-            "chinese": "虽然这部手机看起来很时尚，但它的金属外壳带来一种沉重的感觉，放在口袋里不太舒服。",
-            "english": "Although this phone looks stylish, its metal casing gives it a heavy feel that makes it uncomfortable to carry in your pocket."
-          },
-          {
-            "chinese": "这幅画暗色调的运用营造出一种压抑的质感，让观者心情沉重。",
-            "english": "The use of dark tones in this painting creates a heavy feel that weighs on the viewer's mood (brings down the viewer's mood)."
-          },
-          {
-            "chinese": "老式打字机的按键有一种令人满足的厚重触感，那是现代键盘所无法复制的。",
-            "english": "The keys of the vintage typewriter have a satisfyingly heavy feel that modern keyboards cannot replicate (cannot match up to)."
-          }
-        ]
-      }
+      "teacherExplanation": "**中式vs地道**\n说“These tiles are heavy.”像在称猪肉。老外一句“a heavy feel”瞬间升级成**触觉艺术家**：名词“feel”把重量变成**可抚摸的质感**，不是死沉，是**高级的坠手感**。\n\n**语用解剖**\n“a + adj + feel”是**具身化名词化**，把粗糙的物理属性锻造成**感官奢侈品**。多用产品测评、设计对谈，传递“我在品味材质，而非使用”的凡尔赛氛围。褒义，精分又风情。\n\n**中文梗神对应**\n“这砖，摸起来冰凉丝滑，还带着**薛定谔的沉**，一种**手心宇宙的坠感**。” 🌠 网感翻译：“这手感，拿捏死了，是**银河落在指尖的份量**！”\n\n**谐音洗脑**\n“嘿喂够重” = Heavy Feel → 想象举铁时中文教练喊：“嘿！喂！这哑铃够重！feel一下！” 🏋️"
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-3-10-1784891514568",
@@ -15988,6 +15950,11 @@
       "startTime": 89.902,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T11:14:36.642Z",
+      "customTopicIds": [
+        "uncategorized",
+        "topic-1784891355720"
+      ],
+      "patternCategories": [],
       "translationCache": {
         "lemma": "choose random tiles",
         "ipa": "/tʃuz ˈrændəm taɪlz/",
@@ -16011,7 +15978,10 @@
             "english": "One of the joys of Mahjong lies in the uncertainty brought by choosing random tiles."
           }
         ]
-      }
+      },
+      "teacherExplanation": "**「中式英语」vs「地道麻将黑话」**  \n中国学生第一时间想到 `pick/choose tiles randomly`——老外听了可能以为你在宜家**挑瓷砖**（random tiles = 随机瓷砖）🤣。麻将桌上，地道说法是**`draw tiles`**（摸牌），仿佛命运之骰已掷，而非你主动挑挑拣拣。\n\n**学术语用精析**  \n`choose random` 带有**统计学/计算机味**，如同在蒙特卡洛模拟中无放回抽样。日常麻将用 `draw` 更符合**仪式感与约定俗成**；而 `choose random` 在专业语境（如AI麻将算法）才显硬核，语体极为客观疏离。\n\n**中文网梗神对应**  \n这妥妥就是**盲盒抽卡**现场！“系统为你choose了random tiles”，非酋抽不到好牌，只能含泪点炮。表情包可配字：“你的牌运，是AI随机掉的瓷砖吗？”\n\n**趣味记忆法**  \n记成 **“出死·random太偶”**——谐音梗：出死（choose）太偶（tile）？不，是**摸牌全靠老天赏饭**，你只是无情的抽卡机器罢了。",
+      "customTranslation": "随机抓一张牌",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-9-23-1784891687242",
@@ -16062,41 +16032,7 @@
       "sentenceVocab": "⭐ suit —— 牌的花色",
       "startTime": 101.249,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:15:02.320Z",
-      "translationCache": {
-        "lemma": "suit",
-        "ipa": "/suːt/",
-        "translation": "n. （纸牌）花色",
-        "pronunciationGuide": "发音为 /suːt/，长音‘oo’，类似中文‘苏特’连读但稍长。注意区分‘soot’（/sʊt/）。快速语流中常弱读，例如‘a suit of’读作 /ə suːt əv/。",
-        "collocations": [
-          "card suit",
-          "suit of cards",
-          "follow suit",
-          "leading suit",
-          "long suit"
-        ],
-        "cefrLevel": "B2",
-        "idiomUsageNote": "",
-        "englishDefinition": "One of the four sets of playing cards, each distinguished by a unique symbol, such as hearts, diamonds, clubs, or spades.",
-        "patternPractice": [
-          {
-            "chinese": "在桥牌叫牌阶段，你必须先搞清楚自己手里有哪些长套花色。",
-            "english": "In the bridge bidding phase, you have to figure out (work out) first which long suits you hold in your hand."
-          },
-          {
-            "chinese": "如果你跟不出当前花色，你可以选择垫掉一张牌或使用将牌。",
-            "english": "If you cannot follow suit, you can choose to discard (throw away) a card or trump."
-          },
-          {
-            "chinese": "魔术师让我挑选一张牌，然后准确说出了它的花色和点数。",
-            "english": "The magician asked me to pick (pick out) a card and then accurately stated its suit and number."
-          },
-          {
-            "chinese": "在时尚界，小众设计师品牌经常会效仿主流品牌的成功策略。",
-            "english": "In the fashion industry, niche designer brands often follow suit with the successful strategies of mainstream brands."
-          }
-        ]
-      }
+      "dateAdded": "2026-07-24T11:15:02.320Z"
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-11-1-1784891720944",
@@ -16175,8 +16111,9 @@
       "sentenceTranslation": "还有一些其他的牌可以帮助你组成牌型。",
       "sentenceVocab": "⭐ build a hand —— 组成一副牌型",
       "startTime": 115.114,
-      "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:15:35.814Z"
+      "reviewCount": 1,
+      "dateAdded": "2026-07-24T11:15:35.814Z",
+      "teacherExplanation": "**中式英语 vs 地道表达**  \n直译“collect your hand”仿佛在捡牌，而地道“build your hand”有如盖楼——强调**策略性构筑**。Native speaker 用“build”暗含从零开始打磨手牌组合，比“gather”多了份运筹帷幄的**建设感**。  \n\n**学术深度与语用场景**  \n“Build”在此是**构式语法**中的隐喻延伸，把抽象手牌当项目去“build”，语用上凸显玩家**主动经营**，赋予游戏以养成色彩。口语中说“I’m building my hand”瞬间透出专业范儿，略带**戏谑自豪**（“看我一手烂牌怎样逆袭”）。  \n\n**中文社媒对应**  \n堪称**“手牌养成”** 或**“搓一手好牌”**。对应网梗：“人生就像麻将，关键不是起手，而是**build**出听牌。”神翻译：“**攒牌组逆袭**”，一秒心领神会。  \n\n**趣味记忆**  \n谐音梗：**“比尔的手（Bill your hand）”**——想象比尔·盖茨在桌游里狂攒手牌，边打边说：“I’m building my hand, just like Microsoft!” 脑洞一开再也忘不掉。"
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-17-0-1784891817962",
@@ -16950,5 +16887,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784950506883
+  "updatedAt": 1784950510409
 }
