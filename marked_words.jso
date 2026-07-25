@@ -16643,5 +16643,29 @@
     "startTime": 658.92,
     "reviewCount": 0,
     "dateAdded": "2026-07-25T02:53:57.576Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-35-4-1784948059794",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 35,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5
+    ],
+    "wordText": "handcarving tiles",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "hand-carving tiles",
+    "sentenceContext": "I really hope that hand-carving tiles continues to exist in an art form.",
+    "sentenceTranslation": "我真的希望手工雕刻麻将牌能够继续作为一种艺术形式存在下去。",
+    "sentenceVocab": "⭐ continue to exist —— 继续存在｜as an art form —— 作为一种艺术形式",
+    "startTime": 446.954,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-25T02:54:19.794Z"
   }
 ]
