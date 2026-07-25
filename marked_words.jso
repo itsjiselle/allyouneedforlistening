@@ -15797,8 +15797,7 @@
           "english": "It is crucial to measure the wall area to estimate the quantity needed before starting to lay (put down) the tiles."
         }
       ]
-    },
-    "teacherExplanation": "**Tiles | 瓷砖·硬核美学**  \n\n**❌ 中式英语 vs ✅ 地道表达**  \n中国学生一见“砖”就喊 *brick*，但老外听着像🧱工地搬砖。而 *tiles* 专指薄片状的瓷砖、地砖、瓦片，自带“精装修”气场。下次别再说 *floor bricks*，用 *tiles* 立马让装修工头对你肃然起敬。  \n\n**🔬 学术语用解剖**  \n*Tiles* 极具质感召唤力——触觉（*smooth, cool*）、视觉（*glossy, matte*）、甚至听觉（*click* when tapping）。它可日常（厨房防溅板）、可专业（西班牙进口 *encaustic tiles*）、可文艺（描写浴室的高级感），感情色彩偏**精致褒义**，偶尔戏谑（如打麻将“码牌”就是 *stacking tiles*）。  \n\n**📱 中文社媒神对应**  \n“这瓷砖的触感，简直是**冰肌玉骨，清冷高级**。”——小红书装修博主同款话术。网络热梗可译为「**人间富贵砖**」，或谐音梗「**太有瓷性了**（太有辞性了）」，一秒拿捏那种光洁沉甸的贵气。  \n\n**🧠 趣味记忆**  \n联想 *tile* 与 *tilefish*（方头鱼，花纹像瓷砖），或者脑补你滑倒时大喊“Tai...（太滑）les！”，从此 *tile* 刻进DNA。  \n\n*字数：248*"
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-2-5-1784891497672",
@@ -16784,7 +16783,35 @@
       "uncategorized"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "translationCache": {
+      "lemma": "",
+      "ipa": "",
+      "translation": "",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这个奖杯上激光雕刻了获奖者的名字。",
+          "english": "The trophy was laser-engraved with the winner's name."
+        },
+        {
+          "chinese": "她定制了一个激光雕刻的相框作为结婚礼物。",
+          "english": "She customized a laser-engraved photo frame as a wedding gift."
+        },
+        {
+          "chinese": "这些木制的激光雕刻名片给人留下了深刻的印象。",
+          "english": "These wooden laser-engraved business cards made a deep impression."
+        },
+        {
+          "chinese": "激光雕刻的珠宝设计非常精细。",
+          "english": "The laser-engraved jewelry design is very intricate."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-35-4-1784948059794",
