@@ -16484,9 +16484,33 @@
       "startTime": 472.126,
       "reviewCount": 0,
       "dateAdded": "2026-07-25T02:49:46.125Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-39-1-1784947793076",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 39,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        2
+      ],
+      "wordText": "Mahjong tablescape",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "Mahjong tablescape",
+      "sentenceContext": "A Mahjong tablescape typically involves your mat, your racks, coasters, dice, dishes.",
+      "sentenceTranslation": "一套麻将桌面布置通常包括桌垫、牌架、杯垫、骰子和小碟子。",
+      "sentenceVocab": "⭐ tablescape —— 桌面布置；餐桌美学设计｜typically involve... —— 通常包括……",
+      "startTime": 479.433,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-25T02:49:53.076Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784947790358
+  "updatedAt": 1784947797323
 }
