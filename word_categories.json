@@ -15769,7 +15769,7 @@
       "sentenceTranslation": "无论是麻将牌的外观，还是摸起来的感觉——它们凉凉的、光滑而且有分量。",
       "sentenceVocab": "⭐ the way something looks/feels —— 某物看起来／摸起来的感觉｜have a heavy feel —— 摸起来有分量",
       "startTime": 6.316,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-24T11:11:08.414Z",
       "translationCache": {
         "lemma": "tile",
@@ -16852,5 +16852,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784949389940
+  "updatedAt": 1784949438631
 }
