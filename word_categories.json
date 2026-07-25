@@ -15948,7 +15948,7 @@
       "sentenceTranslation": "麻将是一种使用牌块进行的游戏，与拉米牌有些相似：玩家随机选择牌，并努力组成一副获胜牌型。",
       "sentenceVocab": "⭐ complete a winning hand —— 组成一副获胜牌型｜random tiles —— 随机摸到的牌",
       "startTime": 89.902,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-24T11:14:36.642Z",
       "translationCache": {
         "lemma": "choose random tiles",
@@ -16911,5 +16911,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784950523414
+  "updatedAt": 1784950544907
 }
