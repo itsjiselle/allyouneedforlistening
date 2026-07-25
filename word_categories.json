@@ -15895,7 +15895,39 @@
       "sentenceVocab": "⭐ a dying art —— 一门逐渐消失的技艺｜be no longer around —— 不再存在；不再从事这一行业｜have something forever —— 永久保留某物",
       "startTime": 57.369,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:14:05.125Z"
+      "dateAdded": "2026-07-24T11:14:05.125Z",
+      "translationCache": {
+        "lemma": "carver",
+        "ipa": "/ˈkɑrvər/",
+        "translation": "雕刻师；雕刻家；雕刻工",
+        "pronunciationGuide": "中文分析：'carver' 的发音注意美式卷舌音，重音在第一个音节，/kɑr/ 类似“卡儿”，末尾 /vər/ 轻读，/ər/ 是弱元音加卷舌。",
+        "collocations": "wood carver, stone carver, master carver, skilled carver, ivory carver",
+        "cefrLevel": "B2",
+        "idiomUsageNote": "",
+        "englishDefinition": "A person who carves wood or stone into decorative or functional objects, either as a profession or hobby.",
+        "patternPractice": [
+          {
+            "chinese": "这些木雕匠人即将退休，他们的手艺正面临失传。",
+            "english": "These wood carvers are about to retire, and their craft is disappearing (dying out)."
+          },
+          {
+            "chinese": "我认识一位雕刻家，他能把一块普通的木头变成精美的艺术品。",
+            "english": "I know a carver who can convert (turn into) an ordinary piece of wood into an exquisite work of art."
+          },
+          {
+            "chinese": "这个市场的雕刻师以其象牙雕刻而闻名。",
+            "english": "The carvers in this market are renowned for their ivory carvings."
+          },
+          {
+            "chinese": "当她看到那位雕刻师的作品时，她决定买下它。",
+            "english": "When she saw the carver's work, she decided to buy it (pick it up)."
+          },
+          {
+            "chinese": "我们需要趁这些雕刻大师还在世时，尽可能多地收集他们的作品。",
+            "english": "We need to collect (gather up) as many works from these master carvers as possible while they are still alive."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-9-19-1784891676642",
@@ -15994,8 +16026,7 @@
       "sentenceVocab": "/",
       "startTime": 104.471,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:15:20.944Z",
-      "teacherExplanation": "**Dots: 别再只会说“points”啦！**  \n- **Chinglish陷阱**: “圆点”你脑子里蹦出“round points”？错！Native speaker会用**dots**指那些可爱的小圆点，比如屏幕上的像素点、i上的小点、衣服的波点。Points是抽象的点，dots是看得见摸得着的圆萌点。  \n- **语用精析**: Dots自带一种“微小、复数、可可爱爱”的亲密感。正式汇报可以说“data dots on the graph”，口语中说“connect the dots”表示恍然大悟，连成线。词性戏谑，像一群小蝌蚪。  \n- **中文梗对照**: 这简直就是**“像素级复刻”**里的像素点！或者像网络热梗“画个圈圈诅咒你”的符咒小圆点，萌萌哒又精准。**神翻译**: “那些点点”——一开口就充满画面感。  \n- **趣味记忆**: 谐音“多刺”？不不，想象一下“哆啦A梦”的“哆”=Dot，铜锣烧上的圆点，一口一个dot，记忆中带着甜味。"
+      "dateAdded": "2026-07-24T11:15:20.944Z"
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-12-1-1784891726349",
@@ -16678,5 +16709,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784948817547
+  "updatedAt": 1784948845336
 }
