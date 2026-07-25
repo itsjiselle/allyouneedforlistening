@@ -16023,7 +16023,7 @@
       "sentenceTranslation": "游戏中有三种花色。",
       "sentenceVocab": "⭐ suit —— 牌的花色",
       "startTime": 101.249,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-24T11:15:02.320Z"
     },
     {
@@ -16935,5 +16935,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784950616337
+  "updatedAt": 1784951953422
 }
