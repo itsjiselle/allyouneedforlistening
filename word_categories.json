@@ -16454,7 +16454,39 @@
       "sentenceVocab": "⭐ set something on the table —— 把某物放置在桌面上｜rack —— 牌架",
       "startTime": 389.847,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:20:59.829Z"
+      "dateAdded": "2026-07-24T11:20:59.829Z",
+      "translationCache": {
+        "lemma": "set ... on the table",
+        "ipa": "",
+        "translation": "把…放在桌子上； (比喻义) 把(问题、提议等)摆到桌面上讨论，开诚布公地提出",
+        "pronunciationGuide": "注意：在快速口语中，‘on the’ 常弱读为 /ən ðə/，实际发音类似‘恩则’；‘table’ 的 /l/ 是舌边音，舌尖抵住上齿龈，词尾 /əl/ 不要发成‘哦’。整个短语连读流畅：‘set-on-the-table’ 多个音节连贯而出。",
+        "collocations": "set the plates on the table (literal); set a proposal/an issue/the agenda on the table (idiomatic, formal)",
+        "cefrLevel": "B2",
+        "idiomUsageNote": "",
+        "englishDefinition": "to place something on a table; (figurative) to introduce an idea, proposal, or problem for open discussion, especially in a formal setting such as a meeting or negotiation.",
+        "patternPractice": [
+          {
+            "chineseSentence": "在谈判中，双方都同意将长期的领土争端摆到桌面上，以寻求和平解决方案。",
+            "englishTranslation": "During the negotiations, both sides agreed to set the long-standing territorial dispute on the table in order to seek (look for) a peaceful resolution."
+          },
+          {
+            "chineseSentence": "如果你不把加薪的要求明确提出，老板永远不会认真考虑。",
+            "englishTranslation": "If you don't set your request for a raise on the table, the boss will never consider (think about) it seriously."
+          },
+          {
+            "chineseSentence": "这位候选人决定在电视辩论中将自己关于税收改革的激进主张摆到桌面上，尽管这可能引起争议。",
+            "englishTranslation": "The candidate decided to set her radical proposal for tax reform on the table during the TV debate, although it might provoke (stir up) controversy."
+          },
+          {
+            "chineseSentence": "为了推进项目，项目经理决定把所有潜在风险都摆到桌面上，让大家一起评估。",
+            "englishTranslation": "To move the project forward (To push the project ahead), the project manager decided to set all potential risks on the table for the team to evaluate (weigh up)."
+          },
+          {
+            "chineseSentence": "在家庭会议上，孩子们终于有机会把自己的想法摆到桌面上，与父母开诚布公地交流。",
+            "englishTranslation": "At the family meeting, the children finally had the chance to set their ideas on the table and communicate (talk things over) openly with their parents."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-33-1-1784892161969",
@@ -16513,8 +16545,7 @@
             "english": "After all our digging, we stumbled upon (came across) a forgotten tradition."
           }
         ]
-      },
-      "teacherExplanation": "**中式英语 vs 地道表达**\n别再用“after I searched so hard”这种苦力感拉满的表达了！**“after all my digging”** 自带考古学家的幽默：你像拿着小铲子在互联网废墟里刨了三天三夜，挖出宝藏的那一刻，连指甲缝里都是数据的泥。老外一听就懂，这波操作叫“数字考古”。\n\n**学术深度与语用**\n“digging”来自俚语“dig into”，语用上兼具**执着与戏谑**，仿佛你在废墟里扒拉出历史残片，语气半是炫耀半是自嘲。学术会议里用“after extensive digging”，瞬间让听众脑补你蹲在数据库里掘金的画面。\n\n**中文网络热梗对应**\n译作 **“咱就是说，一整个铲子都抡冒烟了”** 或 **“熬夜扒坟式搜索”**，完美对应那种疯狂扒拉信息、从犄角旮旯里揪出线索的赛博考古感，一秒get到社交媒体的幽默！\n\n**趣味记忆**\n想象自己是只**修炼成精的考古土拨鼠**，一边挖一边喊“啊！我挖到了！”——下次疯狂搜索后，请优雅甩出这句，暗爽到内伤。"
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-36-8-1784902022729",
@@ -16936,5 +16967,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784951965770
+  "updatedAt": 1784952014401
 }
