@@ -15894,8 +15894,7 @@
     "sentenceVocab": "⭐ a dying art —— 一门逐渐消失的技艺｜be no longer around —— 不再存在；不再从事这一行业｜have something forever —— 永久保留某物",
     "startTime": 57.369,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:14:05.125Z",
-    "teacherExplanation": "**中式英语 vs 地道表达**  \n说到“雕刻的人”，你可能蹦出 *sculptor*，但那可是米开朗基罗那种搞大型雕塑的大师。*Carver* 更接地气，专指拿刀一下下削木头、石头、甚至西瓜的“手艺人”。语境里指濒危工艺的传承者，*sculptor* 太隆重，*engraver* 偏刻字，只有 *carver* 带出那份原始刀工的粗砺感与珍稀味儿。  \n\n**学术语用剖析**  \n*Carver* 隐含「缓慢、手工、不可复制」的语用味道，常出现在文化遗产、民间艺术语境中，自带淡淡的忧伤和致敬色彩（如“the carvers are no longer around”）。日常交流中用它，瞬间提升画面感，仿佛能听到木屑掉落的沙沙声。  \n\n**中文神级对应**  \n直接译成「把件儿雕刻师」还差口气，网络热梗对应：“**非遗手艺人**”、“**绝活传承者**”——弹幕常刷：“这刀工，祖师爷赏饭吃！”或者：“等这批老师傅没了，就真失传了，赶紧收藏！”完美贴合原文的紧迫与珍视。  \n\n**魔性记忆法**  \n*Carver* 谐音「**卡我**」——想想看，一块木头卡住你的思路？不，是雕刻师一刀刀“卡”出灵魂！下次想起“卡我”，就想到刻刀卡在木头里，一推一削，绝活诞生。  \n（字数：248）"
+    "dateAdded": "2026-07-24T11:14:05.125Z"
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-9-19-1784891676642",
@@ -16212,7 +16211,24 @@
     "sentenceVocab": "⭐ do a great job of doing something —— 在做某事方面表现得很好｜mimic a design —— 模仿某种设计｜signature detail/style —— 标志性的细节／风格｜inimitable —— 无法仿效的；独一无二的",
     "startTime": 351.203,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:20:01.235Z"
+    "dateAdded": "2026-07-24T11:20:01.235Z",
+    "translationCache": {
+      "lemma": "inimitable",
+      "ipa": "/ɪˈnɪmɪtəbəl/",
+      "translation": "adj. 无法模仿的；独特的；无与伦比的",
+      "pronunciationGuide": "重音在第二个音节 /ɪˈnɪm/，/t/ 在美音中常闪音化，发成近似 /d/ 的轻拍音；末尾 /bəl/ 中 /ə/ 弱读，听起来像 'in-im-i-tuh-buhl'。",
+      "collocations": "inimitable style, inimitable charm, inimitable fashion",
+      "cefrLevel": "C1",
+      "idiomUsageNote": "",
+      "englishDefinition": "impossible to copy or imitate because of being extremely unusual, special, or of very high quality",
+      "patternPractice": [
+        "她独特的幽默感让所有人都大笑起来。",
+        "这位作家独特的文学风格使他的小说极受欢迎。",
+        "那位演员的演技独具特色，无人能够模仿。",
+        "她独特的绘画技巧赢得了国际奖项。",
+        "这种传统工艺的独特魅力吸引了众多游客。"
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-26-14-1784892021493",
