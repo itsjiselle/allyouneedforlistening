@@ -15769,7 +15769,35 @@
     "sentenceVocab": "⭐ the way something looks/feels —— 某物看起来／摸起来的感觉｜have a heavy feel —— 摸起来有分量",
     "startTime": 6.316,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:11:08.414Z"
+    "dateAdded": "2026-07-24T11:11:08.414Z",
+    "translationCache": {
+      "lemma": "tile",
+      "ipa": "/taɪl/",
+      "translation": "n. 瓷砖；瓦片；地砖",
+      "pronunciationGuide": "双元音 /aɪ/ 发音饱满，末尾 /l/ 需舌尖抵上齿龈。美音中 't' 为清晰爆破音。整体发音与 'tail' 相似，注意不要混淆。",
+      "collocations": "ceramic tiles, floor tiles, roof tiles, lay tiles, tile a wall",
+      "cefrLevel": "B1",
+      "idiomUsageNote": "",
+      "englishDefinition": "a thin, flat piece of baked clay or other material used for covering floors, walls, or roofs.",
+      "patternPractice": [
+        {
+          "chinese": "我们打算在客厅铺上新地砖，因为它们耐用且容易清洁。",
+          "english": "We plan to lay (put down) new floor tiles in the living room because they are durable and easy to clean."
+        },
+        {
+          "chinese": "他注意到厨房墙上的几块瓷砖已经松动了，需要马上固定。",
+          "english": "He noticed that several wall tiles in the kitchen were loose and needed to be fixed immediately."
+        },
+        {
+          "chinese": "暴风雨后，我们不得不更换屋顶上近一百块瓦片。",
+          "english": "We had to replace nearly one hundred roof tiles after the storm."
+        },
+        {
+          "chinese": "在开始铺瓷砖之前，测量墙面面积以估算所需数量至关重要。",
+          "english": "It is crucial to measure the wall area to estimate the quantity needed before starting to lay (put down) the tiles."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-2-5-1784891497672",
@@ -16024,25 +16052,8 @@
     "sentenceTranslation": "第二种是万子，代表汉字；第三种是条子，通常是绿色的，代表竹子。",
     "sentenceVocab": "⭐ stand for... —— 代表；象征……",
     "startTime": 107.765,
-    "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:15:26.349Z",
-    "translationCache": {
-      "lemma": "",
-      "ipa": "",
-      "translation": "",
-      "pronunciationGuide": "",
-      "collocations": [],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        "麻将高手能一眼认出牌池中的Cracks和Bams有什么不同组合。",
-        "如果掌握了Cracks和Bams两种花色的断幺九打法，就更容易胡牌了。",
-        "对手打出Cracks时他碰了，但后来发现需要拆掉Bams来听牌。",
-        "这个牌型需要收集Cracks和Bams各一组顺子，难度相当大。",
-        "新手经常混淆Cracks和Bams，因为它们颜色相近。"
-      ]
-    }
+    "reviewCount": 1,
+    "dateAdded": "2026-07-24T11:15:26.349Z"
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-13-9-1784891735814",
@@ -16366,7 +16377,8 @@
         "在麻将比赛中，每位选手都有自己的牌架，以确保游戏有序进行。",
         "虽然这个香料架看起来不起眼，但它能把你所有的调料都摆放得整整齐齐，节省了寻找的时间。"
       ]
-    }
+    },
+    "teacherExplanation": "🀄 **中式英语 vs 地道表达**  \n一说“rack”，中国学生第一反应多是“架子”，比如“shelf”。但老美打麻将时，**rack**专指那个木制牌架，用来立牌防窥。普通词“shelf”太泛，而“rack”自带“有序排列、展示”的意味。Native speaker在这儿绝不会说“mahjong shelf”，不然就像把“杠上开花”翻译成“flower on a pole”一样诡异。\n\n🧠 **学术语用深扒**  \n`rack`源自古英语`reccan`（伸展），本义是“挂东西的横档”，现在多指专用托架（如wine rack, bike rack）。在麻将场景中，它既是工具，也是社交符号——美国麻将里，rack一摆，仪式感拉满；而中国麻将桌上，牌直接摊在手里或桌面，更显江湖气。所以这句话的潜台词是：“我们讲究，你们随意。”  \n\n🔥 **中文网络神对应**  \n这里的`rack`堪称麻将界的**“牌面子工程”**——就像社媒上“精致摆拍”的仪式感。可译为：“你们不用我们美式麻将的**排面架**，直接桌上摊牌。” 或玩梗：“不用‘牌格’吗？那你们纯粹靠手速灵魂摸牌？”  \n\n🤣 **趣味记忆梗**  \n谐音“**软壳**”——想象你的牌都穿着软壳冲锋衣，整齐排开，又辣又专业。Rack → “软壳牌架”，瞬间刻入DNA。"
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-29-14-1784892059829",
