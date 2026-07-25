@@ -15999,41 +15999,8 @@
       "topic-1784891355720"
     ],
     "patternCategories": [],
-    "translationCache": {
-      "lemma": "dot",
-      "ipa": "/dɑt/",
-      "translation": "n. 点，小圆点",
-      "pronunciationGuide": "‘dot’发音为/dɑt/，元音/ɑ/类似于汉语‘啊’，但开口较大，舌尖轻抵上齿龈发出/t/，整体短促有力。复数形式‘dots’读作/dɑts/，注意/t/和/s/连读时，舌尖从齿龈自然滑到齿间，发出清晰的/ts/音。",
-      "collocations": [
-        "polka dots (波点)",
-        "dot com (网络公司)",
-        "on the dot (准时)",
-        "connect the dots (联系起来理解)",
-        "a dot of light (一点光)"
-      ],
-      "cefrLevel": "A2",
-      "idiomUsageNote": "",
-      "englishDefinition": "A dot is a very small round mark, typically one that is printed or drawn.",
-      "patternPractice": [
-        {
-          "chinese": "我们需要把这些点连接起来，才能弄清楚究竟发生了什么。",
-          "english": "We need to connect (join up) the dots to figure out what exactly happened."
-        },
-        {
-          "chinese": "这种高科技布料上，细小的银色圆点能反射光线，提高夜间可见度。",
-          "english": "On this high-tech fabric, tiny silver dots reflect light, enhancing nighttime visibility."
-        },
-        {
-          "chinese": "当你在电脑屏幕上看到一串闪烁的点时，那通常意味着正在加载数据。",
-          "english": "When you see a series of flashing dots on the computer screen, it usually means that data is being loaded."
-        },
-        {
-          "chinese": "这张星座图用小点来标记夜空中最亮的星星的位置。",
-          "english": "This star chart uses small dots to mark the positions of the brightest stars in the night sky."
-        }
-      ]
-    },
-    "customTranslation": "(麻将中的)饼 牌",
+    "teacherExplanation": "**Dots: 别再只会说“points”啦！**  \n- **Chinglish陷阱**: “圆点”你脑子里蹦出“round points”？错！Native speaker会用**dots**指那些可爱的小圆点，比如屏幕上的像素点、i上的小点、衣服的波点。Points是抽象的点，dots是看得见摸得着的圆萌点。  \n- **语用精析**: Dots自带一种“微小、复数、可可爱爱”的亲密感。正式汇报可以说“data dots on the graph”，口语中说“connect the dots”表示恍然大悟，连成线。词性戏谑，像一群小蝌蚪。  \n- **中文梗对照**: 这简直就是**“像素级复刻”**里的像素点！或者像网络热梗“画个圈圈诅咒你”的符咒小圆点，萌萌哒又精准。**神翻译**: “那些点点”——一开口就充满画面感。  \n- **趣味记忆**: 谐音“多刺”？不不，想象一下“哆啦A梦”的“哆”=Dot，铜锣烧上的圆点，一口一个dot，记忆中带着甜味。",
+    "customTranslation": "(麻将中的)筒 牌",
     "patternCategoryManuallyEdited": true
   },
   {
@@ -16547,7 +16514,44 @@
     "sentenceVocab": "⭐ tablescape —— 桌面布置；餐桌美学设计｜typically involve... —— 通常包括……",
     "startTime": 479.433,
     "reviewCount": 0,
-    "dateAdded": "2026-07-25T02:49:53.076Z"
+    "dateAdded": "2026-07-25T02:49:53.076Z",
+    "translationCache": {
+      "lemma": "mahjong tablescape",
+      "ipa": "/mɑˈdʒɑŋ ˈteɪbəlˌskeɪp/",
+      "translation": "(名词) 麻将桌面布置；麻将桌上的一套装饰与用具",
+      "pronunciationGuide": "“Mahjong” 发音为 /mɑˈdʒɑŋ/，重音在后，注意汉语拼音中无此音，可参考“马江”快速连续；“tablescape” 中 “table” 发 /ˈteɪbəl/，尾音 /l/ 为 dark L，舌头后部抬起；“scape” 发 /skeɪp/，整体连读流畅。",
+      "collocations": [
+        "design a Mahjong tablescape",
+        "set up a Mahjong tablescape",
+        "beautiful Mahjong tablescape",
+        "Mahjong tablescape ideas"
+      ],
+      "cefrLevel": "C1",
+      "idiomUsageNote": "",
+      "englishDefinition": "The arrangement and decoration of accessories and equipment on a mahjong table, including items such as a mat, tile racks, coasters, dice, and dishes, to create an attractive and functional setting.",
+      "patternPractice": [
+        {
+          "chinese": "她的麻将桌面布置总是备受宾客称赞，因为每个细节都经过精心挑选。",
+          "english": "Her Mahjong tablescape always receives high praise from guests, as every detail is carefully chosen (picked out)."
+        },
+        {
+          "chinese": "我们决定拍摄我们的麻将桌面布置，发到网上，跟朋友分享我们的创意。",
+          "english": "We decided to photograph (take pictures of) our Mahjong tablescape and post it online to share our creativity with friends."
+        },
+        {
+          "chinese": "在春节聚会前，她特意更换了麻将桌面布置，加入了红色元素以增添节日气氛。",
+          "english": "Before the Spring Festival gathering, she specially updated (spruced up) her Mahjong tablescape, adding red elements to enhance the festive atmosphere."
+        },
+        {
+          "chinese": "这本书教你如何根据不同的季节来变换麻将桌面布置，让每次打麻将都有新鲜感。",
+          "english": "This book teaches you how to vary (change up) your Mahjong tablescape according to different seasons, bringing a sense of freshness to every game."
+        },
+        {
+          "chinese": "他购买了一套全新的麻将桌布置用品，包括定制的牌架和手绘的骰子。",
+          "english": "He purchased (picked up) a brand-new set of Mahjong tablescape accessories, including customized tile racks and hand-painted dice."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-39-6-1784947822715",
