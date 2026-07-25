@@ -16334,7 +16334,35 @@
       "sentenceVocab": "⭐ tell by doing something —— 通过……判断出来｜an individual work of art —— 一件独一无二的艺术品｜mass-made —— 批量制造的｜come out of a machine —— 由机器生产出来",
       "startTime": 368.158,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:20:28.115Z"
+      "dateAdded": "2026-07-24T11:20:28.115Z",
+      "translationCache": {
+        "lemma": "",
+        "ipa": "",
+        "translation": "",
+        "pronunciationGuide": "",
+        "collocations": [],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "这种批量生产的家具虽然便宜，但用不了多久就坏了。",
+            "english": "This mass-made furniture is cheap, but it breaks (falls apart) after a short time."
+          },
+          {
+            "chinese": "与那些批量生产的复制品相比，这件手工制作的衣服显得格外精致。",
+            "english": "Compared to those mass-made copies, this handmade garment seems exceptionally exquisite."
+          },
+          {
+            "chinese": "许多消费者已经厌倦了千篇一律的批量产品，开始追求个性化定制。",
+            "english": "Many consumers have grown tired of uniform mass-made products and started seeking personalized customization."
+          },
+          {
+            "chinese": "这幅画看起来像是批量印刷的，缺乏原作的神韵。",
+            "english": "This painting looks mass-made, lacking the spirit of the original."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-28-0-1784892044966",
@@ -16389,8 +16417,7 @@
             "english": "The pillars of that house are chunky and big and not elaborately decorated, giving a sense of simplicity."
           }
         ]
-      },
-      "teacherExplanation": "**中式英语 vs 地道表达**  \n你的第一反应可能是 *They are fat and big and not complexly decorated.* 但 native speaker 听到 *fat* 会联想到赘肉，*complexly decorated* 则像在描述微积分。*Chunky* 形容物体时自带“敦实憨厚”滤镜，比如厚底鞋、大块家具；而 *elaborately decorated* 专指装饰的精细度，跟“复杂”是两码事。场景举例：逛宜家时指着敦实木桌说这句，比说 *simple design* 传神十倍。\n\n**学术语用剖析**  \n*Chunky* 属于非正式褒义词，带萌感（想想胖猫），常用于描述首饰、鞋包、家具，暗示“质感厚重但不矫饰”。*Not elaborately decorated* 则是礼貌地表示“没搞花里胡哨”，暗藏极简主义优越感。语域偏口语，专业汇报中可换成 *minimally ornamented*，但日常用这句瞬间拉满松弛感。\n\n**中文社媒神对应**  \n这句话的赛博平行体是“**这玩意儿敦实大只，毫无花活**”，精准踩中当代年轻人对“笨笨的但很可靠”事物的萌点。如果再配上家徒四壁风装修，就是“纯狱风”硬装标配。小红书文案可直译：“**粗笨憨憨，拒绝过度装饰**”，自带 ins 松弛感。\n\n**趣味记忆法**  \n*Chunky* 联想吃薯片时“咔嚓咔嚓（chunk-chunk）”咬下的大块厚片，*elaborately* 则像“一拉就爆雷”的复杂线团。脑中画面：一只胖猫（chunky）蹲在没有任何蝴蝶结的朴素猫窝里，完美诠释！"
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-29-4-1784892053534",
@@ -16968,5 +16995,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784952116407
+  "updatedAt": 1784952134406
 }
