@@ -16563,9 +16563,37 @@
       "startTime": 530.61,
       "reviewCount": 0,
       "dateAdded": "2026-07-25T02:51:56.299Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-47-0-1784947940711",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 47,
+      "wordIndex": 0,
+      "wordIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "wordText": "We are reaching a point where",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "We are reaching a point where",
+      "sentenceContext": "We are reaching a point where it's a fair question to ask if a game is played with unrecognizable equipment, is it actually the same game still, or has it changed to the point of becoming something else?",
+      "sentenceTranslation": "我们正在走到这样一个阶段：如果一款游戏使用的器具已经让人无法辨认，那么合理的问题是，它是否仍然是原来的游戏，还是已经发生了巨大变化，变成了另一种东西？",
+      "sentenceVocab": "⭐ reach a point where... —— 发展到这样一个阶段……｜it's a fair question to ask... —— 提出……是合理的｜unrecognizable equipment —— 已经无法辨认的器具｜to the point of doing something —— 达到……的程度｜become something else —— 变成另一种东西",
+      "startTime": 547.674,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-25T02:52:20.711Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784947920477
+  "updatedAt": 1784947944822
 }
