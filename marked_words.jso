@@ -16228,7 +16228,8 @@
         "她独特的绘画技巧赢得了国际奖项。",
         "这种传统工艺的独特魅力吸引了众多游客。"
       ]
-    }
+    },
+    "teacherExplanation": "**inimitable** = **无法模仿的**，但别再说“can't be copied”啦！\n\n**中式英语 vs 地道**：中国学生一开口就是“unique”或“special”，但native speaker在夸手工艺品的神韵时，会甩出**inimitable**——它自带“老子就是独一份，你模仿不来”的傲娇感，比“unique”多了层**技艺碾压**的霸气。\n\n**语用场景**：正式褒义，适合专业汇报或文艺吹捧。比如：“Her singing style is inimitable.” 既夸了才华，又暗戳戳表示“在座的都是模仿秀”。\n\n**中文梗对应**：≈ **“一直被模仿，从未被超越”**——对，就是那碗心灵鸡汤，但用在手艺上瞬间高级！或者网络语 **“这韵味，学不来”**，配一个[摊手]表情包。\n\n**趣味记忆**：拆开看：**in-**（不）+ **imit**（模仿，想想imitate）+ **able**（能）→ “不能模仿的”。读音像 **“以你咪 Table”**——你家的猫趴在桌上那个独一无二的骚姿势，就是**inimitable**！"
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-26-14-1784892021493",
@@ -16530,7 +16531,7 @@
     "sentenceTranslation": "一套麻将桌面布置通常包括桌垫、牌架、杯垫、骰子和小碟子。",
     "sentenceVocab": "⭐ tablescape —— 桌面布置；餐桌美学设计｜typically involve... —— 通常包括……",
     "startTime": 479.433,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-25T02:49:53.076Z",
     "translationCache": {
       "lemma": "mahjong tablescape",
@@ -16568,7 +16569,8 @@
           "english": "He purchased (picked up) a brand-new set of Mahjong tablescape accessories, including customized tile racks and hand-painted dice."
         }
       ]
-    }
+    },
+    "teacherExplanation": "**【中式英语 vs 地道表达】**  \n普通学生张口就是 *mahjong table setting*，但 native speaker 在社交平台晒牌局时，会甩出 **Mahjong tablescape**——它把麻将桌升维成微型景观设计，透着点儿戏谑的“仪式感”。你摆的不是垫子、骰子，是 *mood*。\n\n**【学术语用分析】**  \n*tablescape* 源自餐桌布置艺术，挪用到麻将上，自带小布尔乔亚式的幽默，常用于小红书式生活分享或朋友调侃。感情色彩：三分认真，七分造作，十分快乐。它让“打麻将”从大妈娱乐秒变 lifestyle。\n\n**【中文热梗对应】**  \n完美对应小红书爆款标题：**“氛围感麻将桌搭”** 或 **“沉浸式搓麻美学”**。用这个词，你就是麻将桌上的凡尔赛大师，随口一句：“今天的tablescape，主打一个东风美学。”\n\n**【趣味记忆】**  \n拆解：*table* + *-scape*（景观）= 桌上江山。想象你把牌尺码成城墙，骰子作星辰，杯垫是湖泊——一盘麻将，一方天地。记不住？念三遍：“tei-bou-skeip”，像在搓牌！"
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-39-6-1784947822715",
@@ -16733,30 +16735,6 @@
     "sentenceVocab": "⭐ continue to exist —— 继续存在｜as an art form —— 作为一种艺术形式",
     "startTime": 446.954,
     "reviewCount": 0,
-    "dateAdded": "2026-07-25T02:54:19.794Z",
-    "translationCache": {
-      "lemma": "",
-      "ipa": "",
-      "translation": "",
-      "pronunciationGuide": "",
-      "collocations": [],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "手工雕刻瓷砖是一门需要数年才能掌握的古老艺术。",
-          "english": "Hand-carving tiles is an ancient art that takes years to master."
-        },
-        {
-          "chinese": "为了保护这项传统手艺，我们应该鼓励年轻学徒学习（承接）手工雕刻瓷砖。",
-          "english": "To preserve this traditional craft, we should encourage young apprentices to learn (take up) hand-carving tiles."
-        },
-        {
-          "chinese": "这位工匠正在展示如何在手工雕刻瓷砖时创造出精细的纹理。",
-          "english": "The craftsman is demonstrating how to create delicate textures when hand-carving tiles."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-25T02:54:19.794Z"
   }
 ]
