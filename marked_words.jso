@@ -16384,5 +16384,34 @@
     "startTime": 451.448,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T14:07:02.729Z"
+  },
+  {
+    "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-34-0-1784947678535",
+    "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+    "srtFingerprint": "a7b7c428",
+    "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+    "subtitleId": 34,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "wordText": "After many messages emails back and forth",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "After many messages emails , back and forth",
+    "sentenceContext": "After many messages, emails, back and forth, I was sending money to Hong Kong to buy these tiles.",
+    "sentenceTranslation": "在来来回回发送了许多信息和邮件之后，我终于把钱汇到香港，购买了这副麻将牌。",
+    "sentenceVocab": "⭐ back and forth —— 来来回回；反复沟通｜send money to... —— 向……汇款",
+    "startTime": 439.446,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-25T02:47:58.535Z"
   }
 ]
