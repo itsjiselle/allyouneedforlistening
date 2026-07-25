@@ -15825,7 +15825,38 @@
     "startTime": 6.316,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:11:37.672Z",
-    "teacherExplanation": "**“the way they feel… heavy”** 地道到骨子里！中国学生易脱口而出 *“the feeling is heavy”* 或 *“it feels like heavy”*，瞬间暴露“语感肌无力”。  \n\nNative speaker 这里用 **feel heavy** 直击触觉本质，比空洞的 *feeling* 更性感——**feel** 作系动词，后接形容词，把“手感沉闷沉”的物理重量与质地冷峻一并打包，暗含一种扎实的质感。语用上，常说于推销瓷砖、把玩物件，带点痴汉般的赞美，褒义中透着小傲娇：“这么重，肯定高级！”  \n\n中文互联网神翻译：**“这砖，手感老沉了”**，或者小红书体 **“分量感绝绝子”**，犹如你掂着爱机说“这手机好有料”。  \n\n趣味记忆：一招 **“妃欧 Heavy”**——想象甄嬛说：“皇上，这瓷砖摸起来 feel heavy，像您的江山一样沉！” 下次想显摆地道，记得用 **feel + 形容词**，别再用名词 feeling 啦！"
+    "translationCache": {
+      "lemma": "feel",
+      "ipa": "",
+      "translation": "v. 摸起来；感觉（系动词，后接形容词）",
+      "pronunciationGuide": "feel /fiːl/，注意长元音/iː/，与'fill'区分。在快速口语中，'the way they feel heavy'可能读作/ðə weɪ ðeɪ fiːl ˈhɛvi/，'they'有时弱读为/ðə/。",
+      "collocations": "feel smooth, feel cold, feel heavy, feel soft, the way something feels",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "To give a sensation of being a particular quality (such as heavy, smooth, cold) when touched.",
+      "patternPractice": [
+        {
+          "chinese": "这块石头摸起来很重，好像里面含有金属。",
+          "english": "The way this stone feels heavy, as if it contains metal inside."
+        },
+        {
+          "chinese": "那个旧箱子摸起来很重，我们最好检查一下里面有什么。",
+          "english": "The way that old box feels heavy, we'd better check (look into) what's inside."
+        },
+        {
+          "chinese": "这种布料摸起来又重又粗糙，不适合做夏季服装。",
+          "english": "The way this fabric feels heavy and rough makes it unsuitable for summer clothing."
+        },
+        {
+          "chinese": "他拿起那枚硬币，它摸起来很重，不像是普通的硬币。",
+          "english": "He picked up the coin; the way it felt heavy, it didn't seem like an ordinary coin."
+        },
+        {
+          "chinese": "这个背包摸起来很重，你确定只装了书吗？",
+          "english": "The way this backpack feels heavy, are you sure you only packed (put in) books?"
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-3-10-1784891514568",
@@ -16079,7 +16110,39 @@
     "sentenceVocab": "⭐ build a hand —— 组成一副牌型",
     "startTime": 115.114,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:15:35.814Z"
+    "dateAdded": "2026-07-24T11:15:35.814Z",
+    "translationCache": {
+      "lemma": "build your hand",
+      "ipa": "/bɪld jɔːr hænd/",
+      "translation": "（牌类游戏）组建手牌，构筑手中的牌组",
+      "pronunciationGuide": "build 发音为 /bɪld/，结尾 /ld/ 舌尖抵上齿龈，不要加 /ə/。your 在快速语流中常弱读为 /jər/，与 build 连读成 /ˈbɪldʒər/。hand 的 /æ/ 口型要张大。",
+      "collocations": "build a strong hand, build your hand strategically, patiently build your hand, build your hand from scratch",
+      "cefrLevel": "B2",
+      "idiomUsageNote": "",
+      "englishDefinition": "to improve the combination of playing cards or tiles that you hold, by drawing and discarding, in order to achieve a winning set",
+      "patternPractice": [
+        {
+          "chinese": "在麻将中，你必须学会如何通过弃掉不需要的牌来组建你的手牌。",
+          "english": "In Mahjong, you must learn how to build your hand by discarding (throwing away) the tiles you don't need."
+        },
+        {
+          "chinese": "他耐心地构建他的手牌，直到他拿到了一个绝佳的牌型。",
+          "english": "He patiently built (put together) his hand until he got an excellent combination."
+        },
+        {
+          "chinese": "成功的玩家知道如何在游戏初期快速组建手牌。",
+          "english": "Successful players know how to quickly build their hand in the early stages of the game."
+        },
+        {
+          "chinese": "不要急于胡牌，先专注于构建一副强手牌。",
+          "english": "Don't rush to win; first, focus on building (putting together) a strong hand."
+        },
+        {
+          "chinese": "在这个牌类游戏中，抽牌策略对组建你的手牌至关重要。",
+          "english": "In this card game, drawing strategy is crucial for building (putting together) your hand."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-17-0-1784891817962",
