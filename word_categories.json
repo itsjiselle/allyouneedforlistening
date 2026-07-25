@@ -15895,39 +15895,7 @@
       "sentenceVocab": "⭐ a dying art —— 一门逐渐消失的技艺｜be no longer around —— 不再存在；不再从事这一行业｜have something forever —— 永久保留某物",
       "startTime": 57.369,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:14:05.125Z",
-      "translationCache": {
-        "lemma": "carver",
-        "ipa": "/ˈkɑrvər/",
-        "translation": "雕刻师；雕刻家；雕刻工",
-        "pronunciationGuide": "中文分析：'carver' 的发音注意美式卷舌音，重音在第一个音节，/kɑr/ 类似“卡儿”，末尾 /vər/ 轻读，/ər/ 是弱元音加卷舌。",
-        "collocations": "wood carver, stone carver, master carver, skilled carver, ivory carver",
-        "cefrLevel": "B2",
-        "idiomUsageNote": "",
-        "englishDefinition": "A person who carves wood or stone into decorative or functional objects, either as a profession or hobby.",
-        "patternPractice": [
-          {
-            "chinese": "这些木雕匠人即将退休，他们的手艺正面临失传。",
-            "english": "These wood carvers are about to retire, and their craft is disappearing (dying out)."
-          },
-          {
-            "chinese": "我认识一位雕刻家，他能把一块普通的木头变成精美的艺术品。",
-            "english": "I know a carver who can convert (turn into) an ordinary piece of wood into an exquisite work of art."
-          },
-          {
-            "chinese": "这个市场的雕刻师以其象牙雕刻而闻名。",
-            "english": "The carvers in this market are renowned for their ivory carvings."
-          },
-          {
-            "chinese": "当她看到那位雕刻师的作品时，她决定买下它。",
-            "english": "When she saw the carver's work, she decided to buy it (pick it up)."
-          },
-          {
-            "chinese": "我们需要趁这些雕刻大师还在世时，尽可能多地收集他们的作品。",
-            "english": "We need to collect (gather up) as many works from these master carvers as possible while they are still alive."
-          }
-        ]
-      }
+      "dateAdded": "2026-07-24T11:14:05.125Z"
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-9-19-1784891676642",
@@ -16026,7 +15994,48 @@
       "sentenceVocab": "/",
       "startTime": 104.471,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:15:20.944Z"
+      "dateAdded": "2026-07-24T11:15:20.944Z",
+      "customTopicIds": [
+        "uncategorized",
+        "topic-1784891355720"
+      ],
+      "patternCategories": [],
+      "translationCache": {
+        "lemma": "dot",
+        "ipa": "/dɑt/",
+        "translation": "n. 点，小圆点",
+        "pronunciationGuide": "‘dot’发音为/dɑt/，元音/ɑ/类似于汉语‘啊’，但开口较大，舌尖轻抵上齿龈发出/t/，整体短促有力。复数形式‘dots’读作/dɑts/，注意/t/和/s/连读时，舌尖从齿龈自然滑到齿间，发出清晰的/ts/音。",
+        "collocations": [
+          "polka dots (波点)",
+          "dot com (网络公司)",
+          "on the dot (准时)",
+          "connect the dots (联系起来理解)",
+          "a dot of light (一点光)"
+        ],
+        "cefrLevel": "A2",
+        "idiomUsageNote": "",
+        "englishDefinition": "A dot is a very small round mark, typically one that is printed or drawn.",
+        "patternPractice": [
+          {
+            "chinese": "我们需要把这些点连接起来，才能弄清楚究竟发生了什么。",
+            "english": "We need to connect (join up) the dots to figure out what exactly happened."
+          },
+          {
+            "chinese": "这种高科技布料上，细小的银色圆点能反射光线，提高夜间可见度。",
+            "english": "On this high-tech fabric, tiny silver dots reflect light, enhancing nighttime visibility."
+          },
+          {
+            "chinese": "当你在电脑屏幕上看到一串闪烁的点时，那通常意味着正在加载数据。",
+            "english": "When you see a series of flashing dots on the computer screen, it usually means that data is being loaded."
+          },
+          {
+            "chinese": "这张星座图用小点来标记夜空中最亮的星星的位置。",
+            "english": "This star chart uses small dots to mark the positions of the brightest stars in the night sky."
+          }
+        ]
+      },
+      "customTranslation": "(麻将中的)饼 牌",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-12-1-1784891726349",
@@ -16709,5 +16718,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784948845336
+  "updatedAt": 1784948861185
 }
