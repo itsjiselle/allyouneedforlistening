@@ -15818,13 +15818,17 @@
     "categories": [
       "idiom"
     ],
-    "customLemma": "the way they feel ... heavy",
+    "customLemma": "a heavy feel",
     "sentenceContext": "The way the tiles look, the way they feel, you know, they're cool and smooth and heavy.",
     "sentenceTranslation": "无论是麻将牌的外观，还是摸起来的感觉——它们凉凉的、光滑而且有分量。",
     "sentenceVocab": "⭐ the way something looks/feels —— 某物看起来／摸起来的感觉｜have a heavy feel —— 摸起来有分量",
     "startTime": 6.316,
     "reviewCount": 0,
     "dateAdded": "2026-07-24T11:11:37.672Z",
+    "customTopicIds": [
+      "uncategorized"
+    ],
+    "patternCategories": [],
     "translationCache": {
       "lemma": "feel",
       "ipa": "",
@@ -15856,7 +15860,9 @@
           "english": "The way this backpack feels heavy, are you sure you only packed (put in) books?"
         }
       ]
-    }
+    },
+    "customTranslation": "厚重的触感，摸起来有质感",
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-3-10-1784891514568",
