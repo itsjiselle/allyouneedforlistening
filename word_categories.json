@@ -16334,7 +16334,23 @@
       "sentenceVocab": "⭐ set something on the table —— 把某物放置在桌面上｜rack —— 牌架",
       "startTime": 389.847,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:20:53.534Z"
+      "dateAdded": "2026-07-24T11:20:53.534Z",
+      "translationCache": {
+        "lemma": "rack",
+        "ipa": "/ræk/",
+        "translation": "n. 架子；支架；挂架；(麻将等游戏中的)牌架",
+        "pronunciationGuide": "发音要点：/r/ 需卷舌，舌尖靠近上齿龈后部；/æ/ 为前元音，嘴唇向两侧张开，舌位低，口腔开合度较大；/k/ 为清辅音，发音时声带不振动，送气有力。整个音节短促，注意不要拖长元音。",
+        "collocations": "clothes rack, bike rack, spice rack, wine rack, coat rack, magazine rack, roof rack, tile rack, tool rack",
+        "cefrLevel": "B1",
+        "idiomUsageNote": "",
+        "englishDefinition": "A rack is a framework, typically with bars, pegs, or shelves, for holding or storing things. In games like mahjong, a rack is a stand used to hold tiles upright.",
+        "patternPractice": [
+          "这个可调节的晾衣架非常实用，因为它能适应不同大小的空间。",
+          "由于我们有六个人，我决定在车顶安装一个额外的自行车架，这样大家都能带上自己的自行车。",
+          "在麻将比赛中，每位选手都有自己的牌架，以确保游戏有序进行。",
+          "虽然这个香料架看起来不起眼，但它能把你所有的调料都摆放得整整齐齐，节省了寻找的时间。"
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-29-14-1784892059829",
@@ -16598,8 +16614,7 @@
       "sentenceVocab": "⭐ tablescape —— 桌面布置；餐桌美学设计｜typically involve... —— 通常包括……",
       "startTime": 479.433,
       "reviewCount": 0,
-      "dateAdded": "2026-07-25T02:50:22.715Z",
-      "teacherExplanation": "**🎲 麻将桌の凡尔赛装备**  \n别再用 cloth、holder、cup mat、plates 毁掉你的英文牌桌气场！这组词是麻将 **tablescape** 的灵魂：  \n- **mat** 是专用垫，不是桌布，铺上它才能“消音防滑显专业”，中式“垫子”秒变 **Mahjong mat**。  \n- **racks** 是牌架，不是 shelf，让你的牌“立得稳、看得清”，**牌架一推，气场全开**。  \n- **coasters** 杯垫，不是 cup mat，**防湿防烫，可乐侧翻也不怕**，老外口语高频词。  \n- **dice** 人人会，但别念成“色子”，要掷得掷地有声。  \n- **dishes** 小碟，装筹码或零食，**精致感拉满，拒绝用 plate 端出食堂风**。  \n**语用秘籍**：跟外国雀友说“Pass me the racks”瞬间封神。中文神对应：**装备党狂喜，仪式感拿捏**。  \n**梗记忆**：mat 埋头理牌，racks 架起气势，coasters 扣死桌角，dice 一掷乾坤，dishes 碟中藏筹。**记住这些词，你的麻将英文直接胡牌！**"
+      "dateAdded": "2026-07-25T02:50:22.715Z"
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-46-33-1784947916299",
@@ -16753,5 +16768,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784949207240
+  "updatedAt": 1784949215286
 }
