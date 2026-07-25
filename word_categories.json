@@ -16591,9 +16591,39 @@
       "startTime": 547.674,
       "reviewCount": 0,
       "dateAdded": "2026-07-25T02:52:20.711Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-48-8-1784947986904",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 48,
+      "wordIndex": 8,
+      "wordIndices": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "wordText": "became fully divorced from a global context of",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "... became fully divorced from a global context of ...(某物)",
+      "sentenceContext": "I would be sad if American Mahjong really became fully divorced from a global context of Mahjong, because I think that ability to connect across difference is quite powerful and something we really need.",
+      "sentenceTranslation": "如果美式麻将真的完全脱离了全球麻将文化的整体语境，我会感到难过，因为我认为这种跨越差异、建立联系的能力非常有力量，也是我们真正需要的东西。",
+      "sentenceVocab": "⭐ be divorced from... —— 与……完全脱节／分离｜a global context —— 全球背景／整体语境｜connect across difference —— 跨越差异建立联系｜be quite powerful —— 具有强大的力量／意义",
+      "startTime": 565.165,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-25T02:53:06.904Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784947944822
+  "updatedAt": 1784947990025
 }
