@@ -16414,9 +16414,43 @@
       "startTime": 439.446,
       "reviewCount": 0,
       "dateAdded": "2026-07-25T02:47:58.535Z"
+    },
+    {
+      "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-36-5-1784947742691",
+      "materialId": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make",
+      "srtFingerprint": "a7b7c428",
+      "materialTitle": "WSJ Coveted_Why a $1,000 Mahjong Set Takes 10 Days to Make.mp4",
+      "subtitleId": 36,
+      "wordIndex": 5,
+      "wordIndices": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "wordText": "thanks to a resurgence of interest in ... that's happening globally right now",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "thanks to a resurgence of interest in ...(某种之前很火但后来衰落，但最近又回归大家实现的东西) that's happening globally right now",
+      "sentenceContext": "I do think that particularly thanks to a resurgence of interest in Mahjong that's happening globally right now, there is enough of a market that will continue to support artisans who want to continue this craft.",
+      "sentenceTranslation": "我确实认为，尤其得益于当前全球范围内对麻将兴趣的复兴，市场需求已经足以继续支持那些希望传承这门手艺的工匠。",
+      "sentenceVocab": "⭐ thanks to... —— 得益于……｜a resurgence of interest in... —— 对……兴趣的复兴｜globally —— 在全球范围内｜there is enough of a market —— 存在足够大的市场｜continue a craft —— 继续从事／传承一门手艺",
+      "startTime": 451.448,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-25T02:49:02.691Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784947683192
+  "updatedAt": 1784947746878
 }
