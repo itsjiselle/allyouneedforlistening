@@ -16026,18 +16026,7 @@
       "sentenceVocab": "⭐ stand for... —— 代表；象征……",
       "startTime": 107.765,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:15:26.349Z",
-      "translationCache": {
-        "lemma": "crack ... bam",
-        "ipa": "/kræk ... bæm/",
-        "translation": "（麻将用语）万子 ... 条子  [n.]",
-        "pronunciationGuide": "",
-        "collocations": "Cracks suit, Bams suit, Cracks tiles, Bams tiles, a mix of Cracks and Bams",
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": []
-      }
+      "dateAdded": "2026-07-24T11:15:26.349Z"
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-13-9-1784891735814",
@@ -16746,11 +16735,22 @@
       "sentenceTranslation": "我真的希望手工雕刻麻将牌能够继续作为一种艺术形式存在下去。",
       "sentenceVocab": "⭐ continue to exist —— 继续存在｜as an art form —— 作为一种艺术形式",
       "startTime": 446.954,
-      "reviewCount": 0,
-      "dateAdded": "2026-07-25T02:54:19.794Z"
+      "reviewCount": 1,
+      "dateAdded": "2026-07-25T02:54:19.794Z",
+      "translationCache": {
+        "lemma": "hand-carve",
+        "ipa": "/ˌhænd ˈkɑːrv/",
+        "translation": "v. 手工雕刻；用手工（非机器）雕刻。尤指使用传统工具制作雕刻品。",
+        "pronunciationGuide": "",
+        "collocations": "hand-carve furniture, hand-carve stone, hand-carve wood, hand-carve a design, hand-carved decorations",
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": []
+      }
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784949160642
+  "updatedAt": 1784949182583
 }
