@@ -15950,11 +15950,6 @@
       "startTime": 89.902,
       "reviewCount": 0,
       "dateAdded": "2026-07-24T11:14:36.642Z",
-      "customTopicIds": [
-        "uncategorized",
-        "topic-1784891355720"
-      ],
-      "patternCategories": [],
       "translationCache": {
         "lemma": "choose random tiles",
         "ipa": "/tʃuz ˈrændəm taɪlz/",
@@ -15978,10 +15973,7 @@
             "english": "One of the joys of Mahjong lies in the uncertainty brought by choosing random tiles."
           }
         ]
-      },
-      "teacherExplanation": "**「中式英语」vs「地道麻将黑话」**  \n中国学生第一时间想到 `pick/choose tiles randomly`——老外听了可能以为你在宜家**挑瓷砖**（random tiles = 随机瓷砖）🤣。麻将桌上，地道说法是**`draw tiles`**（摸牌），仿佛命运之骰已掷，而非你主动挑挑拣拣。\n\n**学术语用精析**  \n`choose random` 带有**统计学/计算机味**，如同在蒙特卡洛模拟中无放回抽样。日常麻将用 `draw` 更符合**仪式感与约定俗成**；而 `choose random` 在专业语境（如AI麻将算法）才显硬核，语体极为客观疏离。\n\n**中文网梗神对应**  \n这妥妥就是**盲盒抽卡**现场！“系统为你choose了random tiles”，非酋抽不到好牌，只能含泪点炮。表情包可配字：“你的牌运，是AI随机掉的瓷砖吗？”\n\n**趣味记忆法**  \n记成 **“出死·random太偶”**——谐音梗：出死（choose）太偶（tile）？不，是**摸牌全靠老天赏饭**，你只是无情的抽卡机器罢了。",
-      "customTranslation": "随机抓一张牌",
-      "patternCategoryManuallyEdited": true
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-9-23-1784891687242",
@@ -16465,7 +16457,39 @@
       "sentenceVocab": "⭐ after all my digging —— 在进行了一番深入搜寻之后｜particular artist —— 这位特定的／特别的艺术家｜female artisan —— 女性手工艺人",
       "startTime": 428.224,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:22:41.969Z"
+      "dateAdded": "2026-07-24T11:22:41.969Z",
+      "translationCache": {
+        "lemma": "after all one's digging",
+        "ipa": "/ˈæftər ɔːl wʌnz ˈdɪɡɪŋ/",
+        "translation": "经过（某人的）一番搜寻/挖掘后（用于口语，强调付出大量努力后得出结果）",
+        "pronunciationGuide": "在快速口语中，'after all' 常连读为 /ˈæftə rɔːl/，'digging' 的 /ɪŋ/ 需发饱满，注意重音在第一个音节。整体语调通常带有轻微感慨或自嘲的语气。",
+        "collocations": "after all my/your/his/her digging, after all the digging, despite all my digging, do some digging, a bit of digging",
+        "cefrLevel": "B2",
+        "idiomUsageNote": "",
+        "englishDefinition": "used to say that even though someone has spent a lot of time and effort searching for or investigating something, a particular result happened, often unexpectedly.",
+        "patternPractice": [
+          {
+            "chinese": "经过我的一番调查，我发现他竟然是我的远房亲戚。",
+            "english": "After all my digging, I discovered (found out) that he was actually my distant relative."
+          },
+          {
+            "chinese": "尽管她四处打听，还是没能找到那份失落的手稿。",
+            "english": "After all her digging, she still couldn't locate (track down) the lost manuscript."
+          },
+          {
+            "chinese": "经过他的一番挖掘，他终于查明了真相。",
+            "english": "After all his digging, he finally uncovered (found out) the truth."
+          },
+          {
+            "chinese": "尽管我费尽心思搜寻，那个文件仍然下落不明。",
+            "english": "After all my digging, I just couldn't track down the document."
+          },
+          {
+            "chinese": "经过我们的一番深入研究，我们偶然发现了一个被遗忘的传统。",
+            "english": "After all our digging, we stumbled upon (came across) a forgotten tradition."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-36-8-1784902022729",
@@ -16887,5 +16911,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784950510409
+  "updatedAt": 1784950523414
 }
