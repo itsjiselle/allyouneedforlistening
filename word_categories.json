@@ -16211,7 +16211,7 @@
       "sentenceTranslation": "机器制造的麻将牌通常能够很好地模仿某些设计，但是那种只能通过手工呈现的标志性细节和风格，是无法复制的。",
       "sentenceVocab": "⭐ do a great job of doing something —— 在做某事方面表现得很好｜mimic a design —— 模仿某种设计｜signature detail/style —— 标志性的细节／风格｜inimitable —— 无法仿效的；独一无二的",
       "startTime": 351.203,
-      "reviewCount": 1,
+      "reviewCount": 0,
       "dateAdded": "2026-07-24T11:20:01.235Z",
       "translationCache": {
         "lemma": "inimitable",
@@ -16229,8 +16229,7 @@
           "她独特的绘画技巧赢得了国际奖项。",
           "这种传统工艺的独特魅力吸引了众多游客。"
         ]
-      },
-      "teacherExplanation": "**inimitable** = **无法模仿的**，但别再说“can't be copied”啦！\n\n**中式英语 vs 地道**：中国学生一开口就是“unique”或“special”，但native speaker在夸手工艺品的神韵时，会甩出**inimitable**——它自带“老子就是独一份，你模仿不来”的傲娇感，比“unique”多了层**技艺碾压**的霸气。\n\n**语用场景**：正式褒义，适合专业汇报或文艺吹捧。比如：“Her singing style is inimitable.” 既夸了才华，又暗戳戳表示“在座的都是模仿秀”。\n\n**中文梗对应**：≈ **“一直被模仿，从未被超越”**——对，就是那碗心灵鸡汤，但用在手艺上瞬间高级！或者网络语 **“这韵味，学不来”**，配一个[摊手]表情包。\n\n**趣味记忆**：拆开看：**in-**（不）+ **imit**（模仿，想想imitate）+ **able**（能）→ “不能模仿的”。读音像 **“以你咪 Table”**——你家的猫趴在桌上那个独一无二的骚姿势，就是**inimitable**！"
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-26-14-1784892021493",
@@ -16598,7 +16597,35 @@
       "sentenceVocab": "⭐ tablescape —— 桌面布置；餐桌美学设计｜typically involve... —— 通常包括……",
       "startTime": 479.433,
       "reviewCount": 0,
-      "dateAdded": "2026-07-25T02:50:22.715Z"
+      "dateAdded": "2026-07-25T02:50:22.715Z",
+      "translationCache": {
+        "lemma": "",
+        "ipa": "",
+        "translation": "",
+        "pronunciationGuide": "",
+        "collocations": [],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "麻将桌上铺着绿色的桌垫，既防滑又保持了桌面整洁。",
+            "english": "A green mat is spread (laid out) on the mahjong table, which is both non-slip and keeps the table clean."
+          },
+          {
+            "chinese": "我们买了一块新的野餐垫，打算周末去公园时用。",
+            "english": "We bought a new picnic mat, planning to use it when we go to the park this weekend."
+          },
+          {
+            "chinese": "请把热盘子放在桌垫上，以免烫坏木质桌面。",
+            "english": "Please put the hot dish on the table mat so as not to damage the wooden table surface."
+          },
+          {
+            "chinese": "她每次练瑜伽前都会仔细铺开瑜伽垫。",
+            "english": "She always carefully rolls out (spreads out) her yoga mat before each practice."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-46-33-1784947916299",
@@ -16736,11 +16763,10 @@
       "sentenceVocab": "⭐ continue to exist —— 继续存在｜as an art form —— 作为一种艺术形式",
       "startTime": 446.954,
       "reviewCount": 0,
-      "dateAdded": "2026-07-25T02:54:19.794Z",
-      "teacherExplanation": "**中式英语 vs 地道表达**  \n你脑子里蹦出的可能是 *hand-carved tiles*（成品），但原文偏说 *hand-carving tiles*（动态的艺术行为），就差这么个-ing，灵魂截然不同！老外这么用，是在致敬「正在发生的工艺」，而非冷冰冰的瓷砖——就像说 *painting* 而不单指一幅画。  \n\n**学术语用解析**  \n动名词短语作主语，自带名词属性又保留动词的动态张力，语体正式、饱含情感，多用于艺术保护、非遗领域，传递一种「活态传承」的渴望——褒义满分，堪比学术演讲里的催泪炸弹。  \n\n**中文热梗神对应**  \n简直对应微博热词 **「刻进DNA里的手艺」**！年轻人一边刷着“绝绝子”，一边高呼“老祖宗的 buff 不能丢”——这波文艺复兴，和 *hand-carving tiles continues to exist in an art form* 异曲同工，都是文化自信的显眼包。  \n\n**趣味记忆法**  \n谐音记：**「汗滴卡文」** ——雕刻师傅满头大汗，灵感卡壳（carving 读快了像“卡文”）还在坚持，一句 *hand-carving tiles* 脑中就浮现倔强艺术家的 GIF。再联想“手残党”的相反境界，你就是next level language artist！"
+      "dateAdded": "2026-07-25T02:54:19.794Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784949125385
+  "updatedAt": 1784949140967
 }
