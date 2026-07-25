@@ -15993,7 +15993,7 @@
       "sentenceTranslation": "第一种是筒子，图案通常是圆形的，看起来像圆点。",
       "sentenceVocab": "/",
       "startTime": 104.471,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-24T11:15:20.944Z",
       "customTopicIds": [
         "uncategorized",
@@ -16722,5 +16722,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784948876358
+  "updatedAt": 1784948887348
 }
