@@ -15825,7 +15825,39 @@
       "sentenceVocab": "⭐ the way something looks/feels —— 某物看起来／摸起来的感觉｜have a heavy feel —— 摸起来有分量",
       "startTime": 6.316,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:11:37.672Z"
+      "dateAdded": "2026-07-24T11:11:37.672Z",
+      "translationCache": {
+        "lemma": "feel",
+        "ipa": "",
+        "translation": "v. 摸起来；感觉（系动词，后接形容词）",
+        "pronunciationGuide": "feel /fiːl/，注意长元音/iː/，与'fill'区分。在快速口语中，'the way they feel heavy'可能读作/ðə weɪ ðeɪ fiːl ˈhɛvi/，'they'有时弱读为/ðə/。",
+        "collocations": "feel smooth, feel cold, feel heavy, feel soft, the way something feels",
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "To give a sensation of being a particular quality (such as heavy, smooth, cold) when touched.",
+        "patternPractice": [
+          {
+            "chinese": "这块石头摸起来很重，好像里面含有金属。",
+            "english": "The way this stone feels heavy, as if it contains metal inside."
+          },
+          {
+            "chinese": "那个旧箱子摸起来很重，我们最好检查一下里面有什么。",
+            "english": "The way that old box feels heavy, we'd better check (look into) what's inside."
+          },
+          {
+            "chinese": "这种布料摸起来又重又粗糙，不适合做夏季服装。",
+            "english": "The way this fabric feels heavy and rough makes it unsuitable for summer clothing."
+          },
+          {
+            "chinese": "他拿起那枚硬币，它摸起来很重，不像是普通的硬币。",
+            "english": "He picked up the coin; the way it felt heavy, it didn't seem like an ordinary coin."
+          },
+          {
+            "chinese": "这个背包摸起来很重，你确定只装了书吗？",
+            "english": "The way this backpack feels heavy, are you sure you only packed (put in) books?"
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-3-10-1784891514568",
@@ -16853,5 +16885,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1784949594980
+  "updatedAt": 1784950378202
 }
