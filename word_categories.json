@@ -17792,9 +17792,37 @@
       "startTime": 172.812,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T10:00:28.905Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-35-9-1785232852700",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 35,
+      "wordIndex": 9,
+      "wordIndices": [
+        9,
+        10,
+        11,
+        13,
+        14,
+        16
+      ],
+      "wordText": "her humor and ... shallowess and ... vanity",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "her humor and ... shallowess and ... vanity",
+      "sentenceContext": "You know, Ellsworth has, you know, become iconic for her humor and her shallowess and her vanity.",
+      "sentenceTranslation": "你知道，Ellsworth 因为她的幽默、肤浅和虚荣而成为了一个标志性人物。",
+      "sentenceVocab": "⭐ become iconic for sth = 因某事成为标志性的存在｜vanity = 虚荣；自恋",
+      "startTime": 175.515,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T10:00:52.700Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785232835592
+  "updatedAt": 1785232860610
 }
