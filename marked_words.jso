@@ -17557,5 +17557,28 @@
     "startTime": 90.62,
     "reviewCount": 0,
     "dateAdded": "2026-07-28T09:56:16.179Z"
+  },
+  {
+    "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-21-16-1785232598167",
+    "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+    "srtFingerprint": "708064a9",
+    "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+    "subtitleId": 21,
+    "wordIndex": 16,
+    "wordIndices": [
+      16
+    ],
+    "wordText": "histrionic",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "histrionic",
+    "sentenceContext": "It was such a fun thing to do as well as being nerve-wracking because she's so histrionic and she's so she's so performative,",
+    "sentenceTranslation": "这是一件非常有趣的事情，同时也令人紧张，因为她是如此戏剧化、如此具有表演性。",
+    "sentenceVocab": "⭐ as well as being... = 除了……之外还……｜histrionic = 戏剧化的；夸张做作的（通常带一点负面含义）｜performative = 表演性的；刻意展现出来的",
+    "startTime": 97.179,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-28T09:56:38.167Z"
   }
 ]
