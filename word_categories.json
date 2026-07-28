@@ -14840,7 +14840,8 @@
             "english": "Engineers are exploring how to optimize (look into) the heat dissipation characteristics of the core-shell donut model."
           }
         ]
-      }
+      },
+      "teacherExplanation": "### 1. 【中式英语 vs 地道表达】\n你可能会说‘ring-shaped donut’或‘circle donut’，但native speaker会说‘coreshell donut’。**核心差别**在于‘coreshell’是一个**工业/数学术语**，字面意思是‘核-壳结构’，像原子模型或分层材料。用它来形容甜甜圈，瞬间把食物**升华成工程概念**，幽默又精准——暗示‘中间有空心，周围是实体’，就像甜甜圈的物理结构。\n\n### 2. 【学术深度分析与语用场景】\n这个词**感情色彩戏谑**，常用于**技术汇报或产品设计**场景。比如在效率优化讨论中，说‘We need a coreshell donut’既形象又显得**专业抖机灵**。语用上，它**借用学术词汇制造反差萌**，让听众会心一笑，同时传递‘空心结构提高效率’的抽象概念。\n\n### 3. 【中文社媒/网络流行语对应】\n对应中文网络梗‘**甜甜圈原理**’或‘**空心化**’。想象表情包：一个甜甜圈配字‘效率的核心是留白’。类似‘**套娃**’但更强调‘空壳优势’。\n\n### 4. 【趣味记忆/联想】\n谐音梗：‘**扣屎壳儿**’（Core-shell）——想象一个屎壳郎推着甜甜圈，说‘这空心结构效率高！’ 或者联想**‘核心（core）是空的（shell）’**，就像你的钱包——外表光鲜，里面没钱，但跑得快（效率高）。\n\n### 5. 【总结】\n下次想装学术幽默，就说‘This is a coreshell donut approach’，保证全场憋笑点头。"
     },
     {
       "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-4-7-1784866480784",
@@ -17053,5 +17054,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785205497253
+  "updatedAt": 1785205500479
 }
