@@ -15699,7 +15699,8 @@
         "topic-1784867561233"
       ],
       "patternCategories": [],
-      "patternCategoryManuallyEdited": true
+      "patternCategoryManuallyEdited": true,
+      "teacherExplanation": "### 1. 中式英语 vs 地道表达\n中国学生第一反应可能是“make a change”或“turn things around”，但**implement a turnaround**是商务黑话中的王炸——强调**系统性、有策略的逆转**，像给公司做心脏搭桥手术，而不是贴个创可贴。Native speaker用这个词时，暗示着“我们不是随便改改，是动了大手术，还成功了”。\n\n### 2. 学术深度分析与语用场景\n语用上，它是**正式、自信、略带骄傲**的。常用于财报电话会或董事会汇报，感情色彩**褒义**，但带点“我们很牛”的凡尔赛。对比“turn things around”更口语化，**implement a turnaround**则像穿着西装说：“我们执行了一个战略性逆转方案。”\n\n### 3. 中文社媒/网络流行语对应\n对应中文网络梗：**“逆风翻盘”**（选秀节目常见）或**“绝地求生”**（游戏梗）。更神的是：**“我直接一个托马斯回旋救场”**——既形象又带点戏谑，完美匹配原句的自信与逆转感。\n\n### 4. 趣味记忆/联想\n谐音梗：**“硬破门他绕弯”**——公司快倒闭了，硬是破门而入，绕个弯就盈利了！或者联想**“turn”=转，“around”=180度**，像开车掉头，但**implement**是手握方向盘猛打，还踩了油门——刺激！"
     },
     {
       "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-73-2-1784867312083",
@@ -17162,5 +17163,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785205577220
+  "updatedAt": 1785205579490
 }
