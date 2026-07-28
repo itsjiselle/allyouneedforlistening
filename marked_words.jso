@@ -15307,7 +15307,84 @@
     "sentenceVocab": "⭐ remain out of the red —— 保持不亏损；避免陷入赤字｜ambitious deal —— 雄心勃勃的合作协议｜fall apart —— 破裂；失败；瓦解",
     "startTime": 197.074,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:21:26.792Z"
+    "dateAdded": "2026-07-24T04:21:26.792Z",
+    "patternCategory": "表达情感",
+    "translationCache": {
+      "lemma": "...(某主体) is still fighting to ...",
+      "ipa": "",
+      "translation": "仍在努力做某事（以摆脱困境）",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "强调主体在逆境中持续付出巨大努力，常带有情感色彩，暗示困难重重。",
+      "englishDefinition": "Used to describe a person or organization that continues to struggle or make great efforts to achieve a specific goal, especially when facing significant obstacles or adversity.",
+      "patternPractice": [],
+      "patternAnalysis": {
+        "normalizedTarget": "...(某主体) is still fighting to ...",
+        "unitType": "lexical_frame",
+        "activeLearningRecommendation": "high",
+        "primaryCategory": "表达立场与态度",
+        "primarySubcategory": "表达情感",
+        "functionInContextZh": "表达公司为摆脱财务困境而持续努力，带有坚持和挣扎的情感色彩。",
+        "reusablePattern": "[Subject] is still fighting to [achieve something]",
+        "retrievalScenarioZh": "你向朋友描述一家初创公司，尽管资金链断裂，但创始人仍在努力寻找投资以维持运营。",
+        "usageConstraintsZh": [
+          "常用于口语或非正式书面语",
+          "主语通常为人或组织",
+          "后接不定式表示努力的目标"
+        ],
+        "commonErrorsZh": [
+          "误用为'fight to do'表示物理打斗",
+          "忽略'still'的持续含义",
+          "将'fight'替换为'struggle'时语气过重"
+        ],
+        "modelExampleEn": "Despite the pandemic, the small business is still fighting to keep its doors open.",
+        "confidence": 0.95,
+        "promptVersion": "pattern-learning-v2"
+      },
+      "patternAnkiCards": [
+        {
+          "front": {
+            "scenarioZh": "你在一家初创公司工作，公司最近失去了主要客户，资金紧张。在团队会议上，你向同事描述公司现状：我们仍在努力寻找新的投资者，以避免破产。",
+            "taskZh": "用英语表达：我们仍在努力寻找新的投资者，以避免破产。",
+            "hintEn": "We are still fighting to... (find new investors)... to avoid..."
+          },
+          "back": {
+            "targetAnswerEn": "We are still fighting to find new investors to avoid bankruptcy.",
+            "acceptableAnswersEn": [
+              "We are still fighting to secure new investors to stave off bankruptcy.",
+              "We are still fighting to attract new investors to prevent bankruptcy."
+            ],
+            "reusablePattern": "[Subject] is still fighting to [achieve something]",
+            "usageNoteZh": "使用'still'强调持续的努力，'fighting'暗示困难重重。",
+            "commonErrorsZh": [
+              "漏掉'still'",
+              "用'struggle'代替'fight'语气更消极"
+            ]
+          }
+        },
+        {
+          "front": {
+            "scenarioZh": "你是一名环保活动家，在新闻发布会上谈论当地湿地保护项目。尽管政府削减了资金，你们团队仍在努力阻止开发商破坏湿地。",
+            "taskZh": "用英语表达：我们仍在努力阻止开发商破坏湿地。",
+            "hintEn": "We are still fighting to... (stop developers)... from destroying the wetlands."
+          },
+          "back": {
+            "targetAnswerEn": "We are still fighting to stop developers from destroying the wetlands.",
+            "acceptableAnswersEn": [
+              "We are still fighting to prevent developers from destroying the wetlands.",
+              "We are still fighting to block developers from destroying the wetlands."
+            ],
+            "reusablePattern": "[Subject] is still fighting to [achieve something]",
+            "usageNoteZh": "此模式常用于表达为保护某事物而持续抗争。",
+            "commonErrorsZh": [
+              "误用'fight against'后接动名词",
+              "忘记使用'still'"
+            ]
+          }
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-50-6-1784866893794",
