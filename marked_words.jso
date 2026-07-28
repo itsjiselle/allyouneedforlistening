@@ -17580,5 +17580,34 @@
     "startTime": 97.179,
     "reviewCount": 0,
     "dateAdded": "2026-07-28T09:56:38.167Z"
+  },
+  {
+    "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-22-8-1785232632048",
+    "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+    "srtFingerprint": "708064a9",
+    "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+    "subtitleId": 22,
+    "wordIndex": 8,
+    "wordIndices": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "wordText": "she performs the kind of media darling",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "she performs the kind of media darling",
+    "sentenceContext": "you know, she performs vulnerability, she performs sexiness, she performs the kind of media darling, she gives you every part of being a woman in one character.",
+    "sentenceTranslation": "你知道，她表演脆弱，表演性感，表演那种媒体宠儿般的形象，她在一个角色里展现了作为一个女性可能拥有的方方面面。",
+    "sentenceVocab": "⭐ perform vulnerability = 表现出脆弱感｜media darling = 媒体宠儿",
+    "startTime": 104.598,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-28T09:57:12.048Z"
   }
 ]
