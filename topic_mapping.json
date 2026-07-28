@@ -1,16 +1,8 @@
 {
   "materialTopics": [
     {
-      "id": "topic-ielts",
-      "name": "雅思真题"
-    },
-    {
       "id": "topic-daily",
       "name": "日常英语"
-    },
-    {
-      "id": "topic-news",
-      "name": "新闻播客"
     },
     {
       "id": "topic-1784775667232",
@@ -55,6 +47,14 @@
     {
       "id": "topic-1784891355720",
       "name": "Recreation&Game🎮🎨🎠"
+    },
+    {
+      "id": "topic-ielts",
+      "name": "雅思真题"
+    },
+    {
+      "id": "topic-news",
+      "name": "新闻播客"
     }
   ],
   "materialTopicMapping": {
@@ -73,5 +73,5 @@
     "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me": "topic-1784776674665",
     "github-cloud-i_D_Meets__Will_Gao": "topic-1784776719656"
   },
-  "updatedAt": 1785232336395
+  "updatedAt": 1785233634259
 }
