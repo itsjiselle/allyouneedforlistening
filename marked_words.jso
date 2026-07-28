@@ -14811,7 +14811,35 @@
       "topic-1784775906777"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "translationCache": {
+      "lemma": "coreshell donut",
+      "ipa": "/ˈkɔːrʃɛl ˈdoʊnət/",
+      "translation": "核壳甜甜圈（一种结构，核心被外壳包围，形似甜甜圈）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "core-shell donut structure",
+        "core-shell donut model",
+        "core-shell donut configuration"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了提高催化效率，研究人员设计了一种新型的核壳甜甜圈结构。",
+          "english": "To enhance catalytic efficiency, the researchers designed a novel core-shell donut structure."
+        },
+        {
+          "chinese": "这种核壳甜甜圈配置在电磁波吸收方面表现出优异的性能。",
+          "english": "This core-shell donut configuration exhibits excellent performance in electromagnetic wave absorption."
+        },
+        {
+          "chinese": "工程师们正在探索如何优化核壳甜甜圈模型的散热特性。",
+          "english": "Engineers are exploring how to optimize (look into) the heat dissipation characteristics of the core-shell donut model."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-4-7-1784866480784",
