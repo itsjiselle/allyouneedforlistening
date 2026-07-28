@@ -14752,7 +14752,35 @@
       "topic-1784867561233"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "translationCache": {
+      "lemma": "drive efficiency",
+      "ipa": "/draɪv ɪˈfɪʃənsi/",
+      "translation": "提高效率 (verb phrase)",
+      "pronunciationGuide": "",
+      "collocations": "drive efficiency improvements, drive efficiency gains, help drive efficiency, aim to drive efficiency",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "我们公司正在实施新的软件系统，以推动各部门的效率。",
+          "english": "Our company is implementing a new software system to drive efficiency across departments."
+        },
+        {
+          "chinese": "管理层认为，自动化是提高生产效率的关键驱动力。",
+          "english": "Management believes that automation is key to driving efficiency in production."
+        },
+        {
+          "chinese": "为了在竞争中保持领先，我们必须不断寻找新的方法来推动运营效率。",
+          "english": "To stay ahead of the competition, we must constantly find new ways to drive operational efficiency."
+        },
+        {
+          "chinese": "这个项目的目标是通过优化流程来推动效率，同时降低成本。",
+          "english": "The goal of this project is to drive efficiency by optimizing processes while reducing costs."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-3-12-1784866461340",
