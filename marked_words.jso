@@ -15218,35 +15218,7 @@
     "sentenceVocab": "⭐ be under pressure to do something —— 面临做某事的压力｜become more efficient —— 提高效率",
     "startTime": 193.804,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:21:01.851Z",
-    "translationCache": {
-      "lemma": "kreme is under",
-      "ipa": "/kriːm ɪz ˈʌndər/",
-      "translation": "Kreme（品牌名）处于……之下",
-      "pronunciationGuide": "",
-      "collocations": "Krispy Kreme is under pressure; Kreme is under scrutiny",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "由于成本上升，Kreme 正面临提高效率的压力。",
-          "english": "Kreme is under pressure to improve efficiency due to rising costs."
-        },
-        {
-          "chinese": "在食品安全丑闻之后，Kreme 受到了监管机构的严格审查。",
-          "english": "Kreme is under intense scrutiny from regulators after the food safety scandal."
-        },
-        {
-          "chinese": "随着新竞争对手进入市场，Kreme 面临保持市场份额的压力。",
-          "english": "Kreme is under pressure to maintain its market share as new competitors enter the market."
-        },
-        {
-          "chinese": "投资者要求更高的回报，Kreme 因此承受着削减成本的压力。",
-          "english": "Kreme is under pressure to cut costs as investors demand higher returns."
-        }
-      ]
-    }
+    "dateAdded": "2026-07-24T04:21:01.851Z"
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-50-2-1784866886792",
@@ -15750,7 +15722,8 @@
     "sentenceVocab": "⭐ health-conscious —— 注重健康的｜the future for... —— ……的未来｜in this kind of...era —— 在这样一个……的时代",
     "startTime": 337.645,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:29:51.943Z"
+    "dateAdded": "2026-07-24T04:29:51.943Z",
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“in this era that people care about health”，但 native speaker 会说 **“health-conscious era”**。区别在于：中式英语像白开水，而“health-conscious”是浓缩咖啡——一个词就自带“时刻关注健康、甚至有点焦虑”的戏谑感。  \n\n**2. 学术深度分析与语用场景**  \n“Conscious”本意是“有意识的”，这里化用为“过度关注的”。感情色彩偏**戏谑**，常用于调侃某种潮流（如健身狂魔、超级食物控）。在学术汇报里用这个词，瞬间拉近与听众的距离，显得你既专业又接地气。  \n\n**3. 中文社媒/网络流行语对应**  \n≈ **“在这个卷健康的时代”** 或 **“全民养生内卷期”**。想象一下小红书上“朋克养生”的梗：一边熬夜一边泡枸杞，就是“health-conscious”的魔幻现实。  \n\n**4. 趣味记忆/联想**  \n把 **“health-conscious”** 拆成 **“health”** + **“con-scious”**（谐音“扛事”）。想象一个健身达人扛着哑铃、皱着眉头说：“我扛事（conscious）呢，别拿甜甜圈诱惑我！” —— 一秒记住那种又自律又焦虑的搞笑感。"
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-78-13-1784867428775",
