@@ -17914,9 +17914,35 @@
       "startTime": 207.067,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T10:04:58.042Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-39-18-1785233113643",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 39,
+      "wordIndex": 18,
+      "wordIndices": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "wordText": "suffered the loss of",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "suffer the loss of",
+      "sentenceContext": "the people who have generously shared on social media about how you can continue to live when you've suffered the loss of a of of a teenage or adult child.",
+      "sentenceTranslation": "那些人在社交媒体上慷慨分享，当一个人经历失去青少年或成年孩子的痛苦后，如何继续生活下去。",
+      "sentenceVocab": "⭐ generously share = 慷慨分享｜suffer the loss of sth/sb = 经历失去某人/某物的痛苦",
+      "startTime": 207.067,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T10:05:13.643Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785233103943
+  "updatedAt": 1785233119476
 }
