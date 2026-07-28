@@ -17844,5 +17844,33 @@
     "startTime": 175.515,
     "reviewCount": 0,
     "dateAdded": "2026-07-28T10:01:08.280Z"
+  },
+  {
+    "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-37-31-1785232922693",
+    "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+    "srtFingerprint": "708064a9",
+    "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+    "subtitleId": 37,
+    "wordIndex": 31,
+    "wordIndices": [
+      31,
+      32,
+      34,
+      35,
+      36,
+      37
+    ],
+    "wordText": "lip syncing ... lines on Tik Tok",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "lip sync one's lines on Tik Tok",
+    "sentenceContext": "So, you know, all the while while filming this thing that's become something that's now the subject of parties and people doing themed Saltburn evenings and dressing up as Ellsworth and lip syncing my lines on Tik Tok.",
+    "sentenceTranslation": "所以，在拍摄这部作品的整个过程中——而如今它已经变成了人们举办主题派对、举办《Saltburn》主题之夜、打扮成 Ellsworth，并在 TikTok 上对我的台词进行对口型表演的对象。",
+    "sentenceVocab": "⭐ all the while = 一直；始终｜become the subject of sth = 成为某事的主题/对象｜dress up as sb = 装扮成某人｜lip sync = 对口型表演",
+    "startTime": 187.55,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-28T10:02:02.693Z"
   }
 ]
