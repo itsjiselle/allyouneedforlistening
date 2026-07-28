@@ -14865,7 +14865,39 @@
     "sentenceVocab": "⭐ when it comes to… —— 说到……（★★★★★）｜put the finishing touches on… —— 做最后的润色/收尾（★★★★★）｜eye coordination —— 手眼协调（C1）",
     "startTime": 18.568,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:14:40.784Z"
+    "dateAdded": "2026-07-24T04:14:40.784Z",
+    "translationCache": {
+      "lemma": "finishing touches",
+      "ipa": "/ˈfɪnɪʃɪŋ ˈtʌtʃɪz/",
+      "translation": "最后润色；收尾工作",
+      "pronunciationGuide": "",
+      "collocations": [
+        "put the finishing touches on",
+        "add the finishing touches",
+        "apply the finishing touches"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在提交报告之前，我需要花点时间做最后的润色。",
+          "english": "Before submitting the report, I need to spend some time putting the finishing touches on it."
+        },
+        {
+          "chinese": "厨师在甜点上添加了最后的装饰，使其看起来像一件艺术品。",
+          "english": "The chef added the finishing touches to the dessert, making it look like a work of art."
+        },
+        {
+          "chinese": "我们正在对网站进行最后的调整，预计下周上线。",
+          "english": "We are putting the finishing touches on the website and expect it to go live next week."
+        },
+        {
+          "chinese": "她仔细检查了每一处细节，确保最后的润色完美无缺。",
+          "english": "She carefully checked every detail to ensure the finishing touches were flawless."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-4-5-1784866495845",
