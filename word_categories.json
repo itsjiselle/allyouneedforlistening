@@ -14805,7 +14805,7 @@
       "sentenceTranslation": "我们发现，提高效率最好的方式，是生产基础款甜甜圈（圆环甜甜圈）。",
       "sentenceVocab": "⭐ drive efficiency —— 提高效率（★★★★★）｜the best way to do something —— 做某事最好的方式",
       "startTime": 11.951,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-24T04:14:21.340Z",
       "customTopicIds": [
         "topic-ielts",
@@ -17054,5 +17054,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785205500479
+  "updatedAt": 1785205520376
 }
