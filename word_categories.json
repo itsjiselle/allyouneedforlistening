@@ -17760,9 +17760,41 @@
       "startTime": 141.75,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T09:59:31.945Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-34-0-1785232828905",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 34,
+      "wordIndex": 0,
+      "wordIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "wordText": "I think a lot of people have just consumed clips",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "I think a lot of people have just consumed clips",
+      "sentenceContext": "I think a lot of people have just consumed clips.",
+      "sentenceTranslation": "我觉得很多人只是看了一些片段。",
+      "sentenceVocab": "⭐ consume content/clips = 消费内容/观看片段（媒体语境）",
+      "startTime": 172.812,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T10:00:28.905Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785232775406
+  "updatedAt": 1785232835592
 }
