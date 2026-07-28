@@ -17433,9 +17433,34 @@
       "startTime": 45.517,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T09:53:18.453Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-12-24-1785232432247",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 12,
+      "wordIndex": 24,
+      "wordIndices": [
+        24,
+        25,
+        26
+      ],
+      "wordText": "signed on to",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "sign on to do sth",
+      "sentenceContext": "I think if if if I'd been too big an actress at that point, people might not have believed that um I would have signed on to play the dead girl.",
+      "sentenceTranslation": "我觉得，如果当时我的名气太大的话，人们可能不会相信我会答应出演那个\"死去的女孩\"。",
+      "sentenceVocab": "⭐ at that point = 在那个时候｜sign on to do sth = 同意参与某事；签约做某事",
+      "startTime": 51.452,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T09:53:52.247Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785232410618
+  "updatedAt": 1785232440614
 }
