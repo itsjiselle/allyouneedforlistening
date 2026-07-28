@@ -15775,7 +15775,83 @@
     "sentenceVocab": "⭐ a moment of... —— 一个……的时刻｜sweet treat —— 甜点；用来犒赏自己的甜食｜it's gotta be worth it —— 它必须值得｜it's gotta be amazing —— 它必须足够出色",
     "startTime": 353.317,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:30:51.845Z"
+    "dateAdded": "2026-07-24T04:30:51.845Z",
+    "patternCategory": "描述事件中的即时反应或感受",
+    "translationCache": {
+      "lemma": "have your moment of ... sharing",
+      "ipa": "",
+      "translation": "享受你分享……的时刻",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "用于强调某个特定行为或体验的珍贵时刻，带有情感色彩。",
+      "englishDefinition": "Used to emphasize a special, often indulgent or meaningful moment dedicated to a particular activity, especially sharing something enjoyable.",
+      "patternPractice": [],
+      "patternAnalysis": {
+        "normalizedTarget": "have your moment of ... sharing",
+        "unitType": "lexical_frame",
+        "activeLearningRecommendation": "high",
+        "primaryCategory": "叙述个人经历与自我变化",
+        "primarySubcategory": "描述事件中的即时反应或感受",
+        "functionInContextZh": "强调分享甜点这一行为是值得的、美妙的时刻。",
+        "reusablePattern": "have your moment of [noun] sharing",
+        "retrievalScenarioZh": "朋友聚会时，你带了自己做的蛋糕，希望大家珍惜这个分享的时刻。",
+        "usageConstraintsZh": [
+          "非正式场合使用",
+          "通常用于口语",
+          "带有积极情感"
+        ],
+        "commonErrorsZh": [
+          "误用为'have a moment of sharing'，缺少'your'会失去个性化",
+          "将'sharing'误用为'share'"
+        ],
+        "modelExampleEn": "You know, when you have your moment of wine sharing with friends, it's gotta be special.",
+        "confidence": 0.9,
+        "promptVersion": "pattern-learning-v2"
+      },
+      "patternAnkiCards": [
+        {
+          "front": {
+            "scenarioZh": "你刚烤好一批饼干，邀请朋友来品尝。你想表达希望大家珍惜这个分享饼干的时刻，因为它值得。",
+            "taskZh": "用英语表达：当你分享饼干的时候，这个时刻应该是美妙的。",
+            "hintEn": "When you have your moment of ______ sharing, it's gotta be ______."
+          },
+          "back": {
+            "targetAnswerEn": "When you have your moment of cookie sharing, it's gotta be amazing.",
+            "acceptableAnswersEn": [
+              "When you have your moment of cookie sharing, it's gotta be worth it.",
+              "When you have your moment of sharing cookies, it's gotta be wonderful."
+            ],
+            "reusablePattern": "have your moment of [noun] sharing",
+            "usageNoteZh": "使用'your'强调个人体验，'moment of ... sharing'结构固定。",
+            "commonErrorsZh": [
+              "误用为'have a moment of cookie sharing'",
+              "忘记加'your'"
+            ]
+          }
+        },
+        {
+          "front": {
+            "scenarioZh": "你在公司年会上分享成功经验，你想强调这个分享时刻的重要性。",
+            "taskZh": "用英语表达：当你分享成功经验的时候，这个时刻必须是有意义的。",
+            "hintEn": "When you have your moment of ______ sharing, it's gotta be ______."
+          },
+          "back": {
+            "targetAnswerEn": "When you have your moment of success sharing, it's gotta be meaningful.",
+            "acceptableAnswersEn": [
+              "When you have your moment of sharing success, it's gotta be significant.",
+              "When you have your moment of success sharing, it's gotta be impactful."
+            ],
+            "reusablePattern": "have your moment of [noun] sharing",
+            "usageNoteZh": "可用于正式或半正式场合，但保持口语化。",
+            "commonErrorsZh": [
+              "误用为'have a moment of success sharing'",
+              "将'sharing'误用为'share'"
+            ]
+          }
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-77-8-1784867455075",
