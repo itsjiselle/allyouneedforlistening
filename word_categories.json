@@ -17992,9 +17992,33 @@
       "startTime": 225.447,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T10:06:02.940Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-43-1-1785233190158",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 43,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        2
+      ],
+      "wordText": "press tour",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "press tour",
+      "sentenceContext": "The press tour for Saltburn was a was a joy because my friend and collaborator Leath Clark said to me, \"We've got to, you know, channel Ellsworth with this tour.",
+      "sentenceTranslation": "《Saltburn》的宣传巡回活动非常令人愉快，因为我的朋友兼合作伙伴 Leath Clark 对我说：\"我们必须在这次宣传活动中调动出 Ellsworth 的感觉。\"",
+      "sentenceVocab": "⭐ press tour = 媒体宣传巡回｜a joy = 一件令人愉快的事情｜collaborator = 合作者｜channel sb/sth = 调动、展现某人的特质/精神",
+      "startTime": 236.489,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T10:06:30.158Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785233170790
+  "updatedAt": 1785233193979
 }
