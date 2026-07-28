@@ -15226,7 +15226,35 @@
     "sentenceVocab": "⭐ a whole lot —— 非常多；一大堆｜have something you're doing —— 手头有某事正在做",
     "startTime": 156.88,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:20:09.315Z"
+    "dateAdded": "2026-07-24T04:20:09.315Z",
+    "translationCache": {
+      "lemma": "have a whole lot",
+      "ipa": "/hæv ə hoʊl lɑt/",
+      "translation": "拥有很多，大量",
+      "pronunciationGuide": "",
+      "collocations": "have a whole lot of something; need a whole lot; get a whole lot",
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "要完成这个项目，我们还需要做大量的工作。",
+          "english": "To complete this project, we still have a whole lot of work to do."
+        },
+        {
+          "chinese": "她虽然抱怨工作辛苦，但心里其实非常感激这个机会。",
+          "english": "Although she complains about the hard work, she actually has a whole lot of gratitude for this opportunity."
+        },
+        {
+          "chinese": "别担心，我们还有大量的时间可以准备考试。",
+          "english": "Don't worry, we still have a whole lot of time to prepare for the exam."
+        },
+        {
+          "chinese": "他在这家公司积累了大量的经验，现在成了专家。",
+          "english": "He has gained a whole lot of experience at this company and is now an expert."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-49-2-1784866861851",
