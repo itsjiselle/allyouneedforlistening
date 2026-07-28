@@ -17634,5 +17634,46 @@
     "startTime": 115.57900000000001,
     "reviewCount": 0,
     "dateAdded": "2026-07-28T09:57:31.484Z"
+  },
+  {
+    "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-27-9-1785232725023",
+    "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+    "srtFingerprint": "708064a9",
+    "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+    "subtitleId": 27,
+    "wordIndex": 9,
+    "wordIndices": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "wordText": "I look back and think I'll be much kinder to myself in retrospect than I was at the time",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "I look back and think I'll be much kinder to myself in retrospect than I was at the time",
+    "sentenceContext": "it would probably be one of those things that I look back and think I'll be much kinder to myself in retrospect than I was at the time. ——",
+    "sentenceTranslation": "它可能会成为那种让我回望过去，并觉得自己现在会比当时更加善待自己的作品。",
+    "sentenceVocab": "⭐ look back = 回顾过去｜in retrospect = 事后看来；回想起来｜be kinder to oneself = 对自己更宽容",
+    "startTime": 134.8,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-28T09:58:45.023Z"
   }
 ]
