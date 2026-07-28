@@ -17610,9 +17610,34 @@
       "startTime": 104.598,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T09:57:12.048Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-23-3-1785232651484",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 23,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        6
+      ],
+      "wordText": "became ... giddy",
+      "category": "idiom",
+      "categories": [
+        "idiom",
+        "vocab"
+      ],
+      "customLemma": "become giddy",
+      "sentenceContext": "It's just it became kind of giddy to play because she's such a performer and her power is so great.",
+      "sentenceTranslation": "只是因为她本身就是一个如此善于表演的人物，而且她的力量感如此强大，所以出演她变成了一件令人兴奋到有些晕眩的事情。",
+      "sentenceVocab": "⭐ become giddy = 变得兴奋得有些晕眩；激动不已｜such a performer = 非常具有表演能力的人",
+      "startTime": 115.57900000000001,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T09:57:31.484Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785232635989
+  "updatedAt": 1785232657207
 }
