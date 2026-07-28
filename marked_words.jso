@@ -15499,7 +15499,40 @@
     "sentenceVocab": "⭐ get into the nuts and bolts —— 深入讨论具体细节和实际运作｜the nuts and bolts —— 基本原理；具体操作细节",
     "startTime": 229.45600000000002,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:23:25.215Z"
+    "dateAdded": "2026-07-24T04:23:25.215Z",
+    "translationCache": {
+      "lemma": "nuts and bolts",
+      "ipa": "/ˌnʌts ənd ˈboʊlts/",
+      "translation": "基本组成部分，具体细节（名词短语）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "the nuts and bolts of something",
+        "get down to the nuts and bolts",
+        "explain the nuts and bolts",
+        "understand the nuts and bolts"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在开始项目之前，我们需要先了解其基本组成部分。",
+          "english": "Before starting the project, we need to understand (grasp) the nuts and bolts of it."
+        },
+        {
+          "chinese": "这位新经理很快掌握了公司运营的具体细节。",
+          "english": "The new manager quickly learned (picked up) the nuts and bolts of the company's operations."
+        },
+        {
+          "chinese": "这本书详细解释了计算机编程的基本原理。",
+          "english": "This book explains the nuts and bolts of computer programming in detail."
+        },
+        {
+          "chinese": "让我们直接进入正题，讨论合同的具体条款。",
+          "english": "Let's get straight to the nuts and bolts of the contract."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-55-0-1784867021058",
@@ -15528,7 +15561,7 @@
     "sentenceTranslation": "我们来进一步谈谈具体细节。",
     "sentenceVocab": "⭐ get into the nuts and bolts —— 深入讨论具体细节和实际运作｜the nuts and bolts —— 基本原理；具体操作细节",
     "startTime": 229.45600000000002,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-24T04:23:41.058Z",
     "patternCategory": "突出当前重点",
     "translationCache": {
