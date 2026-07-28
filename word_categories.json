@@ -17734,9 +17734,35 @@
       "startTime": 141.75,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T09:59:20.855Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-28-7-1785232771945",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 28,
+      "wordIndex": 7,
+      "wordIndices": [
+        7,
+        11,
+        12,
+        13
+      ],
+      "wordText": "saw ... to my mind",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "see ... to my mind",
+      "sentenceContext": "You know, at the time I just saw all the problems to my mind, but I'm sure if I look back now, I I might think that I did okay.",
+      "sentenceTranslation": "你知道，当时在我的想法里，我只看到了所有的问题，但我相信如果现在回头看，我可能会觉得自己其实做得还不错。",
+      "sentenceVocab": "⭐ to my mind = 在我看来；按照我的想法｜do okay = 做得还可以",
+      "startTime": 141.75,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T09:59:31.945Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785232764643
+  "updatedAt": 1785232775406
 }
