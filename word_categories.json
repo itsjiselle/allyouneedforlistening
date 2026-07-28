@@ -18063,9 +18063,33 @@
       "startTime": 258.913,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T10:07:13.032Z"
+    },
+    {
+      "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-46-16-1785233240046",
+      "materialId": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn",
+      "srtFingerprint": "708064a9",
+      "materialTitle": "Bazaar UK_Rosamund Pike breaks down her life in roles, from Gone Girl to Saltburn.mp4",
+      "subtitleId": 46,
+      "wordIndex": 16,
+      "wordIndices": [
+        16,
+        17
+      ],
+      "wordText": "pleated dress",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "pleated dress",
+      "sentenceContext": "So that involved blue sequined Rodarte at the Critics' Choice Awards, to a bold silk green pleated dress with a sequin gold cape for a sort of just a normal dinner.",
+      "sentenceTranslation": "所以这包括了我在评论家选择奖上穿的蓝色亮片 Rodarte 礼服，还有一件大胆的绿色丝绸褶皱裙，搭配金色亮片披风——就为了参加一场\"普通的晚餐\"。",
+      "sentenceVocab": "⭐ involve sth = 包括；涉及｜sequined = 带亮片装饰的｜pleated dress = 褶皱裙",
+      "startTime": 258.913,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-28T10:07:20.046Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785233237427
+  "updatedAt": 1785233246438
 }
