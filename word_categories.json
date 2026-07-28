@@ -15219,7 +15219,35 @@
       "sentenceVocab": "⭐ be under pressure to do something —— 面临做某事的压力｜become more efficient —— 提高效率",
       "startTime": 193.804,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T04:21:01.851Z"
+      "dateAdded": "2026-07-24T04:21:01.851Z",
+      "translationCache": {
+        "lemma": "kreme is under",
+        "ipa": "/kriːm ɪz ˈʌndər/",
+        "translation": "Kreme（品牌名）处于……之下",
+        "pronunciationGuide": "",
+        "collocations": "Krispy Kreme is under pressure; Kreme is under scrutiny",
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "由于成本上升，Kreme 正面临提高效率的压力。",
+            "english": "Kreme is under pressure to improve efficiency due to rising costs."
+          },
+          {
+            "chinese": "在食品安全丑闻之后，Kreme 受到了监管机构的严格审查。",
+            "english": "Kreme is under intense scrutiny from regulators after the food safety scandal."
+          },
+          {
+            "chinese": "随着新竞争对手进入市场，Kreme 面临保持市场份额的压力。",
+            "english": "Kreme is under pressure to maintain its market share as new competitors enter the market."
+          },
+          {
+            "chinese": "投资者要求更高的回报，Kreme 因此承受着削减成本的压力。",
+            "english": "Kreme is under pressure to cut costs as investors demand higher returns."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-50-2-1784866886792",
@@ -17052,5 +17080,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785205467481
+  "updatedAt": 1785205482726
 }
