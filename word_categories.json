@@ -18405,9 +18405,37 @@
       "startTime": 107.211,
       "reviewCount": 0,
       "dateAdded": "2026-07-29T11:56:39.735Z"
+    },
+    {
+      "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-23-4-1785326231868",
+      "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+      "srtFingerprint": "45ee656f",
+      "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+      "subtitleId": 23,
+      "wordIndex": 4,
+      "wordIndices": [
+        4,
+        5,
+        7,
+        8,
+        10
+      ],
+      "wordText": "I think ... is where ... lies",
+      "category": "pattern",
+      "categories": [
+        "pattern",
+        "idiom"
+      ],
+      "customLemma": "I think ... is where ... lies",
+      "sentenceContext": "She was curious, and I think curiosity is where freedom lies and interest lies.",
+      "sentenceTranslation": "她充满好奇心，而我认为，自由与兴趣都源于好奇心。",
+      "sentenceVocab": "⭐ curiosity = 好奇心（B2）｜where freedom lies = 自由所在；自由的根源（C1）",
+      "startTime": 118.689,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-29T11:57:11.868Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326204554
+  "updatedAt": 1785326236194
 }
