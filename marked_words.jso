@@ -18432,5 +18432,28 @@
     "startTime": 118.689,
     "reviewCount": 0,
     "dateAdded": "2026-07-29T11:57:11.868Z"
+  },
+  {
+    "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-29-10-1785326292005",
+    "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+    "srtFingerprint": "45ee656f",
+    "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+    "subtitleId": 29,
+    "wordIndex": 10,
+    "wordIndices": [
+      10
+    ],
+    "wordText": "blisteringly",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "blisteringly",
+    "sentenceContext": "How have you made these people we care about so blisteringly?",
+    "sentenceTranslation": "你到底是怎样把这些人物塑造得如此鲜活、如此令人牵挂的？",
+    "sentenceVocab": "⭐ blisteringly = 极其；异常地（C2）",
+    "startTime": 146.101,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-29T11:58:12.005Z"
   }
 ]
