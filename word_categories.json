@@ -18482,9 +18482,32 @@
       "startTime": 154.364,
       "reviewCount": 0,
       "dateAdded": "2026-07-29T11:58:31.805Z"
+    },
+    {
+      "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-44-6-1785326371514",
+      "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+      "srtFingerprint": "45ee656f",
+      "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+      "subtitleId": 44,
+      "wordIndex": 6,
+      "wordIndices": [
+        6
+      ],
+      "wordText": "hubris",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "hubris",
+      "sentenceContext": "It's a moment of total irrational hubris.",
+      "sentenceTranslation": "这是一个完全出于非理性傲慢的时刻。",
+      "sentenceVocab": "⭐ hubris = 傲慢；狂妄自大（C2）｜irrational = 非理性的（C1）",
+      "startTime": 204.715,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-29T11:59:31.514Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326315970
+  "updatedAt": 1785326375902
 }
