@@ -18200,7 +18200,39 @@
     "sentenceVocab": "⭐ as part of... = 作为……的一部分",
     "startTime": 11.457,
     "reviewCount": 0,
-    "dateAdded": "2026-07-29T11:51:20.525Z"
+    "dateAdded": "2026-07-29T11:51:20.525Z",
+    "translationCache": {
+      "lemma": "welcome someone inside",
+      "ipa": "/ˈwɛlkəm ˈsʌmwʌn ɪnˈsaɪd/",
+      "translation": "邀请某人进入（室内）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "welcome someone inside the house",
+        "welcome someone inside the store",
+        "welcome someone inside the club"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "作为新会员，经理亲自在门口迎接我们，并热情地邀请我们进入俱乐部。",
+          "english": "As new members, the manager personally greeted us at the door and warmly welcomed us inside the club."
+        },
+        {
+          "chinese": "尽管外面下着大雨，主人还是坚持让我们先进屋，并立即给我们递上毛巾。",
+          "english": "Despite the heavy rain outside, the host insisted on welcoming us inside the house and immediately handed us towels."
+        },
+        {
+          "chinese": "在参观博物馆时，导游在入口处迎接我们，并邀请我们进入展厅，开始讲解展品。",
+          "english": "During the museum tour, the guide greeted us at the entrance and welcomed us inside the exhibition hall to begin explaining the exhibits."
+        },
+        {
+          "chinese": "这家新开的书店在开业当天，店主站在门口迎接每一位顾客，并邀请他们进店浏览。",
+          "english": "On the opening day of this new bookstore, the owner stood at the door greeting every customer and welcoming them inside to browse."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-6-3-1785325915281",
