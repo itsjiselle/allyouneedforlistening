@@ -18224,7 +18224,40 @@
       "sentenceVocab": "⭐ whim = 一时兴起的念头；奇思妙想（C1）｜to the ultimate degree = 到了极致｜blow sb's mind = 让某人震撼；令人大开眼界（C1）",
       "startTime": 24.677,
       "reviewCount": 0,
-      "dateAdded": "2026-07-29T11:51:55.281Z"
+      "dateAdded": "2026-07-29T11:51:55.281Z",
+      "translationCache": {
+        "lemma": "whim",
+        "ipa": "/wɪm/",
+        "translation": "n. 一时的兴致；突然的念头",
+        "pronunciationGuide": "",
+        "collocations": [
+          "on a whim",
+          "at the whim of",
+          "whims and fancies",
+          "a sudden whim"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "她一时兴起，辞去了稳定的工作，去环游世界。",
+            "english": "She quit her stable job on a whim and traveled around the world."
+          },
+          {
+            "chinese": "老板的决策常常取决于他一时的心血来潮，这让员工们感到不安。",
+            "english": "The boss's decisions often depend on his whims, which makes employees uneasy."
+          },
+          {
+            "chinese": "不要因为一时冲动就买下那件昂贵的衣服，你可能会后悔。",
+            "english": "Don't buy that expensive dress on a whim; you might regret it."
+          },
+          {
+            "chinese": "孩子们的想法总是变化无常，一会儿一个主意。",
+            "english": "Children's ideas are always changing at the whim of the moment."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-6-5-1785325925754",
@@ -18645,5 +18678,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326890034
+  "updatedAt": 1785326902254
 }
