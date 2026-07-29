@@ -18251,5 +18251,29 @@
     "startTime": 24.677,
     "reviewCount": 0,
     "dateAdded": "2026-07-29T11:52:05.754Z"
+  },
+  {
+    "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-11-10-1785326033281",
+    "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+    "srtFingerprint": "45ee656f",
+    "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+    "subtitleId": 11,
+    "wordIndex": 10,
+    "wordIndices": [
+      10,
+      11
+    ],
+    "wordText": "stirs me",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "stir someone",
+    "sentenceContext": "So, am I ready to see if this book still stirs me like it did when I was 14?",
+    "sentenceTranslation": "那么，我准备好看看这本书是否还能像我14岁时那样打动我了吗？",
+    "sentenceVocab": "⭐ stir sb = 打动；激起情感（C1）",
+    "startTime": 55.86,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-29T11:53:53.281Z"
   }
 ]
