@@ -18588,7 +18588,39 @@
       "sentenceVocab": "⭐ slip sth into... = 悄悄放进；顺手放进（C1）",
       "startTime": 154.364,
       "reviewCount": 0,
-      "dateAdded": "2026-07-29T11:58:31.805Z"
+      "dateAdded": "2026-07-29T11:58:31.805Z",
+      "translationCache": {
+        "lemma": "slip into",
+        "ipa": "/slɪp ˈɪntu/",
+        "translation": "偷偷放入，悄悄塞进",
+        "pronunciationGuide": "",
+        "collocations": [
+          "slip something into a bag",
+          "slip a note into someone's pocket",
+          "slip money into an envelope"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "她趁没人注意，悄悄把一张纸条塞进了我的包里。",
+            "english": "She slipped a note into my bag when no one was looking."
+          },
+          {
+            "chinese": "他偷偷把几块巧克力塞进孩子的背包里，作为惊喜。",
+            "english": "He slipped some chocolates into the child's backpack as a surprise."
+          },
+          {
+            "chinese": "在安检前，他迅速把钥匙塞进了我的口袋。",
+            "english": "He quickly slipped the keys into my pocket before the security check."
+          },
+          {
+            "chinese": "她小心翼翼地把情书塞进他的书包，生怕被发现。",
+            "english": "She carefully slipped the love letter into his schoolbag, afraid of being caught."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-44-6-1785326371514",
@@ -18642,5 +18674,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326781109
+  "updatedAt": 1785326792799
 }
