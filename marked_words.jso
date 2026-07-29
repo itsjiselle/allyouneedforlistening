@@ -18542,7 +18542,84 @@
     "sentenceVocab": "⭐ curiosity = 好奇心（B2）｜where freedom lies = 自由所在；自由的根源（C1）",
     "startTime": 118.689,
     "reviewCount": 0,
-    "dateAdded": "2026-07-29T11:57:11.868Z"
+    "dateAdded": "2026-07-29T11:57:11.868Z",
+    "translationCache": {
+      "lemma": "I think ... is where ... lies",
+      "ipa": "",
+      "translation": "我认为……是……所在之处",
+      "pronunciationGuide": "",
+      "collocations": [],
+      "cefrLevel": "B2",
+      "idiomUsageNote": "用于表达对某事物本质或核心所在的个人见解，语气较正式、有思辨色彩。",
+      "englishDefinition": "A pattern used to express a personal opinion about the location or essence of something abstract, often with a reflective or philosophical tone.",
+      "patternPractice": [],
+      "patternAnalysis": {
+        "normalizedTarget": "I think ... is where ... lies",
+        "unitType": "grammar_construction",
+        "activeLearningRecommendation": "high",
+        "primaryCategory": "表达立场与态度",
+        "primarySubcategory": "主观观点与判断",
+        "functionInContextZh": "说话者表达个人观点，认为好奇心是自由和兴趣的根源所在。",
+        "reusablePattern": "I think [noun phrase] is where [noun phrase] lies",
+        "retrievalScenarioZh": "在学术讨论中，你需要表达你对某个抽象概念本质的看法，比如你认为创造力是解决问题的关键。",
+        "usageConstraintsZh": [
+          "通常用于正式或半正式的口语或书面语",
+          "主语一般是第一人称'I'，但也可用于第三人称如'He thinks...'",
+          "后接名词短语或动名词短语"
+        ],
+        "commonErrorsZh": [
+          "误用'lie'的时态（应用一般现在时lies）",
+          "在'is where'后误加'that'（如'I think that is where...'虽可接受但冗余）",
+          "将'lies'误用为'lays'"
+        ],
+        "modelExampleEn": "I think education is where true empowerment lies.",
+        "confidence": 0.95,
+        "promptVersion": "pattern-learning-v2"
+      },
+      "patternAnkiCards": [
+        {
+          "front": {
+            "scenarioZh": "在一次团队讨论中，你被问到如何提高员工的工作满意度。你想表达你的观点：真正的满足感来自于有意义的工作，而不是高薪。",
+            "taskZh": "用英语表达你的观点：你认为真正的满足感在于有意义的工作。",
+            "hintEn": "I think ... is where ... lies"
+          },
+          "back": {
+            "targetAnswerEn": "I think true satisfaction is where meaningful work lies.",
+            "acceptableAnswersEn": [
+              "I believe genuine fulfillment lies in meaningful work.",
+              "In my opinion, real satisfaction comes from meaningful work."
+            ],
+            "reusablePattern": "I think [noun phrase] is where [noun phrase] lies",
+            "usageNoteZh": "使用'lies'表示抽象事物的核心所在，语气较正式。",
+            "commonErrorsZh": [
+              "误用'lays'代替'lies'",
+              "在'is where'后误加'that'"
+            ]
+          }
+        },
+        {
+          "front": {
+            "scenarioZh": "在一次关于城市发展的会议上，你被要求发表对城市吸引力的看法。你想说：城市的魅力在于其多样性。",
+            "taskZh": "用英语表达：城市的魅力在于其多样性。",
+            "hintEn": "I think ... is where ... lies"
+          },
+          "back": {
+            "targetAnswerEn": "I think a city's charm is where its diversity lies.",
+            "acceptableAnswersEn": [
+              "I believe the charm of a city lies in its diversity.",
+              "In my view, a city's appeal is rooted in its diversity."
+            ],
+            "reusablePattern": "I think [noun phrase] is where [noun phrase] lies",
+            "usageNoteZh": "注意'lies'的主语是抽象名词，如'charm'。",
+            "commonErrorsZh": [
+              "误用'lie'的过去式'lay'",
+              "将'lies'误拼为'lies'（正确）"
+            ]
+          }
+        }
+      ]
+    },
+    "patternCategory": "主观观点与判断"
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-29-10-1785326292005",
@@ -18616,8 +18693,7 @@
     "sentenceVocab": "⭐ hubris = 傲慢；狂妄自大（C2）｜irrational = 非理性的（C1）",
     "startTime": 204.715,
     "reviewCount": 0,
-    "dateAdded": "2026-07-29T11:59:31.514Z",
-    "teacherExplanation": "**Hubris**，希腊悲剧里最经典的“装X遭雷劈”专用词。\n\n**1. 中式英语 vs 地道表达**  \n你可能会说“overconfidence”或“arrogance”，但这些太普通了。Hubris 特指那种**因极度傲慢而盲目到失去理智**的自信，往往**注定要倒霉**。比如公司CEO说“我们不可能失败”，下一秒公司破产——这就是 hubris。\n\n**2. 学术深度分析与语用场景**  \n感情色彩：**强烈贬义**，且带有一种“因果报应”的宿命感。常用于形容**权力巅峰者的致命自负**，比如政客、大老板、明星。在日常交流中，说“That's pure hubris”比说“He's too arrogant”更犀利，直接点出对方**即将翻车**的预兆。\n\n**3. 中文社媒/网络流行语对应**  \n最传神的翻译：**“装X作死”**。或者“膨胀到飘了”。想象一个博主说“这波操作我稳如老狗”，结果立刻翻车——弹幕刷“hubris警告”。完美对应！\n\n**4. 趣味记忆/联想**  \n谐音梗：**“虎逼日死”**（想象一只老虎觉得自己天下无敌，结果被猎人一枪崩了）。或者拆解：**hub**（中心）+ **ris**（rise）→ 觉得自己是宇宙中心，飘上天了，然后摔死。记住：**Hubris = 嗨过头，必死。**\n\n**一句话总结：** Hubris 不是普通的骄傲，是**自带悲剧BGM的傲慢**。"
+    "dateAdded": "2026-07-29T11:59:31.514Z"
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920",
