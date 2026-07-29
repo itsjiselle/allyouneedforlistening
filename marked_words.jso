@@ -18274,7 +18274,39 @@
     "sentenceVocab": "⭐ stir sb = 打动；激起情感（C1）",
     "startTime": 55.86,
     "reviewCount": 0,
-    "dateAdded": "2026-07-29T11:53:53.281Z"
+    "dateAdded": "2026-07-29T11:53:53.281Z",
+    "translationCache": {
+      "lemma": "stir",
+      "ipa": "/stɜr/",
+      "translation": "v. 激起，打动（情感）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "stir emotions",
+        "stir memories",
+        "stir the soul"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这部电影深深打动了我，让我想起了童年。",
+          "english": "This movie deeply stirred me, bringing back memories of my childhood."
+        },
+        {
+          "chinese": "他的演讲激起了听众的爱国热情。",
+          "english": "His speech stirred patriotic fervor in the audience."
+        },
+        {
+          "chinese": "那首老歌总能唤起我对往事的怀念。",
+          "english": "That old song always stirs nostalgia in me."
+        },
+        {
+          "chinese": "她的故事激起了我们对社会不公的愤怒。",
+          "english": "Her story stirred our anger at social injustice."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-15-24-1785326065310",
