@@ -18201,5 +18201,28 @@
     "startTime": 11.457,
     "reviewCount": 0,
     "dateAdded": "2026-07-29T11:51:20.525Z"
+  },
+  {
+    "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-6-3-1785325915281",
+    "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+    "srtFingerprint": "45ee656f",
+    "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+    "subtitleId": 6,
+    "wordIndex": 3,
+    "wordIndices": [
+      3
+    ],
+    "wordText": "whims",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "whim",
+    "sentenceContext": "All the little whims that go off in all of our brains, followed to the ultimate degree by these authors, and it blows my mind really.",
+    "sentenceTranslation": "我们脑海里所有那些一闪而过的小念头，都被这些作家追寻并发展到了极致，这真的让我惊叹不已。",
+    "sentenceVocab": "⭐ whim = 一时兴起的念头；奇思妙想（C1）｜to the ultimate degree = 到了极致｜blow sb's mind = 让某人震撼；令人大开眼界（C1）",
+    "startTime": 24.677,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-29T11:51:55.281Z"
   }
 ]
