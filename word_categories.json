@@ -18456,9 +18456,35 @@
       "startTime": 146.101,
       "reviewCount": 0,
       "dateAdded": "2026-07-29T11:58:12.005Z"
+    },
+    {
+      "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-32-3-1785326311805",
+      "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+      "srtFingerprint": "45ee656f",
+      "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+      "subtitleId": 32,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        5,
+        6,
+        7
+      ],
+      "wordText": "slip ... into my bag",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "slip ... into my bag",
+      "sentenceContext": "I'm going to slip it into my bag.",
+      "sentenceTranslation": "我要把它放进我的包里。",
+      "sentenceVocab": "⭐ slip sth into... = 悄悄放进；顺手放进（C1）",
+      "startTime": 154.364,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-29T11:58:31.805Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326297861
+  "updatedAt": 1785326315970
 }
