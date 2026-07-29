@@ -18201,39 +18201,7 @@
       "sentenceVocab": "⭐ as part of... = 作为……的一部分",
       "startTime": 11.457,
       "reviewCount": 0,
-      "dateAdded": "2026-07-29T11:51:20.525Z",
-      "translationCache": {
-        "lemma": "welcome someone inside",
-        "ipa": "/ˈwɛlkəm ˈsʌmwʌn ɪnˈsaɪd/",
-        "translation": "邀请某人进入（室内）",
-        "pronunciationGuide": "",
-        "collocations": [
-          "welcome someone inside the house",
-          "welcome someone inside the store",
-          "welcome someone inside the club"
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": [
-          {
-            "chinese": "作为新会员，经理亲自在门口迎接我们，并热情地邀请我们进入俱乐部。",
-            "english": "As new members, the manager personally greeted us at the door and warmly welcomed us inside the club."
-          },
-          {
-            "chinese": "尽管外面下着大雨，主人还是坚持让我们先进屋，并立即给我们递上毛巾。",
-            "english": "Despite the heavy rain outside, the host insisted on welcoming us inside the house and immediately handed us towels."
-          },
-          {
-            "chinese": "在参观博物馆时，导游在入口处迎接我们，并邀请我们进入展厅，开始讲解展品。",
-            "english": "During the museum tour, the guide greeted us at the entrance and welcomed us inside the exhibition hall to begin explaining the exhibits."
-          },
-          {
-            "chinese": "这家新开的书店在开业当天，店主站在门口迎接每一位顾客，并邀请他们进店浏览。",
-            "english": "On the opening day of this new bookstore, the owner stood at the door greeting every customer and welcoming them inside to browse."
-          }
-        ]
-      }
+      "dateAdded": "2026-07-29T11:51:20.525Z"
     },
     {
       "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-6-3-1785325915281",
@@ -18670,10 +18638,11 @@
       "sentenceVocab": "⭐ read for information = 为获取信息而阅读｜rhythmically = 有节奏地（C1）",
       "startTime": 212.097,
       "reviewCount": 0,
-      "dateAdded": "2026-07-29T12:01:33.920Z"
+      "dateAdded": "2026-07-29T12:01:33.920Z",
+      "teacherExplanation": "### 【中式英语 vs 地道表达】\n你可能会说“how words are arranged”或“the rhythm of words”，但 native speaker 用 **\"how words work rhythmically\"** 更妙——它把单词拟人化了，仿佛每个词都是乐队里的小乐手，配合着演奏节奏。中式英语常把“节奏”当成静态属性，但这里的 \"work\" 强调动态协作，地道又鲜活。\n\n### 【学术深度分析与语用场景】\n这是语用学中的**动态韵律观**：意义不只来自词汇本身，更来自它们的节奏互动（如重音、停顿、音节时长）。在文学批评、诗歌朗诵或演讲中，用这个表达能瞬间提升专业度，感情色彩**中性偏赞赏**，暗示 speaker 对语言有敏锐感知。\n\n### 【中文社媒/网络流行语对应】\n相当于中文网络语 **“词的卡点”** 或 **“语感踩点”**——就像 BGM 里每个鼓点都精准踩中，形容某个句子读起来“很顺、很带感”。\n\n### 【趣味记忆/联想】\n想象每个单词是**交响乐团**的乐手：名词是小提琴，动词是鼓手，介词是三角铁——\"how they work rhythmically\" 就是指挥家看他们如何合奏。谐音梗：\"work rhythmically\" 听起来像“我磕 rhythm 你磕”，学英语就像磕 CP，词和节奏锁死！"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326834600
+  "updatedAt": 1785326852231
 }
