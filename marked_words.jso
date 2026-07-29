@@ -18329,7 +18329,40 @@
     "sentenceVocab": "⭐ a collection of essays = 一本随笔集｜concise = 简洁的（C1）｜pertinent = 一针见血的；切中要害的（C1）｜observer of people = 对人性的观察者",
     "startTime": 69.59,
     "reviewCount": 0,
-    "dateAdded": "2026-07-29T11:54:25.310Z"
+    "dateAdded": "2026-07-29T11:54:25.310Z",
+    "translationCache": {
+      "lemma": "pertinent",
+      "ipa": "/ˈpɜːrtɪnənt/",
+      "translation": "adj. 相关的，切题的",
+      "pronunciationGuide": "",
+      "collocations": [
+        "pertinent to",
+        "pertinent information",
+        "pertinent question",
+        "pertinent details"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在法庭上，律师只允许提出与案件直接相关的问题。",
+          "english": "In court, the lawyer was only allowed to ask questions that were directly pertinent to the case."
+        },
+        {
+          "chinese": "她的评论虽然尖锐，但与讨论的主题毫不相关。",
+          "english": "Her comments, though sharp, were not at all pertinent to the topic under discussion."
+        },
+        {
+          "chinese": "为了节省时间，请只提供与项目相关的数据。",
+          "english": "To save time, please provide only data that is pertinent to the project."
+        },
+        {
+          "chinese": "这篇论文引用了大量与气候变化相关的文献。",
+          "english": "This paper cites a large amount of literature that is pertinent to climate change."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-15-17-1785326088544",
