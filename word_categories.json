@@ -18703,7 +18703,13 @@
       "sentenceVocab": "⭐ hubris = 傲慢；狂妄自大（C2）｜irrational = 非理性的（C1）",
       "startTime": 204.715,
       "reviewCount": 1,
-      "dateAdded": "2026-07-29T11:59:31.514Z"
+      "dateAdded": "2026-07-29T11:59:31.514Z",
+      "customTopicIds": [
+        "uncategorized",
+        "topic-1785327203327"
+      ],
+      "patternCategories": [],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920",
@@ -18741,5 +18747,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785327278804
+  "updatedAt": 1785327288692
 }
