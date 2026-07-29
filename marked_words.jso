@@ -18551,8 +18551,8 @@
       "pronunciationGuide": "",
       "collocations": [],
       "cefrLevel": "B2",
-      "idiomUsageNote": "用于表达对某事物本质或核心所在的个人见解，语气较正式、有思辨色彩。",
-      "englishDefinition": "A pattern used to express a personal opinion about the location or essence of something abstract, often with a reflective or philosophical tone.",
+      "idiomUsageNote": "用于表达个人观点，强调某事物是另一事物的根源或核心所在。",
+      "englishDefinition": "Used to express a personal belief that a particular thing is the source or core of another thing.",
       "patternPractice": [],
       "patternAnalysis": {
         "normalizedTarget": "I think ... is where ... lies",
@@ -18560,61 +18560,61 @@
         "activeLearningRecommendation": "high",
         "primaryCategory": "表达立场与态度",
         "primarySubcategory": "主观观点与判断",
-        "functionInContextZh": "说话者表达个人观点，认为好奇心是自由和兴趣的根源所在。",
+        "functionInContextZh": "说话者表达个人观点，认为好奇心是自由和兴趣的根源。",
         "reusablePattern": "I think [noun phrase] is where [noun phrase] lies",
-        "retrievalScenarioZh": "在学术讨论中，你需要表达你对某个抽象概念本质的看法，比如你认为创造力是解决问题的关键。",
+        "retrievalScenarioZh": "在讨论成功的关键因素时，你想表达“我认为坚持是成功的关键所在”。",
         "usageConstraintsZh": [
-          "通常用于正式或半正式的口语或书面语",
-          "主语一般是第一人称'I'，但也可用于第三人称如'He thinks...'",
-          "后接名词短语或动名词短语"
+          "通常用于正式或半正式的口语和书面语",
+          "主语通常是第一人称'I'",
+          "'lies'后常接抽象名词"
         ],
         "commonErrorsZh": [
-          "误用'lie'的时态（应用一般现在时lies）",
-          "在'is where'后误加'that'（如'I think that is where...'虽可接受但冗余）",
-          "将'lies'误用为'lays'"
+          "误用'lies'为'lays'",
+          "遗漏'where'导致结构不完整",
+          "在非观点表达语境中滥用"
         ],
-        "modelExampleEn": "I think education is where true empowerment lies.",
+        "modelExampleEn": "I think passion is where true happiness lies.",
         "confidence": 0.95,
         "promptVersion": "pattern-learning-v2"
       },
       "patternAnkiCards": [
         {
           "front": {
-            "scenarioZh": "在一次团队讨论中，你被问到如何提高员工的工作满意度。你想表达你的观点：真正的满足感来自于有意义的工作，而不是高薪。",
-            "taskZh": "用英语表达你的观点：你认为真正的满足感在于有意义的工作。",
+            "scenarioZh": "在一次团队讨论中，你被问到成功的秘诀是什么。你想表达“我认为团队合作是成功的关键所在”。",
+            "taskZh": "用目标句式表达你的观点。",
             "hintEn": "I think ... is where ... lies"
           },
           "back": {
-            "targetAnswerEn": "I think true satisfaction is where meaningful work lies.",
+            "targetAnswerEn": "I think teamwork is where success lies.",
             "acceptableAnswersEn": [
-              "I believe genuine fulfillment lies in meaningful work.",
-              "In my opinion, real satisfaction comes from meaningful work."
+              "I believe teamwork is where success lies.",
+              "In my opinion, teamwork is where success lies."
             ],
             "reusablePattern": "I think [noun phrase] is where [noun phrase] lies",
-            "usageNoteZh": "使用'lies'表示抽象事物的核心所在，语气较正式。",
+            "usageNoteZh": "强调某事物是另一事物的核心或根源。",
             "commonErrorsZh": [
               "误用'lays'代替'lies'",
-              "在'is where'后误加'that'"
+              "遗漏'where'"
             ]
           }
         },
         {
           "front": {
-            "scenarioZh": "在一次关于城市发展的会议上，你被要求发表对城市吸引力的看法。你想说：城市的魅力在于其多样性。",
-            "taskZh": "用英语表达：城市的魅力在于其多样性。",
+            "scenarioZh": "在哲学课上，教授问你对幸福的理解。你想表达“我认为满足感是幸福所在”。",
+            "taskZh": "用目标句式表达你的观点。",
             "hintEn": "I think ... is where ... lies"
           },
           "back": {
-            "targetAnswerEn": "I think a city's charm is where its diversity lies.",
+            "targetAnswerEn": "I think contentment is where happiness lies.",
             "acceptableAnswersEn": [
-              "I believe the charm of a city lies in its diversity.",
-              "In my view, a city's appeal is rooted in its diversity."
+              "I believe contentment is where happiness lies.",
+              "To me, contentment is where happiness lies."
             ],
             "reusablePattern": "I think [noun phrase] is where [noun phrase] lies",
-            "usageNoteZh": "注意'lies'的主语是抽象名词，如'charm'。",
+            "usageNoteZh": "适用于抽象概念的讨论。",
             "commonErrorsZh": [
-              "误用'lie'的过去式'lay'",
-              "将'lies'误拼为'lies'（正确）"
+              "误用'lays'",
+              "主语不是'I'时结构不自然"
             ]
           }
         }
