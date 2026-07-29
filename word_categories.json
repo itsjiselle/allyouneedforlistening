@@ -18355,9 +18355,32 @@
       "startTime": 101.10300000000001,
       "reviewCount": 0,
       "dateAdded": "2026-07-29T11:55:37.117Z"
+    },
+    {
+      "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-21-12-1785326182276",
+      "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+      "srtFingerprint": "45ee656f",
+      "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+      "subtitleId": 21,
+      "wordIndex": 12,
+      "wordIndices": [
+        12
+      ],
+      "wordText": "welllit",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "well-lit",
+      "sentenceContext": "The tricks that work on others count for nothing in that very well-lit back alley where one keeps one's assignations with oneself. \"",
+      "sentenceTranslation": "那些对别人有效的伎俩，在那个灯火通明、一个人与自己秘密相会的小巷里毫无用处。\"",
+      "sentenceVocab": "⭐ count for nothing = 毫无价值；不起作用（C1）｜back alley = 小巷；僻静的小路（这里为比喻）（C1）｜assignation = 秘密会面；幽会（这里比喻与自己内心相处）（C2）",
+      "startTime": 107.211,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-29T11:56:22.276Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326142305
+  "updatedAt": 1785326187723
 }
