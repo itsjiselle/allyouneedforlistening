@@ -17871,7 +17871,41 @@
     "sentenceVocab": "⭐ all the while = 一直；始终｜become the subject of sth = 成为某事的主题/对象｜dress up as sb = 装扮成某人｜lip sync = 对口型表演",
     "startTime": 187.55,
     "reviewCount": 0,
-    "dateAdded": "2026-07-28T10:02:02.693Z"
+    "dateAdded": "2026-07-28T10:02:02.693Z",
+    "translationCache": {
+      "lemma": "lip sync one's lines on Tik Tok",
+      "ipa": "/lɪp sɪŋk wʌnz laɪnz ɒn ˈtɪk tɒk/",
+      "translation": "在TikTok上对口型念台词",
+      "pronunciationGuide": "",
+      "collocations": [
+        "lip sync a song",
+        "lip sync to music",
+        "lip sync one's lines",
+        "on Tik Tok",
+        "lip sync video"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了在TikTok上完美对口型念台词，她反复练习了那段独白。",
+          "english": "To perfectly lip sync her lines on Tik Tok, she practiced the monologue repeatedly."
+        },
+        {
+          "chinese": "他因为对口型念台词时表情过于夸张，视频在TikTok上迅速走红。",
+          "english": "His video went viral on Tik Tok because he lip synced his lines with overly exaggerated expressions."
+        },
+        {
+          "chinese": "许多明星会亲自在TikTok上对口型念自己的经典台词，以此与粉丝互动。",
+          "english": "Many celebrities personally lip sync their iconic lines on Tik Tok to interact with fans."
+        },
+        {
+          "chinese": "在TikTok上对口型念台词时，要注意口型与音频的同步，否则会显得不自然。",
+          "english": "When lip syncing your lines on Tik Tok, you must ensure your mouth movements match the audio; otherwise, it will look unnatural."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-39-1-1785233098042",
