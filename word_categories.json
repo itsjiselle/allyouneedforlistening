@@ -18332,9 +18332,32 @@
       "startTime": 69.59,
       "reviewCount": 0,
       "dateAdded": "2026-07-29T11:54:48.544Z"
+    },
+    {
+      "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-20-3-1785326137117",
+      "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+      "srtFingerprint": "45ee656f",
+      "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+      "subtitleId": 20,
+      "wordIndex": 3,
+      "wordIndices": [
+        3
+      ],
+      "wordText": "platitudes",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "platitudes",
+      "sentenceContext": "Most of our platitudes notwithstanding, self-deception remains the most difficult deception. \"",
+      "sentenceTranslation": "尽管我们有那么多陈词滥调，自我欺骗仍然是最难识破的一种欺骗。\"",
+      "sentenceVocab": "⭐ platitude = 陈词滥调；老生常谈（C1）｜notwithstanding = 尽管；虽然（C1）｜self-deception = 自我欺骗（C1）",
+      "startTime": 101.10300000000001,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-29T11:55:37.117Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326093894
+  "updatedAt": 1785326142305
 }
