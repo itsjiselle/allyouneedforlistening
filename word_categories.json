@@ -18178,9 +18178,33 @@
       "startTime": 258.913,
       "reviewCount": 0,
       "dateAdded": "2026-07-28T10:07:44.216Z"
+    },
+    {
+      "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-4-11-1785325880525",
+      "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+      "srtFingerprint": "45ee656f",
+      "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+      "subtitleId": 4,
+      "wordIndex": 11,
+      "wordIndices": [
+        11,
+        13
+      ],
+      "wordText": "welcome ... inside",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "welcome someone inside",
+      "sentenceContext": "As part of the Dior Book Tote Club, I'd like to welcome you inside.",
+      "sentenceTranslation": "作为 Dior Book Tote Club 的一部分，我想欢迎大家一起走进这里。",
+      "sentenceVocab": "⭐ as part of... = 作为……的一部分",
+      "startTime": 11.457,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-29T11:51:20.525Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785299911193
+  "updatedAt": 1785325888318
 }
