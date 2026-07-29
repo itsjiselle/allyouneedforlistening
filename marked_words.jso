@@ -18484,7 +18484,40 @@
     "sentenceVocab": "⭐ count for nothing = 毫无价值；不起作用（C1）｜back alley = 小巷；僻静的小路（这里为比喻）（C1）｜assignation = 秘密会面；幽会（这里比喻与自己内心相处）（C2）",
     "startTime": 107.211,
     "reviewCount": 0,
-    "dateAdded": "2026-07-29T11:56:22.276Z"
+    "dateAdded": "2026-07-29T11:56:22.276Z",
+    "translationCache": {
+      "lemma": "well-lit",
+      "ipa": "/ˌwɛlˈlɪt/",
+      "translation": "adj. 光线充足的，照明良好的",
+      "pronunciationGuide": "",
+      "collocations": [
+        "a well-lit room",
+        "a well-lit street",
+        "well-lit area",
+        "well-lit photograph"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了安全起见，所有走廊都应保持光线充足。",
+          "english": "For safety reasons, all corridors should be kept well-lit."
+        },
+        {
+          "chinese": "这家餐厅的用餐区光线充足，非常适合阅读菜单。",
+          "english": "The dining area of this restaurant is well-lit, making it ideal for reading the menu."
+        },
+        {
+          "chinese": "摄影师坚持要在光线充足的工作室里拍摄肖像。",
+          "english": "The photographer insisted on shooting portraits in a well-lit studio."
+        },
+        {
+          "chinese": "这条小巷即使在夜晚也光线充足，因此行人感到安全。",
+          "english": "This alley is well-lit even at night, so pedestrians feel safe."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-21-17-1785326199735",
