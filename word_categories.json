@@ -18016,7 +18016,40 @@
       "sentenceVocab": "⭐ press tour = 媒体宣传巡回｜a joy = 一件令人愉快的事情｜collaborator = 合作者｜channel sb/sth = 调动、展现某人的特质/精神",
       "startTime": 236.489,
       "reviewCount": 0,
-      "dateAdded": "2026-07-28T10:06:30.158Z"
+      "dateAdded": "2026-07-28T10:06:30.158Z",
+      "translationCache": {
+        "lemma": "press tour",
+        "ipa": "/ˈprɛs ˌtʊr/",
+        "translation": "媒体巡回宣传（名词短语）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "do a press tour",
+          "go on a press tour",
+          "press tour schedule",
+          "promotional press tour"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "这位导演在电影上映前进行了一次全球媒体巡回宣传。",
+            "english": "The director went on (did) a global press tour before the film's release."
+          },
+          {
+            "chinese": "媒体巡回宣传让演员们疲惫不堪，但这对票房至关重要。",
+            "english": "The press tour exhausted the actors, but it was crucial for box office success."
+          },
+          {
+            "chinese": "她的新书媒体巡回宣传包括在五个城市的签售会和采访。",
+            "english": "Her book press tour included (featured) signings and interviews in five cities."
+          },
+          {
+            "chinese": "由于疫情，他们不得不取消原定的媒体巡回宣传。",
+            "english": "They had to cancel (call off) the planned press tour due to the pandemic."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-43-25-1785233200026",
@@ -18115,5 +18148,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785299896475
+  "updatedAt": 1785299904094
 }
