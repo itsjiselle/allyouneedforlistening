@@ -18275,5 +18275,28 @@
     "startTime": 55.86,
     "reviewCount": 0,
     "dateAdded": "2026-07-29T11:53:53.281Z"
+  },
+  {
+    "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-15-24-1785326065310",
+    "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+    "srtFingerprint": "45ee656f",
+    "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+    "subtitleId": 15,
+    "wordIndex": 24,
+    "wordIndices": [
+      24
+    ],
+    "wordText": "pertinent",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "pertinent",
+    "sentenceContext": "I wanted to talk about \"Slouching Towards Bethlehem\", which is a collection of essays by Joan Didion, who is one of the most concise, pertinent observers of people.",
+    "sentenceTranslation": "我想谈谈《Slouching Towards Bethlehem》，这是 Joan Didion 的一本随笔集。她是我认为最简洁、最敏锐的人性观察者之一。",
+    "sentenceVocab": "⭐ a collection of essays = 一本随笔集｜concise = 简洁的（C1）｜pertinent = 一针见血的；切中要害的（C1）｜observer of people = 对人性的观察者",
+    "startTime": 69.59,
+    "reviewCount": 0,
+    "dateAdded": "2026-07-29T11:54:25.310Z"
   }
 ]
