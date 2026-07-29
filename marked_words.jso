@@ -18396,7 +18396,40 @@
     "sentenceVocab": "⭐ a collection of essays = 一本随笔集｜concise = 简洁的（C1）｜pertinent = 一针见血的；切中要害的（C1）｜observer of people = 对人性的观察者",
     "startTime": 69.59,
     "reviewCount": 0,
-    "dateAdded": "2026-07-29T11:54:48.544Z"
+    "dateAdded": "2026-07-29T11:54:48.544Z",
+    "translationCache": {
+      "lemma": "who is one of the most concise pertinent observers of people",
+      "ipa": "/huː ɪz wʌn əv ðə moʊst kənˈsaɪs ˈpɜːrtɪnənt əbˈzɜːrvərz əv ˈpiːpəl/",
+      "translation": "（某人）是最简洁、中肯的观察者之一",
+      "pronunciationGuide": "",
+      "collocations": [
+        "one of the most concise observers",
+        "a pertinent observer of human nature",
+        "concise and pertinent analysis",
+        "be considered a pertinent observer"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在文学评论中，她被誉为当代最简洁、中肯的观察者之一。",
+          "english": "In literary criticism, she is hailed as one of the most concise and pertinent observers of the contemporary era."
+        },
+        {
+          "chinese": "作为一名记者，他以其简洁中肯的人物描写而闻名。",
+          "english": "As a journalist, he is renowned for being one of the most concise and pertinent observers of people."
+        },
+        {
+          "chinese": "她的演讲之所以引人入胜，是因为她是最简洁中肯的观察者之一。",
+          "english": "Her speech is captivating because she is one of the most concise and pertinent observers of people."
+        },
+        {
+          "chinese": "在这部纪录片中，导演被描述为最简洁中肯的观察者之一。",
+          "english": "In this documentary, the director is portrayed as one of the most concise and pertinent observers of people."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-20-3-1785326137117",
