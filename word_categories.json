@@ -18505,9 +18505,35 @@
       "startTime": 204.715,
       "reviewCount": 0,
       "dateAdded": "2026-07-29T11:59:31.514Z"
+    },
+    {
+      "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920",
+      "materialId": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike",
+      "srtFingerprint": "45ee656f",
+      "materialTitle": "The Dior Book Tote Club with Rosamund Pike.mp4",
+      "subtitleId": 46,
+      "wordIndex": 17,
+      "wordIndices": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "wordText": "how words work rhythmically",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "how words work rhythmically",
+      "sentenceContext": "I don't want to just read for information, because I think part of the meaning is in how words work rhythmically.",
+      "sentenceTranslation": "我不想只是为了获取信息而阅读，因为我认为，意义的一部分就在于语言的节奏。",
+      "sentenceVocab": "⭐ read for information = 为获取信息而阅读｜rhythmically = 有节奏地（C1）",
+      "startTime": 212.097,
+      "reviewCount": 0,
+      "dateAdded": "2026-07-29T12:01:33.920Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785326375902
+  "updatedAt": 1785326498611
 }
