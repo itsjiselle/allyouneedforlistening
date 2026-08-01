@@ -266,7 +266,9 @@
         "idiomUsageNote": "",
         "englishDefinition": ""
       },
-      "customTopicIds": [],
+      "customTopicIds": [
+        "topic-1785556164112"
+      ],
       "patternCategories": [],
       "categories": [
         "idiom"
@@ -18745,5 +18747,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785557385359
+  "updatedAt": 1785559300191
 }
