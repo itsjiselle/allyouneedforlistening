@@ -75,6 +75,10 @@
     {
       "id": "topic-1785556164112",
       "name": "话题属性较弱(adj.类)"
+    },
+    {
+      "id": "topic-1785557260109",
+      "name": "话题属性弱(n.类)"
     }
   ],
   "materialTopicMapping": {
@@ -93,5 +97,5 @@
     "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me": "topic-1784776674665",
     "github-cloud-i_D_Meets__Will_Gao": "topic-1784776719656"
   },
-  "updatedAt": 1785557160705
+  "updatedAt": 1785557263836
 }
