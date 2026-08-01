@@ -13649,7 +13649,10 @@
     "sentenceVocab": "⭐ old folks —— 老人们（口语）｜plan B —— 备用方案（★★★★★）",
     "startTime": 17.583,
     "reviewCount": 0,
-    "dateAdded": "2026-07-19T14:11:48.866Z"
+    "dateAdded": "2026-07-19T14:11:48.866Z",
+    "customTopicIds": [
+      "topic-1785327203327"
+    ]
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-17-0-1784470389063",
