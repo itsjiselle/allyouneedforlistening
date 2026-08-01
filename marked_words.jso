@@ -15003,7 +15003,10 @@
     "sentenceVocab": "⭐ after a period of… —— 经历一段……之后（★★★★★）｜miss sales targets —— 未完成销售目标（C1）｜profit losses —— 利润亏损｜look for ways to do something —— 寻找……的方法（★★★★★）",
     "startTime": 33.554,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T04:15:45.063Z"
+    "dateAdded": "2026-07-24T04:15:45.063Z",
+    "customTopicIds": [
+      "topic-1784867561233"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-10-3-1784866573429",
