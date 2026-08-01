@@ -15058,7 +15058,6 @@
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:16:31.310Z",
       "customTopicIds": [
-        "topic-ielts",
         "topic-1784775906777"
       ],
       "patternCategories": [],
@@ -18761,5 +18760,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785556111550
+  "updatedAt": 1785556114324
 }
