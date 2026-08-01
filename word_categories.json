@@ -15718,7 +15718,6 @@
       "reviewCount": 0,
       "dateAdded": "2026-07-24T04:25:21.348Z",
       "customTopicIds": [
-        "uncategorized",
         "topic-1784867561233"
       ],
       "patternCategories": [],
@@ -18745,5 +18744,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785557271830
+  "updatedAt": 1785557282365
 }
