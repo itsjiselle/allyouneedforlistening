@@ -14977,7 +14977,10 @@
       "sentenceVocab": "⭐ plus —— 而且（口语★★★★★）｜squish —— 压扁；压坏（口语）",
       "startTime": 28.609,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T04:15:29.566Z"
+      "dateAdded": "2026-07-24T04:15:29.566Z",
+      "customTopicIds": [
+        "topic-1785327208185"
+      ]
     },
     {
       "id": "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts-7-4-1784866545063",
@@ -18758,5 +18761,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785556189597
+  "updatedAt": 1785556199098
 }
