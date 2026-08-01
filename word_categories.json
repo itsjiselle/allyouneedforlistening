@@ -1031,7 +1031,18 @@
         "idiomUsageNote": "",
         "englishDefinition": "",
         "patternPractice": []
-      }
+      },
+      "customTopicIds": [
+        "topic-1784775906777",
+        "topic-1785327208185"
+      ],
+      "patternCategories": [],
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "throw together",
+      "customTranslation": "匆忙拼凑，随便准备（动词短语）",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-57-1-1783057783719",
@@ -18770,5 +18781,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785559750423
+  "updatedAt": 1785559788458
 }
