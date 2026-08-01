@@ -567,7 +567,18 @@
         "cefrLevel": "C1",
         "idiomUsageNote": "属于正式且高雅的书面与中高级口语表达。常用于讨论通过科技、政策、分工或协作来减轻人们在经济、家务工作、行政或家庭照料方面的重担，显得十分得体与地道。",
         "englishDefinition": "To make a difficult, stressful, or unpleasant responsibility, duty, or task easier to bear or deal with."
-      }
+      },
+      "customTopicIds": [
+        "topic-1784775906777",
+        "topic-1785327208185"
+      ],
+      "patternCategories": [],
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "alleviate the burden of",
+      "customTranslation": "v. 减轻……的负担，缓解……的重担",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-26-7-1783047133728",
@@ -18756,5 +18767,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785559403018
+  "updatedAt": 1785559708193
 }
