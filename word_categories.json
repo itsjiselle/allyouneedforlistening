@@ -14511,7 +14511,7 @@
       "reviewCount": 0,
       "dateAdded": "2026-07-23T04:17:28.643Z",
       "customTopicIds": [
-        "uncategorized",
+        "topic-1785556164112",
         "topic-1785327203327"
       ],
       "patternCategories": [],
@@ -14603,6 +14603,11 @@
       "startTime": 374.39,
       "reviewCount": 1,
       "dateAdded": "2026-07-23T04:17:58.929Z",
+      "customTopicIds": [
+        "topic-1785327208185",
+        "topic-1785660900067"
+      ],
+      "patternCategories": [],
       "translationCache": {
         "lemma": "stick the landing",
         "ipa": "/stɪk ðə ˈlændɪŋ/",
@@ -14618,7 +14623,9 @@
         "englishDefinition": "",
         "patternPractice": []
       },
-      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生可能会说“Don't be afraid to *finish* that line”或“*deliver* that line”，但“stick that landing”源自体操/跳水术语，意为“完美落地”，引申为“漂亮地完成收尾”。它比“finish”多了一层“稳稳地、漂亮地收住”的意味，更强调结果干脆利落。\n\n**学术深度分析与语用场景**：\n这是运动隐喻（sports metaphor）的典型用法，常用于表演、演讲、项目收尾等场景，带褒义和鼓励色彩，语气轻松又专业。比如导演说“stick that landing with that line”，就是让演员把那句台词说得漂亮、有力度。在日常中，你可以说“I nailed the presentation, really stuck the landing”来表达完美收官。\n\n**中文网络流行语对应**：\n相当于“稳了”“漂亮收尾”“完美落地”，或者表情包里的“稳稳落地”“拿捏了”。如果硬要神翻译，可以是“把这句话稳稳拿捏住，完美收尾”。\n\n**趣味记忆**：\n想象体操运动员在平衡木上翻腾后“啪”地稳稳站住——那就是“stick the landing”。说台词时，把最后一个词像落地一样“钉”住，稳准狠！\n\n**一句话总结**：\n“stick that landing”就是“漂亮收尾，稳如老狗”，比“finish”更有画面感和力量感。"
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生可能会说“Don't be afraid to *finish* that line”或“*deliver* that line”，但“stick that landing”源自体操/跳水术语，意为“完美落地”，引申为“漂亮地完成收尾”。它比“finish”多了一层“稳稳地、漂亮地收住”的意味，更强调结果干脆利落。\n\n**学术深度分析与语用场景**：\n这是运动隐喻（sports metaphor）的典型用法，常用于表演、演讲、项目收尾等场景，带褒义和鼓励色彩，语气轻松又专业。比如导演说“stick that landing with that line”，就是让演员把那句台词说得漂亮、有力度。在日常中，你可以说“I nailed the presentation, really stuck the landing”来表达完美收官。\n\n**中文网络流行语对应**：\n相当于“稳了”“漂亮收尾”“完美落地”，或者表情包里的“稳稳落地”“拿捏了”。如果硬要神翻译，可以是“把这句话稳稳拿捏住，完美收尾”。\n\n**趣味记忆**：\n想象体操运动员在平衡木上翻腾后“啪”地稳稳站住——那就是“stick the landing”。说台词时，把最后一个词像落地一样“钉”住，稳准狠！\n\n**一句话总结**：\n“stick that landing”就是“漂亮收尾，稳如老狗”，比“finish”更有画面感和力量感。",
+      "customTranslation": "完美收尾；漂亮地完成（某事的最后部分）",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-86-3-1784780441053",
@@ -14914,6 +14921,11 @@
       "startTime": 459.089,
       "reviewCount": 1,
       "dateAdded": "2026-07-23T04:23:12.830Z",
+      "customTopicIds": [
+        "topic-1785556164112",
+        "topic-1785327267339"
+      ],
+      "patternCategories": [],
       "translationCache": {
         "lemma": "bereft",
         "ipa": "/bɪˈrɛft/",
@@ -14946,7 +14958,9 @@
             "english": "Standing alone in the empty room, she felt a profound sense of bereftness, as if abandoned by the whole world."
           }
         ]
-      }
+      },
+      "customTranslation": "adj. 感到失落的；失去…的；被剥夺的",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-103-7-1784780622299",
@@ -19114,5 +19128,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785661035470
+  "updatedAt": 1785661098092
 }
