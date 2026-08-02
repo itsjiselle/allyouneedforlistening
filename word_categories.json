@@ -19722,9 +19722,34 @@
       "startTime": 205.174,
       "reviewCount": 0,
       "dateAdded": "2026-08-02T09:57:14.077Z"
+    },
+    {
+      "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-2-1785664664485",
+      "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+      "srtFingerprint": "74851f63",
+      "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+      "subtitleId": 63,
+      "wordIndex": 2,
+      "wordIndices": [
+        2,
+        3,
+        5
+      ],
+      "wordText": "cut rate ... airline",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "cut rate ... airline",
+      "sentenceContext": "It's this cut rate Asian airline, they cramming you in close together.",
+      "sentenceTranslation": "这是一家廉价亚洲航空公司，他们把乘客挤得非常紧。",
+      "sentenceVocab": "⭐ cut-rate —— 廉价的；低价的（C1）｜cram someone in —— 把人塞进去；拥挤安排（★★★★★）",
+      "startTime": 222.336,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-02T09:57:44.485Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664642286
+  "updatedAt": 1785664669655
 }
