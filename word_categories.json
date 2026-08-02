@@ -19747,9 +19747,35 @@
       "startTime": 222.336,
       "reviewCount": 0,
       "dateAdded": "2026-08-02T09:57:44.485Z"
+    },
+    {
+      "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-7-1785664676797",
+      "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+      "srtFingerprint": "74851f63",
+      "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+      "subtitleId": 63,
+      "wordIndex": 7,
+      "wordIndices": [
+        7,
+        9,
+        10,
+        11
+      ],
+      "wordText": "cramming ... in close together",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "cram ... in close together",
+      "sentenceContext": "It's this cut rate Asian airline, they cramming you in close together.",
+      "sentenceTranslation": "这是一家廉价亚洲航空公司，他们把乘客挤得非常紧。",
+      "sentenceVocab": "⭐ cut-rate —— 廉价的；低价的（C1）｜cram someone in —— 把人塞进去；拥挤安排（★★★★★）",
+      "startTime": 222.336,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-02T09:57:56.797Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664669655
+  "updatedAt": 1785664680668
 }
