@@ -15213,7 +15213,10 @@
       "sentenceVocab": "⭐ bring someone into the fold —— 让某人加入其中；纳入圈子（C2）｜in every way —— 通过各种方式",
       "startTime": 451.05,
       "reviewCount": 1,
-      "dateAdded": "2026-07-23T04:23:05.912Z"
+      "dateAdded": "2026-07-23T04:23:05.912Z",
+      "customTopicIds": [
+        "topic-1785327267339"
+      ]
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-97-4-1784780592830",
@@ -19512,5 +19515,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664161812
+  "updatedAt": 1785664170844
 }
