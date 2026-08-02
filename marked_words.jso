@@ -19772,5 +19772,29 @@
     "startTime": 222.336,
     "reviewCount": 0,
     "dateAdded": "2026-08-02T09:57:56.797Z"
+  },
+  {
+    "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-69-12-1785664716050",
+    "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+    "srtFingerprint": "74851f63",
+    "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+    "subtitleId": 69,
+    "wordIndex": 12,
+    "wordIndices": [
+      12,
+      13
+    ],
+    "wordText": "sneak past",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "sneak past someone",
+    "sentenceContext": "There was a guy in the aisle and I said, can I sneak past you?",
+    "sentenceTranslation": "过道那里坐着一个人，我问：\"我可以从你旁边挤过去吗？\"",
+    "sentenceVocab": "⭐ aisle —— 过道（C1）｜sneak past someone —— 悄悄/费劲地从某人旁边经过（★★★★★）",
+    "startTime": 251.027,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-02T09:58:36.050Z"
   }
 ]
