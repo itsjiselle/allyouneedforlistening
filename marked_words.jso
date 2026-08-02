@@ -16484,7 +16484,10 @@
     "sentenceVocab": "⭐ suit —— 牌的花色",
     "startTime": 101.249,
     "reviewCount": 1,
-    "dateAdded": "2026-07-24T11:15:02.320Z"
+    "dateAdded": "2026-07-24T11:15:02.320Z",
+    "customTopicIds": [
+      "topic-1784891355720"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-11-1-1784891720944",
