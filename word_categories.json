@@ -15088,6 +15088,9 @@
       "startTime": 430.405,
       "reviewCount": 1,
       "dateAdded": "2026-07-23T04:22:01.533Z",
+      "customTopicIds": [
+        "topic-1785327208185"
+      ],
       "translationCache": {
         "lemma": "map out",
         "ipa": "/mæp aʊt/",
@@ -19505,5 +19508,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664127252
+  "updatedAt": 1785664151925
 }
