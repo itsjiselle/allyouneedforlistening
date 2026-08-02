@@ -14349,7 +14349,7 @@
     "sentenceTranslation": "但是《奥本海默》中有一个片段，Kitty Oppenheimer 明显大量饮酒，作为角色也逐渐崩坏。",
     "sentenceVocab": "⭐ a moment in a movie —— 电影中的一个片段｜drink heavily —— 大量饮酒｜deteriorate —— 恶化；衰退（C1）",
     "startTime": 344.921,
-    "reviewCount": 1,
+    "reviewCount": 2,
     "dateAdded": "2026-07-23T04:16:37.828Z",
     "translationCache": {
       "lemma": "deteriorate",
@@ -14372,8 +14372,7 @@
         "如果双方不能达成协议，谈判局势可能会恶化成公开冲突。",
         "她的病情在手术后突然恶化，医生们不得不紧急采取行动。"
       ]
-    },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**：\n中国学生常脱口而出“get worse”或“become bad”，但老外更爱用“deteriorate”，因为它自带一种“不可逆的、逐渐崩坏”的史诗感。比如，你说“My English is getting worse”像在抱怨，但说“My English is deteriorating”就像在演《奥本海默》的悲剧主角。\n\n**2. 学术深度与语用**：\n“Deteriorate”源于拉丁语“deterior”（更差），是正式、客观的词汇，常出现在医学报告、经济分析中。但在口语里，用它形容人或事，会带点黑色幽默或讽刺，比如“My diet plan deteriorated after midnight.” 感情色彩偏中性，但语境可赋予它戏谑感。\n\n**3. 中文网络热梗对应**：\n它就像“芭比Q了”的学术版，或是“整个人都不好了”的高级代餐。当你说“He's deteriorating”时，脑子里可以浮现“颜值崩了”“人设塌了”的表情包。\n\n**4. 趣味记忆**：\n词根“de-”（向下）+“terior”（比较级，如“interior”内部，但这里指更差）→“向下走得更远”。想象一个冰淇淋在太阳下“deteriorate”，从“甜筒”变成“一滩水”，完美！\n\n**5. 一句话总结**：\n别再用“get worse”了，用“deteriorate”，让你的英语“高级地崩坏”。"
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-74-3-1784780211421",
@@ -14526,7 +14525,8 @@
       ]
     },
     "customTranslation": "adj. 摇晃的；不稳的",
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是 \"unstable\" 或 \"not steady\"，但老外会说 \"wobbly\"。区别在于：\"unstable\" 像科学报告，\"wobbly\" 像卡通片——它自带画面感，仿佛看到一个人像果冻一样晃来晃去。比如，形容一个新手骑自行车，你说 \"She's unstable\" 像在诊断，说 \"She's wobbly\" 则让人脑补她左摇右摆的滑稽样。\n\n**2. 学术深度与语用**  \n\"Wobbly\" 是形容词，源自动词 \"wobble\"（摇晃），常用于非正式语境，带点戏谑或同情。它比 \"unstable\" 更口语化，更具动态感。在专业汇报中，你可以说 \"The economy is wobbly\" 来生动表达不稳定，比 \"fragile\" 更接地气。感情色彩偏中性，但常带幽默或调侃。\n\n**3. 中文网络流行语对应**  \n对应中文网络热梗 \"整个人都不好了\" 或 \"风中凌乱\"。想象一个人走路像喝醉了，或者像表情包里那个左右摇摆的柴犬，这就是 \"wobbly\"。用网络语翻译就是 \"晃得一批\"，既传神又搞笑。\n\n**4. 趣味记忆**  \n谐音梗：\"wobbly\" 听起来像 \"我玻璃\"——\"我玻璃心，一碰就晃\"。或者联想：小黄人走路 \"wobble wobble\"，所以 \"wobbly\" = 小黄人步态。记住：晃得像果冻，就是 wobbly！"
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-77-5-1784780258039",
@@ -14669,7 +14669,7 @@
     "sentenceTranslation": "他就是那么容易接近，而且待在他身边会让人感到快乐、有活力。",
     "sentenceVocab": "⭐ joyous —— 快乐的（C1）｜buoyant —— 乐观积极的；充满活力的（C1）｜be around someone —— 和某人在一起",
     "startTime": 416.126,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-07-23T04:21:10.773Z",
     "translationCache": {
       "lemma": "available and joyous and buoyant",
