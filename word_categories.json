@@ -14279,7 +14279,8 @@
       "sentenceVocab": "⭐ give out something —— 分发；提供（★★★★★）",
       "startTime": 318.976,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:10:45.671Z"
+      "dateAdded": "2026-07-23T04:10:45.671Z",
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常说 \"give advice\"，但 native speaker 更爱用 \"give out advice\"，强调“分发”出去的随意感，像发传单一样。\n\n**学术分析**：\n\"give out\" 有“分发、散发”之意，所以 \"give out advice\" 带有一种“不请自来、批量输出”的戏谑感，有时略带贬义（爱说教）。在口语中，它更生动，比如 \"She doesn't give out advice\" 意思是“她不爱指手画脚”。\n\n**中文网络对应**：\n相当于“她不当人生导师”、“她不爱给人灌鸡汤”，或者“她不会动不动就指点江山”。\n\n**趣味记忆**：\n想象一个老师站在讲台上，把写着建议的纸片像撒传单一样抛向学生——那就是 \"give out advice\"。谐音梗：“给，出去，建议！”（give out = 给出去，advice = 建议）。"
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-52-4-1784779854692",
@@ -14683,7 +14684,8 @@
       "sentenceVocab": "⭐ gather oneself / gather it —— 重新集中精神；恢复状态（★★★★★）｜long ago —— 很久以前",
       "startTime": 365.447,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:17:38.039Z"
+      "dateAdded": "2026-07-23T04:17:38.039Z",
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n你可能会说 \"she finally understood\"，但这里用 **gathers it**，强调的不是“理解”，而是“把散落的线索收拢起来”，像收网一样。Native speaker 用这个词，画面感瞬间拉满。\n\n**学术深度分析**：\n**gather** 在此是“收集（信息/勇气）”的引申，带有一点“好不容易才拼凑出结论”的意味。语气略带戏谑，仿佛在说：“她终于把脑子里的碎片拼成了拼图。”\n\n**中文网络流行语对应**：\n这简直就是“她终于get到了”的英语版，但更生动——像是“她终于把CPU烧完，理清了思路”。\n\n**趣味记忆**：\n想象她的大脑是个仓库，各种信息像散落的快递，**gather** 就是“一键打包”，然后“叮”一声——**get it**！\n\n记住：**gather** 不只是“收集”，更是“把乱麻理成线”。"
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-79-14-1784780278929",
@@ -15045,40 +15047,7 @@
       "sentenceVocab": "⭐ bring someone into the fold —— 让某人加入其中；纳入圈子（C2）｜in every way —— 通过各种方式",
       "startTime": 451.05,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:23:05.912Z",
-      "translationCache": {
-        "lemma": "bring someone into the fold of",
-        "ipa": "/brɪŋ ˈsʌmwʌn ˈɪntu ðə foʊld əv/",
-        "translation": "把某人带入……的圈子/使某人加入……的群体",
-        "pronunciationGuide": "",
-        "collocations": [
-          "bring someone into the fold of the family",
-          "bring someone into the fold of the organization",
-          "bring someone into the fold of the community",
-          "bring someone into the fold of the team"
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": [
-          {
-            "chinese": "新经理努力让所有员工都融入公司的文化。",
-            "english": "The new manager tried hard to bring all employees into the fold of the company culture."
-          },
-          {
-            "chinese": "她通过分享个人故事，成功地把听众带入了她的情感世界。",
-            "english": "By sharing her personal stories, she successfully brought the audience into the fold of her emotional world."
-          },
-          {
-            "chinese": "政府正在实施新政策，以将边缘群体纳入社会保障体系。",
-            "english": "The government is implementing new policies to bring marginalized groups into the fold of the social security system."
-          },
-          {
-            "chinese": "导师鼓励学生参与研究项目，从而将他们带入学术界的圈子。",
-            "english": "The mentor encouraged students to participate in research projects, thereby bringing them into the fold of academia."
-          }
-        ]
-      }
+      "dateAdded": "2026-07-23T04:23:05.912Z"
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-97-4-1784780592830",
@@ -19376,5 +19345,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785662306760
+  "updatedAt": 1785662314473
 }
