@@ -14920,6 +14920,9 @@
     "startTime": 459.089,
     "reviewCount": 1,
     "dateAdded": "2026-07-23T04:23:12.830Z",
+    "customTopicIds": [
+      "topic-1785556164112"
+    ],
     "translationCache": {
       "lemma": "bereft",
       "ipa": "/bɪˈrɛft/",
