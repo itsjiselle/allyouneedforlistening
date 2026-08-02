@@ -16605,7 +16605,10 @@
       "sentenceVocab": "⭐ also known as... —— 也被称为……",
       "startTime": 140.356,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:16:57.962Z"
+      "dateAdded": "2026-07-24T11:16:57.962Z",
+      "customTopicIds": [
+        "topic-1784891355720"
+      ]
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-20-1-1784891852262",
@@ -18829,5 +18832,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785659918187
+  "updatedAt": 1785659922226
 }
