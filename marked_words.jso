@@ -14399,28 +14399,36 @@
     "dateAdded": "2026-07-23T04:16:51.421Z",
     "translationCache": {
       "lemma": "volatile and unreliable",
-      "ipa": "",
+      "ipa": "/ˈvɑːlətl ænd ˌʌnrɪˈlaɪəbl/",
       "translation": "adj. 易变的且不可靠的；反复无常且靠不住的",
       "pronunciationGuide": "",
       "collocations": [
-        "volatile and unreliable markets",
         "volatile and unreliable weather",
+        "volatile and unreliable data",
         "volatile and unreliable partner",
-        "become volatile and unreliable",
+        "become more volatile and unreliable",
         "prove volatile and unreliable"
       ],
       "cefrLevel": "",
       "idiomUsageNote": "",
       "englishDefinition": "",
       "patternPractice": [
-        "由于经济形势变得易变且不可靠，许多投资者决定撤资。",
-        "Due to the economic situation becoming volatile and unreliable, many investors decided to withdraw (pull out) their funds.",
-        "这位天气预报员警告说，未来几天的天气将变得易变且不可靠，建议人们做好应对突发变化的准备。",
-        "The weather forecaster warned that the weather would become volatile and unreliable in the coming days, advising people to prepare for sudden changes.",
-        "在谈判中，对方的态度反复无常且不可靠，使得达成协议变得极其困难。",
-        "During the negotiations, the other party's attitude was volatile and unreliable, making it extremely difficult to reach an agreement.",
-        "这个软件的性能一直易变且不可靠，用户经常遇到崩溃和数据丢失的问题。",
-        "The performance of this software has been volatile and unreliable, with users frequently encountering crashes and data loss."
+        {
+          "chinese": "由于天气变得易变且不可靠，我们不得不推迟（put off）户外活动。",
+          "english": "Because the weather has become volatile and unreliable, we have to postpone (put off) the outdoor activities."
+        },
+        {
+          "chinese": "投资者对这位经理感到担忧，因为他的决策反复无常且靠不住。",
+          "english": "Investors are worried about the manager because his decisions are volatile and unreliable."
+        },
+        {
+          "chinese": "在依赖易变且不可靠的供应链时，公司很难维持稳定的生产。",
+          "english": "It is difficult for companies to maintain stable production when relying on a volatile and unreliable supply chain."
+        },
+        {
+          "chinese": "这位政治家的立场被批评为易变且不可靠，这削弱了公众的信任。",
+          "english": "The politician's stance has been criticized as volatile and unreliable, which has undermined public trust."
+        }
       ]
     },
     "teacherExplanation": "**1. 中式英语 vs 地道表达**\n中国学生常说“changeable and not reliable”，但 native speaker 会选 **volatile and unreliable**。Volatile 自带“化学物质易爆炸”的既视感，比 changeable 更带感，就像形容天气“说变就变”，但更夸张——直接是“翻脸比翻书快，还带点小脾气”。\n\n**2. 学术深度分析与语用场景**\n这个词组常用于金融、政治或人际关系，感情色彩偏贬义，但带点戏谑。比如形容一个产品“volatile and unreliable”，就像说“这玩意儿比渣男还难捉摸”。在汇报中用它，瞬间提升专业度，显得你洞察力爆表。\n\n**3. 中文网络流行语对应**\n翻译成“薛定谔的靠谱”或“过山车式信任”，完美对应“你永远不知道下一秒是天堂还是地狱”。表情包：一只猫在悬崖边反复横跳，配字“我信你个鬼”。\n\n**4. 趣味记忆**\n谐音梗：“volatile”像“我要太累”，累到情绪爆炸；“unreliable”像“俺赖宝”，但赖宝不靠谱。联想：一个叫 Volatile 的火山，随时喷发，你永远别信它“今天不喷”。"
