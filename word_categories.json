@@ -16696,7 +16696,10 @@
       "sentenceVocab": "⭐ exclusively by machine —— 完全由机器生产｜no longer by hand —— 不再由手工制作｜take off —— 迅速发展；快速兴起",
       "startTime": 206.448,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:18:51.633Z"
+      "dateAdded": "2026-07-24T11:18:51.633Z",
+      "customTopicIds": [
+        "topic-1785556164112"
+      ]
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-25-8-1784891989784",
@@ -18837,5 +18840,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660050945
+  "updatedAt": 1785660061301
 }
