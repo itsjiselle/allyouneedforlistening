@@ -13875,7 +13875,23 @@
       "sentenceVocab": "⭐ the challenge/beauty of it —— 其中的挑战/美好｜reclamation —— 重新获得；重新找回（C2）｜who you really are —— 真正的自己",
       "startTime": 88.281,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T03:10:47.797Z"
+      "dateAdded": "2026-07-23T03:10:47.797Z",
+      "translationCache": {
+        "lemma": "reclamation",
+        "ipa": "/ˌrɛkləˈmeɪʃən/",
+        "translation": "n. 开垦；改造；收回；恢复",
+        "pronunciationGuide": "",
+        "collocations": [
+          "land reclamation",
+          "reclamation project",
+          "reclamation of identity",
+          "reclamation efforts"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": []
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-24-0-1784777122345",
@@ -14198,7 +14214,7 @@
       "sentenceTranslation": "我是在产生幻觉吗？",
       "sentenceVocab": "⭐ have a hallucination —— 产生幻觉（C1）",
       "startTime": 257.651,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-07-23T04:10:54.692Z",
       "translationCache": {
         "lemma": "hallucination",
@@ -14233,7 +14249,8 @@
             "english": "Certain medications used to treat mental disorders may induce hallucinations, so strict monitoring is required."
           }
         ]
-      }
+      },
+      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生常脱口而出：\"Am I dreaming?\" 或 \"Am I seeing things?\" 但老外更爱用 **hallucination**，因为它自带一种“嗑药般”的荒诞感——不是简单的“眼花”，而是大脑给你放了一部 4K 超清科幻片。比如你看到你妈在跳女团舞，说这句就 perfect 了。\n\n**2. 学术深度分析与语用场景**  \n这个词源自拉丁语 *alucinari*（“心神游荡”），在医学、AI 领域是正经术语（如“AI 幻觉”），但在日常口语中，它带点**戏谑和夸张**的色彩。当你用它，等于在说：“我的感官在撒谎，但我觉得挺好玩。” 感情色彩偏中性，但语境里常透着幽默或无奈。\n\n**3. 中文社媒对应**  \n中文网络热梗：**“我出现幻觉了？”** 或 **“我是不是嗑了？”**（配合熊猫头表情包）。更传神的翻译是：“我是不是眼花了？”但“幻觉”更强调“大脑编故事”，比如看到爱豆对你笑，你：“我是不是出现幻觉了？”\n\n**4. 趣味记忆**  \n词根 **hallucin-** 像不像 **“哈？撸串？”** ？想象你正撸串，突然看到一串羊肉串在跳舞，你惊呼：“哈？撸串？我幻觉了？” 一秒记住！\n\n**5. 注意**  \n别在严肃场合乱用，比如医生说“你出现了幻觉”，那是真病；但朋友间说“我幻觉了”，纯属调侃。"
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-68-4-1784780137530",
@@ -14427,13 +14444,18 @@
       "categories": [
         "vocab"
       ],
-      "customLemma": "she's super wobbly",
+      "customLemma": "wobbly",
       "sentenceContext": "And so the odds are kind of stacked against her and she's super wobbly.",
       "sentenceTranslation": "所以形势对她非常不利，她的状态也非常不稳定。",
       "sentenceVocab": "⭐ the odds are stacked against someone —— 形势对某人不利（★★★★★）｜wobbly —— 不稳定的；摇摆的（C1）",
       "startTime": 360.812,
       "reviewCount": 0,
       "dateAdded": "2026-07-23T04:17:28.643Z",
+      "customTopicIds": [
+        "uncategorized",
+        "topic-1785327203327"
+      ],
+      "patternCategories": [],
       "translationCache": {
         "lemma": "wobbly",
         "ipa": "",
@@ -14467,7 +14489,9 @@
             "en": "His voice was wobbly during the speech, clearly nervous, but he managed to finish his presentation."
           }
         ]
-      }
+      },
+      "customTranslation": "adj. 摇晃的；不稳的",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-77-5-1784780258039",
@@ -18980,5 +19004,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660357507
+  "updatedAt": 1785660396580
 }
