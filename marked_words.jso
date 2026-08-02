@@ -19593,5 +19593,30 @@
     ],
     "patternCategories": [],
     "patternCategoryManuallyEdited": true
+  },
+  {
+    "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-46-13-1785664554978",
+    "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+    "srtFingerprint": "74851f63",
+    "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+    "subtitleId": 46,
+    "wordIndex": 13,
+    "wordIndices": [
+      13,
+      14,
+      15
+    ],
+    "wordText": "ruin the film",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "ruin the film",
+    "sentenceContext": "We don't walk in front of it because we think we're going to ruin the film.",
+    "sentenceTranslation": "我们不会走到镜头前，因为我们以为会毁掉胶卷。",
+    "sentenceVocab": "⭐ walk in front of something —— 走到某物前面｜ruin the film —— 毁掉胶卷",
+    "startTime": 169.151,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-02T09:55:54.978Z"
   }
 ]
