@@ -14333,7 +14333,7 @@
       "sentenceTranslation": "但是《奥本海默》中有一个片段，Kitty Oppenheimer 明显大量饮酒，作为角色也逐渐崩坏。",
       "sentenceVocab": "⭐ a moment in a movie —— 电影中的一个片段｜drink heavily —— 大量饮酒｜deteriorate —— 恶化；衰退（C1）",
       "startTime": 344.921,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-23T04:16:37.828Z",
       "translationCache": {
         "lemma": "deteriorate",
@@ -18980,5 +18980,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660309802
+  "updatedAt": 1785660357507
 }
