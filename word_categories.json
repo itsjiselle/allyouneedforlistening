@@ -19671,9 +19671,32 @@
       "startTime": 195.297,
       "reviewCount": 0,
       "dateAdded": "2026-08-02T09:56:42.993Z"
+    },
+    {
+      "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-57-7-1785664617813",
+      "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+      "srtFingerprint": "74851f63",
+      "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+      "subtitleId": 57,
+      "wordIndex": 7,
+      "wordIndices": [
+        7
+      ],
+      "wordText": "crappy",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "crappy",
+      "sentenceContext": "That's why all the sasquatch photos are crappy.",
+      "sentenceTranslation": "这就是为什么所有大脚怪照片都那么糟糕。",
+      "sentenceVocab": "⭐ crappy —— 很差的；糟糕的（口语）",
+      "startTime": 201.963,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-02T09:56:57.813Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664608133
+  "updatedAt": 1785664625319
 }
