@@ -14595,7 +14595,39 @@
       "sentenceVocab": "⭐ joyous —— 快乐的（C1）｜buoyant —— 乐观积极的；充满活力的（C1）｜be around someone —— 和某人在一起",
       "startTime": 416.126,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:21:10.773Z"
+      "dateAdded": "2026-07-23T04:21:10.773Z",
+      "translationCache": {
+        "lemma": "available and joyous and buoyant",
+        "ipa": "/əˈveɪləbl ænd ˈdʒɔɪəs ænd ˈbɔɪənt/",
+        "translation": "可用的、快乐的、轻快的（形容词短语）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "available and joyous and buoyant mood",
+          "feel available and joyous and buoyant",
+          "be available and joyous and buoyant"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "尽管工作压力很大，她今天看起来依然心情愉快、充满活力，而且乐于与人交流。",
+            "english": "Despite the heavy work pressure, she still seemed available and joyous and buoyant today, and was willing to communicate with others."
+          },
+          {
+            "chinese": "在聚会上，他那种轻松愉快、充满活力的态度让每个人都感到放松。",
+            "english": "At the party, his relaxed and available and joyous and buoyant attitude made everyone feel at ease."
+          },
+          {
+            "chinese": "我们需要一个不仅技能过硬，而且性格开朗、充满活力、乐于合作的团队成员。",
+            "english": "We need a team member who is not only highly skilled but also available and joyous and buoyant and cooperative."
+          },
+          {
+            "chinese": "尽管遇到挫折，他依然保持乐观、充满活力，并且随时准备迎接新的挑战。",
+            "english": "Despite setbacks, he remained optimistic, available and joyous and buoyant, and ready to embrace new challenges."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-88-0-1784780480126",
@@ -18948,5 +18980,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660302277
+  "updatedAt": 1785660309802
 }
