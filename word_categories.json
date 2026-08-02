@@ -19802,7 +19802,39 @@
       "sentenceVocab": "⭐ be down to something —— 只剩下……（★★★★★）｜last shot —— 最后一次机会",
       "startTime": 205.174,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:57:14.077Z"
+      "dateAdded": "2026-08-02T09:57:14.077Z",
+      "translationCache": {
+        "lemma": "be down to their last shot",
+        "ipa": "/bi daʊn tu ðɛr læst ʃɑt/",
+        "translation": "（习语）只剩下最后一次机会；处于最后关头",
+        "pronunciationGuide": "",
+        "collocations": [
+          "be down to one's last shot",
+          "down to the last shot",
+          "last shot at something"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "随着比赛进入最后阶段，两支队伍都只剩下最后一次进攻机会，气氛紧张得令人窒息。",
+            "english": "As the game entered its final stage, both teams were down to their last shot, and the atmosphere was tense enough to suffocate."
+          },
+          {
+            "chinese": "在经历了多次失败后，这位科学家意识到他们只剩下最后一次实验机会，如果这次再失败，整个项目将被取消。",
+            "english": "After numerous failures, the scientist realized they were down to their last shot; if this experiment failed again, the entire project would be canceled (called off)."
+          },
+          {
+            "chinese": "谈判陷入僵局，双方都清楚他们只剩下最后一次机会来达成协议，否则将面临贸易战的后果。",
+            "english": "The negotiations had reached a deadlock, and both sides knew they were down to their last shot to reach an agreement, or they would face the consequences of a trade war."
+          },
+          {
+            "chinese": "在求职面试中，他明白这是他的最后一次机会，于是他决定全力以赴，展示出自己最好的一面。",
+            "english": "During the job interview, he knew he was down to his last shot, so he decided to give it his all and present his best self."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-2-1785664664485",
@@ -19882,5 +19914,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664803955
+  "updatedAt": 1785664814981
 }
