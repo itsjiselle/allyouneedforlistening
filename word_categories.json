@@ -16723,7 +16723,10 @@
       "sentenceVocab": "⭐ do a great job of doing something —— 在做某事方面表现得很好｜mimic a design —— 模仿某种设计｜signature detail/style —— 标志性的细节／风格｜inimitable —— 无法仿效的；独一无二的",
       "startTime": 351.203,
       "reviewCount": 0,
-      "dateAdded": "2026-07-24T11:19:49.784Z"
+      "dateAdded": "2026-07-24T11:19:49.784Z",
+      "customTopicIds": [
+        "topic-1784776517091"
+      ]
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-25-30-1784892001235",
@@ -18840,5 +18843,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660061301
+  "updatedAt": 1785660075595
 }
