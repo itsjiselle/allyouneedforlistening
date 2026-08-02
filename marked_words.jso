@@ -16369,7 +16369,10 @@
     "sentenceVocab": "⭐ a dying art —— 一门逐渐消失的技艺｜be no longer around —— 不再存在；不再从事这一行业｜have something forever —— 永久保留某物",
     "startTime": 57.369,
     "reviewCount": 1,
-    "dateAdded": "2026-07-24T11:14:05.125Z"
+    "dateAdded": "2026-07-24T11:14:05.125Z",
+    "customTopicIds": [
+      "topic-1785659414646"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-9-19-1784891676642",
