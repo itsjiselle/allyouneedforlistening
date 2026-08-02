@@ -13686,7 +13686,7 @@
       "sentenceTranslation": "如果互联网消失，我们这些老家伙还有备用方案。",
       "sentenceVocab": "⭐ old folks —— 老人们（口语）｜plan B —— 备用方案（★★★★★）",
       "startTime": 17.583,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-19T14:11:48.866Z",
       "customTopicIds": [
         "topic-1785327203327"
@@ -19554,5 +19554,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664376417
+  "updatedAt": 1785664380697
 }
