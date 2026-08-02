@@ -19869,7 +19869,7 @@
     },
     "customTranslation": "“就剩这最后一哆嗦了”\n（习语）只剩下最后一次机会；处于最后关头",
     "customTopicIds": [
-      "topic-1784776517091"
+      "topic-1784776719656"
     ],
     "patternCategories": [],
     "patternCategoryManuallyEdited": true
@@ -19962,7 +19962,10 @@
           "sentence_en": "The classroom seating is so cramped that students are crammed in close together, making it difficult to concentrate."
         }
       ]
-    }
+    },
+    "customTopicIds": [
+      "topic-1785327208185"
+    ]
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-69-12-1785664716050",
