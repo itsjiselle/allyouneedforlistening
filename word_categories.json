@@ -13839,6 +13839,9 @@
       "startTime": 42.248,
       "reviewCount": 0,
       "dateAdded": "2026-07-23T03:09:15.356Z",
+      "customTopicIds": [
+        "topic-1785327208185"
+      ],
       "translationCache": {
         "lemma": "prize out of",
         "ipa": "/praɪz aʊt əv/",
@@ -19239,5 +19242,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785661218384
+  "updatedAt": 1785661493097
 }
