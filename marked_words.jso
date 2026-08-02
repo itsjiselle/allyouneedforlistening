@@ -16299,7 +16299,10 @@
     "sentenceVocab": "⭐ there's nothing like... —— 没有什么能比得上……｜wash the tiles —— 洗牌",
     "startTime": 12.371,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:11:54.568Z"
+    "dateAdded": "2026-07-24T11:11:54.568Z",
+    "customTopicIds": [
+      "topic-1784891355720"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-4-2-1784891588740",
