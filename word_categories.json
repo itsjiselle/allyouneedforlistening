@@ -19694,9 +19694,37 @@
       "startTime": 201.963,
       "reviewCount": 0,
       "dateAdded": "2026-08-02T09:56:57.813Z"
+    },
+    {
+      "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-58-1-1785664634077",
+      "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+      "srtFingerprint": "74851f63",
+      "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+      "subtitleId": 58,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "wordText": "was down to their last shot",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "be down to their last shot",
+      "sentenceContext": "Everybody was down to their last shot.",
+      "sentenceTranslation": "每个人都只剩最后一次拍摄机会。",
+      "sentenceVocab": "⭐ be down to something —— 只剩下……（★★★★★）｜last shot —— 最后一次机会",
+      "startTime": 205.174,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-02T09:57:14.077Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664625319
+  "updatedAt": 1785664642286
 }
