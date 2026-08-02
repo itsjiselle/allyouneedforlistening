@@ -13898,7 +13898,41 @@
       "sentenceVocab": "⭐ go through something —— 经历某事（★★★★★）｜complete awakening —— 完全觉醒（C1）",
       "startTime": 78.157,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T03:10:00.049Z"
+      "dateAdded": "2026-07-23T03:10:00.049Z",
+      "translationCache": {
+        "lemma": "go through complete awakening",
+        "ipa": "/ɡoʊ θruː kəmˈpliːt əˈweɪkənɪŋ/",
+        "translation": "经历彻底的觉醒",
+        "pronunciationGuide": "",
+        "collocations": [
+          "go through a complete awakening",
+          "experience a complete awakening",
+          "undergo a complete awakening",
+          "a spiritual awakening",
+          "a political awakening"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "自从搬到国外后，她经历了一次彻底的觉醒，开始重新审视自己的文化身份。",
+            "english": "Since moving abroad, she has gone through a complete awakening, prompting her to re-examine her cultural identity."
+          },
+          {
+            "chinese": "在经历健康危机后，他经历了一次彻底的觉醒，决定彻底改变生活方式。",
+            "english": "After a health crisis, he went through a complete awakening and decided to overhaul (transform) his lifestyle entirely."
+          },
+          {
+            "chinese": "许多人在成为父母后都会经历一次彻底的觉醒，突然意识到责任和爱的真正含义。",
+            "english": "Many people go through a complete awakening after becoming parents, suddenly realizing the true meaning of responsibility and love."
+          },
+          {
+            "chinese": "那次志愿活动让她经历了一次彻底的觉醒，从此她致力于社会公益事业。",
+            "english": "That volunteer experience led her to go through a complete awakening, and since then she has devoted herself to social causes."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-21-11-1784776247797",
@@ -14757,8 +14791,7 @@
             "sentence_en": "She found him emotionally unavailable as a person, which made it hard for her to build a close relationship with him."
           }
         ]
-      },
-      "teacherExplanation": "**中式英语 vs 地道表达**：中国学生第一反应可能是“he is available”（他有空），但这里说的是“as a person”，意思完全不同！不是“他有空”，而是“他这个人很随和/容易亲近”。Native speaker 用“available”形容人时，通常指“情感上可得的”，比如单身可撩，但“available as a person”是强调他这个人“开放、愿意倾听、不设防”。\n\n**学术深度分析与语用场景**：这是语用学里的“语域转换”。把“available”从“时间可用”转到“人格可用”，瞬间生动。感情色彩偏褒义，带点调侃：他就像个24小时营业的情感便利店，随时欢迎你倾诉。日常交流中，说“He's so available”可能指他有空，但加“as a person”就升华成“他这个人很接地气”。\n\n**中文网络流行语对应**：对应中文网络热梗“人形树洞”或“情绪价值拉满”。想象一下：别人说“他好温柔”，你说“他直接是‘available as a person’”，这就像说“他是行走的暖宝宝”，一秒get。\n\n**趣味记忆**：把“available”拆成“a-vail-able”，想象“vail”像“veil”（面纱），所以“available”是“揭开面纱”，所以“available as a person”就是“这个人把面纱摘了，让你随便看”，多敞亮！"
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-87-5-1784780453827",
@@ -15157,7 +15190,39 @@
       "sentenceVocab": "⭐ feel wobbly about something —— 对某事感觉不确定、不安（C1）｜be like... —— 说；想（口语★★★★★）｜I'm sure it'll be fine —— 我相信会没问题",
       "startTime": 485.688,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:23:59.891Z"
+      "dateAdded": "2026-07-23T04:23:59.891Z",
+      "translationCache": {
+        "lemma": "feel wobbly about",
+        "ipa": "",
+        "translation": "对……感到不安/犹豫不决",
+        "pronunciationGuide": "",
+        "collocations": [
+          "feel wobbly about a decision",
+          "feel wobbly about a plan",
+          "feel wobbly about someone's intentions"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "我对这个新项目感到不安，因为我们的预算太紧了。",
+            "english": "I feel wobbly about this new project because our budget is too tight."
+          },
+          {
+            "chinese": "她对他的承诺感到不安，毕竟他以前撒过谎。",
+            "english": "She feels wobbly about his promises, given that he has lied before."
+          },
+          {
+            "chinese": "尽管大家都支持这个计划，但我仍然对它的可行性感到不安。",
+            "english": "Even though everyone supports the plan, I still feel wobbly about its feasibility."
+          },
+          {
+            "chinese": "在做出最终决定之前，我们应该对潜在的风险进行彻底评估（仔细检查）。",
+            "english": "Before making the final decision, we should thoroughly assess (look into) the potential risks."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-107-0-1784780678305",
@@ -19276,5 +19341,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785661520175
+  "updatedAt": 1785661524669
 }
