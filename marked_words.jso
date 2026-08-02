@@ -16796,7 +16796,10 @@
     "sentenceVocab": "⭐ tell by doing something —— 通过……判断出来｜an individual work of art —— 一件独一无二的艺术品｜mass-made —— 批量制造的｜come out of a machine —— 由机器生产出来",
     "startTime": 368.158,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:20:21.493Z"
+    "dateAdded": "2026-07-24T11:20:21.493Z",
+    "customTopicIds": [
+      "topic-1785556164112"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-26-30-1784892028115",
