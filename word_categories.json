@@ -13730,7 +13730,7 @@
       "sentenceTranslation": "如果互联网消失，我们这些老家伙还有备用方案。",
       "sentenceVocab": "⭐ old folks —— 老人们（口语）｜plan B —— 备用方案（★★★★★）",
       "startTime": 17.583,
-      "reviewCount": 2,
+      "reviewCount": 3,
       "dateAdded": "2026-07-19T14:11:48.866Z",
       "customTopicIds": [
         "topic-1785327203327"
@@ -19687,40 +19687,7 @@
       "sentenceVocab": "⭐ something kills me —— 某事让我觉得非常好笑/受不了（★★★★★）",
       "startTime": 159.002,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:56:12.917Z",
-      "translationCache": {
-        "lemma": "here's something that kills me",
-        "ipa": "/hɪrz ˈsʌmθɪŋ ðæt kɪlz mi/",
-        "translation": "（习语）这让我受不了；这让我很困扰；这让我觉得好笑/无奈",
-        "pronunciationGuide": "",
-        "collocations": [
-          "What kills me is...",
-          "It kills me that...",
-          "Something that kills me about...",
-          "The thing that kills me is..."
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": [
-          {
-            "chinese": "最让我受不了的是，他明明知道真相，却假装什么都没发生。",
-            "english": "What kills me is that he knows the truth but pretends nothing happened."
-          },
-          {
-            "chinese": "让我觉得好笑的是，她总是抱怨没时间，却花几个小时刷手机。",
-            "english": "It kills me that she always complains about having no time, yet she spends hours scrolling through her phone."
-          },
-          {
-            "chinese": "关于现代职场，最让我无奈的是，人们总是用忙碌来衡量价值。",
-            "english": "Something that kills me about the modern workplace is that people always measure value by busyness."
-          },
-          {
-            "chinese": "让我恼火的是，他从不提前计划，却总在最后一刻手忙脚乱。",
-            "english": "The thing that kills me is that he never plans ahead, yet he always scrambles at the last minute."
-          }
-        ]
-      }
+      "dateAdded": "2026-08-02T09:56:12.917Z"
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-55-7-1785664602993",
@@ -19898,7 +19865,8 @@
       "sentenceVocab": "⭐ cut-rate —— 廉价的；低价的（C1）｜cram someone in —— 把人塞进去；拥挤安排（★★★★★）",
       "startTime": 222.336,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:57:44.485Z"
+      "dateAdded": "2026-08-02T09:57:44.485Z",
+      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“cheap airline”（便宜航空），但老外会说“cut-rate airline”或“no-frills airline”。区别在于：“cheap”直白但平淡，而“cut-rate”带点戏谑，暗示“价格被砍到骨折”，甚至有点“偷工减料”的意味。就像说“拼多多版航空”，瞬间画面感就来了。\n\n**2. 学术深度分析与语用场景**  \n“cut-rate”是形容词，源自“cut rates”（削减价格），常用于贬义或戏谑，强调“低价但牺牲了舒适度、服务或品质”。在口语中，它比“cheap”更生动，比“budget”更刻薄。比如吐槽廉航座位挤得像沙丁鱼罐头，用“cut-rate”就自带“一分钱一分货”的讽刺效果。\n\n**3. 中文社媒/网络流行语对应**  \n中文网络热梗：“拼夕夕航空”、“韭菜航空”、“经济舱难民”。想象一下“9块9包邮”的飞机，座位间距比你的手机还短，空姐微笑里藏着“爱坐不坐”的潜台词。这就是“cut-rate airline”的完美意境。\n\n**4. 趣味记忆**  \n谐音梗：“cut-rate”=“砍价”+“rate”（价格），像菜市场大妈砍价：“老板，这个机票打个骨折价！” 或者联想“cut”是“切”，价格被“切”得薄如纸，座位也“切”得紧紧凑凑，一箭双雕。"
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-7-1785664676797",
@@ -19953,5 +19921,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664851238
+  "updatedAt": 1785664855536
 }
