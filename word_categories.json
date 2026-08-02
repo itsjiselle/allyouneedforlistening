@@ -14327,7 +14327,40 @@
       "sentenceVocab": "⭐ one of the peeps —— 自己人；圈子里的人（口语）｜you know? —— 你懂吧（口语填充）",
       "startTime": 325.601,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:15:37.530Z"
+      "dateAdded": "2026-07-23T04:15:37.530Z",
+      "translationCache": {
+        "lemma": "one of the peeps",
+        "ipa": "/wʌn əv ðə piːps/",
+        "translation": "（口语）伙伴之一，朋友之一",
+        "pronunciationGuide": "",
+        "collocations": [
+          "be one of the peeps",
+          "hang out with the peeps",
+          "my peeps",
+          "the whole peeps"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "她总是努力成为团队中的一员，但她的古怪行为常常让她被排斥。",
+            "english": "She always tries to be one of the peeps in the team, but her quirky behavior often gets her excluded."
+          },
+          {
+            "chinese": "如果你想要成为我们中的一员，你就得学会保守秘密。",
+            "english": "If you want to be one of the peeps, you have to learn to keep secrets."
+          },
+          {
+            "chinese": "他搬到了新城市，渴望结交新朋友，成为当地群体的一员。",
+            "english": "He moved to a new city and was eager to make new friends and become one of the peeps in the local community."
+          },
+          {
+            "chinese": "尽管她很有才华，但她更看重被同龄人接纳，而不是获得奖项。",
+            "english": "Despite her talent, she values being one of the peeps among her peers more than winning awards."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-70-5-1784780155715",
@@ -19206,5 +19239,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785661212809
+  "updatedAt": 1785661218384
 }
