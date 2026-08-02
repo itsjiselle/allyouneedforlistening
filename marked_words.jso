@@ -19719,7 +19719,10 @@
           "english": "The thing that kills me is that he never plans ahead, yet he always scrambles at the last minute."
         }
       ]
-    }
+    },
+    "customTopicIds": [
+      "topic-1785660900067"
+    ]
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-55-7-1785664602993",
@@ -19869,7 +19872,8 @@
     },
     "customTranslation": "“就剩这最后一哆嗦了”\n（习语）只剩下最后一次机会；处于最后关头",
     "customTopicIds": [
-      "topic-1784776719656"
+      "topic-1784776719656",
+      "topic-1785660900067"
     ],
     "patternCategories": [],
     "patternCategoryManuallyEdited": true
