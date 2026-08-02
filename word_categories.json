@@ -15309,6 +15309,7 @@
       "customTopicIds": [
         "topic-1785327208185"
       ],
+      "patternCategories": [],
       "translationCache": {
         "lemma": "get past",
         "ipa": "/ɡet pæst/",
@@ -15343,7 +15344,9 @@
           }
         ]
       },
-      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常会说 \"I try to overcome my first instinct\"，但 native speaker 更爱用 **get past**，因为它更口语化，带有\"绕过、跨过\"的物理感，仿佛那个 instinct 是挡在路上的石头，你得跳过去。\n\n**学术深度分析与语用场景**：\n**get past** 在语用上常表示\"克服心理障碍或初步反应\"，感情色彩中性偏积极，带点自嘲或轻松。在专业汇报中，你可以说 \"We need to get past the initial skepticism\"，瞬间提升口语地道感。\n\n**中文网络流行语对应**：\n相当于中文网络热梗 **\"破防\"** 的反向操作——不是被击穿，而是**\"跨过那道坎\"**，或者 **\"跳过第一反应\"**。想象一下：你看到美食，第一反应是吃，但你\"get past\"了这个冲动，选择了减肥。\n\n**趣味记忆**：\n想象你面前有个\"first instinct\"（第一反应）像只拦路狗，你大喊：**\"Get past!\"**（狗：你礼貌吗？）然后你一个滑铲，跨过它，成功走向理性。记住：**get past = 跨过那只狗**。"
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常会说 \"I try to overcome my first instinct\"，但 native speaker 更爱用 **get past**，因为它更口语化，带有\"绕过、跨过\"的物理感，仿佛那个 instinct 是挡在路上的石头，你得跳过去。\n\n**学术深度分析与语用场景**：\n**get past** 在语用上常表示\"克服心理障碍或初步反应\"，感情色彩中性偏积极，带点自嘲或轻松。在专业汇报中，你可以说 \"We need to get past the initial skepticism\"，瞬间提升口语地道感。\n\n**中文网络流行语对应**：\n相当于中文网络热梗 **\"破防\"** 的反向操作——不是被击穿，而是**\"跨过那道坎\"**，或者 **\"跳过第一反应\"**。想象一下：你看到美食，第一反应是吃，但你\"get past\"了这个冲动，选择了减肥。\n\n**趣味记忆**：\n想象你面前有个\"first instinct\"（第一反应）像只拦路狗，你大喊：**\"Get past!\"**（狗：你礼貌吗？）然后你一个滑铲，跨过它，成功走向理性。记住：**get past = 跨过那只狗**。",
+      "customTranslation": "（动词短语）越过，克服（心理障碍、困难等）",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-104-2-1784780639891",
@@ -19520,5 +19523,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664195887
+  "updatedAt": 1785664199285
 }
