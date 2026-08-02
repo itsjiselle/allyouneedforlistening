@@ -13809,7 +13809,10 @@
     "sentenceVocab": "⭐ turn down something（这里省略）—— 拒绝（★★★★★）｜record contract —— 唱片合约",
     "startTime": 32.498,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T03:08:29.098Z"
+    "dateAdded": "2026-07-23T03:08:29.098Z",
+    "customTopicIds": [
+      "topic-1785327208185"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-11-3-1784776155356",
