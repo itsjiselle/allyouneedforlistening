@@ -14760,9 +14760,12 @@
       "reviewCount": 1,
       "dateAdded": "2026-07-23T04:17:38.039Z",
       "customTopicIds": [
-        "topic-1785327208185"
+        "topic-1785327208185",
+        "topic-1785327203327"
       ],
-      "teacherExplanation": "**中式英语 vs 地道表达**：\n你可能会说 \"she finally understood\"，但这里用 **gathers it**，强调的不是“理解”，而是“把散落的线索收拢起来”，像收网一样。Native speaker 用这个词，画面感瞬间拉满。\n\n**学术深度分析**：\n**gather** 在此是“收集（信息/勇气）”的引申，带有一点“好不容易才拼凑出结论”的意味。语气略带戏谑，仿佛在说：“她终于把脑子里的碎片拼成了拼图。”\n\n**中文网络流行语对应**：\n这简直就是“她终于get到了”的英语版，但更生动——像是“她终于把CPU烧完，理清了思路”。\n\n**趣味记忆**：\n想象她的大脑是个仓库，各种信息像散落的快递，**gather** 就是“一键打包”，然后“叮”一声——**get it**！\n\n记住：**gather** 不只是“收集”，更是“把乱麻理成线”。"
+      "patternCategories": [],
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n你可能会说 \"she finally understood\"，但这里用 **gathers it**，强调的不是“理解”，而是“把散落的线索收拢起来”，像收网一样。Native speaker 用这个词，画面感瞬间拉满。\n\n**学术深度分析**：\n**gather** 在此是“收集（信息/勇气）”的引申，带有一点“好不容易才拼凑出结论”的意味。语气略带戏谑，仿佛在说：“她终于把脑子里的碎片拼成了拼图。”\n\n**中文网络流行语对应**：\n这简直就是“她终于get到了”的英语版，但更生动——像是“她终于把CPU烧完，理清了思路”。\n\n**趣味记忆**：\n想象她的大脑是个仓库，各种信息像散落的快递，**gather** 就是“一键打包”，然后“叮”一声——**get it**！\n\n记住：**gather** 不只是“收集”，更是“把乱麻理成线”。",
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-79-14-1784780278929",
@@ -19497,5 +19500,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664104631
+  "updatedAt": 1785664109326
 }
