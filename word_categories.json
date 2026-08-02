@@ -19987,10 +19987,13 @@
       "sentenceVocab": "⭐ aisle —— 过道（C1）｜sneak past someone —— 悄悄/费劲地从某人旁边经过（★★★★★）",
       "startTime": 251.027,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:58:36.050Z"
+      "dateAdded": "2026-08-02T09:58:36.050Z",
+      "customTopicIds": [
+        "topic-1785327208185"
+      ]
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664931468
+  "updatedAt": 1785664940551
 }
