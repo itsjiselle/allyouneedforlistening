@@ -13664,7 +13664,7 @@
       "sentenceTranslation": "我这么说的原因是，你看，在不久的将来，黑客会让我们的手机和互联网瘫痪。",
       "sentenceVocab": "⭐ the not too distant future —— 不久的将来（C1）｜knock out something —— 摧毁；使……失效（★★★★★）",
       "startTime": 3.373,
-      "reviewCount": 2,
+      "reviewCount": 3,
       "dateAdded": "2026-07-19T14:11:23.340Z",
       "customTopicIds": [
         "topic-1784776517091",
@@ -19652,7 +19652,8 @@
             "english": "We decided not to read reviews beforehand, so as not to ruin the film's surprises for us."
           }
         ]
-      }
+      },
+      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是\"spoil the film\"或\"destroy the film\"，但**ruin**更口语化、更生动，有种\"毁得彻底\"的戏剧感。Native speaker在非正式场合（比如电影院）会优先用**ruin**，因为它自带夸张和幽默。  \n\n**2. 学术深度与语用**  \n**ruin**在语用上带有**戏谑**色彩，常用来夸张描述小事的破坏力，如\"You're ruining my life!\"（你毁了我的人生！）。在这里，\"ruin the film\"指的是挡在放映机前，破坏了观影体验，但说得像毁掉整部电影一样，幽默十足。  \n\n**3. 中文网络语对应**  \n这就像中文里的\"你挡着我追剧了！\"或\"你毁了我的观影体验\"，但更夸张一点，有点像网络梗\"你赔我电影票！\"或\"你毁了我对这部电影的期待\"。  \n\n**4. 趣味记忆**  \n想象你正沉浸在一部大片中，突然有人站起来挡在投影仪前，你大喊：\"You're ruining the film!\"——就像有人用橡皮擦把电影画面擦掉一样，**ruin**就是那个橡皮擦，擦得干干净净！  \n\n**5. 总结**  \n记住，**ruin**不是普通的\"破坏\"，而是\"毁得彻底又搞笑\"。下次有人挡你的屏幕，你可以优雅地甩一句：\"Hey, you're ruining the film!\""
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-42-0-1785664572917",
@@ -19795,22 +19796,7 @@
       "sentenceVocab": "⭐ be down to something —— 只剩下……（★★★★★）｜last shot —— 最后一次机会",
       "startTime": 205.174,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:57:14.077Z",
-      "translationCache": {
-        "lemma": "be down to their last shot",
-        "ipa": "/bi daʊn tu ðɛr læst ʃɑt/",
-        "translation": "（他们）只剩下最后一次机会",
-        "pronunciationGuide": "",
-        "collocations": [
-          "be down to one's last shot",
-          "down to the last shot",
-          "last shot at something"
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": []
-      }
+      "dateAdded": "2026-08-02T09:57:14.077Z"
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-2-1785664664485",
@@ -19890,5 +19876,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664787449
+  "updatedAt": 1785664791821
 }
