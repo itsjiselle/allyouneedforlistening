@@ -14198,7 +14198,41 @@
     "sentenceVocab": "⭐ have a hallucination —— 产生幻觉（C1）",
     "startTime": 257.651,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:10:54.692Z"
+    "dateAdded": "2026-07-23T04:10:54.692Z",
+    "translationCache": {
+      "lemma": "hallucination",
+      "ipa": "",
+      "translation": "n. 幻觉，幻象；妄想",
+      "pronunciationGuide": "",
+      "collocations": [
+        "have a hallucination",
+        "suffer from hallucinations",
+        "visual/auditory hallucination",
+        "hallucination caused by drugs",
+        "experience hallucinations"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他声称在沙漠中看到了海市蜃楼，但医生认为那可能是幻觉。",
+          "english": "He claimed to have seen a mirage in the desert, but the doctor thought it might be a hallucination."
+        },
+        {
+          "chinese": "长期睡眠不足可能会导致严重的幻觉，影响日常生活。",
+          "english": "Chronic sleep deprivation can lead to severe hallucinations, affecting daily life."
+        },
+        {
+          "chinese": "在审讯中，嫌疑人坚持说他听到的声音是真实的，但心理学家证实那是幻觉。",
+          "english": "During the interrogation, the suspect insisted that the voices he heard were real, but the psychologist confirmed they were hallucinations."
+        },
+        {
+          "chinese": "某些药物在治疗精神疾病时可能会引发幻觉，因此需要严格监控。",
+          "english": "Certain medications used to treat mental disorders may induce hallucinations, so strict monitoring is required."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-68-4-1784780137530",
