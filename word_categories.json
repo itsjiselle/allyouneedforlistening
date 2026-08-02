@@ -14198,7 +14198,7 @@
       "sentenceTranslation": "我是在产生幻觉吗？",
       "sentenceVocab": "⭐ have a hallucination —— 产生幻觉（C1）",
       "startTime": 257.651,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-23T04:10:54.692Z",
       "translationCache": {
         "lemma": "hallucination",
@@ -18948,5 +18948,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660298051
+  "updatedAt": 1785660302277
 }
