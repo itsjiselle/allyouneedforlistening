@@ -19618,7 +19618,41 @@
       "sentenceVocab": "⭐ walk in front of something —— 走到某物前面｜ruin the film —— 毁掉胶卷",
       "startTime": 169.151,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:55:54.978Z"
+      "dateAdded": "2026-08-02T09:55:54.978Z",
+      "translationCache": {
+        "lemma": "ruin the film",
+        "ipa": "",
+        "translation": "毁掉这部电影；破坏这部电影",
+        "pronunciationGuide": "",
+        "collocations": [
+          "ruin the film for someone",
+          "spoil the film",
+          "ruin the movie experience",
+          "almost ruin the film",
+          "ruin the ending of the film"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "请不要剧透，否则会毁掉这部电影的惊喜结局。",
+            "english": "Please don't spoil the ending, or you will ruin the film's surprise for everyone."
+          },
+          {
+            "chinese": "如果观众在放映过程中不断说话，可能会毁掉整部电影的观影体验。",
+            "english": "If the audience keeps talking during the screening, it can ruin the film experience for everyone."
+          },
+          {
+            "chinese": "那个糟糕的翻译几乎毁掉了这部原本精彩的电影。",
+            "english": "The terrible translation almost ruined the film, which was otherwise excellent."
+          },
+          {
+            "chinese": "我们决定不提前看评论，以免毁掉这部电影带给我们的惊喜。",
+            "english": "We decided not to read reviews beforehand, so as not to ruin the film's surprises for us."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-42-0-1785664572917",
@@ -19835,5 +19869,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664753847
+  "updatedAt": 1785664762306
 }
