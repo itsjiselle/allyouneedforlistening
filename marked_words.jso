@@ -14249,7 +14249,10 @@
           "english": "Certain medications used to treat mental disorders may induce hallucinations, so strict monitoring is required."
         }
       ]
-    }
+    },
+    "customTopicIds": [
+      "topic-1785557260109"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-68-4-1784780137530",
