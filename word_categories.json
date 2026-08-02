@@ -13813,7 +13813,41 @@
       "dateAdded": "2026-07-23T03:08:29.098Z",
       "customTopicIds": [
         "topic-1785327208185"
-      ]
+      ],
+      "translationCache": {
+        "lemma": "turn out",
+        "ipa": "/ˌtɜːrn ˈaʊt/",
+        "translation": "v. 结果是；证明是；生产；制造；出席；露面；关掉（灯）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "turn out to be",
+          "turn out well/badly",
+          "turn out a product",
+          "turn out for an event",
+          "turn out the lights"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "zh": "尽管起初遭到怀疑，但最终证明这个项目是成功的。",
+            "en": "Despite initial skepticism, the project turned out to be a success."
+          },
+          {
+            "zh": "如果天气不好，参加音乐会的人可能会比预期的少。",
+            "en": "If the weather is bad, fewer people may turn out for the concert than expected."
+          },
+          {
+            "zh": "这家工厂每年生产数千辆汽车，但质量参差不齐。",
+            "en": "The factory turns out thousands of cars each year, but the quality varies."
+          },
+          {
+            "zh": "结果发现，他根本不是我们以为的那个专家。",
+            "en": "It turned out that he was not the expert we thought he was."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-11-3-1784776155356",
@@ -19377,5 +19411,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785662343639
+  "updatedAt": 1785662351782
 }
