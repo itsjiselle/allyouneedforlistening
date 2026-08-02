@@ -13688,7 +13688,24 @@
     "dateAdded": "2026-07-19T14:11:48.866Z",
     "customTopicIds": [
       "topic-1785327203327"
-    ]
+    ],
+    "translationCache": {
+      "lemma": "old folks",
+      "ipa": "/oʊld foʊks/",
+      "translation": "老年人，老人（复数名词，非正式）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "old folks' home",
+        "old folks' party",
+        "take care of old folks",
+        "respect old folks",
+        "old folks' wisdom"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": []
+    }
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-17-0-1784470389063",
