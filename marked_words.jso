@@ -19669,7 +19669,41 @@
     "sentenceVocab": "⭐ keep track of something —— 记录；掌握……情况（★★★★★）",
     "startTime": 195.297,
     "reviewCount": 0,
-    "dateAdded": "2026-08-02T09:56:42.993Z"
+    "dateAdded": "2026-08-02T09:56:42.993Z",
+    "translationCache": {
+      "lemma": "keep track",
+      "ipa": "/kiːp træk/",
+      "translation": "（动词短语）记录，跟踪；掌握……的最新情况",
+      "pronunciationGuide": "",
+      "collocations": [
+        "keep track of something",
+        "keep track of time",
+        "keep track of expenses",
+        "keep track of progress",
+        "keep track of changes"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "随着项目规模扩大，我们很难跟踪每个团队成员的任务进度。",
+          "english": "As the project expands, it becomes difficult to keep track of each team member's task progress."
+        },
+        {
+          "chinese": "她总是用电子表格记录所有开支，这样就能清楚地掌握每月的预算情况。",
+          "english": "She always uses a spreadsheet to keep track of all expenses, allowing her to clearly monitor (keep an eye on) the monthly budget."
+        },
+        {
+          "chinese": "在信息爆炸的时代，我们不可能跟踪每一个新闻事件，但应该关注那些影响我们生活的重大变化。",
+          "english": "In the era of information explosion, it is impossible to keep track of every news event, but we should focus on major changes that affect our lives."
+        },
+        {
+          "chinese": "为了确保按时交付，项目经理需要密切跟踪供应商的交货时间。",
+          "english": "To ensure on-time delivery, the project manager needs to closely keep track of suppliers' delivery schedules."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-57-7-1785664617813",
