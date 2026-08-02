@@ -14723,7 +14723,40 @@
     "sentenceVocab": "⭐ available as a person —— 平易近人；容易交流（C1）",
     "startTime": 406.603,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:20:41.053Z"
+    "dateAdded": "2026-07-23T04:20:41.053Z",
+    "translationCache": {
+      "lemma": "available as a person",
+      "ipa": "/əˈveɪləbl æz ə ˈpɜːrsən/",
+      "translation": "作为一个人而言是可靠的/可亲近的（指情感上可依靠、愿意倾听或陪伴）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "be available as a person",
+        "emotionally available as a person",
+        "truly available as a person",
+        "available as a person to someone"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "sentence_zh": "在朋友经历困难时，她总是作为一个可靠的人出现，随时愿意倾听。",
+          "sentence_en": "When her friends go through hard times, she always shows up as a reliable person, ready to listen (hear out) at any time."
+        },
+        {
+          "sentence_zh": "虽然他很忙，但作为一个人，他对家人总是有求必应。",
+          "sentence_en": "Although he is very busy, as a person he is always available to his family whenever they need him."
+        },
+        {
+          "sentence_zh": "一个好的领导者不仅要有能力，还要作为一个人对团队成员保持开放和真诚。",
+          "sentence_en": "A good leader should not only be competent but also remain open and genuine as a person to team members."
+        },
+        {
+          "sentence_zh": "她发现他在情感上作为一个人是封闭的，这让她很难与他建立亲密关系。",
+          "sentence_en": "She found him emotionally unavailable as a person, which made it hard for her to build a close relationship with him."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-87-5-1784780453827",
