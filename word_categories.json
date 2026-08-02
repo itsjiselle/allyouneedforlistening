@@ -17012,7 +17012,10 @@
             "englishTranslation": "At the family meeting, the children finally had the chance to set their ideas on the table and communicate (talk things over) openly with their parents."
           }
         ]
-      }
+      },
+      "customTopicIds": [
+        "topic-1784891355720"
+      ]
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-33-1-1784892161969",
@@ -18852,5 +18855,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660123618
+  "updatedAt": 1785660128845
 }
