@@ -15028,7 +15028,41 @@
       "sentenceVocab": "⭐ used to do something —— 过去常常做某事（★★★★★）｜get past something —— 克服；忽略；绕过某事（★★★★★）｜first instinct —— 第一反应；直觉",
       "startTime": 478.593,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:23:42.299Z"
+      "dateAdded": "2026-07-23T04:23:42.299Z",
+      "translationCache": {
+        "lemma": "get past",
+        "ipa": "/ɡet pæst/",
+        "translation": "（动词短语）越过，克服（心理障碍、困难等）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "get past the initial fear",
+          "get past a difficult phase",
+          "get past someone's defenses",
+          "get past the first hurdle",
+          "get past the awkwardness"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "她终于克服了在公共场合演讲的恐惧，这让她感到无比自豪。",
+            "english": "She finally got past her fear of speaking in public, which made her immensely proud."
+          },
+          {
+            "chinese": "我们需要克服这个技术难题，才能按时完成项目。",
+            "english": "We need to get past this technical obstacle before we can finish the project on time."
+          },
+          {
+            "chinese": "他很难原谅自己过去的错误，但心理治疗帮助他走出了阴影。",
+            "english": "He struggled to get past his past mistakes, but therapy helped him move on."
+          },
+          {
+            "chinese": "一旦你克服了最初的尴尬，你会发现和新同事交流其实很轻松。",
+            "english": "Once you get past the initial awkwardness, you'll find it easy to communicate with your new colleagues."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-104-2-1784780639891",
@@ -19172,5 +19206,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785661194752
+  "updatedAt": 1785661212809
 }
