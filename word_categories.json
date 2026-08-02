@@ -15045,7 +15045,40 @@
       "sentenceVocab": "⭐ bring someone into the fold —— 让某人加入其中；纳入圈子（C2）｜in every way —— 通过各种方式",
       "startTime": 451.05,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:23:05.912Z"
+      "dateAdded": "2026-07-23T04:23:05.912Z",
+      "translationCache": {
+        "lemma": "bring someone into the fold of",
+        "ipa": "/brɪŋ ˈsʌmwʌn ˈɪntu ðə foʊld əv/",
+        "translation": "把某人带入……的圈子/使某人加入……的群体",
+        "pronunciationGuide": "",
+        "collocations": [
+          "bring someone into the fold of the family",
+          "bring someone into the fold of the organization",
+          "bring someone into the fold of the community",
+          "bring someone into the fold of the team"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "新经理努力让所有员工都融入公司的文化。",
+            "english": "The new manager tried hard to bring all employees into the fold of the company culture."
+          },
+          {
+            "chinese": "她通过分享个人故事，成功地把听众带入了她的情感世界。",
+            "english": "By sharing her personal stories, she successfully brought the audience into the fold of her emotional world."
+          },
+          {
+            "chinese": "政府正在实施新政策，以将边缘群体纳入社会保障体系。",
+            "english": "The government is implementing new policies to bring marginalized groups into the fold of the social security system."
+          },
+          {
+            "chinese": "导师鼓励学生参与研究项目，从而将他们带入学术界的圈子。",
+            "english": "The mentor encouraged students to participate in research projects, thereby bringing them into the fold of academia."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-97-4-1784780592830",
@@ -19343,5 +19376,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785662302408
+  "updatedAt": 1785662306760
 }
