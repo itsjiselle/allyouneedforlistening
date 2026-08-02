@@ -15190,7 +15190,7 @@
       "sentenceTranslation": "如果你对某个人或者某个项目感觉有点不安，我以前总会告诉自己：\"不会不会，没事的，我确定会没事。\"",
       "sentenceVocab": "⭐ feel wobbly about something —— 对某事感觉不确定、不安（C1）｜be like... —— 说；想（口语★★★★★）｜I'm sure it'll be fine —— 我相信会没问题",
       "startTime": 485.688,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-23T04:23:59.891Z",
       "translationCache": {
         "lemma": "feel wobbly about",
@@ -19343,5 +19343,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785662296752
+  "updatedAt": 1785662302408
 }
