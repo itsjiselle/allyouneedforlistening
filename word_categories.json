@@ -19963,7 +19963,10 @@
             "sentence_en": "The classroom seating is so cramped that students are crammed in close together, making it difficult to concentrate."
           }
         ]
-      }
+      },
+      "customTopicIds": [
+        "topic-1785327208185"
+      ]
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-69-12-1785664716050",
@@ -19995,5 +19998,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664940551
+  "updatedAt": 1785664942519
 }
