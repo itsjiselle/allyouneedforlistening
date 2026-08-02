@@ -16236,7 +16236,15 @@
           "english": "It is crucial to measure the wall area to estimate the quantity needed before starting to lay (put down) the tiles."
         }
       ]
-    }
+    },
+    "customTopicIds": [
+      "uncategorized",
+      "topic-1784891355720",
+      "topic-1785659233039"
+    ],
+    "patternCategories": [],
+    "customTranslation": "n. 瓷砖；瓦片；地砖",
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-2-5-1784891497672",
