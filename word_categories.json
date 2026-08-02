@@ -15036,7 +15036,41 @@
       "sentenceVocab": "⭐ map something out —— 详细规划某事（★★★★★）",
       "startTime": 430.405,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:22:01.533Z"
+      "dateAdded": "2026-07-23T04:22:01.533Z",
+      "translationCache": {
+        "lemma": "map out",
+        "ipa": "/mæp aʊt/",
+        "translation": "v. 规划；详细安排；筹划",
+        "pronunciationGuide": "",
+        "collocations": [
+          "map out a plan",
+          "map out a strategy",
+          "map out the future",
+          "map out one's career",
+          "map out a route"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "在开始这个项目之前，我们需要详细规划整个流程。",
+            "english": "Before starting this project, we need to map out the entire process."
+          },
+          {
+            "chinese": "她花了整个周末来规划她的职业发展路径。",
+            "english": "She spent the whole weekend mapping out her career path."
+          },
+          {
+            "chinese": "政府已经制定了一项计划来应对经济危机。",
+            "english": "The government has mapped out a plan to tackle the economic crisis."
+          },
+          {
+            "chinese": "我们应该先规划好旅行的路线，然后再预订酒店。",
+            "english": "We should map out the travel route first, and then book the hotels."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-93-0-1784780535012",
@@ -19418,5 +19452,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785663699823
+  "updatedAt": 1785663706201
 }
