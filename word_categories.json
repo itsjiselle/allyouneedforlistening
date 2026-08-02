@@ -13730,7 +13730,7 @@
       "sentenceTranslation": "如果互联网消失，我们这些老家伙还有备用方案。",
       "sentenceVocab": "⭐ old folks —— 老人们（口语）｜plan B —— 备用方案（★★★★★）",
       "startTime": 17.583,
-      "reviewCount": 3,
+      "reviewCount": 2,
       "dateAdded": "2026-07-19T14:11:48.866Z",
       "customTopicIds": [
         "topic-1785327203327"
@@ -19687,7 +19687,40 @@
       "sentenceVocab": "⭐ something kills me —— 某事让我觉得非常好笑/受不了（★★★★★）",
       "startTime": 159.002,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:56:12.917Z"
+      "dateAdded": "2026-08-02T09:56:12.917Z",
+      "translationCache": {
+        "lemma": "here's something that kills me",
+        "ipa": "/hɪrz ˈsʌmθɪŋ ðæt kɪlz mi/",
+        "translation": "（习语）这让我受不了；这让我很困扰；这让我觉得好笑/无奈",
+        "pronunciationGuide": "",
+        "collocations": [
+          "What kills me is...",
+          "It kills me that...",
+          "Something that kills me about...",
+          "The thing that kills me is..."
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "最让我受不了的是，他明明知道真相，却假装什么都没发生。",
+            "english": "What kills me is that he knows the truth but pretends nothing happened."
+          },
+          {
+            "chinese": "让我觉得好笑的是，她总是抱怨没时间，却花几个小时刷手机。",
+            "english": "It kills me that she always complains about having no time, yet she spends hours scrolling through her phone."
+          },
+          {
+            "chinese": "关于现代职场，最让我无奈的是，人们总是用忙碌来衡量价值。",
+            "english": "Something that kills me about the modern workplace is that people always measure value by busyness."
+          },
+          {
+            "chinese": "让我恼火的是，他从不提前计划，却总在最后一刻手忙脚乱。",
+            "english": "The thing that kills me is that he never plans ahead, yet he always scrambles at the last minute."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-55-7-1785664602993",
@@ -19920,5 +19953,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664843086
+  "updatedAt": 1785664851238
 }
