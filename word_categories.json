@@ -14214,7 +14214,7 @@
       "sentenceTranslation": "我是在产生幻觉吗？",
       "sentenceVocab": "⭐ have a hallucination —— 产生幻觉（C1）",
       "startTime": 257.651,
-      "reviewCount": 2,
+      "reviewCount": 1,
       "dateAdded": "2026-07-23T04:10:54.692Z",
       "translationCache": {
         "lemma": "hallucination",
@@ -14249,8 +14249,7 @@
             "english": "Certain medications used to treat mental disorders may induce hallucinations, so strict monitoring is required."
           }
         ]
-      },
-      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生常脱口而出：\"Am I dreaming?\" 或 \"Am I seeing things?\" 但老外更爱用 **hallucination**，因为它自带一种“嗑药般”的荒诞感——不是简单的“眼花”，而是大脑给你放了一部 4K 超清科幻片。比如你看到你妈在跳女团舞，说这句就 perfect 了。\n\n**2. 学术深度分析与语用场景**  \n这个词源自拉丁语 *alucinari*（“心神游荡”），在医学、AI 领域是正经术语（如“AI 幻觉”），但在日常口语中，它带点**戏谑和夸张**的色彩。当你用它，等于在说：“我的感官在撒谎，但我觉得挺好玩。” 感情色彩偏中性，但语境里常透着幽默或无奈。\n\n**3. 中文社媒对应**  \n中文网络热梗：**“我出现幻觉了？”** 或 **“我是不是嗑了？”**（配合熊猫头表情包）。更传神的翻译是：“我是不是眼花了？”但“幻觉”更强调“大脑编故事”，比如看到爱豆对你笑，你：“我是不是出现幻觉了？”\n\n**4. 趣味记忆**  \n词根 **hallucin-** 像不像 **“哈？撸串？”** ？想象你正撸串，突然看到一串羊肉串在跳舞，你惊呼：“哈？撸串？我幻觉了？” 一秒记住！\n\n**5. 注意**  \n别在严肃场合乱用，比如医生说“你出现了幻觉”，那是真病；但朋友间说“我幻觉了”，纯属调侃。"
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-68-4-1784780137530",
@@ -14398,7 +14397,33 @@
       "sentenceVocab": "⭐ volatile —— 易怒的；情绪不稳定的（C1）｜unreliable —— 不可靠的（C1）",
       "startTime": 355.52,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:16:51.421Z"
+      "dateAdded": "2026-07-23T04:16:51.421Z",
+      "translationCache": {
+        "lemma": "volatile and unreliable",
+        "ipa": "",
+        "translation": "adj. 易变的且不可靠的；反复无常且靠不住的",
+        "pronunciationGuide": "",
+        "collocations": [
+          "volatile and unreliable markets",
+          "volatile and unreliable weather",
+          "volatile and unreliable partner",
+          "become volatile and unreliable",
+          "prove volatile and unreliable"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          "由于经济形势变得易变且不可靠，许多投资者决定撤资。",
+          "Due to the economic situation becoming volatile and unreliable, many investors decided to withdraw (pull out) their funds.",
+          "这位天气预报员警告说，未来几天的天气将变得易变且不可靠，建议人们做好应对突发变化的准备。",
+          "The weather forecaster warned that the weather would become volatile and unreliable in the coming days, advising people to prepare for sudden changes.",
+          "在谈判中，对方的态度反复无常且不可靠，使得达成协议变得极其困难。",
+          "During the negotiations, the other party's attitude was volatile and unreliable, making it extremely difficult to reach an agreement.",
+          "这个软件的性能一直易变且不可靠，用户经常遇到崩溃和数据丢失的问题。",
+          "The performance of this software has been volatile and unreliable, with users frequently encountering crashes and data loss."
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-76-2-1784780238592",
@@ -14542,7 +14567,23 @@
       "sentenceVocab": "⭐ on the day —— 当天｜don't be afraid to do something —— 不要害怕做某事｜stick the landing —— 完美完成；达到预期效果（★★★★★）",
       "startTime": 374.39,
       "reviewCount": 0,
-      "dateAdded": "2026-07-23T04:17:58.929Z"
+      "dateAdded": "2026-07-23T04:17:58.929Z",
+      "translationCache": {
+        "lemma": "stick the landing",
+        "ipa": "/stɪk ðə ˈlændɪŋ/",
+        "translation": "完美收尾；漂亮地完成（尤指表演、演讲等）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "stick the landing on a joke",
+          "stick the landing in a presentation",
+          "stick the landing with a line",
+          "stick the landing at the end"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": []
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-86-3-1784780441053",
@@ -14837,7 +14878,39 @@
       "startTime": 459.089,
       "reviewCount": 0,
       "dateAdded": "2026-07-23T04:23:12.830Z",
-      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“We were very sad when the film ended”，但老外会轻描淡写来一句“We were kind of bereft”——瞬间从“小学生作文”升级到“文艺片台词”。Bereft 不是普通的难过，而是像被掏空了灵魂，仿佛电影结束=人生失去意义。\n\n**2. 学术深度分析**  \nBereft 源自 be- + reave（剥夺），常用搭配 be bereft of（失去…），语气偏文学、正式，略带夸张。在口语中，它常带点自嘲或戏谑，比如“I'm bereft without my coffee” —— 表达一种“没有它我活不下去”的幽默感。\n\n**3. 中文网络梗对应**  \n相当于“我的快乐没有了”“感觉身体被掏空”，或者表情包“生无可恋”。如果电影太好看，结尾时你可以说“我整个人都 bereft 了”，完美匹配“泪目”+“意难平”的复杂心情。\n\n**4. 趣味记忆**  \n谐音“比瑞夫特”→ 比瑞（瑞幸）还苦？不对，是“比（be）…拿走（reave）了”，所以“被拿走”了快乐，自然就“空虚寂寞冷”啦！"
+      "translationCache": {
+        "lemma": "bereft",
+        "ipa": "/bɪˈrɛft/",
+        "translation": "adj. 感到失落的；失去…的；被剥夺的",
+        "pronunciationGuide": "",
+        "collocations": [
+          "bereft of hope",
+          "bereft of emotion",
+          "feel bereft",
+          "left bereft"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "当她的猫去世后，她感到无比失落，仿佛失去了生活的意义。",
+            "english": "After her cat died, she felt utterly bereft, as if she had lost the meaning of life."
+          },
+          {
+            "chinese": "失去所有积蓄后，他变得麻木，对任何事都提不起兴趣。",
+            "english": "After losing all his savings, he became bereft of emotion and showed no interest in anything."
+          },
+          {
+            "chinese": "这个社区在工厂关闭后陷入绝望，许多家庭失去了唯一的收入来源。",
+            "english": "The community was left bereft after the factory closed, with many families losing their only source of income."
+          },
+          {
+            "chinese": "她独自站在空荡荡的房间里，感到一种深深的失落，仿佛被整个世界遗弃了。",
+            "english": "Standing alone in the empty room, she felt a profound sense of bereftness, as if abandoned by the whole world."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-103-7-1784780622299",
@@ -19005,5 +19078,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660407072
+  "updatedAt": 1785660411119
 }
