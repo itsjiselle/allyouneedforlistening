@@ -14399,7 +14399,7 @@
       "sentenceTranslation": "她只是想成为大家中的一员。",
       "sentenceVocab": "⭐ one of the peeps —— 自己人；圈子里的人（口语）｜you know? —— 你懂吧（口语填充）",
       "startTime": 325.601,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-23T04:15:37.530Z",
       "translationCache": {
         "lemma": "one of the peeps",
@@ -19411,5 +19411,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785662351782
+  "updatedAt": 1785662360234
 }
