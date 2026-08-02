@@ -14416,10 +14416,8 @@
     "reviewCount": 1,
     "dateAdded": "2026-07-23T04:16:51.421Z",
     "customTopicIds": [
-      "topic-1785556164112",
-      "topic-1785327203327"
+      "topic-1785556164112"
     ],
-    "patternCategories": [],
     "translationCache": {
       "lemma": "volatile and unreliable",
       "ipa": "/ˈvɑːlətl ænd ˌʌnrɪˈlaɪəbl/",
@@ -14454,9 +14452,7 @@
         }
       ]
     },
-    "teacherExplanation": "**1. 中式英语 vs 地道表达**\n中国学生常说“changeable and not reliable”，但 native speaker 会选 **volatile and unreliable**。Volatile 自带“化学物质易爆炸”的既视感，比 changeable 更带感，就像形容天气“说变就变”，但更夸张——直接是“翻脸比翻书快，还带点小脾气”。\n\n**2. 学术深度分析与语用场景**\n这个词组常用于金融、政治或人际关系，感情色彩偏贬义，但带点戏谑。比如形容一个产品“volatile and unreliable”，就像说“这玩意儿比渣男还难捉摸”。在汇报中用它，瞬间提升专业度，显得你洞察力爆表。\n\n**3. 中文网络流行语对应**\n翻译成“薛定谔的靠谱”或“过山车式信任”，完美对应“你永远不知道下一秒是天堂还是地狱”。表情包：一只猫在悬崖边反复横跳，配字“我信你个鬼”。\n\n**4. 趣味记忆**\n谐音梗：“volatile”像“我要太累”，累到情绪爆炸；“unreliable”像“俺赖宝”，但赖宝不靠谱。联想：一个叫 Volatile 的火山，随时喷发，你永远别信它“今天不喷”。",
-    "customTranslation": "adj. 易变的且不可靠的；反复无常且靠不住的",
-    "patternCategoryManuallyEdited": true
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**\n中国学生常说“changeable and not reliable”，但 native speaker 会选 **volatile and unreliable**。Volatile 自带“化学物质易爆炸”的既视感，比 changeable 更带感，就像形容天气“说变就变”，但更夸张——直接是“翻脸比翻书快，还带点小脾气”。\n\n**2. 学术深度分析与语用场景**\n这个词组常用于金融、政治或人际关系，感情色彩偏贬义，但带点戏谑。比如形容一个产品“volatile and unreliable”，就像说“这玩意儿比渣男还难捉摸”。在汇报中用它，瞬间提升专业度，显得你洞察力爆表。\n\n**3. 中文网络流行语对应**\n翻译成“薛定谔的靠谱”或“过山车式信任”，完美对应“你永远不知道下一秒是天堂还是地狱”。表情包：一只猫在悬崖边反复横跳，配字“我信你个鬼”。\n\n**4. 趣味记忆**\n谐音梗：“volatile”像“我要太累”，累到情绪爆炸；“unreliable”像“俺赖宝”，但赖宝不靠谱。联想：一个叫 Volatile 的火山，随时喷发，你永远别信它“今天不喷”。"
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-76-2-1784780238592",
@@ -14510,7 +14506,8 @@
     "reviewCount": 0,
     "dateAdded": "2026-07-23T04:17:28.643Z",
     "customTopicIds": [
-      "topic-1785556164112"
+      "uncategorized",
+      "topic-1785327203327"
     ],
     "patternCategories": [],
     "translationCache": {
