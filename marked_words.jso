@@ -14817,7 +14817,39 @@
     "sentenceVocab": "⭐ dork out —— 像宅男/粉丝一样兴奋讨论（口语）｜endless stories —— 无尽的故事",
     "startTime": 409.513,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T04:20:53.827Z"
+    "dateAdded": "2026-07-23T04:20:53.827Z",
+    "translationCache": {
+      "lemma": "dork out",
+      "ipa": "/dɔːrk aʊt/",
+      "translation": "（非正式）沉迷于（某事物），对（某事物）表现出极大的热情或兴趣",
+      "pronunciationGuide": "",
+      "collocations": [
+        "dork out on something",
+        "dork out over something",
+        "dork out with someone"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "即使你想沉迷于科幻电影，也不应该熬夜到凌晨三点。",
+          "english": "Even if you want to dork out on sci-fi movies, you shouldn't stay up until 3 a.m."
+        },
+        {
+          "chinese": "周末我们常常一起沉迷于电子游戏，这让我们感到放松。",
+          "english": "On weekends, we often dork out on video games together, which helps us relax."
+        },
+        {
+          "chinese": "他喜欢在聚会上沉迷于谈论天文知识，虽然有些人觉得无聊。",
+          "english": "He likes to dork out on astronomy topics at parties, even though some people find it boring."
+        },
+        {
+          "chinese": "如果你对编程感兴趣，可以加入我们的俱乐部，在那里你可以尽情沉迷于代码。",
+          "english": "If you're interested in programming, you can join our club, where you can dork out on coding to your heart's content."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-88-2-1784780470773",
