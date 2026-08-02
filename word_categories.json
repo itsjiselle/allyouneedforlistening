@@ -19892,13 +19892,19 @@
       "categories": [
         "idiom"
       ],
-      "customLemma": "cut rate ... airline",
+      "customLemma": "cut-rate ",
       "sentenceContext": "It's this cut rate Asian airline, they cramming you in close together.",
       "sentenceTranslation": "这是一家廉价亚洲航空公司，他们把乘客挤得非常紧。",
       "sentenceVocab": "⭐ cut-rate —— 廉价的；低价的（C1）｜cram someone in —— 把人塞进去；拥挤安排（★★★★★）",
       "startTime": 222.336,
       "reviewCount": 0,
-      "dateAdded": "2026-08-02T09:57:44.485Z"
+      "dateAdded": "2026-08-02T09:57:44.485Z",
+      "customTopicIds": [
+        "topic-1784867561233",
+        "topic-1785556164112"
+      ],
+      "patternCategories": [],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-7-1785664676797",
@@ -19986,5 +19992,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664860526
+  "updatedAt": 1785664931468
 }
