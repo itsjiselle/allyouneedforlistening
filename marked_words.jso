@@ -16656,13 +16656,18 @@
     "categories": [
       "idiom"
     ],
-    "customLemma": "were carved with ... just ... a hair's breadth",
+    "customLemma": "a hair's breadth",
     "sentenceContext": "In that process, they also increasingly standardized the designs, but higher end sets, which were made by very, very skilled craftsmen, were carved with often just like a hair's breadth, really delicate scenes.",
     "sentenceTranslation": "在这一过程中，麻将牌的设计也越来越标准化；但高端麻将由技艺极其精湛的工匠制作，他们能够在极其细微的空间内雕刻出非常精致的场景。",
     "sentenceVocab": "⭐ standardize the design —— 使设计标准化｜higher-end sets —— 高端套装｜skilled craftsmen —— 技艺精湛的工匠｜a hair's breadth —— 极小的距离；毫厘之间｜delicate scenes —— 精细的场景图案",
     "startTime": 190.823,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:18:18.933Z"
+    "dateAdded": "2026-07-24T11:18:18.933Z",
+    "customTopicIds": [
+      "uncategorized"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-23-15-1784891931633",
