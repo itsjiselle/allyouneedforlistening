@@ -13665,7 +13665,41 @@
     "startTime": 3.373,
     "reviewCount": 1,
     "dateAdded": "2026-07-19T14:11:23.340Z",
-    "teacherExplanation": "**中式英语 vs 地道表达**：别再说\"turn off our phones\"了，那只是关机。黑客是**暴力摧毁**，不是温柔关机。\"Knock out\"像一拳打晕，瞬间瘫痪，比\"destroy\"更带感，比\"shut down\"更狠。\n\n**学术深度分析**：源自拳击术语，KO对手。语用上，强调**突然性**和**彻底性**，略带戏谑的无奈。在科技语境中，它暗示一种**被动受害**的幽默——就像你正刷手机，突然被黑客KO，世界安静了。\n\n**中文网络热梗对应**：完美对应\"**我裂开了**\"或\"**网炸了**\"。想象黑客一拳打爆服务器，你的手机直接\"**当场去世**\"，表情包配图：一个手机翻白眼吐舌头。\n\n**趣味记忆**：谐音梗\"**脑壳疼**\"——黑客让你\"脑壳疼\"，直接KO你的网络。或者联想\"**Knock**敲门，**out**出局\"——黑客敲门说\"查水表\"，然后你的网就出局了。"
+    "teacherExplanation": "**中式英语 vs 地道表达**：别再说\"turn off our phones\"了，那只是关机。黑客是**暴力摧毁**，不是温柔关机。\"Knock out\"像一拳打晕，瞬间瘫痪，比\"destroy\"更带感，比\"shut down\"更狠。\n\n**学术深度分析**：源自拳击术语，KO对手。语用上，强调**突然性**和**彻底性**，略带戏谑的无奈。在科技语境中，它暗示一种**被动受害**的幽默——就像你正刷手机，突然被黑客KO，世界安静了。\n\n**中文网络热梗对应**：完美对应\"**我裂开了**\"或\"**网炸了**\"。想象黑客一拳打爆服务器，你的手机直接\"**当场去世**\"，表情包配图：一个手机翻白眼吐舌头。\n\n**趣味记忆**：谐音梗\"**脑壳疼**\"——黑客让你\"脑壳疼\"，直接KO你的网络。或者联想\"**Knock**敲门，**out**出局\"——黑客敲门说\"查水表\"，然后你的网就出局了。",
+    "translationCache": {
+      "lemma": "knock out",
+      "ipa": "/nɑːk aʊt/",
+      "translation": "（动词短语）使失去知觉；使入睡；淘汰；摧毁；使震惊",
+      "pronunciationGuide": "",
+      "collocations": [
+        "knock someone out",
+        "knock out a competitor",
+        "knock out power",
+        "knock out a tooth",
+        "knock out the lights"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "那记重拳直接把他打昏了过去，他倒在地上不省人事。",
+          "english": "That heavy punch knocked him out instantly, and he fell to the ground unconscious."
+        },
+        {
+          "chinese": "在四分之一决赛中，卫冕冠军意外被一名无名小卒淘汰出局。",
+          "english": "In the quarter-finals, the defending champion was unexpectedly knocked out by an unknown player."
+        },
+        {
+          "chinese": "昨晚的暴风雨摧毁了整座城市的电力供应，导致数千户家庭陷入黑暗。",
+          "english": "Last night's storm knocked out the power supply across the entire city, leaving thousands of households in darkness."
+        },
+        {
+          "chinese": "她听到自己获得奖学金的消息时，简直震惊得说不出话来。",
+          "english": "When she heard the news that she had won the scholarship, she was completely knocked out and couldn't say a word."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-6-6-1784470308866",
@@ -13685,7 +13719,7 @@
     "sentenceTranslation": "如果互联网消失，我们这些老家伙还有备用方案。",
     "sentenceVocab": "⭐ old folks —— 老人们（口语）｜plan B —— 备用方案（★★★★★）",
     "startTime": 17.583,
-    "reviewCount": 1,
+    "reviewCount": 2,
     "dateAdded": "2026-07-19T14:11:48.866Z",
     "customTopicIds": [
       "topic-1785327203327"
