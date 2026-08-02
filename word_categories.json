@@ -13940,6 +13940,9 @@
       "startTime": 78.157,
       "reviewCount": 1,
       "dateAdded": "2026-07-23T03:10:00.049Z",
+      "customTopicIds": [
+        "topic-1784776719656"
+      ],
       "translationCache": {
         "lemma": "go through complete awakening",
         "ipa": "/ɡoʊ θruː kəmˈpliːt əˈweɪkənɪŋ/",
@@ -19530,5 +19533,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785664216194
+  "updatedAt": 1785664228101
 }
