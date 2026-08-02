@@ -13729,7 +13729,7 @@
     "sentenceTranslation": "如果互联网消失，我们这些老家伙还有备用方案。",
     "sentenceVocab": "⭐ old folks —— 老人们（口语）｜plan B —— 备用方案（★★★★★）",
     "startTime": 17.583,
-    "reviewCount": 2,
+    "reviewCount": 3,
     "dateAdded": "2026-07-19T14:11:48.866Z",
     "customTopicIds": [
       "topic-1785327203327"
@@ -19800,7 +19800,7 @@
     "sentenceTranslation": "每个人都只剩最后一次拍摄机会。",
     "sentenceVocab": "⭐ be down to something —— 只剩下……（★★★★★）｜last shot —— 最后一次机会",
     "startTime": 205.174,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-08-02T09:57:14.077Z",
     "translationCache": {
       "lemma": "be down to their last shot",
@@ -19833,7 +19833,13 @@
           "english": "During the job interview, he knew he was down to his last shot, so he decided to give it his all and present his best self."
         }
       ]
-    }
+    },
+    "customTranslation": "“就剩这最后一哆嗦了”\n（习语）只剩下最后一次机会；处于最后关头",
+    "customTopicIds": [
+      "topic-1784776517091"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-2-1785664664485",
