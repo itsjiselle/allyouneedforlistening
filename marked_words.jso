@@ -13663,7 +13663,7 @@
     "sentenceTranslation": "我这么说的原因是，你看，在不久的将来，黑客会让我们的手机和互联网瘫痪。",
     "sentenceVocab": "⭐ the not too distant future —— 不久的将来（C1）｜knock out something —— 摧毁；使……失效（★★★★★）",
     "startTime": 3.373,
-    "reviewCount": 3,
+    "reviewCount": 2,
     "dateAdded": "2026-07-19T14:11:23.340Z",
     "customTopicIds": [
       "topic-1784776517091",
@@ -19794,7 +19794,22 @@
     "sentenceVocab": "⭐ be down to something —— 只剩下……（★★★★★）｜last shot —— 最后一次机会",
     "startTime": 205.174,
     "reviewCount": 0,
-    "dateAdded": "2026-08-02T09:57:14.077Z"
+    "dateAdded": "2026-08-02T09:57:14.077Z",
+    "translationCache": {
+      "lemma": "be down to their last shot",
+      "ipa": "/bi daʊn tu ðɛr læst ʃɑt/",
+      "translation": "（他们）只剩下最后一次机会",
+      "pronunciationGuide": "",
+      "collocations": [
+        "be down to one's last shot",
+        "down to the last shot",
+        "last shot at something"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": []
+    }
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-63-2-1785664664485",
