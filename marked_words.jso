@@ -13837,7 +13837,41 @@
     "sentenceVocab": "⭐ prize someone out of something —— 费尽力气让某人离开某状态（C2）｜reclusivity —— 隐居状态；闭门状态（C2）",
     "startTime": 42.248,
     "reviewCount": 0,
-    "dateAdded": "2026-07-23T03:09:15.356Z"
+    "dateAdded": "2026-07-23T03:09:15.356Z",
+    "translationCache": {
+      "lemma": "prize out of",
+      "ipa": "/praɪz aʊt əv/",
+      "translation": "prize (v.) 撬开；迫使离开；使脱离（某种状态）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "prize open",
+        "prize apart",
+        "prize out of seclusion",
+        "prize someone out of a shell",
+        "prize information out of someone"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "zh": "她花了几个月时间才把这位隐居的作家从深山中“撬”出来接受采访。",
+          "en": "It took her months to prize the reclusive writer out of the mountains for an interview."
+        },
+        {
+          "zh": "朋友们试图把他从失恋的阴影中“撬”出来，但他总是拒绝。",
+          "en": "His friends tried to prize him out of the shadow of the breakup, but he always refused."
+        },
+        {
+          "zh": "你能想象如何把这位科技大亨从他那与世隔绝的豪宅中“撬”出来参加慈善晚宴吗？",
+          "en": "Can you imagine how to prize this tech tycoon out of his secluded mansion to attend the charity gala?"
+        },
+        {
+          "zh": "她终于被“撬”出了舒适区，开始尝试新的职业方向。",
+          "en": "She was finally prized out of her comfort zone and began to try a new career path."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One-19-3-1784776200049",
