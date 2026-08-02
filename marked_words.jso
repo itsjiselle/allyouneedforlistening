@@ -16458,7 +16458,10 @@
     "sentenceVocab": "⭐ complete a winning hand —— 组成一副获胜牌型｜random tiles —— 随机摸到的牌",
     "startTime": 89.902,
     "reviewCount": 0,
-    "dateAdded": "2026-07-24T11:14:47.242Z"
+    "dateAdded": "2026-07-24T11:14:47.242Z",
+    "customTopicIds": [
+      "topic-1784891355720"
+    ]
   },
   {
     "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-10-3-1784891702320",
