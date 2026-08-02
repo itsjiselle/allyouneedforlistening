@@ -19618,5 +19618,33 @@
     "startTime": 169.151,
     "reviewCount": 0,
     "dateAdded": "2026-08-02T09:55:54.978Z"
+  },
+  {
+    "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-42-0-1785664572917",
+    "materialId": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem",
+    "srtFingerprint": "74851f63",
+    "materialTitle": "Brad Upton - Cell Phone Addiction Is A Serious Problem.mp4",
+    "subtitleId": 42,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "wordText": "Here's something that kills me",
+    "category": "idiom",
+    "categories": [
+      "idiom",
+      "pattern"
+    ],
+    "customLemma": "Here's something that kills me",
+    "sentenceContext": "Here's something that kills me about technology and old people.",
+    "sentenceTranslation": "关于科技和老年人，有一件事真的让我觉得特别好笑。",
+    "sentenceVocab": "⭐ something kills me —— 某事让我觉得非常好笑/受不了（★★★★★）",
+    "startTime": 159.002,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-02T09:56:12.917Z"
   }
 ]
