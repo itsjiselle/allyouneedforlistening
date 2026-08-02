@@ -16851,7 +16851,10 @@
             "english": "This painting looks mass-made, lacking the spirit of the original."
           }
         ]
-      }
+      },
+      "customTopicIds": [
+        "topic-1784776517091"
+      ]
     },
     {
       "id": "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make-28-0-1784892044966",
@@ -18846,5 +18849,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785660098105
+  "updatedAt": 1785660108791
 }
