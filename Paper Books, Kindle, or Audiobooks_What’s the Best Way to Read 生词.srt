@@ -1,0 +1,488 @@
+1
+00:00:00,075 --> 00:00:01,123
+⭐ What's going on? = 最近怎么样？发生什么事了？（口语高频）
+
+2
+00:00:01,123 --> 00:00:07,858
+⭐ get asked = 被问到（B2）｜quite a few times = 很多次（B2）｜over the years = 这些年来（B2）｜format = 形式；载体（这里指纸质书、电子书、有声书）（常见词特殊义）
+
+3
+00:00:07,858 --> 00:00:14,788
+⭐ physical books = 纸质书｜audiobook = 有声书｜intake (v.) = 摄取；吸收（这里指获取信息）（C1，常见词特殊义）
+
+4
+00:00:14,788 --> 00:00:22,802
+⭐ save you the horse race = 不卖关子；直接说结论（口语，比喻表达，C1）｜viable = 可行的（C1）｜format = 阅读形式｜intake a book = 获取一本书的信息（C1）
+
+5
+00:00:22,802 --> 00:00:30,307
+⭐ depending on = 根据……（B2）｜purpose = 目的（B2）｜have an edge over = 比……更有优势（C1，非常高频）
+
+6
+00:00:30,307 --> 00:00:32,413
+⭐ go into = 深入讨论（C1）
+
+7
+00:00:32,413 --> 00:00:36,716
+⭐ break sth down = 拆分；分类讲解（C1）｜section out = 分成不同部分（C1）
+
+8
+00:00:36,716 --> 00:00:43,901
+[4 reasons why we read] ⭐ the purpose for which... = ……的目的（正式表达，C1）｜pick up a book = 拿起一本书开始读（B2）
+
+9
+00:00:43,901 --> 00:00:46,234
+⭐ first and foremost = 首先；最重要的是（C1）｜relaxation = 放松（B2）
+
+10
+00:00:46,234 --> 00:00:47,311
+⭐ escapism = 逃避现实；精神上的逃离（C1）
+
+11
+00:00:47,311 --> 00:00:49,345
+
+
+12
+00:00:49,345 --> 00:00:54,128
+⭐ widen = 拓宽；扩大（C1）｜basic knowledge = 基础知识
+
+13
+00:00:54,128 --> 00:01:02,552
+⭐ T-shaped person = T型人才（管理学高频）｜deep knowledge = 深度知识｜expansive knowledge = 广博的知识（C1）
+
+14
+00:01:02,552 --> 00:01:06,064
+⭐ deep learning = 深度学习（这里不是AI，而是深入学习）｜deeply understand = 深入理解
+
+15
+00:01:06,064 --> 00:01:14,471
+⭐ for reference = 用于查阅（B2）｜for research = 用于研究｜specific purpose = 特定目的（B2）｜pull knowledge out of = 从……中提取知识（C1）｜apply...to... = 将……应用于……（B2）
+
+16
+00:01:14,471 --> 00:01:17,681
+⭐ for each of... = 对于每一种……
+
+17
+00:01:17,681 --> 00:01:20,911
+⭐ come down to = 最终归结于；取决于（C1）
+
+18
+00:01:20,911 --> 00:01:23,607
+⭐ edge = 优势（常见词特殊义，C1）
+
+19
+00:01:23,607 --> 00:01:25,603
+⭐ slight = 轻微的；不大的（C1）｜for the most part = 大多数情况下（C1）
+
+20
+00:01:25,603 --> 00:01:30,194
+⭐ ultimately = 最终（B2）｜format = 阅读形式
+
+21
+00:01:30,194 --> 00:01:35,472
+⭐ overall = 总体来说（B2）｜stick to = 坚持；持续做（B2，非常高频）
+
+22
+00:01:35,472 --> 00:01:40,405
+[Reading for Fun] ⭐ escapism = 精神逃离；逃避现实（C1）
+
+23
+00:01:40,405 --> 00:01:44,004
+⭐ in general = 总体来说（B2）｜physical books = 纸质书
+
+24
+00:01:44,004 --> 00:01:45,829
+⭐ research behind... = ……背后有研究支持（C1）
+
+25
+00:01:45,829 --> 00:01:50,368
+⭐ albeit = 虽然；尽管（C2，非常正式）｜sample size = 样本量（学术高频）
+
+26
+00:01:50,368 --> 00:01:58,479
+⭐ versus = 与……相比（B2）｜be better able to do sth = 更能够……（C1）｜the order in which... = ……发生的顺序（C1，正式表达）
+
+27
+00:01:58,479 --> 00:02:09,018
+⭐ there might be something to... = ……可能确实有点道理（C1，非常地道）｜physical tactile sensations = 身体触觉体验（C1）｜the act of doing sth = 做某事这一行为（C1）
+
+28
+00:02:09,018 --> 00:02:17,280
+⭐ what went on = 发生了什么（go on 的特殊义，C1）｜scroll through = 滚动浏览（C1）
+
+29
+00:02:17,280 --> 00:02:21,823
+⭐ a never-ending wall of text = 一堵无穷无尽的文字墙（形象表达，C1）｜scrolling mode = 滚动模式
+
+30
+00:02:21,823 --> 00:02:30,539
+⭐ potential downside = 潜在缺点（C1）｜in particular = 尤其；特别是（B2）｜built in = 内置的（C1）｜albeit = 虽然；尽管（C2）
+
+31
+00:02:30,539 --> 00:02:43,106
+⭐ have access to = 可以接触到；拥有……的使用权限（B2）｜sink into = 沉浸于（C1）｜get lost in a story = 沉浸于故事之中（C1）
+
+32
+00:02:43,106 --> 00:02:46,667
+⭐ escapism = 逃离现实；精神逃避（C1）
+
+33
+00:02:46,667 --> 00:02:50,452
+⭐ quite a few = 相当多（B2）｜go through = 看完；听完整本（常见词特殊义，C1）｜in terms of = 在……方面；就……而言（B2）
+
+34
+00:02:50,452 --> 00:02:55,534
+⭐ come to mind = 浮现在脑海中（C1）
+
+35
+00:02:55,534 --> 00:03:01,309
+⭐ narrated version = 配音版本（C1）｜no longer = 不再（B2）
+
+36
+00:03:01,309 --> 00:03:09,618
+⭐ typically = 通常（B2）｜do chores = 做家务（C1）
+
+37
+00:03:09,618 --> 00:03:15,101
+⭐ take someone's attention = 占用某人的注意力（C1）｜not a ton = 没有很多（口语）
+
+38
+00:03:15,101 --> 00:03:17,493
+⭐ tune out = 没有认真听；走神（C1 phrasal verb）
+
+39
+00:03:17,493 --> 00:03:23,142
+⭐ navigate = 应对；通过（这里指过路）（C1）｜every single bit = 每一个细节（强调）｜immersed = 沉浸其中（C1）
+
+40
+00:03:23,142 --> 00:03:28,310
+⭐ the edge goes to... = ……略占优势（C1）
+
+41
+00:03:28,310 --> 00:03:31,973
+[Reading for KNOWLEDGE] ⭐ widen your base of knowledge = 拓宽知识面（C1）
+
+42
+00:03:31,973 --> 00:03:44,280
+⭐ deep expertise = 深厚的专业能力（C1）｜array of knowledge = 知识广度；知识储备（C1）｜a broad variety of... = 各种各样的……
+
+43
+00:03:44,280 --> 00:03:51,168
+⭐ give the edge to... = 认为……更占优势（C1）
+
+44
+00:03:51,168 --> 00:03:59,101
+⭐ complete immersion = 完全沉浸（C1）
+
+45
+00:03:59,101 --> 00:04:00,738
+
+
+46
+00:04:00,738 --> 00:04:03,611
+⭐ around the house = 在家里；家务方面（C1）
+
+47
+00:04:03,611 --> 00:04:04,963
+
+
+48
+00:04:04,963 --> 00:04:10,811
+⭐ throughout the day = 一整天中（B2）｜take up someone's attention = 占据注意力（C1）
+
+49
+00:04:10,811 --> 00:04:15,168
+⭐ otherwise = 否则（B2）
+
+50
+00:04:15,168 --> 00:04:23,130
+⭐ broaden one's knowledge = 拓宽知识（B2）｜in a shallow way = 浅层地（这里没有贬义）｜enlightening = 很有启发性的（C1）
+
+51
+00:04:23,130 --> 00:04:28,068
+⭐ over the past few months = 在过去几个月里（B2）
+
+52
+00:04:28,068 --> 00:04:33,318
+⭐ super deep understanding = 非常深入的理解（口语）｜structure = （人体）结构（常见词特殊义）
+
+53
+00:04:33,318 --> 00:04:35,430
+⭐ for learning's sake = 为了学习本身（C1，类似 for its own sake）
+
+54
+00:04:35,430 --> 00:04:38,129
+⭐ be perfect for... = 非常适合……
+
+55
+00:04:38,129 --> 00:04:44,663
+⭐ aside from = 除了……之外（C1）｜when it comes to... = 说到……（C1）｜have an edge = 更有优势（C1）
+
+56
+00:04:44,663 --> 00:04:50,254
+⭐ give a slight nod to... = 略微倾向于……；稍微支持……（C1，非常地道）｜on a whim = 一时兴起；心血来潮（C1）
+
+57
+00:04:50,254 --> 00:04:54,703
+⭐ library program = 图书馆借阅项目｜borrow eBooks = 借阅电子书
+
+58
+00:04:54,703 --> 00:04:58,545
+⭐ get your hands on = 弄到；获得（C1）｜on a whim = 一时兴起（C1）
+
+59
+00:04:58,545 --> 00:05:05,179
+[Reading for Research&Reference] ⭐ have the clear advantage = 拥有明显优势（C1）｜for the purposes of... = 为了……目的（正式表达，C1）｜research and reference = 研究与查阅
+
+60
+00:05:05,179 --> 00:05:11,845
+⭐ pull knowledge out of... = 从……提取知识（C1）｜synthesize information = 综合、整合信息（C1）
+
+61
+00:05:11,845 --> 00:05:16,954
+⭐ ultimate guide = 终极指南（C1）
+
+62
+00:05:16,954 --> 00:05:25,409
+⭐ pull information out of... = 从……提取信息（C1）｜synthesize...into... = 将……整合成……（C1）
+
+63
+00:05:25,409 --> 00:05:31,346
+⭐ accurate information = 准确信息｜collect information = 收集信息
+
+64
+00:05:31,346 --> 00:05:34,213
+⭐ not least of which = 尤其是；更不用说（C1，非常正式）
+
+65
+00:05:34,213 --> 00:05:38,438
+⭐ bring up = 调出；打开（C1）｜type in = 输入（C1）｜pop up = 出现（常见词特殊义，C1）
+
+66
+00:05:38,438 --> 00:05:42,668
+⭐ highlight = 高亮标注（常见词特殊义）｜take notes = 做笔记
+
+67
+00:05:42,668 --> 00:05:50,226
+⭐ create a highlight = 创建高亮标注｜centralized location = 集中位置（C1）
+
+68
+00:05:50,226 --> 00:05:53,200
+⭐ whereas = 而；相比之下（C1）
+
+69
+00:05:53,200 --> 00:05:57,055
+
+
+70
+00:05:57,055 --> 00:06:00,550
+⭐ go find = 去找到（口语）
+
+71
+00:06:00,550 --> 00:06:07,652
+⭐ collect information from... = 从……整理信息
+
+72
+00:06:07,652 --> 00:06:15,030
+⭐ go even further = 更进一步（C1）
+
+73
+00:06:15,030 --> 00:06:24,112
+⭐ repository = 资料库；存储库（C1）
+
+74
+00:06:24,112 --> 00:06:32,114
+⭐ go one step further = 更进一步（C1）｜public API = 公开 API｜export...to... = 导出到……
+
+75
+00:06:32,114 --> 00:06:39,501
+⭐ for the express purpose of... = 专门为了……（C1）
+
+76
+00:06:39,501 --> 00:06:49,159
+⭐ synced blocks = 同步块（Notion术语）｜passage = （书中的）段落（B2）
+
+77
+00:06:49,159 --> 00:06:50,683
+⭐ to be fair to... = 公平起见（C1）
+
+78
+00:06:50,683 --> 00:06:57,796
+⭐ optical character recognition (OCR) = 光学字符识别（C1）
+
+79
+00:06:57,796 --> 00:07:00,805
+
+
+80
+00:07:00,805 --> 00:07:07,132
+⭐ friction = 阻力；操作成本（产品设计常见义，C1）｜friction-full = 操作成本高的（口语创造用法）
+
+81
+00:07:07,132 --> 00:07:15,245
+[for DEEP Understanding] ⭐ bring us to... = 引出……（C1）｜as opposed to = 与……相对；而不是（C1）｜deep understanding = 深度理解
+
+82
+00:07:15,245 --> 00:07:19,667
+⭐ vertical bar = 竖线（这里指 T 型结构）
+
+83
+00:07:19,667 --> 00:07:25,936
+⭐ the edge goes back to... = 优势重新回到……（C1）
+
+84
+00:07:25,936 --> 00:07:29,126
+⭐ get distracted by... = 被……分散注意力（B2）
+
+85
+00:07:29,126 --> 00:07:33,519
+⭐ maintain focus = 保持专注（C1）
+
+86
+00:07:33,519 --> 00:07:41,063
+⭐ pull out references = 提取参考资料（C1）
+
+87
+00:07:41,063 --> 00:07:43,080
+⭐ potential alternative = 可行的替代方案（C1）
+
+88
+00:07:43,080 --> 00:07:47,919
+⭐ gift sb sth = 送某人某物（B2）
+
+89
+00:07:47,919 --> 00:07:58,730
+⭐ right in... = 就在……｜a trick = 一个技巧｜follow along = 跟着一起看/听（C1）
+
+90
+00:07:58,730 --> 00:08:04,559
+⭐ pay attention to... = 注意……｜for a lot longer = 持续更长时间
+
+91
+00:08:04,559 --> 00:08:11,082
+⭐ from an objective sense = 从客观角度来说（C1）
+
+92
+00:08:11,082 --> 00:08:15,552
+⭐ be narrated at... = 以……速度朗读｜words per minute (WPM) = 每分钟单词数
+
+93
+00:08:15,552 --> 00:08:23,954
+⭐ whereas = 相比之下（C1）｜silently = 默读地｜subvocalize = 默念；在脑中发音（C2，非常重要的阅读术语）｜comprehension = 理解能力（C1）
+
+94
+00:08:23,954 --> 00:08:33,830
+⭐ set sth to... = 把……设置成……（B2）｜end up doing sth = 最终结果是……（B2）｜silently read to yourself = 默读（C1）
+
+95
+00:08:33,830 --> 00:08:37,853
+⭐ focus benefit = 专注力方面的优势（C1）｜strategy = 策略；方法（B2）
+
+96
+00:08:37,853 --> 00:08:50,365
+⭐ fit into = 属于；归入（C1）｜have a clear advantage over... = 相比……具有明显优势（C1）｜accessible = 易于使用的；无障碍的（C1，常见词特殊义）｜font size = 字体大小｜switch...into... = 切换到……（C1）｜dark mode = 深色模式
+
+97
+00:08:50,365 --> 00:08:59,243
+⭐ at the end of the day = 归根结底（C1，非常高频）｜work best for sb = 最适合某人
+
+98
+00:08:59,243 --> 00:09:05,763
+⭐ break down = 梳理；分析（C1）｜technological advantage = 技术优势
+
+99
+00:09:05,763 --> 00:09:10,730
+⭐ ultimately = 最终（B2）｜the majority of the time = 大多数时候（C1）
+
+100
+00:09:10,730 --> 00:09:24,882
+⭐ It's worth noting that... = 值得注意的是……（C1）｜factor = 因素（B2）｜fall out of a habit = 不再坚持某个习惯（C1）｜get back into a habit = 重新养成某个习惯（C1）
+
+101
+00:09:24,882 --> 00:09:28,359
+⭐ tactic = 策略；方法（C1）｜reading challenge = 阅读挑战
+
+102
+00:09:28,359 --> 00:09:32,883
+⭐ essentially = 本质上；简单来说（C1）｜nonfiction = 非虚构作品（B2）
+
+103
+00:09:32,883 --> 00:09:34,704
+⭐ bucks = 美元（口语）
+
+104
+00:09:34,704 --> 00:09:39,299
+⭐ spreadsheet = 电子表格（B2）｜track progress = 跟踪进度（B2）｜follow along = 持续关注（C1）
+
+105
+00:09:39,299 --> 00:09:40,762
+
+
+106
+00:09:40,762 --> 00:09:47,712
+⭐ reference (v.) = 引用（C1）｜long-term = 长期的（B2）
+
+107
+00:09:47,712 --> 00:09:53,428
+⭐ build a habit = 建立习惯（B2）｜whether it's...or... = 无论是……还是……（B2）
+
+108
+00:09:53,428 --> 00:09:57,912
+[Sponsor] ⭐ habit-building = 关于习惯养成的（C1）
+
+109
+00:09:57,912 --> 00:10:06,891
+⭐ information-packed = 信息量很大的（C1）｜break down goals = 拆解目标（C1）｜actionable = 可执行的（C1，非常重要）｜stick to = 坚持（B2）
+
+110
+00:10:06,891 --> 00:10:12,529
+⭐ go live = 正式发布（C1）
+
+111
+00:10:12,529 --> 00:10:21,504
+⭐ get a lot out of... = 从……中获得很多收获（C1）｜stick = 坚持下来（这里指习惯真正固定下来，C1）
+
+112
+00:10:21,504 --> 00:10:24,894
+⭐ take a class = 上一门课程
+
+113
+00:10:24,894 --> 00:10:25,544
+⭐ Guess what? = 猜猜看？（口语高频）
+
+114
+00:10:25,544 --> 00:10:32,186
+⭐ sign up for = 注册（B2）｜free trial = 免费试用（B2）
+
+115
+00:10:32,186 --> 00:10:35,265
+⭐ absolutely free = 完全免费（口语）
+
+116
+00:10:35,265 --> 00:10:37,995
+⭐ a ton of... = 大量……（口语）
+
+117
+00:10:37,995 --> 00:10:51,673
+⭐ craft = 精心制作（常见词特殊义，C1）｜audio engineering = 音频工程（C1）
+
+118
+00:10:51,673 --> 00:10:59,185
+⭐ build your skills = 提升技能（C1）｜support the channel = 支持频道
+
+119
+00:10:59,185 --> 00:11:02,442
+
+
+120
+00:11:02,442 --> 00:11:04,814
+⭐ sign up = 注册（B2）
+
+121
+00:11:04,814 --> 00:11:11,095
+⭐ look for = 寻找
+
+122
+00:11:11,095 --> 00:11:13,595
+⭐ a good read = 一本值得读的书（C1，固定表达）
+
