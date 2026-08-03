@@ -20103,9 +20103,39 @@
       "startTime": 14.788,
       "reviewCount": 0,
       "dateAdded": "2026-08-03T05:39:48.866Z"
+    },
+    {
+      "id": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read-5-18-1785735609609",
+      "materialId": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read",
+      "srtFingerprint": "6c1046d",
+      "materialTitle": "Paper Books, Kindle, or Audiobooks_What’s the Best Way to Read.mp4",
+      "subtitleId": 5,
+      "wordIndex": 18,
+      "wordIndices": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "wordText": "have a slight edge over the others",
+      "category": "idiom",
+      "categories": [
+        "idiom",
+        "pattern"
+      ],
+      "customLemma": "have a slight edge over the others",
+      "sentenceContext": "But depending on how you are reading and the purpose of your reading, one of the three might have a slight edge over the others.",
+      "sentenceTranslation": "不过，根据你的阅读方式以及阅读目的，其中一种形式可能会比另外两种略占优势。",
+      "sentenceVocab": "⭐ depending on = 根据……（B2）｜purpose = 目的（B2）｜have an edge over = 比……更有优势（C1，非常高频）",
+      "startTime": 22.802,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-03T05:40:09.609Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785735592115
+  "updatedAt": 1785735614424
 }
