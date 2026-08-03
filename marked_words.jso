@@ -20262,5 +20262,36 @@
     "startTime": 104.00399999999999,
     "reviewCount": 0,
     "dateAdded": "2026-08-03T17:10:02.079Z"
+  },
+  {
+    "id": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read-27-6-1785777051594",
+    "materialId": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read",
+    "srtFingerprint": "6c1046d",
+    "materialTitle": "Paper Books, Kindle, or Audiobooks_What’s the Best Way to Read.mp4",
+    "subtitleId": 27,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "wordText": "physical tactile sensations you get through reading a book",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "physical tactile sensations you get through reading a book",
+    "sentenceContext": "There might be something to the physical tactile sensations you get through reading a book, the act of turning a page, the act of remembering which side of the book you were looking at when something happened,",
+    "sentenceTranslation": "阅读纸质书时所带来的真实触觉体验——比如翻页的动作，或者记住某件事情发生时自己当时读到了书的左页还是右页——",
+    "sentenceVocab": "⭐ there might be something to... = ……可能确实有点道理（C1，非常地道）｜physical tactile sensations = 身体触觉体验（C1）｜the act of doing sth = 做某事这一行为（C1）",
+    "startTime": 118.479,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-03T17:10:51.594Z"
   }
 ]
