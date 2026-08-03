@@ -20001,9 +20001,35 @@
       "customTopicIds": [
         "topic-1785327208185"
       ]
+    },
+    {
+      "id": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read-3-0-1785735546177",
+      "materialId": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read",
+      "srtFingerprint": "6c1046d",
+      "materialTitle": "Paper Books, Kindle, or Audiobooks_What’s the Best Way to Read.mp4",
+      "subtitleId": 3,
+      "wordIndex": 0,
+      "wordIndices": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "wordText": "Physical books eBooks ... audiobooks",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "Physical books eBooks ... audiobooks",
+      "sentenceContext": "Physical books, eBooks, or audiobooks, where I guess you aren't actually reading the book, but you are still intaking it.",
+      "sentenceTranslation": "纸质书、电子书，还是有声书？虽然严格来说，听有声书不算真正意义上的\"阅读\"，但你依然是在获取书里的内容。",
+      "sentenceVocab": "⭐ physical books = 纸质书｜audiobook = 有声书｜intake = 摄取；吸收（这里指获取信息）（C1，常见词特殊义）",
+      "startTime": 7.858,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-03T05:39:06.177Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785735533682
+  "updatedAt": 1785735549512
 }
