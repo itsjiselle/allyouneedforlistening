@@ -20053,5 +20053,29 @@
     "startTime": 14.788,
     "reviewCount": 0,
     "dateAdded": "2026-08-03T05:39:22.100Z"
+  },
+  {
+    "id": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read-4-26-1785735580883",
+    "materialId": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read",
+    "srtFingerprint": "6c1046d",
+    "materialTitle": "Paper Books, Kindle, or Audiobooks_What’s the Best Way to Read.mp4",
+    "subtitleId": 4,
+    "wordIndex": 26,
+    "wordIndices": [
+      26,
+      27
+    ],
+    "wordText": "viable ways",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "viable ways",
+    "sentenceContext": "Well, I'm gonna save you the horse race here because in my experience, I use all three formats and all three of these can be perfectly viable ways to intake a book.",
+    "sentenceTranslation": "我就不卖关子、也不让它变成一场\"赛马比赛\"了。根据我的经验，我三种形式都会使用，而且它们都是获取一本书内容的可行方式。",
+    "sentenceVocab": "⭐ save you the horse race = 不卖关子；直接说结论（口语，比喻表达，C1）｜viable = 可行的（C1）｜format = 阅读形式｜intake a book = 获取一本书的信息（C1）",
+    "startTime": 14.788,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-03T05:39:40.883Z"
   }
 ]
