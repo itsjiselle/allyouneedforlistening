@@ -20188,9 +20188,33 @@
       "startTime": 77.681,
       "reviewCount": 0,
       "dateAdded": "2026-08-03T17:08:38.623Z"
+    },
+    {
+      "id": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read-21-21-1785776947591",
+      "materialId": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read",
+      "srtFingerprint": "6c1046d",
+      "materialTitle": "Paper Books, Kindle, or Audiobooks_What’s the Best Way to Read.mp4",
+      "subtitleId": 21,
+      "wordIndex": 21,
+      "wordIndices": [
+        21,
+        22
+      ],
+      "wordText": "stick to",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "stick to",
+      "sentenceContext": "There's no perfect routine because the best overall routine is the one that you enjoy and the one that you will stick to.",
+      "sentenceTranslation": "没有所谓完美的方案，因为最好的方案，就是你喜欢、并且能够长期坚持的那一种。",
+      "sentenceVocab": "⭐ overall = 总体来说（B2）｜stick to = 坚持；持续做（B2，非常高频）",
+      "startTime": 90.194,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-03T17:09:07.591Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785776931807
+  "updatedAt": 1785776956893
 }
