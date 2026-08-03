@@ -20133,9 +20133,39 @@
       "startTime": 22.802,
       "reviewCount": 0,
       "dateAdded": "2026-08-03T05:40:09.609Z"
+    },
+    {
+      "id": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read-6-1-1785735629989",
+      "materialId": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read",
+      "srtFingerprint": "6c1046d",
+      "materialTitle": "Paper Books, Kindle, or Audiobooks_What’s the Best Way to Read.mp4",
+      "subtitleId": 6,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "wordText": "that's kind of what I wanna go into",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "that's kind of what I wanna go into",
+      "sentenceContext": "So that's kind of what I wanna go into in this video.",
+      "sentenceTranslation": "这也正是这期视频想讨论的内容。",
+      "sentenceVocab": "⭐ go into = 深入讨论（C1）",
+      "startTime": 30.307,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-03T05:40:29.989Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785735614424
+  "updatedAt": 1785735633080
 }
