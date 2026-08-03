@@ -19227,8 +19227,13 @@
         ]
       },
       "customTopicIds": [
-        "topic-1785556164112"
-      ]
+        "topic-1785556164112",
+        "topic-1785327203327",
+        "topic-1785327267339"
+      ],
+      "customTranslation": "adj. 相关的，切题的",
+      "patternCategories": [],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-15-17-1785326088544",
@@ -20301,5 +20306,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785777319055
+  "updatedAt": 1785777331449
 }
