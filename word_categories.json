@@ -19225,7 +19225,10 @@
             "english": "This paper cites a large amount of literature that is pertinent to climate change."
           }
         ]
-      }
+      },
+      "customTopicIds": [
+        "topic-1785556164112"
+      ]
     },
     {
       "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-15-17-1785326088544",
@@ -20298,5 +20301,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1785777054890
+  "updatedAt": 1785777319055
 }
