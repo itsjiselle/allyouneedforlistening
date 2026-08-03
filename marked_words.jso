@@ -20162,5 +20162,30 @@
     "startTime": 30.307,
     "reviewCount": 0,
     "dateAdded": "2026-08-03T05:40:29.989Z"
+  },
+  {
+    "id": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read-17-6-1785776918622",
+    "materialId": "github-cloud-Paper_Books__Kindle__or_Audiobooks_What_s_the_Best_Way_to_Read",
+    "srtFingerprint": "6c1046d",
+    "materialTitle": "Paper Books, Kindle, or Audiobooks_What’s the Best Way to Read.mp4",
+    "subtitleId": 17,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7,
+      8
+    ],
+    "wordText": "comes down to",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "something comes down to",
+    "sentenceContext": "Well, again, I think it really comes down to what you enjoy using.",
+    "sentenceTranslation": "还是那句话，我认为最终还是取决于你最喜欢使用哪一种。",
+    "sentenceVocab": "⭐ come down to = 最终归结于；取决于（C1）",
+    "startTime": 77.681,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-03T17:08:38.623Z"
   }
 ]
