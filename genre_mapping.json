@@ -24,11 +24,33 @@
       "id": "entertainment",
       "name": "🎬 脱口秀",
       "badge": "脱口秀"
+    },
+    {
+      "id": "genre-1784776453756",
+      "name": "TV Shows",
+      "badge": "TV Shows"
     }
   ],
   "genreMapping": {
     "demo-motivation": "academic",
-    "demo-hotel-res": "casual"
+    "demo-hotel-res": "casual",
+    "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem": "entertainment",
+    "github-cloud-GQ___Hailey_Bieber_Replies_To_Fans_Online_Actually_Me": "business",
+    "github-cloud-Messi_The_Chosen_One__________": "news",
+    "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose": "entertainment",
+    "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking": "casual",
+    "github-cloud-WSJ_Style___Emily_Blunt_on_the_Moment_She_Realized_John_Krasinski_Could_Direct_The_One": "business",
+    "github-cloud-Jimmy_Fallon___Anne_Hathaway_Forgets_The_Princess_Diaries_and_The_Devil_Wears_Prada_Details__Chats_The_Idea_of_You": "business",
+    "github-cloud-BBC_News___Backlash_after_China_bubble_tea_firm_ordered_to_pay_Louis_Vuitton__1_5m": "news",
+    "github-cloud-i_D_Meets__Will_Gao": "business",
+    "github-cloud-____SE01_01": "genre-1784776453756",
+    "github-cloud-Essentials__The_Science_of_Eating_for_Health__Fat_Loss___Lean_Muscle": "academic",
+    "github-cloud-WSJ_Why_Krispy_Kreme_Can_t_Fully_Automate_Its_Donuts": "news",
+    "github-cloud-WSJ_Coveted_Why_a__1_000_Mahjong_Set_Takes_10_Days_to_Make": "news",
+    "github-cloud-WSJ_Coveted_Why_Americans_Pay__170K_for_This_British_SUV": "news",
+    "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn": "business",
+    "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike": "business",
+    "github-cloud-James_Veitch_Stand_Up": "entertainment"
   },
-  "updatedAt": 1785906520132
+  "updatedAt": 1785906520150
 }
