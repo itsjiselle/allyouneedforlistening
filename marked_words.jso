@@ -20793,5 +20793,28 @@
     "startTime": 181.868,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T10:09:29.846Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-34-1-1786011007257",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 34,
+    "wordIndex": 1,
+    "wordIndices": [
+      1
+    ],
+    "wordText": "consistency",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "consistency",
+    "sentenceContext": "The consistency I'm looking for is the consistency of heavy cream, and I'm making sure that the whites and the yolks are whisked in really nice.",
+    "sentenceTranslation": "我想要达到的稠度是类似浓奶油的稠度，同时我要确保蛋白和蛋黄被充分搅拌融合。",
+    "sentenceVocab": "⭐ consistency = 稠度；质地（C1）｜look for = 寻找；追求（B2）｜make sure that... = 确保……（B2）｜egg whites and yolks = 蛋白和蛋黄",
+    "startTime": 196.39,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T10:10:07.257Z"
   }
 ]
