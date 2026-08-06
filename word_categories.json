@@ -21041,9 +21041,33 @@
       "startTime": 277.717,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:15:35.201Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-61-3-1786011376408",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 61,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        4
+      ],
+      "wordText": "drain off",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "drain off",
+      "sentenceContext": "I'll let it drain off.",
+      "sentenceTranslation": "我会让多余的液体流走。",
+      "sentenceVocab": "⭐ drain off = 排出；流掉（C1）",
+      "startTime": 312.463,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:16:16.408Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011361287
+  "updatedAt": 1786011380668
 }
