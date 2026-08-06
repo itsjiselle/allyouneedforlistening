@@ -20431,5 +20431,33 @@
     "startTime": 43.84,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T09:53:34.319Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-9-5-1786010032453",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 9,
+    "wordIndex": 5,
+    "wordIndices": [
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+    ],
+    "wordText": "enriched with ... egg yolks and butter",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "enriched with egg yolks and butter",
+    "sentenceContext": "It's like a white bread enriched with eggs and egg yolks and butter, and it makes it so golden and so tender and so beautiful, and that's what you're going to taste when you eat the French toast.",
+    "sentenceTranslation": "它类似于一种加入鸡蛋、蛋黄和黄油的强化白面包，这些成分让它呈现出金黄色，口感柔嫩而美味，而这正是你吃法式吐司时能够品尝到的东西。",
+    "sentenceVocab": "⭐ be enriched with... = 加入……使其更丰富（C1）｜egg yolk = 蛋黄｜tender = 柔嫩的（C1）｜that's what... = 这正是……（B2）",
+    "startTime": 43.84,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T09:53:52.453Z"
   }
 ]
