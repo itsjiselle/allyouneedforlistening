@@ -20620,5 +20620,28 @@
     "startTime": 107.396,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T10:06:35.692Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-20-15-1786010819603",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 20,
+    "wordIndex": 15,
+    "wordIndices": [
+      15
+    ],
+    "wordText": "fluffiness",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "fluffiness",
+    "sentenceContext": "If I cut this brioche too thin, you're not going to get any of the fluffiness, the texture and the nuance as if you'd sliced it thick.",
+    "sentenceTranslation": "如果我把这个 brioche 切得太薄，你就无法获得像厚切时那样的蓬松感、质地和细腻层次。",
+    "sentenceVocab": "⭐ fluffiness = 蓬松感（C1）｜texture = 质地；口感（B2）｜nuance = 细微差别；层次感（C1）｜as if... = 仿佛；就像……一样（B2）",
+    "startTime": 118.74799999999999,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T10:06:59.604Z"
   }
 ]
