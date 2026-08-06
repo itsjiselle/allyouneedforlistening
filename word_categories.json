@@ -20770,9 +20770,33 @@
       "startTime": 164.471,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:09:12.133Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-31-4-1786010969846",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 31,
+      "wordIndex": 4,
+      "wordIndices": [
+        4,
+        6
+      ],
+      "wordText": "whisk ... together",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "whisk ... together",
+      "sentenceContext": "I'm going to just whisk this together, and you're going to see the color change a little bit.",
+      "sentenceTranslation": "我会把这些材料搅拌在一起，你会看到颜色稍微发生变化。",
+      "sentenceVocab": "⭐ whisk together = 搅拌均匀（B2）｜see the color change = 看到颜色变化",
+      "startTime": 181.868,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:09:29.846Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786010990433
+  "updatedAt": 1786011014874
 }
