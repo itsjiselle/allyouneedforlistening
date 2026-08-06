@@ -20485,5 +20485,29 @@
     "startTime": 66.132,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T09:54:25.780Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-13-23-1786010071197",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 13,
+    "wordIndex": 23,
+    "wordIndices": [
+      23,
+      24
+    ],
+    "wordText": "full butter",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "full butter",
+    "sentenceContext": "The difference between challah and brioche is challah is made with oil, and it makes it very soft, but brioche is made with full butter, and you can really taste the butter in that bread when you bake it and when you cook it.",
+    "sentenceTranslation": "Challah和 brioche 的区别在于，challah 使用油制作，因此口感非常柔软；而 brioche 使用大量黄油制作，当你烘烤和烹饪时，可以明显尝到面包中的黄油香味。",
+    "sentenceVocab": "⭐ be made with... = 使用……制作（B2）｜full butter = 大量黄油（C1）｜taste the butter = 品尝出黄油味（B2）",
+    "startTime": 66.132,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T09:54:31.197Z"
   }
 ]
