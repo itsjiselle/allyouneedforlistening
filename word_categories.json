@@ -20893,9 +20893,33 @@
       "startTime": 211.982,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:12:11.114Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-39-9-1786011141585",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 39,
+      "wordIndex": 9,
+      "wordIndices": [
+        9,
+        10
+      ],
+      "wordText": "vanilla paste",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "vanilla paste",
+      "sentenceContext": "I also like to add a little bit of vanilla paste.",
+      "sentenceTranslation": "我还喜欢加入一点香草膏。",
+      "sentenceVocab": "⭐ add a little bit of... = 加一点……（B2）",
+      "startTime": 217.185,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:12:21.585Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011309730
+  "updatedAt": 1786011315779
 }
