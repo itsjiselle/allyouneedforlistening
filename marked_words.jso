@@ -21087,5 +21087,29 @@
     "startTime": 314.001,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T10:17:04.805Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-65-27-1786011481140",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 65,
+    "wordIndex": 27,
+    "wordIndices": [
+      27,
+      28
+    ],
+    "wordText": "egg ring",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "egg ring",
+    "sentenceContext": "You know how sometimes if you're making French toast at home and you don't drain it, and you put it in your pan and you get that egg ring around? That's bad.",
+    "sentenceTranslation": "你知道有时候在家做法式吐司，如果没有把多余液体沥掉，放进锅里后周围会形成一圈蛋液，那就是不好的情况。",
+    "sentenceVocab": "⭐ drain it = 沥干（B2）｜egg ring = 蛋液形成的一圈（烹饪表达）",
+    "startTime": 326.809,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T10:18:01.140Z"
   }
 ]
