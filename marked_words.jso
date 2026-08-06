@@ -20667,5 +20667,30 @@
     "startTime": 118.74799999999999,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T10:07:14.107Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-22-3-1786010872504",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 22,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      5,
+      6
+    ],
+    "wordText": "rest ... a day",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "rest something a day",
+    "sentenceContext": "You need to rest it a day so that you get a really nice, firm texture in between, inside, but once you dip it in the batter, if it's a day old, it just sucks up the batter and it makes it really, really nice.",
+    "sentenceTranslation": "你需要让它静置一天，这样内部会形成非常好的紧实口感。但是一旦你把它浸入面糊中，如果它已经放了一天，它就会充分吸收面糊，最终效果会非常好。",
+    "sentenceVocab": "⭐ rest sth = 让某物静置（C1）｜firm texture = 紧实质地（C1）｜dip sth in... = 把某物浸入……（B2）｜suck up = 吸收；吸进去（口语，C1）",
+    "startTime": 130.018,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T10:07:52.504Z"
   }
 ]
