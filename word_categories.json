@@ -20917,9 +20917,32 @@
       "startTime": 217.185,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:12:21.585Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-41-2-1786011177395",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 41,
+      "wordIndex": 2,
+      "wordIndices": [
+        2
+      ],
+      "wordText": "specks",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "specks",
+      "sentenceContext": "It has specks of the vanilla bean in it, and it makes the batter nice and speckled.",
+      "sentenceTranslation": "里面有香草豆的小颗粒，会让面糊呈现漂亮的斑点状。",
+      "sentenceVocab": "⭐ speck = 小斑点；小颗粒（C1）｜speckled = 带斑点的（C1）",
+      "startTime": 222.047,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:12:57.395Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011315779
+  "updatedAt": 1786011327300
 }
