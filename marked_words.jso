@@ -20964,5 +20964,31 @@
     "startTime": 220.124,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T10:13:36.659Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-44-4-1786011245459",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 44,
+    "wordIndex": 4,
+    "wordIndices": [
+      4,
+      5,
+      7,
+      8
+    ],
+    "wordText": "add a ... pinch of",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "add a ... pinch of",
+    "sentenceContext": "Then I'm going to add a nice pinch of cinnamon.",
+    "sentenceTranslation": "然后我要加入一小撮肉桂。",
+    "sentenceVocab": "⭐ a pinch of... = 一小撮……（B2）｜cinnamon = 肉桂",
+    "startTime": 237.279,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T10:14:05.459Z"
   }
 ]
