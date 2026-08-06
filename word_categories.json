@@ -20382,9 +20382,35 @@
       "startTime": 20.925,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T09:52:33.672Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-7-1-1786009979539",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 7,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        3,
+        5,
+        6
+      ],
+      "wordText": "batter ... garnish ... maple butter",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "batter,garnish,maple butter",
+      "sentenceContext": "The batter, the garnish, the maple butter, and I'm going to show you the most important part right now, which is our brioche bread.",
+      "sentenceTranslation": "包括面糊、装饰配料、枫糖黄油，而我现在要向你展示最重要的部分，也就是我们的布里欧修面包。",
+      "sentenceVocab": "⭐ garnish = 装饰配料（C1）｜maple butter = 枫糖黄油｜the most important part = 最重要的部分",
+      "startTime": 31.129,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T09:52:59.539Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786009964597
+  "updatedAt": 1786009989514
 }
