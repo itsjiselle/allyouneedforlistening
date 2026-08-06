@@ -20532,5 +20532,31 @@
     "startTime": 78.759,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T09:55:22.068Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-14-23-1786010130411",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 14,
+    "wordIndex": 23,
+    "wordIndices": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "wordText": "but the ultimate is",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "but the ultimate is",
+    "sentenceContext": "If you don't have brioche and you can't get challah, I would go with a simple, good-quality white bread, a day-old French bread, but the ultimate is the brioche.",
+    "sentenceTranslation": "如果你没有布里欧修，也买不到 challah，我会选择简单但品质好的白面包，或者放了一天的法式面包，但最理想的选择仍然是 brioche。",
+    "sentenceVocab": "⭐ go with... = 选择……（B2）｜good-quality = 高品质的（B2）｜day-old = 放了一天的（C1）｜the ultimate = 最佳选择；终极版本（C1）",
+    "startTime": 78.759,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T09:55:30.411Z"
   }
 ]
