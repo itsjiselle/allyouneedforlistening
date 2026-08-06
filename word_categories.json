@@ -20743,9 +20743,36 @@
       "startTime": 130.018,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:08:14.659Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-28-6-1786010952133",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 28,
+      "wordIndex": 6,
+      "wordIndices": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "wordText": "heavy cream it's too rich",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "heavy cream is too rich",
+      "sentenceContext": "We're using half and half because heavy cream, it's too rich, so we use half and half, which is half cream and half milk, which makes it a little lighter, a little easier to work with.",
+      "sentenceTranslation": "我们使用 half and half（半奶油半牛奶的混合物），因为浓奶油太厚重了，所以我们选择这种混合物，它由一半奶油和一半牛奶组成，让整体口感更轻盈，也更容易操作。",
+      "sentenceVocab": "⭐ half and half = 一半奶油一半牛奶的混合奶制品｜heavy cream = 浓奶油｜be too rich = 过于浓郁/厚重（B2）｜work with = 操作；处理（B2）",
+      "startTime": 164.471,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:09:12.133Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786010948831
+  "updatedAt": 1786010990433
 }
