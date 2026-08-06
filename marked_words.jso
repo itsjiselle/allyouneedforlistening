@@ -20354,5 +20354,32 @@
     "startTime": 3.663,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T09:52:11.344Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-4-3-1786009953672",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 4,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5,
+      7,
+      8
+    ],
+    "wordText": "is one of ... top sellers",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "is one of ... top sellers",
+    "sentenceContext": "The French toast is one of our top sellers.",
+    "sentenceTranslation": "法式吐司是我们最畅销的产品之一。",
+    "sentenceVocab": "⭐ top seller = 畅销产品（B2）",
+    "startTime": 20.925,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T09:52:33.672Z"
   }
 ]
