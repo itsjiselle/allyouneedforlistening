@@ -20940,9 +20940,34 @@
       "startTime": 222.047,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:12:57.395Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-40-0-1786011216659",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 40,
+      "wordIndex": 0,
+      "wordIndices": [
+        0,
+        3,
+        4
+      ],
+      "wordText": "The ... is beautiful",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "The ... is beautiful",
+      "sentenceContext": "The vanilla paste is beautiful.",
+      "sentenceTranslation": "香草膏非常棒。",
+      "sentenceVocab": "⭐ beautiful = （食物语境）效果很好；品质优秀",
+      "startTime": 220.124,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:13:36.659Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011327300
+  "updatedAt": 1786011336796
 }
