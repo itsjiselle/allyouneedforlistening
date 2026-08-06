@@ -20817,9 +20817,34 @@
       "startTime": 196.39,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:10:07.257Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-35-0-1786011026227",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 35,
+      "wordIndex": 0,
+      "wordIndices": [
+        0,
+        1,
+        2
+      ],
+      "wordText": "You can't really",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "You can't really do sth ",
+      "sentenceContext": "You can't really overmix this.",
+      "sentenceTranslation": "这个其实不用担心搅拌过度。",
+      "sentenceVocab": "⭐ overmix = 过度搅拌（C1）｜can't really... = 实际上不用太担心……（口语表达）",
+      "startTime": 204.524,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:10:26.227Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011118541
+  "updatedAt": 1786011136993
 }
