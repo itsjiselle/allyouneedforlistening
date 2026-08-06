@@ -21111,5 +21111,28 @@
     "startTime": 326.809,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T10:18:01.140Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-71-13-1786011551157",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 71,
+    "wordIndex": 13,
+    "wordIndices": [
+      13
+    ],
+    "wordText": "griddle",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "griddle",
+    "sentenceContext": "The first thing we're going to do is we're going to hit this griddle with some clarified butter.",
+    "sentenceTranslation": "我们要做的第一件事，就是在这个煎板上加入一些澄清黄油。",
+    "sentenceVocab": "⭐ the first thing we're going to do is... = 我们第一步要做的是……（B2）｜hit sth with... = 加入/涂上某物（口语表达，C1）｜griddle = 平面煎锅；煎板（C1）｜clarified butter = 澄清黄油（C1）",
+    "startTime": 362.773,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T10:19:11.157Z"
   }
 ]
