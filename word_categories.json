@@ -20991,9 +20991,33 @@
       "startTime": 237.279,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:14:05.459Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-48-2-1786011276957",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 48,
+      "wordIndex": 2,
+      "wordIndices": [
+        2,
+        3
+      ],
+      "wordText": "pulls together",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "pull together",
+      "sentenceContext": "The salt pulls together the seasoning of the whole thing, and then this beautiful organic lemon oil.",
+      "sentenceTranslation": "盐能够让整体调味更加融合，然后加入这种漂亮的有机柠檬油。",
+      "sentenceVocab": "⭐ pull together = 使……协调统一；融合（C1）｜seasoning = 调味；调料（B2）",
+      "startTime": 247.358,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:14:36.957Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011346371
+  "updatedAt": 1786011347945
 }
