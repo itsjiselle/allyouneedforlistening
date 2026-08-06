@@ -19609,7 +19609,28 @@
       "topic-1785327267339"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "translationCache": {
+      "lemma": "how words work rhythmically",
+      "ipa": "/haʊ wɜːrdz wɜːrk ˈrɪðmɪkli/",
+      "translation": "词语如何有节奏地运作",
+      "pronunciationGuide": "",
+      "collocations": [
+        "work rhythmically",
+        "rhythmic pattern",
+        "rhythmic flow",
+        "rhythmic structure"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        "当我们分析诗歌时，必须考虑词语如何有节奏地运作，以传达情感。 (When analyzing poetry, we must consider how words work rhythmically to convey emotion.)",
+        "她认为，理解演讲的力量在于词语如何有节奏地运作，以吸引听众。 (She believes that the power of a speech lies in how words work rhythmically to engage the audience.)",
+        "在翻译歌词时，译者需要关注词语如何有节奏地运作，以保持原曲的韵律。 (When translating lyrics, translators need to pay attention to how words work rhythmically to preserve the original melody.)",
+        "语言学家研究了词语如何有节奏地运作，以揭示不同语言中的韵律模式。 (Linguists have studied how words work rhythmically to reveal rhythmic patterns across languages.)"
+      ]
+    }
   },
   {
     "id": "github-cloud-Brad_Upton___Cell_Phone_Addiction_Is_A_Serious_Problem-46-13-1785664554978",
@@ -20310,5 +20331,28 @@
     "startTime": 118.479,
     "reviewCount": 0,
     "dateAdded": "2026-08-03T17:10:51.594Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-1-4-1786009931344",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 1,
+    "wordIndex": 4,
+    "wordIndices": [
+      4
+    ],
+    "wordText": "chefowner",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "chef-owner",
+    "sentenceContext": "Hi, I'm Neal Kleinberg, chef-owner of Clinton Street Baking Company and Restaurant, and today we're going to make the perfect brioche French toast.",
+    "sentenceTranslation": "大家好，我是 Neal Kleinberg，Clinton Street Baking Company and Restaurant 的主厨兼老板。今天我们要制作完美的布里欧修法式吐司。",
+    "sentenceVocab": "⭐ chef-owner = 主厨兼老板（C1）｜make the perfect... = 制作完美的……（B2）｜brioche French toast = 布里欧修法式吐司",
+    "startTime": 3.663,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T09:52:11.344Z"
   }
 ]
