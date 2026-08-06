@@ -20597,9 +20597,33 @@
       "startTime": 92.842,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T09:56:22.578Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-18-0-1786010795692",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 18,
+      "wordIndex": 0,
+      "wordIndices": [
+        0,
+        1
+      ],
+      "wordText": "I'm talking",
+      "category": "pattern",
+      "categories": [
+        "pattern"
+      ],
+      "customLemma": "I'm talking",
+      "sentenceContext": "I'm talking an inch and a half to two inches thick.",
+      "sentenceTranslation": "我说的是大约一英寸半到两英寸厚。",
+      "sentenceVocab": "⭐ I'm talking... = 我指的是……（口语表达）",
+      "startTime": 107.396,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:06:35.692Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786010209447
+  "updatedAt": 1786010811814
 }
