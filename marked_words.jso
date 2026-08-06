@@ -20558,5 +20558,43 @@
     "startTime": 78.759,
     "reviewCount": 0,
     "dateAdded": "2026-08-06T09:55:30.411Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-16-0-1786010182578",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 16,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "wordText": "The shape ... they come out like a big square with a little dome on the top",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "The shape ... they come out like a big square with a little dome on the top",
+    "sentenceContext": "The shape of the brioche is called the Pullman shape or a Pullman loaf, named after the famous Pullman train cars, and they come out like a big square with a little dome on the top.",
+    "sentenceTranslation": "这种 brioche 的形状被称为 Pullman 形状，或者 Pullman 面包，这个名字来源于著名的 Pullman 火车车厢。它们出炉后呈现为一个大方块，上面带有一个小圆顶。",
+    "sentenceVocab": "⭐ be named after... = 以……命名（C1）｜come out = 出炉；呈现出来（B2）｜dome = 圆顶（C1）",
+    "startTime": 92.842,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-06T09:56:22.578Z"
   }
 ]
