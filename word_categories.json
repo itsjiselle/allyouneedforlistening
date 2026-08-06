@@ -20842,9 +20842,36 @@
       "startTime": 204.524,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:10:26.227Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-38-2-1786011121707",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 38,
+      "wordIndex": 2,
+      "wordIndices": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "wordText": "often skip the use of",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "... often skip the use of ... ",
+      "sentenceContext": "Home cooks often skip the use of real vanilla extract. They'll use an imitation.",
+      "sentenceTranslation": "家庭厨师经常省略使用真正的香草精，而会使用仿制品。",
+      "sentenceVocab": "⭐ home cook = 家庭厨师（B2）｜skip the use of... = 省略使用……（C1）｜vanilla extract = 香草精｜imitation = 仿制品（C1）",
+      "startTime": 211.982,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-06T10:12:01.707Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011136993
+  "updatedAt": 1786011288579
 }
