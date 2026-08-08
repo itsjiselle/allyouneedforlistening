@@ -21304,5 +21304,34 @@
     "startTime": 400.725,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:05:07.390Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-87-0-1786183545490",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 87,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "wordText": "We're going to peek a little bit",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "We're going to peek a little bit",
+    "sentenceContext": "We're going to peek a little bit.",
+    "sentenceTranslation": "我们稍微检查一下。",
+    "sentenceVocab": "⭐ peek = 偷看；查看（B2）",
+    "startTime": 431.225,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:05:45.490Z"
   }
 ]
