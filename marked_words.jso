@@ -21507,5 +21507,28 @@
     "startTime": 547.564,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:12:28.843Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-121-18-1786184083733",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 121,
+    "wordIndex": 18,
+    "wordIndices": [
+      18
+    ],
+    "wordText": "dissolved",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "dissolved",
+    "sentenceContext": "It's basically like a French butter sauce where you're constantly whisking and you're constantly adding butter until it's dissolved.",
+    "sentenceTranslation": "它基本上类似一种法国黄油酱，你需要持续搅拌，并不断加入黄油，直到黄油完全融化。",
+    "sentenceVocab": "⭐ constantly = 持续地（B2）｜until it's dissolved = 直到它融化（B2）｜dissolve = 溶解；融化（C1）",
+    "startTime": 578.753,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:14:43.733Z"
   }
 ]
