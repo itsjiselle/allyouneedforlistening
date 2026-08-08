@@ -21256,5 +21256,53 @@
     "startTime": 381.739,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:04:23.045Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-79-2-1786183505136",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 79,
+    "wordIndex": 2,
+    "wordIndices": [
+      2
+    ],
+    "wordText": "knob",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "knob",
+    "sentenceContext": "A little knob there and a little knob there.",
+    "sentenceTranslation": "这里放一点，那里放一点。",
+    "sentenceVocab": "⭐ a knob of butter = 一小块黄油（C1）",
+    "startTime": 400.725,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:05:05.136Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-79-0-1786183507390",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 79,
+    "wordIndex": 0,
+    "wordIndices": [
+      0,
+      1,
+      2
+    ],
+    "wordText": "A little knob",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "A little knob",
+    "sentenceContext": "A little knob there and a little knob there.",
+    "sentenceTranslation": "这里放一点，那里放一点。",
+    "sentenceVocab": "⭐ a knob of butter = 一小块黄油（C1）",
+    "startTime": 400.725,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:05:07.390Z"
   }
 ]
