@@ -21623,7 +21623,10 @@
       "sentenceVocab": "⭐ garnish sth with... = 用……装饰某物（C1）｜pecan = 山核桃",
       "startTime": 599.369,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:15:23.776Z"
+      "dateAdded": "2026-08-08T10:15:23.776Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-125-6-1786184132879",
@@ -21809,5 +21812,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184569161
+  "updatedAt": 1786184573582
 }
