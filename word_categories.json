@@ -21874,7 +21874,10 @@
       "sentenceVocab": "⭐ taste nuances = 品尝细微差别/层次（C1）｜flavor profile = 风味构成；味道层次（C1）",
       "startTime": 681.109,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:17:52.097Z"
+      "dateAdded": "2026-08-08T10:17:52.097Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-155-1-1786184299282",
@@ -21905,5 +21908,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184835708
+  "updatedAt": 1786184840953
 }
