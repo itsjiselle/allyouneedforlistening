@@ -21456,7 +21456,7 @@
       "sentenceTranslation": "这里放一点，那里放一点。",
       "sentenceVocab": "⭐ a knob of butter = 一小块黄油（C1）",
       "startTime": 400.725,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-08T10:05:07.390Z",
       "customTopicIds": [
         "topic-1784775906777"
@@ -21997,5 +21997,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786185145435
+  "updatedAt": 1786185164859
 }
