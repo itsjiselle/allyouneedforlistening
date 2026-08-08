@@ -21208,9 +21208,34 @@
       "startTime": 372.919,
       "reviewCount": 0,
       "dateAdded": "2026-08-08T10:03:35.531Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-76-29-1786183445001",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 76,
+      "wordIndex": 29,
+      "wordIndices": [
+        29,
+        30,
+        31
+      ],
+      "wordText": "nooks and crannies",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "nooks and crannies",
+      "sentenceContext": "We're going to put it right on the clarified butter, and then we're going to hit it with a little more clarified butter in between just to get the nooks and crannies going.",
+      "sentenceTranslation": "我们会直接把它放在澄清黄油上，然后在中间再加一点澄清黄油，让那些小缝隙也开始充分受热。",
+      "sentenceVocab": "⭐ right on... = 直接放在……上（口语）｜a little more = 再多一点（B2）｜nooks and crannies = 角落和缝隙；细小空间（C1）｜get sth going = 让某事开始运作/发挥作用（C1）",
+      "startTime": 381.739,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:04:05.001Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786183426962
+  "updatedAt": 1786183451603
 }
