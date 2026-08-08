@@ -21502,7 +21502,10 @@
       "sentenceVocab": "⭐ raw inside = 内部未熟（B2）｜that means... = 那意味着……（B2）",
       "startTime": 490.042,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:09:19.082Z"
+      "dateAdded": "2026-08-08T10:09:19.082Z",
+      "customTopicIds": [
+        "topic-1785327208185"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-102-4-1786183777353",
@@ -21887,5 +21890,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184792409
+  "updatedAt": 1786184801068
 }
