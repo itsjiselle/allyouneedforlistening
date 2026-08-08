@@ -21679,9 +21679,42 @@
       "startTime": 651.733,
       "reviewCount": 0,
       "dateAdded": "2026-08-08T10:16:56.878Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-149-2-1786184272097",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 149,
+      "wordIndex": 2,
+      "wordIndices": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "wordText": "tasting all of the little nuances and profiles of the flavors",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "taste all of the little nuances and profiles of the flavors",
+      "sentenceContext": "I'm now tasting all of the little nuances and profiles of the flavors.",
+      "sentenceTranslation": "现在我正在品尝各种细微的风味层次。",
+      "sentenceVocab": "⭐ taste nuances = 品尝细微差别/层次（C1）｜flavor profile = 风味构成；味道层次（C1）",
+      "startTime": 681.109,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:17:52.097Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184219802
+  "updatedAt": 1786184275392
 }
