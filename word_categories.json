@@ -21243,7 +21243,10 @@
       "sentenceVocab": "⭐ cast iron pan = 铸铁锅（C1）｜electric griddle = 电煎板",
       "startTime": 372.919,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:03:35.531Z"
+      "dateAdded": "2026-08-08T10:03:35.531Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-76-29-1786183445001",
@@ -21775,5 +21778,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184465508
+  "updatedAt": 1786184470219
 }
