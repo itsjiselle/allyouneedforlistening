@@ -21234,7 +21234,7 @@
       "sentenceTranslation": "我们要做的第一件事，就是在这个煎板上加入一些澄清黄油。",
       "sentenceVocab": "⭐ the first thing we're going to do is... = 我们第一步要做的是……（B2）｜hit sth with... = 加入/涂上某物（口语表达，C1）｜griddle = 平面煎锅；煎板（C1）｜clarified butter = 澄清黄油（C1）",
       "startTime": 362.773,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-06T10:19:11.157Z",
       "customTopicIds": [
         "topic-1784775906777"
@@ -21973,5 +21973,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786185031244
+  "updatedAt": 1786185120263
 }
