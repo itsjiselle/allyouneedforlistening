@@ -21272,8 +21272,12 @@
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:04:05.001Z",
     "customTopicIds": [
-      "topic-1785557260109"
-    ]
+      "topic-1785557260109",
+      "topic-1784776577423",
+      "topic-1785659233039"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-76-27-1786183463045",
