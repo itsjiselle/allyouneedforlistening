@@ -21553,5 +21553,29 @@
     "startTime": 599.369,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:15:23.776Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-125-6-1786184132879",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 125,
+    "wordIndex": 6,
+    "wordIndices": [
+      6,
+      7
+    ],
+    "wordText": "nonstick pan",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "nonstick pan",
+    "sentenceContext": "This is just a small little nonstick pan.",
+    "sentenceTranslation": "这只是一个小的不粘锅。",
+    "sentenceVocab": "⭐ nonstick pan = 不粘锅（B2）",
+    "startTime": 605.148,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:15:32.879Z"
   }
 ]
