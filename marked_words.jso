@@ -21237,7 +21237,41 @@
     "dateAdded": "2026-08-06T10:19:11.157Z",
     "customTopicIds": [
       "topic-1784775906777"
-    ]
+    ],
+    "translationCache": {
+      "lemma": "griddle",
+      "ipa": "/ˈɡrɪd.əl/",
+      "translation": "n. 平底锅；烤盘；铁板烧",
+      "pronunciationGuide": "",
+      "collocations": [
+        "on a griddle",
+        "griddle cake",
+        "griddle pan",
+        "preheat the griddle",
+        "griddle with butter"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "厨师在烤盘上涂了一层薄薄的油，然后开始煎薄饼。",
+          "english": "The chef greased the griddle with a thin layer of oil before starting to cook the pancakes."
+        },
+        {
+          "chinese": "如果你没有烤盘，可以用平底锅代替，但要注意火候。",
+          "english": "If you don't have a griddle, you can substitute (use) a frying pan, but you need to watch the heat carefully."
+        },
+        {
+          "chinese": "这家餐厅的招牌菜是在铁板烧上烤制的，味道非常独特。",
+          "english": "The restaurant's signature dish is cooked on a griddle, giving it a distinctive flavor."
+        },
+        {
+          "chinese": "为了确保食物不粘锅，你应该在烤盘上涂抹黄油。",
+          "english": "To prevent the food from sticking, you should apply (spread) butter on the griddle."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-71-11-1786011559333",
