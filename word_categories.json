@@ -21531,9 +21531,32 @@
       "startTime": 578.753,
       "reviewCount": 0,
       "dateAdded": "2026-08-08T10:14:43.733Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-124-12-1786184123776",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 124,
+      "wordIndex": 12,
+      "wordIndices": [
+        12
+      ],
+      "wordText": "pecans",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "pecan",
+      "sentenceContext": "And we're going to garnish the French toast with some beautiful Texas pecans.",
+      "sentenceTranslation": "我们会用一些漂亮的德州山核桃装饰法式吐司。",
+      "sentenceVocab": "⭐ garnish sth with... = 用……装饰某物（C1）｜pecan = 山核桃",
+      "startTime": 599.369,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:15:23.776Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184087359
+  "updatedAt": 1786184126942
 }
