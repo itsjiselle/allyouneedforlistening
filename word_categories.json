@@ -21656,9 +21656,32 @@
       "startTime": 649.728,
       "reviewCount": 0,
       "dateAdded": "2026-08-08T10:16:46.991Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-140-3-1786184216878",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 140,
+      "wordIndex": 3,
+      "wordIndices": [
+        3
+      ],
+      "wordText": "soothing",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "soothing",
+      "sentenceContext": "It is so soothing.",
+      "sentenceTranslation": "它让人感觉非常舒缓。",
+      "sentenceVocab": "⭐ soothing = 舒缓的；令人放松的（C1）",
+      "startTime": 651.733,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:16:56.878Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184211162
+  "updatedAt": 1786184219802
 }
