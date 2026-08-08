@@ -21816,10 +21816,13 @@
       "sentenceVocab": "⭐ nuttiness = 坚果风味（C1）｜pecan = 山核桃",
       "startTime": 703.346,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:18:19.282Z"
+      "dateAdded": "2026-08-08T10:18:19.282Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184589464
+  "updatedAt": 1786184591301
 }
