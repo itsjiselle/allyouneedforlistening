@@ -21409,7 +21409,30 @@
         "topic-1784775906777"
       ],
       "patternCategories": [],
-      "patternCategoryManuallyEdited": true
+      "patternCategoryManuallyEdited": true,
+      "translationCache": {
+        "lemma": "knob",
+        "ipa": "/nɑb/",
+        "translation": "n. 球形把手；旋钮；小块；隆起物",
+        "pronunciationGuide": "",
+        "collocations": [
+          "door knob",
+          "volume knob",
+          "control knob",
+          "a knob of butter",
+          "twist the knob"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          "请把门把手拧紧，否则门会自己打开。",
+          "这个收音机的音量旋钮坏了，我需要换一个新的。",
+          "她在汤里加了一小块黄油，味道立刻变得浓郁。",
+          "他转动控制旋钮，机器开始缓慢运转。",
+          "那个抽屉的把手松了，每次拉都要小心。"
+        ]
+      }
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-79-0-1786183507390",
@@ -21973,5 +21996,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786185120263
+  "updatedAt": 1786185133660
 }
