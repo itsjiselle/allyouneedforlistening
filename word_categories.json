@@ -21362,7 +21362,10 @@
       "sentenceVocab": "⭐ right on... = 直接放在……上（口语）｜a little more = 再多一点（B2）｜nooks and crannies = 角落和缝隙；细小空间（C1）｜get sth going = 让某事开始运作/发挥作用（C1）",
       "startTime": 381.739,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:04:23.045Z"
+      "dateAdded": "2026-08-08T10:04:23.045Z",
+      "customTopicIds": [
+        "topic-1785327208185"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-79-2-1786183505136",
@@ -21884,5 +21887,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184783950
+  "updatedAt": 1786184792409
 }
