@@ -2891,7 +2891,7 @@
       "topic-1784193883432"
     ],
     "patternCategoryManuallyEdited": false,
-    "patternCategory": "*表达义务&必要性"
+    "patternCategory": "必要条件"
   },
   {
     "id": "github-cloud-The_Rules_of_Badminton_mp4-13-11-1783396266860",
@@ -4092,7 +4092,7 @@
         }
       ]
     },
-    "patternCategory": "*顿悟",
+    "patternCategory": "表达顿悟或认识转变",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -4159,7 +4159,7 @@
         }
       ]
     },
-    "patternCategory": "*主观的观点与判断",
+    "patternCategory": "评价",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -4260,7 +4260,7 @@
         }
       ]
     },
-    "patternCategory": "*主观的观点与判断",
+    "patternCategory": "评价",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -5680,7 +5680,7 @@
     "startTime": 528.514,
     "reviewCount": 0,
     "dateAdded": "2026-07-08T09:16:55.008Z",
-    "patternCategory": "*评价（包括赞美、批评等）",
+    "patternCategory": "评价",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -6142,7 +6142,7 @@
     "startTime": 638.625,
     "reviewCount": 0,
     "dateAdded": "2026-07-08T09:22:18.657Z",
-    "patternCategory": "*表达义务&必要性",
+    "patternCategory": "表达愿望或遗憾",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -8916,7 +8916,7 @@
         }
       ]
     },
-    "patternCategory": "*介绍记忆",
+    "patternCategory": "引入记忆",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -8979,7 +8979,7 @@
         }
       ]
     },
-    "patternCategory": "*核实信息",
+    "patternCategory": "获取或确认信息",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9230,7 +9230,7 @@
     "startTime": 252.834,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T07:30:50.611Z",
-    "patternCategory": "*主观的观点与判断",
+    "patternCategory": "评价",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9772,7 +9772,7 @@
         }
       ]
     },
-    "patternCategory": "描述习惯或变化",
+    "patternCategory": "描述习惯与变化",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -9848,7 +9848,7 @@
     "startTime": 470.787,
     "reviewCount": 0,
     "dateAdded": "2026-07-15T09:37:43.822Z",
-    "patternCategory": "表达偏好",
+    "patternCategory": "描述习惯与变化",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -10805,7 +10805,7 @@
     "startTime": 127.364,
     "reviewCount": 1,
     "dateAdded": "2026-07-16T07:45:04.672Z",
-    "patternCategory": "表示某一阶段已经结束",
+    "patternCategory": "评价",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11593,7 +11593,7 @@
         }
       ]
     },
-    "patternCategory": "提建议",
+    "patternCategory": "影响对方行动",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11758,7 +11758,7 @@
     "startTime": 272.421,
     "reviewCount": 0,
     "dateAdded": "2026-07-17T03:32:04.096Z",
-    "patternCategory": "表达禁止或不赞同",
+    "patternCategory": "表达不满与寻求回应",
     "patternCategoryManuallyEdited": false
   },
   {
@@ -11841,7 +11841,7 @@
         }
       ]
     },
-    "patternCategory": "提建议",
+    "patternCategory": "影响对方行动",
     "patternCategoryManuallyEdited": false
   },
   {
