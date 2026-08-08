@@ -21707,7 +21707,10 @@
       "sentenceVocab": "⭐ crunchy = 酥脆的（B2）｜give sth a... = 赋予某物……特点（B2）",
       "startTime": 612.991,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:15:59.195Z"
+      "dateAdded": "2026-08-08T10:15:59.195Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-139-8-1786184206991",
@@ -21815,5 +21818,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184585231
+  "updatedAt": 1786184588012
 }
