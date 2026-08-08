@@ -20808,7 +20808,10 @@
       "sentenceVocab": "⭐ half and half = 一半奶油一半牛奶的混合奶制品｜heavy cream = 浓奶油｜be too rich = 过于浓郁/厚重（B2）｜work with = 操作；处理（B2）",
       "startTime": 164.471,
       "reviewCount": 0,
-      "dateAdded": "2026-08-06T10:09:12.133Z"
+      "dateAdded": "2026-08-06T10:09:12.133Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-31-4-1786010969846",
@@ -21848,5 +21851,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184650328
+  "updatedAt": 1786184654433
 }
