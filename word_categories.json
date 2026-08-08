@@ -20413,7 +20413,22 @@
       "dateAdded": "2026-08-06T09:52:59.539Z",
       "customTopicIds": [
         "topic-1784775906777"
-      ]
+      ],
+      "translationCache": {
+        "lemma": "batter",
+        "ipa": "/ˈbætər/",
+        "translation": "n. 面糊；糊状物",
+        "pronunciationGuide": "",
+        "collocations": "pancake batter, cake batter, batter mix, stir the batter, pour the batter",
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          "为了做出松软的华夫饼，你需要将面糊搅拌至顺滑无颗粒。 (To make fluffy waffles, you need to stir the batter until it is smooth and free of lumps.)",
+          "她把面糊倒进预热好的平底锅里，然后等待它变成金黄色。 (She poured the batter into a preheated pan and waited for it to turn golden brown.)",
+          "这个食谱要求面糊在冰箱里静置至少一小时，这样煎出来的饼会更蓬松。 (This recipe requires the batter to rest in the refrigerator for at least an hour, which will make the pancakes fluffier.)"
+        ]
+      }
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-9-4-1786010014319",
@@ -22025,5 +22040,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786185173556
+  "updatedAt": 1786185258322
 }
