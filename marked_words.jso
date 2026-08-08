@@ -21238,40 +21238,7 @@
     "customTopicIds": [
       "topic-1784775906777"
     ],
-    "translationCache": {
-      "lemma": "griddle",
-      "ipa": "/ˈɡrɪd.əl/",
-      "translation": "n. 平底锅；烤盘；铁板烧",
-      "pronunciationGuide": "",
-      "collocations": [
-        "on a griddle",
-        "griddle cake",
-        "griddle pan",
-        "preheat the griddle",
-        "griddle with butter"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "厨师在烤盘上涂了一层薄薄的油，然后开始煎薄饼。",
-          "english": "The chef greased the griddle with a thin layer of oil before starting to cook the pancakes."
-        },
-        {
-          "chinese": "如果你没有烤盘，可以用平底锅代替，但要注意火候。",
-          "english": "If you don't have a griddle, you can substitute (use) a frying pan, but you need to watch the heat carefully."
-        },
-        {
-          "chinese": "这家餐厅的招牌菜是在铁板烧上烤制的，味道非常独特。",
-          "english": "The restaurant's signature dish is cooked on a griddle, giving it a distinctive flavor."
-        },
-        {
-          "chinese": "为了确保食物不粘锅，你应该在烤盘上涂抹黄油。",
-          "english": "To prevent the food from sticking, you should apply (spread) butter on the griddle."
-        }
-      ]
-    }
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n你可能会说“put butter on the pan”，但大厨会说“hit the griddle with butter”。\n“hit”不是打，而是“甩”或“抹”，带着一股利落劲儿；而“griddle”是平底铁板，不是普通炒锅（pan）。用“griddle”显得专业，像在美食节目里。\n\n**2. 学术深度分析与语用场景**  \n“griddle”特指那种厚实的、能均匀传热的铁板，常用于早餐店做煎饼、培根。语用上，它自带“美式早餐”的烟火气，感情色彩中性偏褒，带点“老饕”的戏谑。在专业汇报（如烹饪课）或日常聊天中，用“griddle”能瞬间提升你的“厨艺圈”格调。\n\n**3. 中文社媒/网络流行语对应**  \n这就像中文里“上铁板”或“开整”的感觉——比如“铁板一热，黄油一化，开整！”或者“这波操作，直接上烤盘”。对应网络热梗：“安排得明明白白”或“盘它”！\n\n**4. 趣味记忆/联想**  \n“griddle”谐音“龟的”，想象一只乌龟趴在铁板上，肚皮被烤得滋滋响，还喊“龟的（我的）黄油呢？”——瞬间记住这个词。"
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-71-11-1786011559333",
@@ -21837,7 +21804,35 @@
     "dateAdded": "2026-08-08T10:15:59.195Z",
     "customTopicIds": [
       "topic-1784775906777"
-    ]
+    ],
+    "translationCache": {
+      "lemma": "crunchy",
+      "ipa": "",
+      "translation": "adj. 脆的，松脆的",
+      "pronunciationGuide": "",
+      "collocations": [
+        "crunchy texture",
+        "crunchy snack",
+        "crunchy granola",
+        "crunchy vegetables",
+        "crunchy top"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        "这种麦片烤得恰到好处，每一口都松脆可口。",
+        "The granola was baked to perfection, and every bite was delightfully crunchy.",
+        "我喜欢在沙拉里加一些脆脆的坚果，增加口感层次。",
+        "I like to add some crunchy nuts to my salad to enhance the texture.",
+        "虽然饼干看起来有点焦，但吃起来依然很脆。",
+        "Although the cookies looked slightly burnt, they still tasted crunchy.",
+        "为了保持蔬菜的脆度，她总是快速翻炒。",
+        "To keep the vegetables crunchy, she always stir-fries them quickly.",
+        "这款面包的外皮非常脆，但里面却很软。",
+        "This bread has a very crunchy crust, but the inside is soft."
+      ]
+    }
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-139-8-1786184206991",
