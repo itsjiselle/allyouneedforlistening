@@ -20647,7 +20647,13 @@
     "reviewCount": 0,
     "dateAdded": "2026-08-06T10:06:35.692Z",
     "patternCategory": "改述或澄清",
-    "patternCategoryManuallyEdited": false
+    "patternCategoryManuallyEdited": true,
+    "customTopicIds": [
+      "uncategorized"
+    ],
+    "patternCategories": [
+      "改述或澄清"
+    ]
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-20-15-1786010819603",
