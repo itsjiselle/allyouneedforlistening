@@ -21159,9 +21159,34 @@
       "startTime": 362.773,
       "reviewCount": 0,
       "dateAdded": "2026-08-06T10:19:19.333Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-74-8-1786183404939",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 74,
+      "wordIndex": 8,
+      "wordIndices": [
+        8,
+        9,
+        10
+      ],
+      "wordText": "cast iron pan",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "cast iron pan",
+      "sentenceContext": "If you have something at home like a cast iron pan or a thickel griddle or an electric griddle, that's great too.",
+      "sentenceTranslation": "如果你家里有类似铸铁锅、厚煎板或者电煎板这样的工具，也完全可以。",
+      "sentenceVocab": "⭐ cast iron pan = 铸铁锅（C1）｜electric griddle = 电煎板",
+      "startTime": 372.919,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:03:24.939Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786011616796
+  "updatedAt": 1786183420429
 }
