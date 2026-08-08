@@ -21053,7 +21053,10 @@
       "sentenceVocab": "⭐ a pinch of... = 一小撮……（B2）｜cinnamon = 肉桂",
       "startTime": 237.279,
       "reviewCount": 0,
-      "dateAdded": "2026-08-06T10:14:05.459Z"
+      "dateAdded": "2026-08-06T10:14:05.459Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-48-2-1786011276957",
@@ -21866,5 +21869,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184746665
+  "updatedAt": 1786184754883
 }
