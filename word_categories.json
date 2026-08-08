@@ -21385,9 +21385,32 @@
       "startTime": 490.042,
       "reviewCount": 0,
       "dateAdded": "2026-08-08T10:09:19.082Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-102-4-1786183777353",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 102,
+      "wordIndex": 4,
+      "wordIndices": [
+        4
+      ],
+      "wordText": "shingle",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "shingle",
+      "sentenceContext": "And I like to shingle them to have a three-dimensional look.",
+      "sentenceTranslation": "我喜欢把它们像瓦片一样层层排列，呈现出立体的效果。",
+      "sentenceVocab": "⭐ shingle = 像瓦片一样层叠排列（C1）｜three-dimensional look = 立体效果（B2）",
+      "startTime": 501.013,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:09:37.353Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786183764452
+  "updatedAt": 1786183780444
 }
