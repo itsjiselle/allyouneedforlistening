@@ -21461,9 +21461,32 @@
       "startTime": 536.257,
       "reviewCount": 0,
       "dateAdded": "2026-08-08T10:10:48.008Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-112-1-1786183931357",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 112,
+      "wordIndex": 1,
+      "wordIndices": [
+        1
+      ],
+      "wordText": "swirling",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "swirl",
+      "sentenceContext": "We're swirling them around and tossing them in the caramel to get them nice and coated.",
+      "sentenceTranslation": "我们会搅动香蕉，让它们裹上焦糖。",
+      "sentenceVocab": "⭐ swirl around = 旋转搅动（C1）｜toss sth in... = 把某物在……中翻拌（C1）｜get sth coated = 使某物被包裹上一层（C1）",
+      "startTime": 547.564,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:12:11.357Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786183851133
+  "updatedAt": 1786183934348
 }
