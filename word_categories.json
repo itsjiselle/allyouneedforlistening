@@ -21650,7 +21650,10 @@
       "sentenceVocab": "⭐ nonstick pan = 不粘锅（B2）",
       "startTime": 605.148,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:15:32.879Z"
+      "dateAdded": "2026-08-08T10:15:32.879Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-127-1-1786184154833",
@@ -21812,5 +21815,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184573582
+  "updatedAt": 1786184585231
 }
