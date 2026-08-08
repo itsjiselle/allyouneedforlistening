@@ -21734,7 +21734,10 @@
       "sentenceVocab": "⭐ to me = 对我来说（B2）｜a bite = 一口食物；一口美味（常见词特殊义）",
       "startTime": 649.728,
       "reviewCount": 0,
-      "dateAdded": "2026-08-08T10:16:46.991Z"
+      "dateAdded": "2026-08-08T10:16:46.991Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-140-3-1786184216878",
@@ -21818,5 +21821,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184588012
+  "updatedAt": 1786184589464
 }
