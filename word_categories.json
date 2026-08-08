@@ -20410,7 +20410,10 @@
       "sentenceVocab": "⭐ garnish = 装饰配料（C1）｜maple butter = 枫糖黄油｜the most important part = 最重要的部分",
       "startTime": 31.129,
       "reviewCount": 0,
-      "dateAdded": "2026-08-06T09:52:59.539Z"
+      "dateAdded": "2026-08-06T09:52:59.539Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-9-4-1786010014319",
@@ -21742,5 +21745,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184362910
+  "updatedAt": 1786184366115
 }
