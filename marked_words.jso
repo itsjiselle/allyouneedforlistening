@@ -20918,7 +20918,10 @@
     "sentenceVocab": "⭐ home cook = 家庭厨师（B2）｜skip the use of... = 省略使用……（C1）｜vanilla extract = 香草精｜imitation = 仿制品（C1）",
     "startTime": 211.982,
     "reviewCount": 0,
-    "dateAdded": "2026-08-06T10:12:01.707Z"
+    "dateAdded": "2026-08-06T10:12:01.707Z",
+    "customTopicIds": [
+      "topic-1785327208185"
+    ]
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-38-8-1786011131114",
