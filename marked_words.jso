@@ -21333,5 +21333,30 @@
     "startTime": 431.225,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:05:45.490Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-95-16-1786183671004",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 95,
+    "wordIndex": 16,
+    "wordIndices": [
+      16,
+      17,
+      18
+    ],
+    "wordText": "is very forgiving",
+    "category": "pattern",
+    "categories": [
+      "pattern"
+    ],
+    "customLemma": "... is very forgiving",
+    "sentenceContext": "This one was a little light. Maybe I flipped it a little early, but this dish is very forgiving.",
+    "sentenceTranslation": "这个稍微有点浅，可能我翻得早了一点，不过这道菜其实很容易调整。",
+    "sentenceVocab": "⭐ a little light = 颜色稍浅（食物语境）｜flip too early = 太早翻面｜forgiving = 容错性高的（C1）",
+    "startTime": 471.52,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:07:51.004Z"
   }
 ]
