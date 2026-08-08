@@ -20679,7 +20679,10 @@
       "sentenceVocab": "⭐ fluffiness = 蓬松感（C1）｜texture = 质地；口感（B2）｜nuance = 细微差别；层次感（C1）｜as if... = 仿佛；就像……一样（B2）",
       "startTime": 118.74799999999999,
       "reviewCount": 0,
-      "dateAdded": "2026-08-06T10:07:14.107Z"
+      "dateAdded": "2026-08-06T10:07:14.107Z",
+      "customTopicIds": [
+        "topic-1784775906777"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-22-3-1786010872504",
@@ -21751,5 +21754,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184385619
+  "updatedAt": 1786184389591
 }
