@@ -21577,5 +21577,36 @@
     "startTime": 605.148,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:15:32.879Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-127-1-1786184154833",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 127,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "wordText": "releases ... the oils and the flavors of the nuts",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "release the oils and the flavors of the nuts",
+    "sentenceContext": "It releases a lot of the oils and the flavors of the nuts.",
+    "sentenceTranslation": "这样可以释放坚果中的大量油脂和香味。",
+    "sentenceVocab": "⭐ release = 释放（B2）｜flavor of the nuts = 坚果风味",
+    "startTime": 609.775,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:15:54.833Z"
   }
 ]
