@@ -21711,5 +21711,28 @@
     "startTime": 681.109,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:17:52.097Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-155-1-1786184299282",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 155,
+    "wordIndex": 1,
+    "wordIndices": [
+      1
+    ],
+    "wordText": "nuttiness",
+    "category": "vocab",
+    "categories": [
+      "vocab"
+    ],
+    "customLemma": "nuttiness",
+    "sentenceContext": "The nuttiness of the pecans.",
+    "sentenceTranslation": "还有山核桃带来的坚果香。",
+    "sentenceVocab": "⭐ nuttiness = 坚果风味（C1）｜pecan = 山核桃",
+    "startTime": 703.346,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:18:19.282Z"
   }
 ]
