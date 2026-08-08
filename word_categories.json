@@ -21609,9 +21609,32 @@
       "startTime": 609.775,
       "reviewCount": 0,
       "dateAdded": "2026-08-08T10:15:54.833Z"
+    },
+    {
+      "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-128-5-1786184159195",
+      "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+      "srtFingerprint": "a0e45229",
+      "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+      "subtitleId": 128,
+      "wordIndex": 5,
+      "wordIndices": [
+        5
+      ],
+      "wordText": "crunchy",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "crunchy",
+      "sentenceContext": "It gives it a nice crunchy top.",
+      "sentenceTranslation": "这样会让顶部拥有漂亮的酥脆口感。",
+      "sentenceVocab": "⭐ crunchy = 酥脆的（B2）｜give sth a... = 赋予某物……特点（B2）",
+      "startTime": 612.991,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-08T10:15:59.195Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184157795
+  "updatedAt": 1786184162409
 }
