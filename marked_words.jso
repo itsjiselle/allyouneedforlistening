@@ -21293,7 +21293,35 @@
     "dateAdded": "2026-08-08T10:03:24.939Z",
     "customTopicIds": [
       "topic-1784775906777"
-    ]
+    ],
+    "translationCache": {
+      "lemma": "cast iron pan",
+      "ipa": "",
+      "translation": "铸铁锅（名词）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "season a cast iron pan",
+        "a cast iron skillet",
+        "cast iron cookware",
+        "preheat a cast iron pan",
+        "clean a cast iron pan"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        "为了煎出完美的牛排，你应该先用大火预热铸铁锅。",
+        "To achieve a perfect sear on the steak, you should preheat the cast iron pan over high heat first.",
+        "她花了整个下午用油养护她的铸铁锅，以确保它不粘。",
+        "She spent the whole afternoon seasoning her cast iron pan with oil to ensure it remained non-stick.",
+        "虽然铸铁锅很重，但许多厨师更喜欢它，因为它能均匀地保持热量。",
+        "Although the cast iron pan is heavy, many chefs prefer it because it retains heat evenly.",
+        "如果你没有不粘锅，用铸铁锅也可以，但你需要多放点油。",
+        "If you don't have a non-stick skillet, a cast iron pan will work as well, but you'll need to use more oil.",
+        "他把铸铁锅放在炉子上，然后开始准备食材。",
+        "He placed the cast iron pan on the stove and then began to prepare the ingredients."
+      ]
+    }
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-74-13-1786183415530",
