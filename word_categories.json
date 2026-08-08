@@ -21080,7 +21080,10 @@
       "sentenceVocab": "⭐ pull together = 使……协调统一；融合（C1）｜seasoning = 调味；调料（B2）",
       "startTime": 247.358,
       "reviewCount": 0,
-      "dateAdded": "2026-08-06T10:14:36.957Z"
+      "dateAdded": "2026-08-06T10:14:36.957Z",
+      "customTopicIds": [
+        "topic-1785327208185"
+      ]
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-54-7-1786011335201",
@@ -21869,5 +21872,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786184754883
+  "updatedAt": 1786184761438
 }
