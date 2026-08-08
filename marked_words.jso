@@ -21358,5 +21358,31 @@
     "startTime": 471.52,
     "reviewCount": 0,
     "dateAdded": "2026-08-08T10:07:51.004Z"
+  },
+  {
+    "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-99-3-1786183759082",
+    "materialId": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order",
+    "srtFingerprint": "a0e45229",
+    "materialTitle": "Bon Appétit_How NYC’s Best French Toast is Made_Made to Order.mp4",
+    "subtitleId": 99,
+    "wordIndex": 3,
+    "wordIndices": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "wordText": "spring back to form",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "spring back to form",
+    "sentenceContext": "If it doesn't spring back to form, that means it's a little raw inside.",
+    "sentenceTranslation": "如果它不能回弹恢复形状，就说明里面还有一点没熟。",
+    "sentenceVocab": "⭐ raw inside = 内部未熟（B2）｜that means... = 那意味着……（B2）",
+    "startTime": 490.042,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-08T10:09:19.082Z"
   }
 ]
