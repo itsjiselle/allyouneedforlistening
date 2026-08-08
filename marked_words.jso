@@ -20834,7 +20834,10 @@
     "sentenceVocab": "⭐ whisk together = 搅拌均匀（B2）｜see the color change = 看到颜色变化",
     "startTime": 181.868,
     "reviewCount": 0,
-    "dateAdded": "2026-08-06T10:09:29.846Z"
+    "dateAdded": "2026-08-06T10:09:29.846Z",
+    "customTopicIds": [
+      "topic-1785327208185"
+    ]
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-34-1-1786011007257",
