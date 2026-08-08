@@ -20412,22 +20412,7 @@
     "dateAdded": "2026-08-06T09:52:59.539Z",
     "customTopicIds": [
       "topic-1784775906777"
-    ],
-    "translationCache": {
-      "lemma": "batter",
-      "ipa": "/ˈbætər/",
-      "translation": "n. 面糊；糊状物",
-      "pronunciationGuide": "",
-      "collocations": "pancake batter, cake batter, batter mix, stir the batter, pour the batter",
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        "为了做出松软的华夫饼，你需要将面糊搅拌至顺滑无颗粒。 (To make fluffy waffles, you need to stir the batter until it is smooth and free of lumps.)",
-        "她把面糊倒进预热好的平底锅里，然后等待它变成金黄色。 (She poured the batter into a preheated pan and waited for it to turn golden brown.)",
-        "这个食谱要求面糊在冰箱里静置至少一小时，这样煎出来的饼会更蓬松。 (This recipe requires the batter to rest in the refrigerator for at least an hour, which will make the pancakes fluffier.)"
-      ]
-    }
+    ]
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-9-4-1786010014319",
@@ -20541,7 +20526,41 @@
     "dateAdded": "2026-08-06T09:54:31.197Z",
     "customTopicIds": [
       "topic-1784775906777"
-    ]
+    ],
+    "translationCache": {
+      "lemma": "full butter",
+      "ipa": "/ˌfʊl ˈbʌtər/",
+      "translation": "全脂黄油；纯黄油（指完全由黄油制成，不含其他油脂替代品）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "made with full butter",
+        "full butter flavor",
+        "full butter croissant",
+        "full butter cake",
+        "full butter content"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "这款羊角面包是用全脂黄油制作的，所以外皮酥脆，内里柔软，黄油香气浓郁。",
+          "english": "This croissant is made with full butter, so the outside is crispy and the inside is soft, with a rich buttery aroma."
+        },
+        {
+          "chinese": "为了获得最佳口感，建议使用全脂黄油，而不是人造黄油或植物油。",
+          "english": "For the best flavor, it is recommended to use full butter instead of margarine or vegetable oil."
+        },
+        {
+          "chinese": "厨师坚持用全脂黄油来制作这道甜点，因为这样能提升整体的风味层次。",
+          "english": "The chef insists on using full butter to make this dessert, as it enhances the overall flavor profile."
+        },
+        {
+          "chinese": "虽然全脂黄油价格更高，但许多烘焙师认为它值得投资，因为成品质量明显更好。",
+          "english": "Although full butter is more expensive, many bakers believe it is worth the investment because the final product is noticeably better."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-14-20-1786010122068",
