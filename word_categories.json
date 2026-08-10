@@ -22055,9 +22055,34 @@
       "customTopicIds": [
         "topic-1784775906777"
       ]
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-1-3-1786349063060",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 1,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        4,
+        5
+      ],
+      "wordText": "closes in for",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "close in for",
+      "sentenceContext": "Your favorite athlete closes in for a victorious win.",
+      "sentenceTranslation": "你最喜欢的运动员正逐渐接近一场胜利。",
+      "sentenceVocab": "⭐ close in for = 逼近；逐渐接近｜victorious = 获胜的；胜利的",
+      "startTime": 6.121,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T08:04:23.060Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786185287469
+  "updatedAt": 1786349066519
 }
