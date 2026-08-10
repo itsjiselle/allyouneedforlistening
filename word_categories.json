@@ -22080,9 +22080,33 @@
       "startTime": 6.121,
       "reviewCount": 0,
       "dateAdded": "2026-08-10T08:04:23.060Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-2-2-1786349076917",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 2,
+      "wordIndex": 2,
+      "wordIndices": [
+        2,
+        4
+      ],
+      "wordText": "holds ... breath",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "hold breath",
+      "sentenceContext": "The crowd holds its breath, and, at the crucial moment, she misses the shot.",
+      "sentenceTranslation": "观众屏住呼吸，而就在关键时刻，她却投失了这一球。",
+      "sentenceVocab": "⭐ hold one's breath = 屏住呼吸｜at the crucial moment = 在关键时刻｜miss the shot = 投球/射门未中",
+      "startTime": 10.061,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T08:04:36.917Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786349066519
+  "updatedAt": 1786349080199
 }
