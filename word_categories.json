@@ -22104,9 +22104,32 @@
       "startTime": 10.061,
       "reviewCount": 0,
       "dateAdded": "2026-08-10T08:04:36.917Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-3-8-1786349095615",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 3,
+      "wordIndex": 8,
+      "wordIndices": [
+        8
+      ],
+      "wordText": "choking",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "choking",
+      "sentenceContext": "That competitor just experienced the phenomenon known as \"choking,\" where despite months, even years, of practice, a person fails right when it matters most.",
+      "sentenceTranslation": "这名运动员刚刚经历了所谓的\"关键时刻失常\"现象：尽管经过数月、甚至数年的训练，一个人却偏偏在最重要的时刻发挥失败。",
+      "sentenceVocab": "⭐ phenomenon = 现象｜choking = 压力下失常；关键时刻掉链子｜right when it matters most = 恰恰在最重要的时候",
+      "startTime": 14.814,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T08:04:55.615Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786349080199
+  "updatedAt": 1786349098932
 }
