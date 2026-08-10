@@ -22302,5 +22302,32 @@
     "startTime": 96.28999999999999,
     "reviewCount": 0,
     "dateAdded": "2026-08-10T10:54:08.238Z"
+  },
+  {
+    "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-18-1-1786359292819",
+    "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+    "srtFingerprint": "8fef158c",
+    "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+    "subtitleId": 18,
+    "wordIndex": 1,
+    "wordIndices": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "wordText": "the logic goes that",
+    "category": "idiom",
+    "categories": [
+      "idiom",
+      "pattern"
+    ],
+    "customLemma": "the logic goes that",
+    "sentenceContext": "Here, the logic goes that once a skill becomes automatic, thinking about its precise mechanics interferes with your ability to do it.",
+    "sentenceTranslation": "这里的逻辑是，一旦某项技能变得自动化，刻意思考其精确的动作机制反而会干扰你完成它的能力。",
+    "sentenceVocab": "⭐ the logic goes that = 其逻辑是；其观点认为｜precise mechanics = 精确的动作机制｜interfere with = 干扰；妨碍",
+    "startTime": 122.828,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-10T10:54:52.819Z"
   }
 ]
