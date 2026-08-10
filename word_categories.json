@@ -22176,9 +22176,136 @@
       "startTime": 31.148,
       "reviewCount": 0,
       "dateAdded": "2026-08-10T08:05:52.739Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-6-2-1786359096692",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 6,
+      "wordIndex": 2,
+      "wordIndices": [
+        2
+      ],
+      "wordText": "intuitively",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "intuitively",
+      "sentenceContext": "Most people intuitively blame it on their nerves, but why does being nervous undermine expert performance?",
+      "sentenceTranslation": "大多数人会直觉地把这种情况归咎于紧张，但为什么紧张会削弱专家级的表现呢？",
+      "sentenceVocab": "⭐ intuitively = 凭直觉地｜blame something on something = 将某事归咎于某事｜nerves = 紧张情绪｜undermine = 削弱；损害",
+      "startTime": 39.359,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T10:51:36.692Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-6-13-1786359141538",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 6,
+      "wordIndex": 13,
+      "wordIndices": [
+        13
+      ],
+      "wordText": "undermine",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "undermine",
+      "sentenceContext": "Most people intuitively blame it on their nerves, but why does being nervous undermine expert performance?",
+      "sentenceTranslation": "大多数人会直觉地把这种情况归咎于紧张，但为什么紧张会削弱专家级的表现呢？",
+      "sentenceVocab": "⭐ intuitively = 凭直觉地｜blame something on something = 将某事归咎于某事｜nerves = 紧张情绪｜undermine = 削弱；损害",
+      "startTime": 39.359,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T10:52:21.538Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-7-14-1786359162181",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 7,
+      "wordIndex": 14,
+      "wordIndices": [
+        14,
+        15,
+        16
+      ],
+      "wordText": "boils down to",
+      "category": "idiom",
+      "categories": [
+        "idiom",
+        "pattern"
+      ],
+      "customLemma": "A boils down to B",
+      "sentenceContext": "There are two sets of theories, which both say that primarily, choking under pressure boils down to focus.",
+      "sentenceTranslation": "对此有两类理论，而两者都认为，从根本上说，压力下失常归结于注意力问题。",
+      "sentenceVocab": "⭐ choking under pressure = 压力下失常｜boil down to = 归结为；核心在于",
+      "startTime": 46.237,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T10:52:42.181Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-11-3-1786359204134",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 11,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "wordText": "only process so much information at once",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "only process so much information at once",
+      "sentenceContext": "The brain can only process so much information at once.",
+      "sentenceTranslation": "大脑一次能够处理的信息量毕竟是有限的。",
+      "sentenceVocab": "⭐ process information = 处理信息｜only so much = 只有这么多；存在上限｜at once = 同时",
+      "startTime": 72.544,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T10:53:24.134Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-14-7-1786359248238",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 14,
+      "wordIndex": 7,
+      "wordIndices": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "wordText": "with nothing at stake",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "with nothing at stake",
+      "sentenceContext": "Half the students completed both problem types with nothing at stake, while the others completed them when calm and under pressure.",
+      "sentenceTranslation": "一半学生在没有任何得失压力的情况下完成了两类题目，而另一半则分别在平静状态和压力状态下完成这些题目。",
+      "sentenceVocab": "⭐ with nothing at stake = 没有什么利害关系；没有得失压力｜at stake = 处于风险中；事关得失｜under pressure = 在压力下",
+      "startTime": 96.28999999999999,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T10:54:08.238Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786349155860
+  "updatedAt": 1786359259260
 }
