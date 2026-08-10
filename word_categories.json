@@ -22330,9 +22330,34 @@
       "startTime": 122.828,
       "reviewCount": 0,
       "dateAdded": "2026-08-10T10:54:52.819Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-19-6-1786359328311",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 19,
+      "wordIndex": 6,
+      "wordIndices": [
+        6,
+        8,
+        9
+      ],
+      "wordText": "be ... vulnerable to",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "be vulnerable to",
+      "sentenceContext": "Tasks we do unconsciously seem to be most vulnerable to this kind of choking.",
+      "sentenceTranslation": "那些我们无意识完成的任务似乎最容易受到这种压力下失常的影响。",
+      "sentenceVocab": "⭐ unconsciously = 无意识地｜be vulnerable to = 容易受到……影响",
+      "startTime": 130.912,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-10T10:55:28.311Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786359298105
+  "updatedAt": 1786359338364
 }
