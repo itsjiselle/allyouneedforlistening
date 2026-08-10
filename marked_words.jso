@@ -22126,5 +22126,30 @@
     "startTime": 14.814,
     "reviewCount": 0,
     "dateAdded": "2026-08-10T08:04:55.615Z"
+  },
+  {
+    "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-4-9-1786349123451",
+    "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+    "srtFingerprint": "8fef158c",
+    "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+    "subtitleId": 4,
+    "wordIndex": 9,
+    "wordIndices": [
+      9,
+      10,
+      11
+    ],
+    "wordText": "under intense pressure",
+    "category": "idiom",
+    "categories": [
+      "idiom"
+    ],
+    "customLemma": "under intense pressure",
+    "sentenceContext": "Choking is common in sports, where performance often occurs under intense pressure and depends on key moments.",
+    "sentenceTranslation": "这种压力下失常的现象在体育运动中十分常见，因为运动表现往往发生在巨大压力之下，并取决于一些关键时刻。",
+    "sentenceVocab": "⭐ under intense pressure = 在巨大压力下｜depend on = 取决于",
+    "startTime": 24.69,
+    "reviewCount": 0,
+    "dateAdded": "2026-08-10T08:05:23.451Z"
   }
 ]
