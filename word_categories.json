@@ -22428,9 +22428,39 @@
       "startTime": 136.607,
       "reviewCount": 0,
       "dateAdded": "2026-08-12T05:28:30.583Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-21-10-1786512538589",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 21,
+      "wordIndex": 10,
+      "wordIndices": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "wordText": "tuned in to the precise details of",
+      "category": "idiom",
+      "categories": [
+        "idiom",
+        "vocab"
+      ],
+      "customLemma": "tune in to the precise details of",
+      "sentenceContext": "Golfers usually perform this action subconsciously, so those who suddenly tuned in to the precise details of their own moves also became worse at making accurate shots.",
+      "sentenceTranslation": "高尔夫球手通常是在潜意识中完成这一动作，因此，那些突然开始过度关注自己动作精细细节的人，反而更难打出准确的球。",
+      "sentenceVocab": "⭐ subconsciously = 下意识地；潜意识地｜tune in to = 开始密切关注；留意｜precise details = 精细细节",
+      "startTime": 148.874,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-12T05:28:58.589Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786512513669
+  "updatedAt": 1786512543636
 }
