@@ -22482,9 +22482,35 @@
       "startTime": 178.69400000000002,
       "reviewCount": 0,
       "dateAdded": "2026-08-12T05:29:44.970Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-27-3-1786512624649",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 27,
+      "wordIndex": 3,
+      "wordIndices": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "wordText": "extol the virtues of",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "extol the virtues of",
+      "sentenceContext": "Secondly, many performers extol the virtues of a pre-performance routine, whether it's taking a few deep breaths, repeating a cue word, or doing a rhythmic sequence of movements.",
+      "sentenceTranslation": "其次，许多表演者都极力称赞赛前或表演前固定流程的好处，无论是做几次深呼吸、重复一个提示词，还是完成一系列有节奏的动作。",
+      "sentenceVocab": "⭐ extol the virtues of = 极力赞扬……的优点｜pre-performance routine = 表演/比赛前的固定流程｜cue word = 提示词｜rhythmic sequence = 有节奏的一系列动作",
+      "startTime": 189.919,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-12T05:30:24.649Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786512588448
+  "updatedAt": 1786512627827
 }
