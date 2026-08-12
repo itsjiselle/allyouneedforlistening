@@ -22458,9 +22458,33 @@
       "startTime": 148.874,
       "reviewCount": 0,
       "dateAdded": "2026-08-12T05:28:58.589Z"
+    },
+    {
+      "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-26-5-1786512584970",
+      "materialId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure",
+      "srtFingerprint": "8fef158c",
+      "materialTitle": "Ted-ED_How to stay calm under pressure.mp4",
+      "subtitleId": 26,
+      "wordIndex": 5,
+      "wordIndices": [
+        5,
+        6
+      ],
+      "wordText": "dart players",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "dart",
+      "sentenceContext": "In a study on expert dart players, researchers found that those who hadn't practiced under stress performed worse when anxious, compared to those who had become accustomed to pressure.",
+      "sentenceTranslation": "在一项针对专业飞镖选手的研究中，研究人员发现，与那些已经习惯压力的人相比，没有在压力下练习过的人一旦感到焦虑，表现会更差。",
+      "sentenceVocab": "⭐ under stress = 在压力下｜become accustomed to = 逐渐习惯于",
+      "startTime": 178.69400000000002,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-12T05:29:44.970Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786512543636
+  "updatedAt": 1786512588448
 }
