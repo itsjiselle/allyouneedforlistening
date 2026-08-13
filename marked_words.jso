@@ -19185,7 +19185,15 @@
         "在激烈的讨论中，一个解决方案突然在我脑海中闪现，我忍不住打断了大家。",
         "English: In the middle of the heated discussion, a solution went off in my brain, and I couldn't help interrupting everyone."
       ]
-    }
+    },
+    "customTranslation": "（在我们脑海中）突然闪现；触发（想法）",
+    "customTopicIds": [
+      "uncategorized",
+      "topic-1784776719656",
+      "topic-1785327267339"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-11-10-1785326033281",
