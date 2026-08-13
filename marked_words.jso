@@ -21818,7 +21818,40 @@
     "dateAdded": "2026-08-08T10:10:48.008Z",
     "customTopicIds": [
       "topic-1784775906777"
-    ]
+    ],
+    "translationCache": {
+      "lemma": "cut it in big thick chunks",
+      "ipa": "/kʌt ɪt ɪn bɪɡ θɪk tʃʌŋks/",
+      "translation": "把它切成又大又厚的块",
+      "pronunciationGuide": "",
+      "collocations": [
+        "cut something in chunks",
+        "cut into chunks",
+        "big thick chunks",
+        "cut in big pieces"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了炖菜，请把胡萝卜切成又大又厚的块。",
+          "english": "For the stew, please cut the carrots in big thick chunks."
+        },
+        {
+          "chinese": "她总是把土豆切成大块，这样烤出来更脆。",
+          "english": "She always cuts the potatoes in big thick chunks so they roast crispier."
+        },
+        {
+          "chinese": "如果你把面包切成大厚块，做三明治会更容易。",
+          "english": "If you cut the bread in big thick chunks, it will be easier to make sandwiches."
+        },
+        {
+          "chinese": "厨师建议把肉切成大厚块，以保持其多汁。",
+          "english": "The chef recommends cutting the meat in big thick chunks to keep it juicy."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-112-1-1786183931357",
