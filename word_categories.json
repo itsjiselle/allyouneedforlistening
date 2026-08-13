@@ -19797,7 +19797,7 @@
       "sentenceTranslation": "这是一个完全出于非理性傲慢的时刻。",
       "sentenceVocab": "⭐ hubris = 傲慢；狂妄自大（C2）｜irrational = 非理性的（C1）",
       "startTime": 204.715,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-07-29T11:59:31.514Z",
       "customTopicIds": [
         "topic-1785557260109",
@@ -20598,5 +20598,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786621425043
+  "updatedAt": 1786621438601
 }
