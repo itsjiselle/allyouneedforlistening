@@ -21679,7 +21679,41 @@
     "dateAdded": "2026-08-08T10:05:45.490Z",
     "customTopicIds": [
       "topic-1785327208185"
-    ]
+    ],
+    "translationCache": {
+      "lemma": "peek",
+      "ipa": "/piːk/",
+      "translation": "v. 偷看，窥视；n. 偷看，一瞥",
+      "pronunciationGuide": "",
+      "collocations": [
+        "peek at",
+        "peek through",
+        "peek inside",
+        "take a peek",
+        "quick peek"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "sentence": "在开始正式讲解之前，我们先稍微看一下（peek at）这个新软件的界面。",
+          "translation": "Before we start the formal explanation, let's take a quick peek at the interface of this new software."
+        },
+        {
+          "sentence": "她忍不住偷偷看了一眼（peek at）手机上的消息，尽管知道不应该在会议中这样做。",
+          "translation": "She couldn't resist taking a quick peek at the messages on her phone, even though she knew she shouldn't do that during the meeting."
+        },
+        {
+          "sentence": "如果你好奇的话，可以稍微瞥一眼（peek at）答案，但最好先自己尝试解决问题。",
+          "translation": "If you're curious, you can take a little peek at the answer, but it's better to try solving the problem yourself first."
+        },
+        {
+          "sentence": "我们计划在正式发布前，让一些用户先预览（peek at）这个新功能，以收集反馈。",
+          "translation": "We plan to let some users take a peek at the new feature before the official release to gather feedback."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-95-16-1786183671004",
