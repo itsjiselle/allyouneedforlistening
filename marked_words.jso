@@ -21518,7 +21518,41 @@
       "topic-1785659233039"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "translationCache": {
+      "lemma": "nooks and crannies",
+      "ipa": "",
+      "translation": "名词短语：犄角旮旯，隐秘的角落",
+      "pronunciationGuide": "",
+      "collocations": [
+        "every nook and cranny",
+        "search every nook and cranny",
+        "hide in nooks and crannies",
+        "fill the nooks and crannies",
+        "explore the nooks and crannies"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "搬家前，我们把房子的每个犄角旮旯都打扫干净了。",
+          "english": "Before moving out, we cleaned every nook and cranny of the house."
+        },
+        {
+          "chinese": "侦探仔细搜查了房间的每个犄角旮旯，寻找隐藏的线索。",
+          "english": "The detective searched (looked into) every nook and cranny of the room for hidden clues."
+        },
+        {
+          "chinese": "这个老房子有很多犄角旮旯，非常适合捉迷藏。",
+          "english": "This old house has many nooks and crannies, making it perfect for hide-and-seek."
+        },
+        {
+          "chinese": "为了确保没有遗漏，我们必须检查机器内部的每个犄角旮旯。",
+          "english": "To ensure nothing is missed, we must inspect (check out) every nook and cranny inside the machine."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-76-27-1786183463045",
