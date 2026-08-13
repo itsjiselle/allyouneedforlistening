@@ -22159,7 +22159,32 @@
       "dateAdded": "2026-08-08T10:18:19.282Z",
       "customTopicIds": [
         "topic-1784775906777"
-      ]
+      ],
+      "translationCache": {
+        "lemma": "nuttiness",
+        "ipa": "/ˈnʌtinəs/",
+        "translation": "n. 坚果味；坚果般的口感；疯狂，古怪（非正式）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "the nuttiness of the flavor",
+          "a subtle nuttiness",
+          "adds a pleasant nuttiness",
+          "the nuttiness of the cake"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          "这款手工奶酪带有淡淡的坚果味，与梨片搭配得恰到好处。",
+          "The artisanal cheese has a subtle nuttiness that pairs perfectly with slices of pear.",
+          "烘焙时，烤过的榛子为面包增添了一种令人愉悦的坚果风味。",
+          "When baking, roasted hazelnuts add a delightful nuttiness to the bread.",
+          "咖啡的坚果味在余韵中尤为明显，让人回味无穷。",
+          "The nuttiness of the coffee is especially pronounced in the aftertaste, leaving a lingering impression.",
+          "尽管这道菜以甜味为主，但坚果味平衡了整体口感，使其更加丰富。",
+          "Although the dish is predominantly sweet, the nuttiness balances the overall flavor, making it more complex."
+        ]
+      }
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-1-3-1786349063060",
@@ -22617,5 +22642,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786621796619
+  "updatedAt": 1786621799235
 }
