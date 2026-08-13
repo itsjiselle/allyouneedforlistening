@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786621323985,
+  "updatedAt": 1786621329485,
   "wordsByReviewDate": {
     "2026-08-13": [
       "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-4-11-1785325880525",
@@ -11,7 +11,8 @@
       "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-21-17-1785326199735",
       "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-6-3-1785325915281",
       "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-6-5-1785325925754",
-      "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920"
+      "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920",
+      "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-32-3-1785326311805"
     ]
   },
   "reviewDatesByWord": {
@@ -43,6 +44,9 @@
       "2026-08-13"
     ],
     "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920": [
+      "2026-08-13"
+    ],
+    "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-32-3-1785326311805": [
       "2026-08-13"
     ]
   },
