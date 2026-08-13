@@ -19213,7 +19213,7 @@
       "sentenceTranslation": "我想谈谈《Slouching Towards Bethlehem》，这是 Joan Didion 的一本随笔集。她是我认为最简洁、最敏锐的人性观察者之一。",
       "sentenceVocab": "⭐ a collection of essays = 一本随笔集｜concise = 简洁的（C1）｜pertinent = 一针见血的；切中要害的（C1）｜observer of people = 对人性的观察者",
       "startTime": 69.59,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-07-29T11:54:25.310Z",
       "translationCache": {
         "lemma": "pertinent",
@@ -20392,5 +20392,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786620989594
+  "updatedAt": 1786621070026
 }
