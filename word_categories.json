@@ -19161,7 +19161,32 @@
       "startTime": 24.677,
       "reviewCount": 1,
       "dateAdded": "2026-07-29T11:52:05.754Z",
-      "teacherExplanation": "### 1. 中式英语 vs 地道表达\n中国学生可能会说“thoughts appear in my brain”或“ideas pop up”，但**“go off”** 在这里就像脑子里突然炸开一颗**烟花**——不是平静地出现，而是**噼里啪啦、毫无预兆地爆发**。Native speaker 选它，是因为它自带**动态感**和**不可控性**，就像手机闹铃“go off”，你控制不了它什么时候响。\n\n### 2. 学术深度分析\n**“Go off”** 本义是“爆炸、响起”，这里**隐喻**大脑中的奇思妙想像小爆竹一样**自发引爆**。语用上带有**惊叹+戏谑**色彩：作者们把这些脑内“小爆炸”推到极致，所以“blows my mind”（让我脑洞炸裂）。感情色彩：**褒义**，但带点**疯癫的赞美**。\n\n### 3. 中文社媒对应\n精准对应网络梗：**“脑子里的小剧场”** 或 **“脑内弹幕”**。想象一下：你正发呆，突然**“叮！”** 一个离谱想法像弹幕一样飘过。或者表情包：**“大脑：启动！启动！启动！”** —— 就是那种不受控的灵感迸发。\n\n### 4. 趣味联想\n**谐音梗**：go off = **“狗 off”**？不，是 **“搞 off”**——大脑突然**搞事**，像一只二哈**突然发疯**。或者联想**闹钟**：你脑子里有个**疯狂闹钟**，随时“叮叮叮”地冒出怪点子，关都关不掉！\n\n### 5. 一句话总结\n**“Go off in our brains”** = 脑内**小型烟花秀**，每个想法都是一颗**窜天猴**，作者们负责把它们**射上天**，然后你负责**哇塞**！"
+      "teacherExplanation": "### 1. 中式英语 vs 地道表达\n中国学生可能会说“thoughts appear in my brain”或“ideas pop up”，但**“go off”** 在这里就像脑子里突然炸开一颗**烟花**——不是平静地出现，而是**噼里啪啦、毫无预兆地爆发**。Native speaker 选它，是因为它自带**动态感**和**不可控性**，就像手机闹铃“go off”，你控制不了它什么时候响。\n\n### 2. 学术深度分析\n**“Go off”** 本义是“爆炸、响起”，这里**隐喻**大脑中的奇思妙想像小爆竹一样**自发引爆**。语用上带有**惊叹+戏谑**色彩：作者们把这些脑内“小爆炸”推到极致，所以“blows my mind”（让我脑洞炸裂）。感情色彩：**褒义**，但带点**疯癫的赞美**。\n\n### 3. 中文社媒对应\n精准对应网络梗：**“脑子里的小剧场”** 或 **“脑内弹幕”**。想象一下：你正发呆，突然**“叮！”** 一个离谱想法像弹幕一样飘过。或者表情包：**“大脑：启动！启动！启动！”** —— 就是那种不受控的灵感迸发。\n\n### 4. 趣味联想\n**谐音梗**：go off = **“狗 off”**？不，是 **“搞 off”**——大脑突然**搞事**，像一只二哈**突然发疯**。或者联想**闹钟**：你脑子里有个**疯狂闹钟**，随时“叮叮叮”地冒出怪点子，关都关不掉！\n\n### 5. 一句话总结\n**“Go off in our brains”** = 脑内**小型烟花秀**，每个想法都是一颗**窜天猴**，作者们负责把它们**射上天**，然后你负责**哇塞**！",
+      "translationCache": {
+        "lemma": "go off in our brains",
+        "ipa": "/ɡoʊ ɔf ɪn aʊər breɪnz/",
+        "translation": "（在我们脑海中）突然闪现；触发（想法）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "go off in someone's head",
+          "go off in the mind",
+          "a thought goes off",
+          "an idea goes off"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          "每当夜深人静时，各种奇怪的想法就会在我脑海中突然闪现，让我难以入睡。",
+          "English: Whenever it is quiet at night, all sorts of strange ideas go off in my brain, making it hard for me to fall asleep.",
+          "她演讲时，一个绝妙的点子突然在她脑海中闪现，她立刻决定改变话题。",
+          "English: While she was giving a speech, a brilliant idea went off in her brain, and she immediately decided to change the subject.",
+          "我们常常忽视那些在脑海中突然闪现的直觉，但有时它们恰恰是最有价值的。",
+          "English: We often ignore the intuitions that go off in our brains, but sometimes they are exactly the most valuable ones.",
+          "在激烈的讨论中，一个解决方案突然在我脑海中闪现，我忍不住打断了大家。",
+          "English: In the middle of the heated discussion, a solution went off in my brain, and I couldn't help interrupting everyone."
+        ]
+      }
     },
     {
       "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-11-10-1785326033281",
@@ -19537,7 +19562,7 @@
       "sentenceTranslation": "她充满好奇心，而我认为，自由与兴趣都源于好奇心。",
       "sentenceVocab": "⭐ curiosity = 好奇心（B2）｜where freedom lies = 自由所在；自由的根源（C1）",
       "startTime": 118.689,
-      "reviewCount": 3,
+      "reviewCount": 2,
       "dateAdded": "2026-07-29T11:57:11.868Z",
       "translationCache": {
         "lemma": "I think ... is where ... lies",
@@ -20523,5 +20548,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786621199882
+  "updatedAt": 1786621202283
 }
