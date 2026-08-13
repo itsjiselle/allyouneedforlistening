@@ -19385,41 +19385,7 @@
       "topic-1785659233039"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true,
-    "translationCache": {
-      "lemma": "well-lit",
-      "ipa": "/ˌwel ˈlɪt/",
-      "translation": "adj. 光线充足的，照明良好的",
-      "pronunciationGuide": "",
-      "collocations": [
-        "a well-lit room",
-        "a well-lit street",
-        "well-lit area",
-        "well-lit hallway",
-        "well-lit workspace"
-      ],
-      "cefrLevel": "",
-      "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "为了安全，所有走廊都应保持光线充足。",
-          "english": "For safety reasons, all corridors should be kept well-lit."
-        },
-        {
-          "chinese": "她更喜欢在光线充足的咖啡馆里学习，而不是在昏暗的图书馆里。",
-          "english": "She prefers to study in a well-lit café rather than in a dimly lit library."
-        },
-        {
-          "chinese": "这家餐厅的招牌菜在光线充足的展示柜中看起来格外诱人。",
-          "english": "The restaurant's signature dishes look especially appetizing in the well-lit display case."
-        },
-        {
-          "chinese": "警方建议行人尽量走光线充足的街道，以减少夜间风险。",
-          "english": "The police advise pedestrians to use well-lit streets whenever possible to reduce nighttime risks."
-        }
-      ]
-    }
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-21-17-1785326199735",
@@ -19700,7 +19666,8 @@
           "english": "Historians argue that the decline of empires often stems from the hubris of their rulers."
         }
       ]
-    }
+    },
+    "teacherExplanation": "**Hubris**（傲慢）不是普通的“骄傲”，而是**“膨胀到宇宙尽头”的作死式自信**。中式英语常说的“I'm so proud”只是小确幸，而 hubris 是“我，即真理”的疯批劲儿——比如希腊悲剧里挑战神明的英雄，或者你朋友圈里那个“我不复习也能考满分”的室友。\n\n**语用上**，它是纯贬义，带点“悲剧预警”的戏谑感。日常可说“His hubris will be his downfall”（他的狂傲会毁了他），学术上用来批判过度自信的决策，比如“The CEO's hubris led to the company's collapse.”\n\n**中文网络语对应**：就是“飘了”、“不知道自己几斤几两”，或者“装X遭雷劈”的优雅版。表情包配个“你牛，你上天”就懂了。\n\n**记忆梗**：hubris 谐音“**唬逼死**”——吹牛唬人，最后被现实“唬”死。词根来自希腊语 hybris，原意“对神的僭越”，所以记住：**凡人别狂，狂必遭殃**。"
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920",
