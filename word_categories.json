@@ -21519,41 +21519,7 @@
         "topic-1785659233039"
       ],
       "patternCategories": [],
-      "patternCategoryManuallyEdited": true,
-      "translationCache": {
-        "lemma": "nooks and crannies",
-        "ipa": "",
-        "translation": "名词短语：犄角旮旯，隐秘的角落",
-        "pronunciationGuide": "",
-        "collocations": [
-          "every nook and cranny",
-          "search every nook and cranny",
-          "hide in nooks and crannies",
-          "fill the nooks and crannies",
-          "explore the nooks and crannies"
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": [
-          {
-            "chinese": "搬家前，我们把房子的每个犄角旮旯都打扫干净了。",
-            "english": "Before moving out, we cleaned every nook and cranny of the house."
-          },
-          {
-            "chinese": "侦探仔细搜查了房间的每个犄角旮旯，寻找隐藏的线索。",
-            "english": "The detective searched (looked into) every nook and cranny of the room for hidden clues."
-          },
-          {
-            "chinese": "这个老房子有很多犄角旮旯，非常适合捉迷藏。",
-            "english": "This old house has many nooks and crannies, making it perfect for hide-and-seek."
-          },
-          {
-            "chinese": "为了确保没有遗漏，我们必须检查机器内部的每个犄角旮旯。",
-            "english": "To ensure nothing is missed, we must inspect (check out) every nook and cranny inside the machine."
-          }
-        ]
-      }
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-76-27-1786183463045",
@@ -21854,7 +21820,8 @@
       "dateAdded": "2026-08-08T10:10:48.008Z",
       "customTopicIds": [
         "topic-1784775906777"
-      ]
+      ],
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生可能会说“cut it into big pieces”，但“chunk”更带感！它暗示不规则、厚实、粗犷的块状，像原始人撕肉，而“piece”则太斯文，像切蛋糕。Native speaker 在描述食物时，用“chunk”瞬间有画面感，仿佛能听到刀切下去的“咔嚓”声。\n\n**学术深度分析与语用场景**：\n“Chunk”在语用上带有一种“豪迈”的褒义，常用于烹饪、DIY或形容粗犷的切割。在专业汇报中，说“cut into chunks”比“pieces”更显地道，且能传达一种随性、不拘小节的态度。感情色彩偏中性，但略带戏谑，比如“cut it in big thick chunks”听起来就像在说“别磨叽，大刀阔斧地切！”\n\n**中文社媒/网络流行语对应**：\n这就像中文里的“咔咔就是切”或“整大块的”，配上“豪横”的表情包，瞬间秒懂！在社交媒体上，你可以说“这香蕉，切得跟砖头似的”，完美对应“big thick chunks”的粗犷感。\n\n**趣味记忆/联想**：\n想象一下“chunk”和“chunk”发音像“踹克”，联想“一脚踹开，切成大块”！或者谐音“创可”，切得太大，需要创可贴？哈哈，记住：**Chunk = 粗犷大块，切得豪迈，才够味！**"
     },
     {
       "id": "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-112-1-1786183931357",
@@ -22650,5 +22617,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786621791024
+  "updatedAt": 1786621795916
 }
