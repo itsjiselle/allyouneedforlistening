@@ -19782,7 +19782,14 @@
           "english": "She slipped a piece of chocolate into my bag as a little surprise."
         }
       ]
-    }
+    },
+    "customTranslation": "（偷偷地）放入；悄悄塞进",
+    "customTopicIds": [
+      "uncategorized",
+      "topic-1785327208185"
+    ],
+    "patternCategories": [],
+    "patternCategoryManuallyEdited": true
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-44-6-1785326371514",
