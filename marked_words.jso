@@ -19385,7 +19385,41 @@
       "topic-1785659233039"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "translationCache": {
+      "lemma": "well-lit",
+      "ipa": "/ˌwel ˈlɪt/",
+      "translation": "adj. 光线充足的，照明良好的",
+      "pronunciationGuide": "",
+      "collocations": [
+        "a well-lit room",
+        "a well-lit street",
+        "well-lit area",
+        "well-lit hallway",
+        "well-lit workspace"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "为了安全，所有走廊都应保持光线充足。",
+          "english": "For safety reasons, all corridors should be kept well-lit."
+        },
+        {
+          "chinese": "她更喜欢在光线充足的咖啡馆里学习，而不是在昏暗的图书馆里。",
+          "english": "She prefers to study in a well-lit café rather than in a dimly lit library."
+        },
+        {
+          "chinese": "这家餐厅的招牌菜在光线充足的展示柜中看起来格外诱人。",
+          "english": "The restaurant's signature dishes look especially appetizing in the well-lit display case."
+        },
+        {
+          "chinese": "警方建议行人尽量走光线充足的街道，以减少夜间风险。",
+          "english": "The police advise pedestrians to use well-lit streets whenever possible to reduce nighttime risks."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-21-17-1785326199735",
