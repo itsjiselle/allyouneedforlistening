@@ -19632,7 +19632,41 @@
       "topic-1785327203327"
     ],
     "patternCategories": [],
-    "patternCategoryManuallyEdited": true
+    "patternCategoryManuallyEdited": true,
+    "translationCache": {
+      "lemma": "hubris",
+      "ipa": "/ˈhjuːbrɪs/",
+      "translation": "n. 傲慢，狂妄自大",
+      "pronunciationGuide": "",
+      "collocations": [
+        "intellectual hubris",
+        "hubris and arrogance",
+        "an act of hubris",
+        "the hubris of power",
+        "hubris leads to downfall"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "他的傲慢导致了他的垮台，因为他拒绝听取任何建议。",
+          "english": "His hubris led to his downfall, as he refused to listen to any advice."
+        },
+        {
+          "chinese": "公司高层的狂妄自大让他们忽视了市场的变化，最终破产了。",
+          "english": "The hubris of the company's executives made them overlook (ignore) market changes, ultimately leading to bankruptcy."
+        },
+        {
+          "chinese": "科学家们警告说，对技术的过度自信是一种危险的傲慢。",
+          "english": "Scientists warn that overconfidence in technology is a dangerous form of hubris."
+        },
+        {
+          "chinese": "历史学家认为，帝国的衰落往往源于统治者的傲慢。",
+          "english": "Historians argue that the decline of empires often stems from the hubris of their rulers."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-The_Dior_Book_Tote_Club_with_Rosamund_Pike-46-17-1785326493920",
