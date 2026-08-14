@@ -24546,7 +24546,7 @@
     "sentenceTranslation": "",
     "sentenceVocab": "versus = 与……相比",
     "startTime": 136.607,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-08-14T02:56:40.134Z",
     "translationCache": {
       "lemma": "versus",
@@ -24557,7 +24557,8 @@
       "cefrLevel": "",
       "idiomUsageNote": "",
       "englishDefinition": ""
-    }
+    },
+    "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是“compared with”或“against”，但“versus”自带一种**对抗性**的对比，像擂台上的拳击手。这里用“versus”暗示两种心理状态是**对立**的，而非简单并列。Native speaker 在强调**冲突、抉择**时优先选它，比如“nature versus nurture”。\n\n**2. 学术深度分析与语用场景**  \n“Versus”是拉丁语介词，缩写“vs.”，在学术中常用于**对照实验**，表示两个变量间的**竞争关系**。它比“compared to”更**简洁有力**，且带点**法律或体育**的正式感。感情色彩中性偏**严肃**，但口语中也可戏谑，如“me versus my alarm clock”表示与闹钟的搏斗。\n\n**3. 中文社媒/网络流行语对应**  \n中文网络热梗“**VS**”直接借用，但更传神的对应是“**battle**”或“**PK**”，比如“考研党 VS 工作党”就是“考研党 PK 工作党”。或者用“**神仙打架**”来形容高手对决，完美契合“versus”的对抗感。\n\n**4. 趣味记忆/联想**  \n“Versus”谐音“**我死**”，想象两个人在打架，喊“我死”就是“你死我活”的较量。或者词根“vers-”表示“转”，像拳击手**转身**躲避，所以“versus”就是“转过来对着你”，开打！\n\n**5. 篇幅控制**  \n记住：**“versus”不是“和”，是“怼”**。下次对比时，用它来点“火药味”吧！"
   },
   {
     "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-2",
@@ -25279,7 +25280,7 @@
     "sentenceTranslation": "",
     "sentenceVocab": "external focus = 外部注意焦点",
     "startTime": 209.928,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-08-14T02:56:40.223Z",
     "translationCache": {
       "lemma": "external focus",
