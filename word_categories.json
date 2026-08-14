@@ -23005,7 +23005,40 @@
       "sentenceVocab": "⭐ extol the virtues of = 极力赞扬……的优点｜pre-performance routine = 表演/比赛前的固定流程｜cue word = 提示词｜rhythmic sequence = 有节奏的一系列动作",
       "startTime": 189.919,
       "reviewCount": 0,
-      "dateAdded": "2026-08-12T05:30:24.649Z"
+      "dateAdded": "2026-08-12T05:30:24.649Z",
+      "translationCache": {
+        "lemma": "extol the virtues of",
+        "ipa": "/ɪkˈstoʊl ðə ˈvɜrtʃuːz əv/",
+        "translation": "赞扬……的优点；颂扬……的好处",
+        "pronunciationGuide": "",
+        "collocations": [
+          "extol the virtues of hard work",
+          "extol the virtues of a healthy diet",
+          "extol the virtues of patience",
+          "extol the virtues of teamwork"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "许多健康专家在电视节目中大力赞扬定期锻炼的好处。",
+            "english": "Many health experts extol the virtues of regular exercise on TV programs."
+          },
+          {
+            "chinese": "这位教授在演讲中反复颂扬批判性思维的价值，鼓励学生独立思考。",
+            "english": "The professor repeatedly extolled the virtues of critical thinking in his lecture, encouraging students to think independently."
+          },
+          {
+            "chinese": "尽管面临诸多挑战，她依然在会议上热情赞扬团队合作的优势。",
+            "english": "Despite facing many challenges, she enthusiastically extolled the virtues of teamwork at the meeting."
+          },
+          {
+            "chinese": "这篇文章详细阐述了早起的好处，并引用了多项科学研究作为支持。",
+            "english": "The article elaborately extols the virtues of waking up early, citing several scientific studies as support."
+          }
+        ]
+      }
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-1-0",
@@ -25805,5 +25838,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678385536
+  "updatedAt": 1786678390763
 }
