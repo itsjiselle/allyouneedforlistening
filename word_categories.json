@@ -22317,43 +22317,7 @@
       "sentenceVocab": "⭐ under intense pressure = 在巨大压力下｜depend on = 取决于",
       "startTime": 24.69,
       "reviewCount": 0,
-      "dateAdded": "2026-08-10T08:05:23.451Z",
-      "translationCache": {
-        "lemma": "under intense pressure",
-        "ipa": "",
-        "translation": {
-          "meaning": "在巨大的压力下",
-          "speech_tag": "phrase"
-        },
-        "pronunciationGuide": "",
-        "collocations": [
-          "perform under intense pressure",
-          "work under intense pressure",
-          "remain calm under intense pressure",
-          "crack under intense pressure"
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": [
-          {
-            "chinese": "在巨大的压力下，她依然保持了冷静，并做出了正确的决定。",
-            "english": "Despite working under intense pressure, she remained calm and made the right decision."
-          },
-          {
-            "chinese": "运动员们必须在巨大的压力下发挥出最佳水平，尤其是在决赛中。",
-            "english": "Athletes must perform at their best under intense pressure, especially in finals."
-          },
-          {
-            "chinese": "经理承认，在巨大的压力下，他有时会做出草率的决定。",
-            "english": "The manager admitted that under intense pressure, he sometimes makes hasty decisions."
-          },
-          {
-            "chinese": "在巨大的压力下，团队成功按时完成了项目。",
-            "english": "The team managed to complete the project on time under intense pressure."
-          }
-        ]
-      }
+      "dateAdded": "2026-08-10T08:05:23.451Z"
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-5-3-1786349152739",
@@ -22906,7 +22870,8 @@
         "idiomUsageNote": "",
         "englishDefinition": "",
         "patternPractice": []
-      }
+      },
+      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是“飞镖”或“投掷”，但这里“dart”是名词，指“飞镖运动”。地道用法中，**“dart”作动词**更妙，如“His eyes darted around”（他眼睛滴溜溜转），表示快速、突然的动作。而中式英语常会用“throw”或“look quickly”，少了那种**瞬间移动**的灵动感。  \n\n**2. 学术深度分析与语用场景**  \n“dart”作动词，带有**急促、不连贯**的意味，常用于描述眼神、动作的快速转移，略带**紧张或鬼祟**感。在专业汇报中，说“The data darts between extremes”比“changes rapidly”更生动。感情色彩偏**中性或戏谑**，比如“He darted into the room like a scared rabbit.”  \n\n**3. 中文社媒/网络流行语对应**  \n对应中文网络热梗“**闪现**”或“**瞬移**”，比如“他一个闪现就溜了”。或者“**眼神飘忽**”，完美对应“eyes darting”。表情包可用“**我溜了**”配上一只快速移动的猫。  \n\n**4. 趣味记忆/联想**  \n“dart”谐音“**打他**”，想象你快速出手“打他”一下，动作快如飞镖。或者联想“**Dart**”是“**Dark**”加“t”，在黑暗中快速移动，像忍者一样。  \n\n**5. 篇幅控制**  \n记住：**“dart”= 快、突然、有点鬼祟**。下次想说“快速移动”，试试“dart”，瞬间地道又生动！"
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-27-3-1786512624649",
@@ -25484,5 +25449,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676494328
+  "updatedAt": 1786676499539
 }
