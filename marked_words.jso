@@ -22455,7 +22455,41 @@
     "sentenceVocab": "⭐ intuitively = 凭直觉地｜blame something on something = 将某事归咎于某事｜nerves = 紧张情绪｜undermine = 削弱；损害",
     "startTime": 39.359,
     "reviewCount": 0,
-    "dateAdded": "2026-08-10T10:52:21.538Z"
+    "dateAdded": "2026-08-10T10:52:21.538Z",
+    "translationCache": {
+      "lemma": "undermine",
+      "ipa": "/ˌʌndərˈmaɪn/",
+      "translation": "v. 逐渐削弱；暗中破坏；侵蚀…的基础",
+      "pronunciationGuide": "",
+      "collocations": [
+        "undermine confidence",
+        "undermine authority",
+        "undermine the foundation",
+        "undermine efforts",
+        "undermine credibility"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "持续的批评逐渐削弱了经理的权威。",
+          "english": "Constant criticism gradually undermined the manager's authority."
+        },
+        {
+          "chinese": "谣言可能会破坏公众对政府的信任。",
+          "english": "Rumors can undermine public trust in the government."
+        },
+        {
+          "chinese": "缺乏睡眠会削弱你在考试中的表现。",
+          "english": "Lack of sleep can undermine your performance in the exam."
+        },
+        {
+          "chinese": "他的不诚实行为破坏了我们团队的努力。",
+          "english": "His dishonest behavior undermined our team's efforts."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-7-14-1786359162181",
