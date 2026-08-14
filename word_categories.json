@@ -23004,7 +23004,7 @@
       "sentenceTranslation": "其次，许多表演者都极力称赞赛前或表演前固定流程的好处，无论是做几次深呼吸、重复一个提示词，还是完成一系列有节奏的动作。",
       "sentenceVocab": "⭐ extol the virtues of = 极力赞扬……的优点｜pre-performance routine = 表演/比赛前的固定流程｜cue word = 提示词｜rhythmic sequence = 有节奏的一系列动作",
       "startTime": 189.919,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-12T05:30:24.649Z",
       "translationCache": {
         "lemma": "extol the virtues of",
@@ -25840,5 +25840,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678585829
+  "updatedAt": 1786700932232
 }
