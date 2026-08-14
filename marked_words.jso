@@ -22244,7 +22244,41 @@
     "sentenceVocab": "⭐ close in for = 逼近；逐渐接近｜victorious = 获胜的；胜利的",
     "startTime": 6.121,
     "reviewCount": 0,
-    "dateAdded": "2026-08-10T08:04:23.060Z"
+    "dateAdded": "2026-08-10T08:04:23.060Z",
+    "translationCache": {
+      "lemma": "close in for",
+      "ipa": "/kloʊz ɪn fɔːr/",
+      "translation": "逼近，靠近（为了做某事）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "close in for the kill",
+        "close in for a victory",
+        "close in for the attack",
+        "close in for a photo",
+        "close in for a closer look"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "猎豹悄悄逼近，准备发动致命一击。",
+          "english": "The cheetah quietly closed in for the fatal strike."
+        },
+        {
+          "chinese": "摄影师慢慢靠近，准备拍摄那只罕见的鸟。",
+          "english": "The photographer slowly closed in for a shot of the rare bird."
+        },
+        {
+          "chinese": "警察从四面八方逼近，准备逮捕嫌疑人。",
+          "english": "The police closed in from all directions to arrest the suspect."
+        },
+        {
+          "chinese": "谈判代表们逐渐接近，准备达成最终协议。",
+          "english": "The negotiators gradually closed in for a final agreement."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-2-2-1786349076917",
