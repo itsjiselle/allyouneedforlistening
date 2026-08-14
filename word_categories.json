@@ -23359,7 +23359,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "spelling bee = 拼字比赛",
       "startTime": 31.148,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:39.985Z",
       "translationCache": {
         "lemma": "spelling bee",
@@ -25648,5 +25648,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677186964
+  "updatedAt": 1786677188171
 }
