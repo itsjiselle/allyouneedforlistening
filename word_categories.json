@@ -24126,7 +24126,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "be vulnerable to = 容易受到……影响",
       "startTime": 76.244,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-08-14T02:56:40.055Z",
       "translationCache": {
         "lemma": "be vulnerable to",
@@ -24161,8 +24161,7 @@
             "english": "Teenagers are vulnerable to cyberbullying on social media."
           }
         ]
-      },
-      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生常脱口而出：\"...are easily affected by pressure\"，或 \"...are weak under pressure\"。但老外更爱用 **be vulnerable to**，因为它自带一种“天生弱点、不堪一击”的宿命感，就像游戏里角色防御力为负，一碰就掉血。而 \"easily affected\" 只是说“容易受影响”，弱爆了！  \n\n**2. 学术深度分析与语用场景**  \n这个词在心理学、经济学论文里是高频词，表示“易受…伤害/攻击”，带点**负面、被动**色彩。日常交流中，说 \"I'm vulnerable to distractions\" 比 \"I get distracted easily\" 更显高级，有种“我承认我菜，但这是生理缺陷”的幽默自嘲。汇报时用它能瞬间提升专业度，仿佛你刚从实验室出来。  \n\n**3. 中文社媒/网络流行语对应**  \n中文互联网神翻译：**“一碰就碎”** 或 **“脆皮”**。比如“脆皮大学生”就是 \"vulnerable to injuries\"。表情包：一个玻璃小人被压力轻轻一推就裂开，配文“我太脆了”。  \n\n**4. 趣味记忆/联想**  \n词根 **vulner-** 来自拉丁语 \"vulnus\"（伤口）。想象一个叫“Vulner”的超级英雄，他的超能力是**容易受伤**，每次战斗都先躺平。谐音梗：**“我嫩若”**——我嫩得像豆腐，一碰就碎。记住：**vulnerable = 我嫩若**，瞬间秒懂！"
+      }
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-13-0",
@@ -25170,7 +25169,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "pre-performance routine = 表演",
       "startTime": 189.919,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.204Z",
       "translationCache": {
         "lemma": "pre-performance routine",
@@ -25181,7 +25180,8 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": ""
-      }
+      },
+      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生可能会说“things I do before performing”或“my preparation steps”，但老外更爱用 **pre-performance routine**，因为它自带一种“仪式感”和“肌肉记忆”的意味。就像你一说“routine”，脑海里就浮现出“每天刷牙”那种固定流程，而“pre-performance”则精准锁定“上台前”这个黄金时刻。\n\n**2. 学术深度分析与语用场景**  \n这个词在心理学和表演艺术中常被提及，带有**专业、中性偏褒义**的色彩。它强调的是一种**可重复、有意识的行为序列**，用来稳定情绪、提升专注。在日常交流中，你可以说“My pre-performance routine is blasting Eminem and doing 10 push-ups”，瞬间显得你是个有方法论的狠人。\n\n**3. 中文社媒/网络流行语对应**  \n如果非要翻译成中文网络热梗，那就是 **“赛前仪式感”** 或 **“玄学准备”**。比如“考试前转发锦鲤”就是典型的“pre-exam routine”，而“打游戏前必须洗手”则是“pre-game ritual”。这词一出口，自带一种“我很懂行”的滤镜。\n\n**4. 趣味记忆/联想**  \n想象一下：**“pre”=“前”， “performance”=“表演”， “routine”=“日常”**，合起来就是“表演前的日常”，但别真以为是“日常”，而是“专属定制”的仪式。谐音梗：**“普瑞-帕佛曼斯-如婷”**，听起来像“不如跳舞”，所以记住：**“不如跳舞，表演前不如跳舞”**，这就是你的pre-performance routine！\n\n**5. 篇幅控制**  \n（已控制在250字内，且排版精炼）"
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-2",
@@ -25793,5 +25793,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678024272
+  "updatedAt": 1786678031448
 }
