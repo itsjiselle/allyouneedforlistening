@@ -24547,7 +24547,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "versus = 与……相比",
       "startTime": 136.607,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.134Z",
       "translationCache": {
         "lemma": "versus",
@@ -25674,5 +25674,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677429826
+  "updatedAt": 1786677433975
 }
