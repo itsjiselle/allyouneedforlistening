@@ -23534,15 +23534,38 @@
       "dateAdded": "2026-08-14T02:56:40.023Z",
       "translationCache": {
         "lemma": "be preoccupied with",
-        "ipa": "",
-        "translation": "满脑子想着；被……占据",
+        "ipa": "/bi priˈɑːkjəˌpaɪtɪd wɪð/",
+        "translation": "（动词短语）使全神贯注于；使专注于；使心事重重",
         "pronunciationGuide": "",
-        "collocations": [],
+        "collocations": [
+          "be preoccupied with work",
+          "be preoccupied with thoughts of",
+          "be preoccupied with personal problems",
+          "become preoccupied with details",
+          "remain preoccupied with the past"
+        ],
         "cefrLevel": "",
         "idiomUsageNote": "",
-        "englishDefinition": ""
-      },
-      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常脱口而出“think about”或“worry about”，但“be preoccupied with”是**高级版“脑内单曲循环”**——不是简单“想”，而是**心思被占满，像手机后台开了20个App，卡到飞起**。Native speaker 用它时，自带一种“我脑子被占线了”的无奈感。\n\n**学术深度分析与语用场景**：\n这个词是**中性偏负**，但带点**学术范儿的戏谑**。在汇报时说“The team is preoccupied with deadlines”比“busy”更显专业，还暗戳戳吐槽“忙到没空思考”。日常用，比如“He's preoccupied with his ex”瞬间营造出“他魂不守舍”的画面。\n\n**中文网络流行语对应**：\n相当于“**脑子被糊住了**”或“**CPU干烧了**”，或者表情包“**我是谁？我在哪？**”。\n\n**趣味记忆**：\n**pre-（前）+ occupied（被占据）**——想象你的大脑是个停车场，**所有车位都被“担心”和“焦虑”占了**，连个自行车位都不剩。谐音梗：“**怕被OK的**”——怕被老板OK，所以满脑子都是工作。"
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "她一直担心即将到来的考试，以至于无法专注于其他任何事情。",
+            "english": "She has been preoccupied with the upcoming exam, so much so that she cannot focus on anything else."
+          },
+          {
+            "chinese": "经理全神贯注于削减成本，却忽略了员工士气的下降。",
+            "english": "The manager was preoccupied with cutting costs, but he overlooked (failed to notice) the decline in employee morale."
+          },
+          {
+            "chinese": "在会议期间，他满脑子都是个人问题，几乎没有参与讨论。",
+            "english": "During the meeting, he was preoccupied with personal issues and barely participated in the discussion."
+          },
+          {
+            "chinese": "科学家们专注于解决这个复杂问题，以至于忘记了时间。",
+            "english": "The scientists were so preoccupied with solving the complex problem that they lost track of time."
+          }
+        ]
+      }
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-9-1",
@@ -25486,5 +25509,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676861635
+  "updatedAt": 1786676893748
 }
