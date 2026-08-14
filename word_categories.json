@@ -22304,7 +22304,40 @@
       "sentenceVocab": "⭐ hold one's breath = 屏住呼吸｜at the crucial moment = 在关键时刻｜miss the shot = 投球/射门未中",
       "startTime": 10.061,
       "reviewCount": 0,
-      "dateAdded": "2026-08-10T08:04:36.917Z"
+      "dateAdded": "2026-08-10T08:04:36.917Z",
+      "translationCache": {
+        "lemma": "hold one's breath",
+        "ipa": "/hoʊld wʌnz brɛθ/",
+        "translation": "屏住呼吸；屏息以待",
+        "pronunciationGuide": "",
+        "collocations": [
+          "hold your breath",
+          "hold one's breath in anticipation",
+          "wait with bated breath",
+          "don't hold your breath"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "当电影主角即将打开那扇门时，整个影院都屏住了呼吸。",
+            "english": "The entire cinema held its breath as the protagonist was about to open the door."
+          },
+          {
+            "chinese": "在宣布获奖者之前，观众们屏息以待，现场一片寂静。",
+            "english": "Before the winner was announced, the audience held their breath in silence."
+          },
+          {
+            "chinese": "别指望他会道歉，你还是别抱太大希望（别屏息等待）为好。",
+            "english": "Don't expect him to apologize; you'd better not hold your breath."
+          },
+          {
+            "chinese": "她屏住呼吸，生怕惊动那只停在窗台上的蝴蝶。",
+            "english": "She held her breath, afraid of disturbing the butterfly perched on the windowsill."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-3-8-1786349095615",
@@ -25841,5 +25874,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786700992489
+  "updatedAt": 1786701169200
 }
