@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786676222756,
+  "updatedAt": 1786717843723,
   "wordAddedDatesMap": {
     "custom-9_1_4_mp3-15-31": "2026-06-22",
     "custom-9_1_4_mp3-11-17": "2026-06-22",
@@ -694,7 +694,197 @@
     "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-0": "2026-08-14",
     "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-1": "2026-08-14",
     "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-2": "2026-08-14",
-    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-3": "2026-08-14"
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-3": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-2-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-5-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-5-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-7-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-8-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-8-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-10-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-11-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-11-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-11-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-13-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-15-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-16-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-3": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-19-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-22-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-23-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-23-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-24-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-25-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-26-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-27-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-27-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-30-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-31-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-32-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-32-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-32-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-33-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-40-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-41-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-42-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-44-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-45-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-47-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-51-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-53-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-56-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-57-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-62-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-63-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-68-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-68-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-71-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-71-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-72-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-73-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-74-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-79-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-82-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-84-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-92-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-92-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-94-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-95-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-95-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-96-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-98-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-98-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-100-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-100-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-101-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-102-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-107-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-110-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-115-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-115-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-116-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-117-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-117-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-117-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-120-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-123-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-126-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-126-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-127-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-128-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-129-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-129-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-130-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-130-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-130-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-131-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-131-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-133-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-133-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-134-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-134-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-134-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-136-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-136-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-137-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-138-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-140-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-141-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-141-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-144-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-145-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-145-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-146-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-148-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-149-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-150-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-150-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-150-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-152-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-153-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-154-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-156-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-162-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-163-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-165-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-167-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-168-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-169-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-169-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-172-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-174-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-175-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-176-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-181-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-182-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-183-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-184-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-185-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-186-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-187-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-187-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-187-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-3": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-4": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-193-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-197-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-199-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-201-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-201-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-201-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-202-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-202-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-203-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-204-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-206-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-207-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-210-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-213-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-215-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-216-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-217-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-219-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-220-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-223-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-226-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-227-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-227-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-229-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-237-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-239-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-239-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-239-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-243-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-245-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-246-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-247-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-252-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-254-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-258-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-260-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-261-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-263-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-265-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-265-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-267-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-267-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-269-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-274-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-275-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-277-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-2": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-3": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-279-0": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-279-1": "2026-08-14",
+    "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-279-2": "2026-08-14"
   },
   "addedRecords": [
     {
@@ -3471,6 +3661,766 @@
     },
     {
       "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-2-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-5-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-5-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-7-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-8-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-8-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-10-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-11-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-11-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-11-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-13-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-15-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-16-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-18-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-19-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-22-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-23-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-23-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-24-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-25-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-26-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-27-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-27-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-30-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-31-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-32-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-32-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-32-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-33-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-40-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-41-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-42-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-44-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-45-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-47-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-51-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-53-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-56-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-57-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-62-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-63-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-68-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-68-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-71-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-71-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-72-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-73-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-74-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-79-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-82-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-84-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-92-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-92-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-94-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-95-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-95-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-96-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-98-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-98-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-100-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-100-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-101-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-102-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-107-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-110-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-115-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-115-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-116-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-117-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-117-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-117-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-120-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-123-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-126-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-126-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-127-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-128-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-129-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-129-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-130-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-130-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-130-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-131-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-131-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-133-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-133-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-134-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-134-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-134-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-136-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-136-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-137-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-138-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-140-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-141-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-141-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-144-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-145-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-145-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-146-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-148-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-149-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-150-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-150-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-150-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-152-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-153-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-154-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-156-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-162-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-163-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-165-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-167-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-168-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-169-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-169-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-172-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-174-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-175-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-176-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-181-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-182-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-183-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-184-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-185-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-186-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-187-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-187-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-187-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-190-4",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-193-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-197-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-199-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-201-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-201-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-201-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-202-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-202-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-203-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-204-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-206-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-207-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-210-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-213-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-215-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-216-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-217-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-219-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-220-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-223-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-226-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-227-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-227-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-229-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-237-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-239-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-239-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-239-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-243-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-245-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-246-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-247-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-252-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-254-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-258-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-260-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-261-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-263-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-265-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-265-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-267-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-267-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-269-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-274-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-275-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-277-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-278-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-279-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-279-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-279-2",
       "dateAdded": "2026-08-14"
     }
   ]
