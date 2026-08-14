@@ -24874,7 +24874,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "under stressful conditions = 在有压力的条件下",
       "startTime": 175.095,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.183Z",
       "translationCache": {
         "lemma": "under stressful conditions",
@@ -25622,5 +25622,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677076761
+  "updatedAt": 1786677092992
 }
