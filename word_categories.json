@@ -23167,7 +23167,14 @@
         "idiomUsageNote": "",
         "englishDefinition": ""
       },
-      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生可能会说“she failed to shoot”或“she didn't make the shot”，但“miss the shot”更简洁、更口语化，且带有一种“差一点就进了”的遗憾感，就像打游戏时“就差一枪”的懊恼。\n\n**学术深度分析与语用场景**：\n“miss the shot”在语用上常带有“关键时刻掉链子”的戏剧性，感情色彩偏中性，但语境中常隐含惋惜或调侃。比如在体育解说中，它比“fail”更生动，比“lose”更具体，能瞬间营造紧张氛围。日常中也可比喻错失机会，如“I missed the shot at that job.”\n\n**中文网络流行语对应**：\n相当于“关键时刻拉胯”或“这波亏了”，表情包可配“我裂开了”或“心态崩了”。\n\n**趣味记忆**：\n想象“shot”是“射击”，但“miss”是“想念”——“想念那一枪，所以没打中”，谐音梗“没射中”=“没社中”，社死现场。"
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生可能会说“she failed to shoot”或“she didn't make the shot”，但“miss the shot”更简洁、更口语化，且带有一种“差一点就进了”的遗憾感，就像打游戏时“就差一枪”的懊恼。\n\n**学术深度分析与语用场景**：\n“miss the shot”在语用上常带有“关键时刻掉链子”的戏剧性，感情色彩偏中性，但语境中常隐含惋惜或调侃。比如在体育解说中，它比“fail”更生动，比“lose”更具体，能瞬间营造紧张氛围。日常中也可比喻错失机会，如“I missed the shot at that job.”\n\n**中文网络流行语对应**：\n相当于“关键时刻拉胯”或“这波亏了”，表情包可配“我裂开了”或“心态崩了”。\n\n**趣味记忆**：\n想象“shot”是“射击”，但“miss”是“想念”——“想念那一枪，所以没打中”，谐音梗“没射中”=“没社中”，社死现场。",
+      "customTranslation": "投失一球",
+      "customTopicIds": [
+        "uncategorized",
+        "topic-1784775694593"
+      ],
+      "patternCategories": [],
+      "patternCategoryManuallyEdited": true
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-3",
@@ -25725,5 +25732,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677815384
+  "updatedAt": 1786677845657
 }
