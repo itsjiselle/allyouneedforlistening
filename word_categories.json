@@ -26961,72 +26961,6 @@
       }
     },
     {
-      "id": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-38-0",
-      "materialId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments",
-      "srtFingerprint": "48885f83",
-      "materialTitle": "'Emily In Paris' Cast Reveal Favorite Season 4 Moments.mp3",
-      "subtitleId": 37,
-      "wordIndex": 0,
-      "wordIndices": [
-        0
-      ],
-      "wordText": "grow up in the industry",
-      "category": "idiom",
-      "categories": [
-        "idiom"
-      ],
-      "customLemma": "grow up in the industry",
-      "sentenceContext": "Do you feel like that?",
-      "sentenceTranslation": "",
-      "sentenceVocab": "grow up in the industry = 在某个行业环境中成长",
-      "startTime": 116.023,
-      "reviewCount": 0,
-      "dateAdded": "2026-08-14T14:29:56.893Z",
-      "translationCache": {
-        "lemma": "grow up in the industry",
-        "ipa": "",
-        "translation": "在某个行业环境中成长",
-        "pronunciationGuide": "",
-        "collocations": [],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": ""
-      }
-    },
-    {
-      "id": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-38-1",
-      "materialId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments",
-      "srtFingerprint": "48885f83",
-      "materialTitle": "'Emily In Paris' Cast Reveal Favorite Season 4 Moments.mp3",
-      "subtitleId": 37,
-      "wordIndex": 0,
-      "wordIndices": [
-        0
-      ],
-      "wordText": "in the industry",
-      "category": "idiom",
-      "categories": [
-        "idiom"
-      ],
-      "customLemma": "in the industry",
-      "sentenceContext": "Do you feel like that?",
-      "sentenceTranslation": "",
-      "sentenceVocab": "in the industry = 在这个行业内",
-      "startTime": 116.023,
-      "reviewCount": 0,
-      "dateAdded": "2026-08-14T14:29:56.894Z",
-      "translationCache": {
-        "lemma": "in the industry",
-        "ipa": "",
-        "translation": "在这个行业内",
-        "pronunciationGuide": "",
-        "collocations": [],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": ""
-      }
-    },
-    {
       "id": "vocab-srt-emily_in_paris_cast_reveal_favorite_season_4_moments-40-0",
       "materialId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments",
       "srtFingerprint": "48885f83",
@@ -32320,5 +32254,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786717826846
+  "updatedAt": 1786717870793
 }
