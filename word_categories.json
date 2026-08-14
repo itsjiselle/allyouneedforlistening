@@ -23799,7 +23799,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "at once = 同时",
       "startTime": 72.544,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.045Z",
       "translationCache": {
         "lemma": "at once",
@@ -25533,5 +25533,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676930800
+  "updatedAt": 1786676932682
 }
