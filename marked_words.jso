@@ -23956,12 +23956,35 @@
     "translationCache": {
       "lemma": "scratch pad",
       "ipa": "",
-      "translation": "草稿板；临时存储区",
+      "translation": "n. 便签本；草稿本；暂存器（比喻义）",
       "pronunciationGuide": "",
-      "collocations": [],
+      "collocations": [
+        "a scratch pad for notes",
+        "use something as a scratch pad",
+        "mental scratch pad",
+        "keep a scratch pad handy"
+      ],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "zh": "在会议期间，我快速在便签本上记下了一些想法，以便稍后详细阐述。",
+          "en": "During the meeting, I quickly jotted down (wrote down) some ideas on a scratch pad to elaborate on later."
+        },
+        {
+          "zh": "科学家将工作记忆比作心智的便签本，它帮助我们暂时保存信息，比如电话号码。",
+          "en": "Scientists compare working memory to a mental scratch pad that helps us temporarily hold information, such as phone numbers."
+        },
+        {
+          "zh": "在开始正式写作之前，我通常会在草稿本上勾勒出文章的大纲。",
+          "en": "Before starting the formal writing, I usually sketch out (draft) the outline of the essay on a scratch pad."
+        },
+        {
+          "zh": "请确保你有一个便签本放在手边，以便随时记录突然出现的灵感。",
+          "en": "Make sure you have a scratch pad handy to record any sudden inspiration that arises."
+        }
+      ]
     },
     "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生可能会说 \"a small notebook for memory\" 或 \"a temporary memory\"，但老外会直接说 \"scratch pad\"。这个词的本意是“便签本”，但在这里是比喻，指大脑中临时存储信息的“草稿区”。它比 \"notebook\" 更形象，比 \"memory\" 更具体，瞬间让抽象概念变得可触摸。  \n\n**2. 学术深度分析与语用场景**  \n在认知心理学中，\"scratch pad\" 常被用来比喻“工作记忆”（working memory），因为它像便签纸一样，快速记录、随时擦除。这个词带有一种**轻松、戏谑**的色彩，让专业术语变得亲切。在学术汇报或日常聊天中，用它能让你的表达既专业又接地气，比如：\"My brain's scratch pad is full, I can't remember your name!\"  \n\n**3. 中文社媒/网络流行语对应**  \n这就像中文里的“脑内缓存”或“内存不足”。当你说 \"My scratch pad is overloaded\"，就相当于“我脑子卡了”或“CPU烧了”。在表情包文化中，可以对应“大脑：已读乱回”或“内存已满，请清理”。  \n\n**4. 趣味记忆/联想**  \n想象你的大脑是一块**白板**，上面写满了电话号码和购物清单。压力一来，就像有人用**橡皮擦**乱擦一通——这就是 \"scratch pad\" 的“刮擦”感。谐音梗：\"scratch\" 听起来像“死磕”，但别死磕，擦掉重写就行！  \n\n**5. 篇幅控制**  \n（已控制在250字内，精炼如上）"
   },
