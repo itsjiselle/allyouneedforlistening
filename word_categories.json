@@ -18271,7 +18271,29 @@
       "sentenceVocab": "⭐ home in on sth = 精准找到；锁定目标｜happen to be = 碰巧是……｜mystify sb = 使某人困惑",
       "startTime": 45.517,
       "reviewCount": 0,
-      "dateAdded": "2026-07-28T09:53:18.453Z"
+      "dateAdded": "2026-07-28T09:53:18.453Z",
+      "translationCache": {
+        "lemma": "home in on",
+        "ipa": "",
+        "translation": "（动词短语）瞄准，集中注意力于；找到（目标）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "home in on the target",
+          "home in on the problem",
+          "home in on the truth",
+          "home in on the details",
+          "home in on the source"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          "警方最终锁定了犯罪团伙的头目。 (The police finally homed in on the leader of the criminal gang.)",
+          "在会议上，她迅速抓住了问题的核心。 (At the meeting, she quickly homed in on the core of the problem.)",
+          "科学家们正在集中精力寻找这种疾病的根源。 (Scientists are homing in on the root cause of the disease.)",
+          "记者们很快就锁定了丑闻的关键人物。 (The journalists soon homed in on the key figure in the scandal.)"
+        ]
+      }
     },
     {
       "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-12-24-1785232432247",
@@ -25869,5 +25891,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786701382895
+  "updatedAt": 1786701384516
 }
