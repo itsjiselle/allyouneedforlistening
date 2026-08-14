@@ -22690,7 +22690,41 @@
     "sentenceVocab": "⭐ unconsciously = 无意识地｜be vulnerable to = 容易受到……影响",
     "startTime": 130.912,
     "reviewCount": 0,
-    "dateAdded": "2026-08-10T10:55:28.311Z"
+    "dateAdded": "2026-08-10T10:55:28.311Z",
+    "translationCache": {
+      "lemma": "be vulnerable to",
+      "ipa": "/bi ˈvʌlnərəbl tu/",
+      "translation": "易受...伤害的；易受...影响的",
+      "pronunciationGuide": "",
+      "collocations": [
+        "be vulnerable to attack",
+        "be vulnerable to criticism",
+        "be vulnerable to disease",
+        "be vulnerable to exploitation",
+        "be vulnerable to failure"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在压力下，我们的决策过程容易受到情绪偏见的影响。",
+          "english": "Under pressure, our decision-making processes are vulnerable to emotional biases."
+        },
+        {
+          "chinese": "这些古老的建筑缺乏维护，容易受到地震的破坏。",
+          "english": "These ancient buildings, lacking maintenance, are vulnerable to earthquake damage."
+        },
+        {
+          "chinese": "没有适当的安全措施，你的个人信息很容易受到网络攻击。",
+          "english": "Without proper security measures, your personal information is vulnerable to cyber attacks."
+        },
+        {
+          "chinese": "新成立的公司往往容易受到市场波动的影响。",
+          "english": "Newly established companies are often vulnerable to market fluctuations."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-20-14-1786512493064",
