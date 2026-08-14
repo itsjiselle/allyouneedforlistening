@@ -22340,7 +22340,7 @@
       "sentenceTranslation": "然而，表现焦虑也会困扰公开演讲者、拼字比赛选手，甚至世界知名的音乐家。",
       "sentenceVocab": "⭐ performance anxiety = 表现焦虑｜haunt = 持续困扰；萦绕｜spelling bee = 拼字比赛",
       "startTime": 31.148,
-      "reviewCount": 2,
+      "reviewCount": 3,
       "dateAdded": "2026-08-10T08:05:52.739Z",
       "translationCache": {
         "lemma": "anxiety ... haunts",
@@ -22546,7 +22546,7 @@
       "sentenceTranslation": "大脑一次能够处理的信息量毕竟是有限的。",
       "sentenceVocab": "⭐ process information = 处理信息｜only so much = 只有这么多；存在上限｜at once = 同时",
       "startTime": 72.544,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-08-10T10:53:24.134Z",
       "translationCache": {
         "lemma": "only process so much information at once",
@@ -23097,17 +23097,40 @@
       "sentenceTranslation": "",
       "sentenceVocab": "at the crucial moment = 在关键时刻",
       "startTime": 10.061,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:39.954Z",
       "translationCache": {
         "lemma": "at the crucial moment",
-        "ipa": "",
+        "ipa": "/æt ðə ˈkruːʃəl ˈmoʊmənt/",
         "translation": "在关键时刻",
         "pronunciationGuide": "",
-        "collocations": [],
+        "collocations": [
+          "at the crucial moment of the game",
+          "appear at the crucial moment",
+          "decide at the crucial moment",
+          "fail at the crucial moment"
+        ],
         "cefrLevel": "",
         "idiomUsageNote": "",
-        "englishDefinition": ""
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "在比赛的关键时刻，他投进了制胜一球。",
+            "english": "At the crucial moment of the game, he scored the winning basket."
+          },
+          {
+            "chinese": "她总是在关键时刻保持冷静，这让她成为出色的领导者。",
+            "english": "She always remains calm at the crucial moment, which makes her an excellent leader."
+          },
+          {
+            "chinese": "在谈判的关键时刻，对方突然改变了条件。",
+            "english": "At the crucial moment of the negotiation, the other party suddenly changed the terms."
+          },
+          {
+            "chinese": "他在关键时刻退缩了，这让整个团队感到失望。",
+            "english": "He backed out (chickened out) at the crucial moment, which disappointed the whole team."
+          }
+        ]
       }
     },
     {
@@ -23838,7 +23861,8 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": ""
-      }
+      },
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常会说“The brain can only process a limited amount of information”，虽然没错，但太“正经”了。而“only so much”带着一种“无奈摊手”的俏皮感，native speaker 用它来表示“能力有限，别强求”，比如“I can only eat so much pizza”（我吃不下更多披萨了）。\n\n**学术深度分析与语用场景**：\n“only so much”是一种**低调陈述**（understatement），用“so much”代替“a specific limit”，制造一种“你懂的”的默契。它常用于日常吐槽、专业汇报中缓和语气，感情色彩偏**中性或戏谑**，比如“The server can only handle so much traffic”既专业又带点幽默。\n\n**中文社媒对应**：\n这就像中文网络语“**就这？**”或“**臣妾做不到啊**”，但更含蓄。比如“大脑就这处理能力，别卷了”完美对应。\n\n**趣味记忆**：\n想象“so much”是个大胃王，但“only”是它的腰带——再能吃也有勒住的时候。记住“only so much”=“腰带一勒，就此打住”。"
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-2",
@@ -25146,7 +25170,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "rhythmic sequence = 有节奏的一系列动作",
       "startTime": 189.919,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.207Z",
       "translationCache": {
         "lemma": "rhythmic sequence",
@@ -25677,5 +25701,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677548669
+  "updatedAt": 1786677575615
 }
