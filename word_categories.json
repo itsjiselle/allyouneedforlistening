@@ -23854,15 +23854,38 @@
       "dateAdded": "2026-08-14T02:56:40.044Z",
       "translationCache": {
         "lemma": "only so much",
-        "ipa": "",
-        "translation": "只有这么多；存在上限",
+        "ipa": "/ˈoʊnli soʊ mʌtʃ/",
+        "translation": "只有这么多；有限的",
         "pronunciationGuide": "",
-        "collocations": [],
+        "collocations": [
+          "there is only so much one can do",
+          "only so much time",
+          "only so much patience",
+          "only so much information",
+          "only so much energy"
+        ],
         "cefrLevel": "",
         "idiomUsageNote": "",
-        "englishDefinition": ""
-      },
-      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常会说“The brain can only process a limited amount of information”，虽然没错，但太“正经”了。而“only so much”带着一种“无奈摊手”的俏皮感，native speaker 用它来表示“能力有限，别强求”，比如“I can only eat so much pizza”（我吃不下更多披萨了）。\n\n**学术深度分析与语用场景**：\n“only so much”是一种**低调陈述**（understatement），用“so much”代替“a specific limit”，制造一种“你懂的”的默契。它常用于日常吐槽、专业汇报中缓和语气，感情色彩偏**中性或戏谑**，比如“The server can only handle so much traffic”既专业又带点幽默。\n\n**中文社媒对应**：\n这就像中文网络语“**就这？**”或“**臣妾做不到啊**”，但更含蓄。比如“大脑就这处理能力，别卷了”完美对应。\n\n**趣味记忆**：\n想象“so much”是个大胃王，但“only”是它的腰带——再能吃也有勒住的时候。记住“only so much”=“腰带一勒，就此打住”。"
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "一个人能承受的压力是有限的，所以你需要学会说“不”。",
+            "english": "There is only so much stress a person can handle, so you need to learn to say no."
+          },
+          {
+            "chinese": "我们一天只有这么多时间，所以必须优先处理最重要的任务。",
+            "english": "We have only so much time in a day, so we must prioritize (sort out) the most important tasks."
+          },
+          {
+            "chinese": "她的耐心是有限的，如果你继续迟到，她可能会生气。",
+            "english": "She has only so much patience, and if you keep being late, she might get angry."
+          },
+          {
+            "chinese": "在有限的信息下，我们只能做出有限的判断。",
+            "english": "With only so much information available, we can only make a limited judgment."
+          }
+        ]
+      }
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-2",
@@ -25701,5 +25724,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677575615
+  "updatedAt": 1786677577794
 }
