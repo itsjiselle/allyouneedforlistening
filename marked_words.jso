@@ -23963,13 +23963,37 @@
     "dateAdded": "2026-08-14T02:56:40.055Z",
     "translationCache": {
       "lemma": "be vulnerable to",
-      "ipa": "",
-      "translation": "容易受到……影响",
+      "ipa": "/bi ˈvʌlnərəbl tu/",
+      "translation": "易受...伤害的；易受...影响的",
       "pronunciationGuide": "",
-      "collocations": [],
+      "collocations": [
+        "be vulnerable to attack",
+        "be vulnerable to criticism",
+        "be vulnerable to disease",
+        "be vulnerable to pressure",
+        "be vulnerable to exploitation"
+      ],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在高压环境下，我们的免疫系统更容易受到疾病的侵袭。",
+          "english": "Under high-pressure environments, our immune system is more vulnerable to disease."
+        },
+        {
+          "chinese": "缺乏经验的新员工往往容易受到同事的批评。",
+          "english": "New employees lacking experience are often vulnerable to criticism from colleagues."
+        },
+        {
+          "chinese": "这个国家的经济结构单一，极易受到全球市场波动的影响。",
+          "english": "The country's economy, with its single-industry structure, is highly vulnerable to fluctuations in the global market."
+        },
+        {
+          "chinese": "青少年在社交媒体上容易受到网络欺凌。",
+          "english": "Teenagers are vulnerable to cyberbullying on social media."
+        }
+      ]
     }
   },
   {
