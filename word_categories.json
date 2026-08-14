@@ -25207,7 +25207,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "become accustomed to = 逐渐习惯于",
       "startTime": 178.69400000000002,
-      "reviewCount": 1,
+      "reviewCount": 0,
       "dateAdded": "2026-08-14T02:56:40.194Z",
       "translationCache": {
         "lemma": "become accustomed to",
@@ -25868,5 +25868,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786701375095
+  "updatedAt": 1786701381575
 }
