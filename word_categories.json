@@ -22341,7 +22341,41 @@
       "sentenceVocab": "⭐ performance anxiety = 表现焦虑｜haunt = 持续困扰；萦绕｜spelling bee = 拼字比赛",
       "startTime": 31.148,
       "reviewCount": 0,
-      "dateAdded": "2026-08-10T08:05:52.739Z"
+      "dateAdded": "2026-08-10T08:05:52.739Z",
+      "translationCache": {
+        "lemma": "anxiety ... haunts",
+        "ipa": "/æŋˈzaɪəti ... hɔːnts/",
+        "translation": "焦虑 ... 萦绕（心头）",
+        "pronunciationGuide": "",
+        "collocations": [
+          "haunt someone's dreams",
+          "haunt someone's memory",
+          "be haunted by anxiety",
+          "anxiety haunts someone",
+          "the ghost of ... haunts ..."
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "尽管他事业成功，但童年被欺凌的记忆仍然萦绕着他，让他难以真正快乐。",
+            "english": "Despite his career success, the memory of being bullied in childhood still haunts him, making it hard for him to be truly happy."
+          },
+          {
+            "chinese": "她总是被一种莫名的焦虑所困扰，这种焦虑萦绕着她，甚至影响她的睡眠。",
+            "english": "She is constantly troubled by a vague anxiety that haunts her, even affecting her sleep."
+          },
+          {
+            "chinese": "失败的恐惧萦绕着许多运动员，但顶尖选手学会了将其转化为动力。",
+            "english": "The fear of failure haunts many athletes, but top competitors learn to transform it into motivation."
+          },
+          {
+            "chinese": "那个错误决定带来的内疚感一直萦绕在他心头，多年后依然挥之不去。",
+            "english": "The guilt from that wrong decision has haunted him for years, still lingering even now."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-6-2-1786359096692",
@@ -25345,5 +25379,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676308384
+  "updatedAt": 1786676321501
 }
