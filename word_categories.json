@@ -24217,7 +24217,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "at stake = 处于风险中；事关得失",
       "startTime": 96.28999999999999,
-      "reviewCount": 1,
+      "reviewCount": 0,
       "dateAdded": "2026-08-14T02:56:40.074Z",
       "translationCache": {
         "lemma": "at stake",
@@ -24228,7 +24228,8 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": ""
-      }
+      },
+      "teacherExplanation": "**at stake** 可不是“在烤肉架上”哦！它指“处于风险中，成败在此一举”。中式英语常直译成“in danger”，但 native 在赌注、比赛、关键决策时，会优先用 **at stake**，因为自带“赌注”的紧张感。\n\n**学术深挖**：它源自赌博，把筹码放桌上，所以语用上强调“输赢未定，后果严重”。口语里说“What's at stake?”（有啥大不了的？）瞬间提升逼格。感情色彩中性偏严肃，但也能戏谑，比如“My dignity is at stake!”（我的尊严危在旦夕！）\n\n**中文对应**：就是“玩的就是心跳”、“赌上全部”、“输赢在此一举”。想象表情包：一个赌徒把全部身家推上桌，配文“all in”，这就是 **at stake** 的画面感。\n\n**记忆梗**：**stake** 像“死磕”，死磕到底，赌上一切！或者联想“牛排（steak）在火上烤，成败看火候”——**at stake** 就是“在火上烤”的紧张感。"
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-14-2",
@@ -25791,5 +25792,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678013339
+  "updatedAt": 1786678019911
 }
