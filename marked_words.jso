@@ -22542,7 +22542,41 @@
     "sentenceVocab": "⭐ be instructed to = 被要求；被指示做｜versus = 与……相比｜be primed to = 被预先引导去；被预先刺激以｜acutely aware of = 高度意识到；敏锐地意识到｜putting stroke = 推杆动作",
     "startTime": 136.607,
     "reviewCount": 0,
-    "dateAdded": "2026-08-12T05:28:13.064Z"
+    "dateAdded": "2026-08-12T05:28:13.064Z",
+    "translationCache": {
+      "lemma": "putt",
+      "ipa": "",
+      "translation": "v. (高尔夫球)轻击(球)入洞；n. (高尔夫球)轻击，推杆",
+      "pronunciationGuide": "",
+      "collocations": [
+        "putt the ball",
+        "practice putting",
+        "a short putt",
+        "sink a putt",
+        "putting green"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在最后一洞，他冷静地推杆入洞，赢得了比赛。",
+          "english": "On the final hole, he calmly putted the ball into the hole and won the match."
+        },
+        {
+          "chinese": "教练建议我每天花半小时练习推杆，以提高我的短杆技术。",
+          "english": "The coach advised me to spend half an hour every day practicing putting to improve my short game."
+        },
+        {
+          "chinese": "尽管果岭速度很快，她还是成功地完成了这个长距离推杆。",
+          "english": "Despite the fast green, she managed to sink the long putt successfully."
+        },
+        {
+          "chinese": "初学者常常低估了推杆的重要性，但它是降低杆数的关键。",
+          "english": "Beginners often underestimate the importance of putting, but it is the key to lowering your score."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-20-33-1786512498234",
