@@ -22468,7 +22468,40 @@
       "sentenceVocab": "⭐ with nothing at stake = 没有什么利害关系；没有得失压力｜at stake = 处于风险中；事关得失｜under pressure = 在压力下",
       "startTime": 96.28999999999999,
       "reviewCount": 0,
-      "dateAdded": "2026-08-10T10:54:08.238Z"
+      "dateAdded": "2026-08-10T10:54:08.238Z",
+      "translationCache": {
+        "lemma": "with nothing at stake",
+        "ipa": "/wɪð ˈnʌθɪŋ æt steɪk/",
+        "translation": "毫无风险地；没有利害关系地",
+        "pronunciationGuide": "",
+        "collocations": [
+          "with nothing at stake",
+          "have nothing at stake",
+          "nothing at stake for someone",
+          "play with nothing at stake"
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "在毫无风险的情况下，他轻松地做出了决定。",
+            "english": "He made the decision easily with nothing at stake."
+          },
+          {
+            "chinese": "如果没有任何利害关系，人们往往更愿意尝试新事物。",
+            "english": "People are often more willing to try new things if they have nothing at stake."
+          },
+          {
+            "chinese": "她参加这次比赛时毫无压力，因为她知道输赢对她来说都无所谓。",
+            "english": "She entered the competition without pressure, knowing that she had nothing at stake."
+          },
+          {
+            "chinese": "在模拟谈判中，双方都毫无风险，因此他们能够坦诚交流。",
+            "english": "In the mock negotiation, both sides had nothing at stake, so they could communicate openly."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-18-1-1786359292819",
@@ -22745,5 +22778,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676183367
+  "updatedAt": 1786676194462
 }
