@@ -22414,7 +22414,24 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": "",
-        "patternPractice": []
+        "patternPractice": [
+          {
+            "chinese": "大多数人凭直觉认为这个理论是正确的，但我们需要证据来支持它。",
+            "english": "Most people intuitively believe that this theory is correct, but we need evidence to support it."
+          },
+          {
+            "chinese": "她凭直觉感到有些不对劲，于是决定改变计划。",
+            "english": "She intuitively sensed that something was wrong, so she decided to change (alter) the plan."
+          },
+          {
+            "chinese": "虽然他没有接受过正式培训，但他凭直觉就能理解复杂的数学概念。",
+            "english": "Although he had no formal training, he could intuitively grasp complex mathematical concepts."
+          },
+          {
+            "chinese": "这个设计在直觉上很有吸引力，但实际应用时可能会遇到问题。",
+            "english": "The design is intuitively appealing, but it may encounter problems in practical application."
+          }
+        ]
       }
     },
     {
@@ -25396,5 +25413,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676404624
+  "updatedAt": 1786676407862
 }
