@@ -23791,13 +23791,37 @@
       "dateAdded": "2026-08-14T02:56:40.033Z",
       "translationCache": {
         "lemma": "compete for",
-        "ipa": "",
-        "translation": "争夺",
+        "ipa": "/kəmˈpiːt fɔːr/",
+        "translation": "竞争，争夺（及物动词短语）",
         "pronunciationGuide": "",
-        "collocations": [],
+        "collocations": [
+          "compete for attention",
+          "compete for resources",
+          "compete for a prize",
+          "compete for market share",
+          "compete for the same position"
+        ],
         "cefrLevel": "",
         "idiomUsageNote": "",
-        "englishDefinition": ""
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "在数字时代，各种社交媒体平台都在争夺用户的注意力。",
+            "english": "In the digital age, various social media platforms are competing for users' attention."
+          },
+          {
+            "chinese": "两家公司正在激烈竞争，以赢得政府的基础设施合同。",
+            "english": "The two companies are fiercely competing for the government's infrastructure contract."
+          },
+          {
+            "chinese": "许多有才华的年轻运动员都梦想着代表国家参加奥运会，但只有少数人有机会争夺金牌。",
+            "english": "Many talented young athletes dream of representing their country at the Olympics, but only a few get the chance to compete for a gold medal."
+          },
+          {
+            "chinese": "在资源有限的情况下，各个部门不得不争夺预算分配。",
+            "english": "With limited resources, various departments have to compete for budget allocation."
+          }
+        ]
       }
     },
     {
@@ -25766,5 +25790,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677882730
+  "updatedAt": 1786677894017
 }
