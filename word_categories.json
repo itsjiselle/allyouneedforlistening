@@ -22304,40 +22304,7 @@
       "sentenceVocab": "⭐ hold one's breath = 屏住呼吸｜at the crucial moment = 在关键时刻｜miss the shot = 投球/射门未中",
       "startTime": 10.061,
       "reviewCount": 0,
-      "dateAdded": "2026-08-10T08:04:36.917Z",
-      "translationCache": {
-        "lemma": "hold one's breath",
-        "ipa": "/hoʊld wʌnz brɛθ/",
-        "translation": "屏住呼吸；屏息以待",
-        "pronunciationGuide": "",
-        "collocations": [
-          "hold your breath",
-          "hold one's breath in anticipation",
-          "wait with bated breath",
-          "don't hold your breath"
-        ],
-        "cefrLevel": "",
-        "idiomUsageNote": "",
-        "englishDefinition": "",
-        "patternPractice": [
-          {
-            "chinese": "当电影主角即将打开那扇门时，整个影院都屏住了呼吸。",
-            "english": "The entire cinema held its breath as the protagonist was about to open the door."
-          },
-          {
-            "chinese": "在宣布获奖者之前，观众们屏息以待，现场一片寂静。",
-            "english": "Before the winner was announced, the audience held their breath in silence."
-          },
-          {
-            "chinese": "别指望他会道歉，你还是别抱太大希望（别屏息等待）为好。",
-            "english": "Don't expect him to apologize; you'd better not hold your breath."
-          },
-          {
-            "chinese": "她屏住呼吸，生怕惊动那只停在窗台上的蝴蝶。",
-            "english": "She held her breath, afraid of disturbing the butterfly perched on the windowsill."
-          }
-        ]
-      }
+      "dateAdded": "2026-08-10T08:04:36.917Z"
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-3-8-1786349095615",
@@ -23824,7 +23791,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "the task at hand = 手头的任务；当前任务",
       "startTime": 56.763,
-      "reviewCount": 1,
+      "reviewCount": 0,
       "dateAdded": "2026-08-14T02:56:40.025Z",
       "translationCache": {
         "lemma": "the task at hand",
@@ -23835,7 +23802,8 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": ""
-      }
+      },
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常脱口而出“the current task”或“the thing I'm doing”，但老外更爱用“the task at hand”——它自带一种“眼前这个活儿”的紧迫感，仿佛任务就摊在你面前，还冒着热气。\n\n**学术深度分析与语用场景**：\n“at hand”是介词短语作后置定语，字面是“在手边”，引申为“当前正处理的”。它比“current”更生动，带有一种“必须专注”的暗示，常用于正式演讲或学术写作，感情色彩中性偏严肃，但偶尔带点戏谑，比如“Let's focus on the task at hand, shall we?”（咱能先干正事吗？）\n\n**中文网络流行语对应**：\n相当于“手头的事”或“眼前的正经事”，但更传神的是“别整那些没用的，先把手头的活儿干完”——完美对应“task at hand”的专注感。\n\n**趣味记忆**：\n想象你手里攥着一块热豆腐，这就是“task at hand”——烫手但必须马上处理。谐音梗：“hand”=“汗的”，任务在手，手心出汗，所以叫“task at hand”。"
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-10-0",
@@ -25874,5 +25842,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786701211836
+  "updatedAt": 1786701221350
 }
