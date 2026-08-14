@@ -22509,7 +22509,41 @@
     "sentenceVocab": "⭐ process information = 处理信息｜only so much = 只有这么多；存在上限｜at once = 同时",
     "startTime": 72.544,
     "reviewCount": 0,
-    "dateAdded": "2026-08-10T10:53:24.134Z"
+    "dateAdded": "2026-08-10T10:53:24.134Z",
+    "translationCache": {
+      "lemma": "only process so much information at once",
+      "ipa": "",
+      "translation": "一次只能处理这么多信息",
+      "pronunciationGuide": "",
+      "collocations": [
+        "can only process so much",
+        "process information at once",
+        "limited capacity to process",
+        "process simultaneously",
+        "overwhelmed by information"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在会议中，我们的大脑一次只能处理这么多信息，所以最好把要点分成几个部分。",
+          "english": "During a meeting, our brains can only process so much information at once, so it's best to break the key points into several parts."
+        },
+        {
+          "chinese": "这个软件一次只能处理这么多数据，如果你上传更多文件，它可能会崩溃。",
+          "english": "This software can only process so much data at once; if you upload more files, it may crash."
+        },
+        {
+          "chinese": "老师提醒学生，在考试时不要试图记住所有内容，因为大脑一次只能处理这么多信息。",
+          "english": "The teacher reminded students not to try to memorize everything during the exam, because the brain can only process so much information at once."
+        },
+        {
+          "chinese": "面对大量新信息时，我们一次只能处理这么多，所以需要分阶段学习。",
+          "english": "When faced with a large amount of new information, we can only process so much at once, so we need to study in stages."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-14-7-1786359248238",
