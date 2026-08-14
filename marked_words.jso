@@ -22316,7 +22316,43 @@
     "sentenceVocab": "⭐ under intense pressure = 在巨大压力下｜depend on = 取决于",
     "startTime": 24.69,
     "reviewCount": 0,
-    "dateAdded": "2026-08-10T08:05:23.451Z"
+    "dateAdded": "2026-08-10T08:05:23.451Z",
+    "translationCache": {
+      "lemma": "under intense pressure",
+      "ipa": "",
+      "translation": {
+        "meaning": "在巨大的压力下",
+        "speech_tag": "phrase"
+      },
+      "pronunciationGuide": "",
+      "collocations": [
+        "perform under intense pressure",
+        "work under intense pressure",
+        "remain calm under intense pressure",
+        "crack under intense pressure"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "在巨大的压力下，她依然保持了冷静，并做出了正确的决定。",
+          "english": "Despite working under intense pressure, she remained calm and made the right decision."
+        },
+        {
+          "chinese": "运动员们必须在巨大的压力下发挥出最佳水平，尤其是在决赛中。",
+          "english": "Athletes must perform at their best under intense pressure, especially in finals."
+        },
+        {
+          "chinese": "经理承认，在巨大的压力下，他有时会做出草率的决定。",
+          "english": "The manager admitted that under intense pressure, he sometimes makes hasty decisions."
+        },
+        {
+          "chinese": "在巨大的压力下，团队成功按时完成了项目。",
+          "english": "The team managed to complete the project on time under intense pressure."
+        }
+      ]
+    }
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-5-3-1786349152739",
