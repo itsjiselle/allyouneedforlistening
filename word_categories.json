@@ -24066,7 +24066,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "scratch pad = 草稿板；临时存储区",
       "startTime": 76.244,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.054Z",
       "translationCache": {
         "lemma": "scratch pad",
@@ -25790,5 +25790,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677898661
+  "updatedAt": 1786677898795
 }
