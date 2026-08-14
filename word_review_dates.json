@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786677987587,
+  "updatedAt": 1786678010658,
   "wordsByReviewDate": {
     "2026-08-13": [
       "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-4-3-1786009953672",
@@ -43,7 +43,8 @@
       "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-1",
       "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-2",
       "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-10-0",
-      "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-1-3-1786349063060"
+      "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-1-3-1786349063060",
+      "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-14-1"
     ]
   },
   "reviewDatesByWord": {
@@ -165,6 +166,9 @@
       "2026-08-14"
     ],
     "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-1-3-1786349063060": [
+      "2026-08-14"
+    ],
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-14-1": [
       "2026-08-14"
     ]
   },
