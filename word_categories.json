@@ -22495,7 +22495,40 @@
       "sentenceVocab": "⭐ the logic goes that = 其逻辑是；其观点认为｜precise mechanics = 精确的动作机制｜interfere with = 干扰；妨碍",
       "startTime": 122.828,
       "reviewCount": 0,
-      "dateAdded": "2026-08-10T10:54:52.819Z"
+      "dateAdded": "2026-08-10T10:54:52.819Z",
+      "translationCache": {
+        "lemma": "the logic goes that",
+        "ipa": "",
+        "translation": "逻辑是……；其逻辑在于……",
+        "pronunciationGuide": "",
+        "collocations": [
+          "the logic goes that...",
+          "the logic behind...",
+          "follow the logic",
+          "the logic holds that..."
+        ],
+        "cefrLevel": "",
+        "idiomUsageNote": "",
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "sentence_cn": "这里的逻辑是，如果你不练习，你就不会进步。",
+            "sentence_en": "The logic goes that if you don't practice, you won't improve."
+          },
+          {
+            "sentence_cn": "公司的逻辑是，通过降低价格，他们可以吸引更多客户。",
+            "sentence_en": "The logic goes that by lowering prices, they can attract more customers."
+          },
+          {
+            "sentence_cn": "教育者的逻辑是，奖励比惩罚更能激励学生。",
+            "sentence_en": "The logic goes that rewards motivate students more effectively than punishment."
+          },
+          {
+            "sentence_cn": "政府的逻辑是，增加税收将减少消费，从而控制通货膨胀。",
+            "sentence_en": "The logic goes that increasing taxes will reduce consumption and thereby control inflation."
+          }
+        ]
+      }
     },
     {
       "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-19-6-1786359328311",
@@ -22712,5 +22745,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676178241
+  "updatedAt": 1786676183367
 }
