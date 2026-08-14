@@ -23605,7 +23605,8 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": ""
-      }
+      },
+      "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常会说 \"I'm too nervous, I can't think clearly\"，但老外会说 \"I choked under pressure\"。前者是描述状态，后者是描述**瞬间的崩溃**，像被无形的手掐住喉咙，大脑一片空白。\n\n**学术深度分析与语用场景**：\n这个词组在心理学和体育评论中高频出现，带有**戏剧性**和**负面色彩**，但用在日常中又有点自嘲的幽默。比如你面试时大脑死机，可以说 \"I totally choked\"，既承认失败又显得轻松。\n\n**中文社媒/网络流行语对应**：\n相当于中文的 **\"心态崩了\"** 或 **\"当场去世\"**（夸张版），但更精准的是 **\"大脑宕机\"**——就像电脑死机，瞬间卡住。\n\n**趣味记忆/联想**：\n想象你嘴里塞满汉堡，突然有人问你问题，你噎住了（choke），说不出话——这就是压力下的窒息感。或者谐音梗：**\"戳king\"**——压力像国王一样戳你，你就跪了。\n\n记住：**Choking is not about being weak, it's about being human.**"
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-7-1",
@@ -24292,7 +24293,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "under pressure = 在压力下",
       "startTime": 96.28999999999999,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.075Z",
       "translationCache": {
         "lemma": "under pressure",
@@ -24303,8 +24304,7 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": ""
-      },
-      "teacherExplanation": "**中式英语 vs 地道表达**：中国学生常脱口而出“feel stressed”或“have pressure”，但native speaker在描述“有压力”时，更爱用“under pressure”，因为它强调一种**被外部力量压着**的状态，像被无形的手按在水下。而“stressed”更侧重内心感受。比如，考试时你说“I'm under pressure”，画面感立刻拉满——你像被压在五指山下的孙悟空。\n\n**学术深度分析与语用场景**：这个词组在学术和职场中都是**中性偏正式**，但带点戏剧性。在汇报时用“We're under pressure to meet the deadline”，比“We have a deadline”更有紧迫感，仿佛背景音是《碟中谍》的BGM。它还能用于自嘲，比如“I'm under pressure to look cool in this photo”，瞬间幽默。\n\n**中文社媒对应**：中文网络热梗“压力山大”或“我裂开了”完美对应。想象一下，当你说“under pressure”时，就像在发一个“我太难了”的表情包，但更高级、更含蓄。\n\n**趣味记忆**：词根“press”是“压”，联想“pressure cooker”（高压锅）。当你“under pressure”时，你就是那个快爆炸的高压锅，但别真炸，记得“release the steam”（释放压力）！"
+      }
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-15-0",
@@ -25844,5 +25844,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786701331810
+  "updatedAt": 1786701338291
 }
