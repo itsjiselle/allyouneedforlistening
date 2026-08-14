@@ -23100,13 +23100,20 @@
     "dateAdded": "2026-08-14T02:56:39.954Z",
     "translationCache": {
       "lemma": "at the crucial moment",
-      "ipa": "",
+      "ipa": "/æt ðə ˈkruːʃəl ˈmoʊmənt/",
       "translation": "在关键时刻",
       "pronunciationGuide": "",
-      "collocations": [],
+      "collocations": [
+        "at the crucial moment of the game",
+        "arrive at the crucial moment",
+        "appear at the crucial moment",
+        "decide at the crucial moment",
+        "fail at the crucial moment"
+      ],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "",
+      "patternPractice": []
     }
   },
   {
