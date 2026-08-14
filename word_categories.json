@@ -23359,7 +23359,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "blame something on something = 将某事归咎于某事",
       "startTime": 39.359,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:39.994Z",
       "translationCache": {
         "lemma": "blame something on something",
@@ -25485,5 +25485,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676843248
+  "updatedAt": 1786676845029
 }
