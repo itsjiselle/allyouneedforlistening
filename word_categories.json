@@ -22546,7 +22546,7 @@
       "sentenceTranslation": "大脑一次能够处理的信息量毕竟是有限的。",
       "sentenceVocab": "⭐ process information = 处理信息｜only so much = 只有这么多；存在上限｜at once = 同时",
       "startTime": 72.544,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-08-10T10:53:24.134Z",
       "translationCache": {
         "lemma": "only process so much information at once",
@@ -25700,5 +25700,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677627465
+  "updatedAt": 1786677628885
 }
