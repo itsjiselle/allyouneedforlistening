@@ -24126,7 +24126,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "be vulnerable to = 容易受到……影响",
       "startTime": 76.244,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-08-14T02:56:40.055Z",
       "translationCache": {
         "lemma": "be vulnerable to",
@@ -25792,5 +25792,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678019911
+  "updatedAt": 1786678023136
 }
