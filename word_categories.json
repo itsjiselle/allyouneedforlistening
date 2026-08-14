@@ -22340,7 +22340,7 @@
       "sentenceTranslation": "然而，表现焦虑也会困扰公开演讲者、拼字比赛选手，甚至世界知名的音乐家。",
       "sentenceVocab": "⭐ performance anxiety = 表现焦虑｜haunt = 持续困扰；萦绕｜spelling bee = 拼字比赛",
       "startTime": 31.148,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-10T08:05:52.739Z",
       "translationCache": {
         "lemma": "anxiety ... haunts",
@@ -25448,5 +25448,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676471828
+  "updatedAt": 1786676490145
 }
