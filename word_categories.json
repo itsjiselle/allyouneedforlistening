@@ -23326,7 +23326,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "depend on = 取决于",
       "startTime": 24.69,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:39.974Z",
       "translationCache": {
         "lemma": "depend on",
@@ -25802,5 +25802,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678278429
+  "updatedAt": 1786678291152
 }
