@@ -25571,7 +25571,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "in sight = 在视野中；（引申）作为明确目标",
       "startTime": 231.305,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.245Z",
       "translationCache": {
         "lemma": "in sight",
@@ -25623,5 +25623,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677105316
+  "updatedAt": 1786677124568
 }
