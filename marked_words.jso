@@ -18271,7 +18271,28 @@
     "startTime": 45.517,
     "reviewCount": 0,
     "dateAdded": "2026-07-28T09:53:18.453Z",
-    "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生可能会说“focus on”或“target”，但“home in on”更带感——它源自导弹或鸽子“锁定目标”的意象，暗示一种**精准、执着、甚至带点强迫症**的聚焦。David Fincher 是控制狂导演，用这个词简直量身定做。\n\n**学术深度分析与语用场景**：\n“home in on”是**动词短语**，常用于正式或半正式语境，但口语中也很自然。它带有**积极或中性**色彩，强调“精确锁定”的过程，而非结果。比如在商务汇报中说“We need to home in on the key issue”，比“focus on”更显专业和犀利。\n\n**中文网络流行语对应**：\n相当于“**精准狙击**”或“**拿捏**”。比如“他直接精准狙击了我的审美点”，或者“这波操作，直接拿捏了”。\n\n**趣味记忆/联想**：\n想象一只信鸽（home）在飞，突然“in”一声，**锁定**了目标——就像你妈喊你全名时，你瞬间“home in on”她的声音，然后乖乖出现。或者谐音“**轰——因**”，像导弹发射后“轰”的一声，精准命中。\n\n**总结**：下次想说“focus”时，试试“home in on”，瞬间提升你的英语逼格，让老外觉得你是个“懂行”的人。"
+    "translationCache": {
+      "lemma": "home in on",
+      "ipa": "",
+      "translation": "（动词短语）瞄准，集中注意力于；找到（目标）",
+      "pronunciationGuide": "",
+      "collocations": [
+        "home in on the target",
+        "home in on the problem",
+        "home in on the truth",
+        "home in on the details",
+        "home in on the source"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": [
+        "警方最终锁定了犯罪团伙的头目。 (The police finally homed in on the leader of the criminal gang.)",
+        "在会议上，她迅速抓住了问题的核心。 (At the meeting, she quickly homed in on the core of the problem.)",
+        "科学家们正在集中精力寻找这种疾病的根源。 (Scientists are homing in on the root cause of the disease.)",
+        "记者们很快就锁定了丑闻的关键人物。 (The journalists soon homed in on the key figure in the scandal.)"
+      ]
+    }
   },
   {
     "id": "github-cloud-Bazaar_UK_Rosamund_Pike_breaks_down_her_life_in_roles__from_Gone_Girl_to_Saltburn-12-24-1785232432247",
