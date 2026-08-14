@@ -22800,7 +22800,24 @@
     "sentenceVocab": "⭐ under stress = 在压力下｜become accustomed to = 逐渐习惯于",
     "startTime": 178.69400000000002,
     "reviewCount": 0,
-    "dateAdded": "2026-08-12T05:29:44.970Z"
+    "dateAdded": "2026-08-12T05:29:44.970Z",
+    "translationCache": {
+      "lemma": "dart",
+      "ipa": "",
+      "translation": "n. 飞镖；v. 猛冲，飞奔",
+      "pronunciationGuide": "",
+      "collocations": [
+        "throw a dart",
+        "dart board",
+        "dart player",
+        "dart at someone",
+        "dart away"
+      ],
+      "cefrLevel": "",
+      "idiomUsageNote": "",
+      "englishDefinition": "",
+      "patternPractice": []
+    }
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-27-3-1786512624649",
