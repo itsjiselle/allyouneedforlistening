@@ -22339,7 +22339,7 @@
     "sentenceTranslation": "然而，表现焦虑也会困扰公开演讲者、拼字比赛选手，甚至世界知名的音乐家。",
     "sentenceVocab": "⭐ performance anxiety = 表现焦虑｜haunt = 持续困扰；萦绕｜spelling bee = 拼字比赛",
     "startTime": 31.148,
-    "reviewCount": 3,
+    "reviewCount": 2,
     "dateAdded": "2026-08-10T08:05:52.739Z",
     "translationCache": {
       "lemma": "anxiety ... haunts",
@@ -22545,7 +22545,7 @@
     "sentenceTranslation": "大脑一次能够处理的信息量毕竟是有限的。",
     "sentenceVocab": "⭐ process information = 处理信息｜only so much = 只有这么多；存在上限｜at once = 同时",
     "startTime": 72.544,
-    "reviewCount": 2,
+    "reviewCount": 1,
     "dateAdded": "2026-08-10T10:53:24.134Z",
     "translationCache": {
       "lemma": "only process so much information at once",
@@ -23096,40 +23096,17 @@
     "sentenceTranslation": "",
     "sentenceVocab": "at the crucial moment = 在关键时刻",
     "startTime": 10.061,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-08-14T02:56:39.954Z",
     "translationCache": {
       "lemma": "at the crucial moment",
-      "ipa": "/æt ðə ˈkruːʃəl ˈmoʊmənt/",
+      "ipa": "",
       "translation": "在关键时刻",
       "pronunciationGuide": "",
-      "collocations": [
-        "at the crucial moment of the game",
-        "appear at the crucial moment",
-        "decide at the crucial moment",
-        "fail at the crucial moment"
-      ],
+      "collocations": [],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "在比赛的关键时刻，他投进了制胜一球。",
-          "english": "At the crucial moment of the game, he scored the winning basket."
-        },
-        {
-          "chinese": "她总是在关键时刻保持冷静，这让她成为出色的领导者。",
-          "english": "She always remains calm at the crucial moment, which makes her an excellent leader."
-        },
-        {
-          "chinese": "在谈判的关键时刻，对方突然改变了条件。",
-          "english": "At the crucial moment of the negotiation, the other party suddenly changed the terms."
-        },
-        {
-          "chinese": "他在关键时刻退缩了，这让整个团队感到失望。",
-          "english": "He backed out (chickened out) at the crucial moment, which disappointed the whole team."
-        }
-      ]
+      "englishDefinition": ""
     }
   },
   {
@@ -23853,37 +23830,13 @@
     "dateAdded": "2026-08-14T02:56:40.044Z",
     "translationCache": {
       "lemma": "only so much",
-      "ipa": "/ˈoʊnli soʊ mʌtʃ/",
-      "translation": "只有这么多；有限的",
+      "ipa": "",
+      "translation": "只有这么多；存在上限",
       "pronunciationGuide": "",
-      "collocations": [
-        "there is only so much one can do",
-        "only so much time",
-        "only so much patience",
-        "only so much information",
-        "only so much energy"
-      ],
+      "collocations": [],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": "",
-      "patternPractice": [
-        {
-          "chinese": "一个人能承受的压力是有限的，所以你需要学会说“不”。",
-          "english": "There is only so much stress a person can handle, so you need to learn to say no."
-        },
-        {
-          "chinese": "我们一天只有这么多时间，所以必须优先处理最重要的任务。",
-          "english": "We have only so much time in a day, so we must prioritize (sort out) the most important tasks."
-        },
-        {
-          "chinese": "她的耐心是有限的，如果你继续迟到，她可能会生气。",
-          "english": "She has only so much patience, and if you keep being late, she might get angry."
-        },
-        {
-          "chinese": "在有限的信息下，我们只能做出有限的判断。",
-          "english": "With only so much information available, we can only make a limited judgment."
-        }
-      ]
+      "englishDefinition": ""
     }
   },
   {
