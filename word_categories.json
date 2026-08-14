@@ -25408,7 +25408,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "consistent performance = 稳定的表现",
       "startTime": 201.542,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:40.215Z",
       "translationCache": {
         "lemma": "consistent performance",
@@ -25839,5 +25839,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678392947
+  "updatedAt": 1786678574854
 }
