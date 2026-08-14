@@ -24390,7 +24390,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "make up = 构成；组成",
       "startTime": 112.16,
-      "reviewCount": 1,
+      "reviewCount": 2,
       "dateAdded": "2026-08-14T02:56:40.094Z",
       "translationCache": {
         "lemma": "make up",
@@ -25839,5 +25839,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786678574854
+  "updatedAt": 1786678577502
 }
