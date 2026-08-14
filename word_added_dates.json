@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786621745061,
+  "updatedAt": 1786676222756,
   "wordAddedDatesMap": {
     "custom-9_1_4_mp3-15-31": "2026-06-22",
     "custom-9_1_4_mp3-11-17": "2026-06-22",
@@ -619,7 +619,82 @@
     "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-20-25-1786512510583": "2026-08-12",
     "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-21-10-1786512538589": "2026-08-12",
     "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-26-5-1786512584970": "2026-08-12",
-    "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-27-3-1786512624649": "2026-08-12"
+    "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-27-3-1786512624649": "2026-08-12",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-1-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-1-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-3": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-3-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-3-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-4-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-5-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-5-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-5-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-6-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-6-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-7-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-7-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-8-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-9-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-9-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-9-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-10-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-10-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-12-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-12-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-12-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-13-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-14-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-14-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-15-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-16-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-16-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-17-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-17-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-17-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-18-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-18-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-19-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-19-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-3": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-21-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-21-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-21-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-22-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-23-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-23-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-23-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-24-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-25-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-26-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-26-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-3": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-4": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-28-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-28-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-28-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-3": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-3": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-0": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-1": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-2": "2026-08-14",
+    "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-3": "2026-08-14"
   },
   "addedRecords": [
     {
@@ -3097,6 +3172,306 @@
     {
       "wordId": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-27-3-1786512624649",
       "dateAdded": "2026-08-12"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-1-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-1-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-2-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-3-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-3-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-4-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-5-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-5-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-5-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-6-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-6-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-7-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-7-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-8-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-9-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-9-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-9-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-10-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-10-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-11-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-12-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-12-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-12-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-13-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-14-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-14-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-15-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-16-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-16-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-17-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-17-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-17-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-18-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-18-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-19-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-19-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-20-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-21-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-21-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-21-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-22-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-23-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-23-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-23-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-24-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-25-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-26-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-26-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-27-4",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-28-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-28-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-28-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-30-3",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-0",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-1",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-2",
+      "dateAdded": "2026-08-14"
+    },
+    {
+      "wordId": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-31-3",
+      "dateAdded": "2026-08-14"
     }
   ]
 }
