@@ -22641,7 +22641,7 @@
     "sentenceTranslation": "一半学生在没有任何得失压力的情况下完成了两类题目，而另一半则分别在平静状态和压力状态下完成这些题目。",
     "sentenceVocab": "⭐ with nothing at stake = 没有什么利害关系；没有得失压力｜at stake = 处于风险中；事关得失｜under pressure = 在压力下",
     "startTime": 96.28999999999999,
-    "reviewCount": 1,
+    "reviewCount": 2,
     "dateAdded": "2026-08-10T10:54:08.238Z",
     "translationCache": {
       "lemma": "with nothing at stake",
@@ -22675,7 +22675,8 @@
           "english": "In the mock negotiation, both sides had nothing at stake, so they could communicate openly."
         }
       ]
-    }
+    },
+    "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常会说 \"without any risk\" 或 \"no pressure\"，但 native speaker 会用 **\"with nothing at stake\"**，因为 \"stake\" 暗含“赌注”意味，强调“没有输赢、得失”，比 \"risk\" 更生动，常用于实验、游戏或人生抉择场景。\n\n**学术深度分析与语用场景**：\n这是典型的 **\"stake\" 隐喻**，源自赌博（下注）。语用上，它传递一种“轻松无负担”的语境，感情色彩中性偏戏谑，比如：“I tried the spicy noodle challenge with nothing at stake, just for fun.” 在学术汇报中，用它替代 \"without any risk\" 会显得更地道、更精准。\n\n**中文网络流行语对应**：\n相当于中文的 **“无本万利”** 或 **“光脚的不怕穿鞋的”**，但更贴近 **“躺平任嘲”** 或 **“佛系”**——反正没赌注，输了也不亏。\n\n**趣味记忆**：\n想象你吃火锅，别人问“辣不辣？”你说“with nothing at stake”——反正拉肚子也是自己扛，没赌注，随便造！或者记谐音：**“无事可 stake”**（无事可“死磕”），轻松无压力。"
   },
   {
     "id": "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-18-1-1786359292819",
