@@ -22548,34 +22548,35 @@
       "dateAdded": "2026-08-10T10:54:52.819Z",
       "translationCache": {
         "lemma": "the logic goes that",
-        "ipa": "",
-        "translation": "逻辑是……；其逻辑在于……",
+        "ipa": "/ðə ˈlɑːdʒɪk ɡoʊz ðæt/",
+        "translation": "逻辑是；道理在于；其逻辑是",
         "pronunciationGuide": "",
         "collocations": [
           "the logic goes that...",
-          "the logic behind...",
-          "follow the logic",
-          "the logic holds that..."
+          "the logic goes that if...",
+          "the logic goes that once...",
+          "the logic goes that because...",
+          "the logic goes that when..."
         ],
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": "",
         "patternPractice": [
           {
-            "sentence_cn": "这里的逻辑是，如果你不练习，你就不会进步。",
-            "sentence_en": "The logic goes that if you don't practice, you won't improve."
+            "chinese": "这里的逻辑是，如果你多练习，你就会进步得更快。",
+            "english": "The logic goes that if you practice more, you will improve faster."
           },
           {
-            "sentence_cn": "公司的逻辑是，通过降低价格，他们可以吸引更多客户。",
-            "sentence_en": "The logic goes that by lowering prices, they can attract more customers."
+            "chinese": "公司的逻辑是，通过降低价格，他们可以吸引更多的客户。",
+            "english": "The logic goes that by lowering prices, they can attract (draw in) more customers."
           },
           {
-            "sentence_cn": "教育者的逻辑是，奖励比惩罚更能激励学生。",
-            "sentence_en": "The logic goes that rewards motivate students more effectively than punishment."
+            "chinese": "逻辑是，一旦你建立了信任，合作就会变得更加容易。",
+            "english": "The logic goes that once trust is established, cooperation becomes (gets) easier."
           },
           {
-            "sentence_cn": "政府的逻辑是，增加税收将减少消费，从而控制通货膨胀。",
-            "sentence_en": "The logic goes that increasing taxes will reduce consumption and thereby control inflation."
+            "chinese": "这里的逻辑是，如果你不投资于员工培训，长期来看你会损失更多。",
+            "english": "The logic goes that if you don't invest in employee training, you will lose (suffer) more in the long run."
           }
         ]
       },
@@ -25344,5 +25345,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676260773
+  "updatedAt": 1786676278918
 }
