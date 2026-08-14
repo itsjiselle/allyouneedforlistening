@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786621825814,
+  "updatedAt": 1786676233421,
   "wordsByReviewDate": {
     "2026-08-13": [
       "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-4-3-1786009953672",
@@ -8,6 +8,9 @@
       "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-71-13-1786011551157",
       "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-76-29-1786183445001",
       "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-155-1-1786184299282"
+    ],
+    "2026-08-14": [
+      "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-20-14-1786512493064"
     ]
   },
   "reviewDatesByWord": {
@@ -28,6 +31,9 @@
     ],
     "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-155-1-1786184299282": [
       "2026-08-13"
+    ],
+    "github-cloud-Ted_ED_How_to_stay_calm_under_pressure-20-14-1786512493064": [
+      "2026-08-14"
     ]
   },
   "reviewLogs": []
