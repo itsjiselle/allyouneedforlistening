@@ -22608,7 +22608,7 @@
       "sentenceTranslation": "一项针对竞技高尔夫球手的研究比较了两种情况下的表现：一种是被要求只专注于尽可能准确地推杆，另一种则是被预先引导去高度关注自己推杆动作的具体机制。",
       "sentenceVocab": "⭐ be instructed to = 被要求；被指示做｜versus = 与……相比｜be primed to = 被预先引导去；被预先刺激以｜acutely aware of = 高度意识到；敏锐地意识到｜putting stroke = 推杆动作",
       "startTime": 136.607,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-12T05:28:13.064Z",
       "translationCache": {
         "lemma": "putt",
@@ -25326,5 +25326,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786676231313
+  "updatedAt": 1786676243921
 }
