@@ -23364,14 +23364,37 @@
       "translationCache": {
         "lemma": "spelling bee",
         "ipa": "",
-        "translation": "拼字比赛",
+        "translation": "拼字比赛（名词）",
         "pronunciationGuide": "",
-        "collocations": [],
+        "collocations": [
+          "win a spelling bee",
+          "participate in a spelling bee",
+          "spelling bee champion",
+          "national spelling bee",
+          "school spelling bee"
+        ],
         "cefrLevel": "",
         "idiomUsageNote": "",
-        "englishDefinition": ""
-      },
-      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是“拼写比赛”，但“spelling bee”里的“bee”不是蜜蜂，而是“聚会”的古语！Native speaker 用这个词时，自带一种“社区活动”的亲切感，而“拼写比赛”听起来像考试，太严肃。\n\n**2. 学术深度分析与语用场景**  \n“Spelling bee”是美式文化符号，带有竞争性和童趣。在正式演讲中用它，能瞬间拉近距离，暗示“虽紧张但可爱”。感情色彩中性偏褒，略带戏谑——毕竟成年人参加拼写比赛，有点反差萌。\n\n**3. 中文社媒对应**  \n相当于“汉字听写大会”的英文版，但更接地气。如果硬要对应网络热梗，就是“拼写大乱斗”或“单词battle”，配上“我脑子一片空白”的表情包，完美！\n\n**4. 趣味记忆**  \n想象一群蜜蜂（bee）在字母花丛中采蜜，每采一个字母就拼一个词——所以“spelling bee”就是“拼写小蜜蜂”，嗡嗡嗡，拼错就蜇你！\n\n**5. 总结**  \n下次想说“拼写比赛”时，试试“spelling bee”，让你的英语瞬间“美式”起来，还带点幽默感。"
+        "englishDefinition": "",
+        "patternPractice": [
+          {
+            "chinese": "她赢得了学校拼字比赛，这让她非常自豪。",
+            "english": "She won the school spelling bee, which made her very proud."
+          },
+          {
+            "chinese": "许多学生因为紧张而在拼字比赛中犯错。",
+            "english": "Many students make mistakes in spelling bees because of nervousness."
+          },
+          {
+            "chinese": "他正在为全国拼字比赛刻苦训练，每天学习新单词。",
+            "english": "He is training hard for the national spelling bee, learning new words every day."
+          },
+          {
+            "chinese": "拼字比赛不仅测试词汇量，还考验选手的心理素质。",
+            "english": "A spelling bee not only tests vocabulary but also challenges the contestants' mental resilience."
+          }
+        ]
+      }
     },
     {
       "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-6-1",
@@ -25625,5 +25648,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677183524
+  "updatedAt": 1786677186964
 }
