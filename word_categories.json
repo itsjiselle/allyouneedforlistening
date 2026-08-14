@@ -23097,7 +23097,7 @@
       "sentenceTranslation": "",
       "sentenceVocab": "at the crucial moment = 在关键时刻",
       "startTime": 10.061,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-08-14T02:56:39.954Z",
       "translationCache": {
         "lemma": "at the crucial moment",
@@ -23106,7 +23106,6 @@
         "pronunciationGuide": "",
         "collocations": [
           "at the crucial moment of the game",
-          "arrive at the crucial moment",
           "appear at the crucial moment",
           "decide at the crucial moment",
           "fail at the crucial moment"
@@ -23114,7 +23113,24 @@
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": "",
-        "patternPractice": []
+        "patternPractice": [
+          {
+            "chinese": "在比赛的关键时刻，他投进了制胜一球。",
+            "english": "At the crucial moment of the game, he scored the winning basket."
+          },
+          {
+            "chinese": "她总是在关键时刻保持冷静，这让她成为出色的领导者。",
+            "english": "She always remains calm at the crucial moment, which makes her an excellent leader."
+          },
+          {
+            "chinese": "在谈判的关键时刻，对方突然改变了条件。",
+            "english": "At the crucial moment of the negotiation, the other party suddenly changed the terms."
+          },
+          {
+            "chinese": "他在关键时刻退缩了，这让整个团队感到失望。",
+            "english": "He backed out (chickened out) at the crucial moment, which disappointed the whole team."
+          }
+        ]
       }
     },
     {
@@ -25684,5 +25700,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786677624227
+  "updatedAt": 1786677627465
 }
