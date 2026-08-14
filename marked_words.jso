@@ -23849,17 +23849,41 @@
     "sentenceTranslation": "",
     "sentenceVocab": "only so much = 只有这么多；存在上限",
     "startTime": 72.544,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "dateAdded": "2026-08-14T02:56:40.044Z",
     "translationCache": {
       "lemma": "only so much",
-      "ipa": "",
-      "translation": "只有这么多；存在上限",
+      "ipa": "/ˈoʊnli soʊ mʌtʃ/",
+      "translation": "只有这么多；有限的",
       "pronunciationGuide": "",
-      "collocations": [],
+      "collocations": [
+        "there is only so much one can do",
+        "only so much time",
+        "only so much patience",
+        "only so much information",
+        "only so much energy"
+      ],
       "cefrLevel": "",
       "idiomUsageNote": "",
-      "englishDefinition": ""
+      "englishDefinition": "",
+      "patternPractice": [
+        {
+          "chinese": "一个人能承受的压力是有限的，所以你需要学会说“不”。",
+          "english": "There is only so much stress a person can handle, so you need to learn to say no."
+        },
+        {
+          "chinese": "我们一天只有这么多时间，所以必须优先处理最重要的任务。",
+          "english": "We have only so much time in a day, so we must prioritize (sort out) the most important tasks."
+        },
+        {
+          "chinese": "她的耐心是有限的，如果你继续迟到，她可能会生气。",
+          "english": "She has only so much patience, and if you keep being late, she might get angry."
+        },
+        {
+          "chinese": "在有限的信息下，我们只能做出有限的判断。",
+          "english": "With only so much information available, we can only make a limited judgment."
+        }
+      ]
     }
   },
   {
