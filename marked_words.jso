@@ -25441,7 +25441,7 @@
     "sentenceTranslation": "",
     "sentenceVocab": "ultimate goal = 最终目标",
     "startTime": 209.928,
-    "reviewCount": 2,
+    "reviewCount": 1,
     "dateAdded": "2026-08-14T02:56:40.224Z",
     "translationCache": {
       "lemma": "ultimate goal",
@@ -25452,7 +25452,8 @@
       "cefrLevel": "",
       "idiomUsageNote": "",
       "englishDefinition": ""
-    }
+    },
+    "teacherExplanation": "**中式英语 vs 地道表达**：\n中国学生常脱口而出“final goal”或“end goal”，但老外更爱用“ultimate goal”，因为它自带一种“终极Boss”的史诗感，暗示这是经过层层打怪后的最终目标，而“final”只是“最后一个”，平淡如水。\n\n**学术深度分析与语用场景**：\n“Ultimate”源自拉丁语“ultimus”（最后的），但语用上它强调“最高优先级”和“终极意义”，常用于演讲、汇报中升华主题，感情色彩偏褒义，带点“燃”的意味。比如健身时，你的“ultimate goal”是练出腹肌，而“internal focus”是盯着肌肉发力——前者让你更专注，后者让你纠结动作细节，这就是语境中的微妙差异。\n\n**中文社媒/网络流行语对应**：\n相当于中文互联网的“终极目标”或“最终奥义”，比如“我的终极目标是躺平”，或者表情包“目标：星辰大海”。一秒get那种宏大叙事感。\n\n**趣味记忆/联想**：\n“Ultimate”听起来像“奥特曼”（Ultraman）！记住：你的“ultimate goal”就是像奥特曼一样，打败所有小怪兽，最终拯救地球——而不是纠结怎么摆pose。\n\n**总结**：下次想说“最终目标”时，用“ultimate goal”瞬间提升B格，让听众觉得你是个有远见的“战略家”，而不是个“完成任务”的机器人。"
   },
   {
     "id": "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-29-2",
@@ -25786,7 +25787,7 @@
     "sentenceTranslation": "",
     "sentenceVocab": "practice makes perfect = 熟能生巧",
     "startTime": 231.305,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "dateAdded": "2026-08-14T02:56:40.246Z",
     "translationCache": {
       "lemma": "practice makes perfect",
