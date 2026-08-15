@@ -23114,9 +23114,33 @@
       "startTime": 421.184,
       "reviewCount": 0,
       "dateAdded": "2026-08-15T05:05:17.516Z"
+    },
+    {
+      "id": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-130-12-1786770325803",
+      "materialId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments",
+      "srtFingerprint": "48885f83",
+      "materialTitle": "'Emily In Paris' Cast Reveal Favorite Season 4 Moments.mp3",
+      "subtitleId": 130,
+      "wordIndex": 12,
+      "wordIndices": [
+        12,
+        13
+      ],
+      "wordText": "monochromatic wardrobe",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "monochromatic wardrobe",
+      "sentenceContext": "And this season we get to see Emily in a more tailored, monochromatic wardrobe so that she can express more with her words.",
+      "sentenceTranslation": "这一季我们会看到 Emily 穿着更加剪裁利落、单色系的服装，从而让她更多通过语言表达自己。",
+      "sentenceVocab": "⭐ tailored = 剪裁讲究的；合身利落的｜monochromatic = 单色的；单色系的｜wardrobe = 服装；整体穿搭",
+      "startTime": 406.252,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-15T05:05:25.803Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786770367717
+  "updatedAt": 1786770372725
 }
