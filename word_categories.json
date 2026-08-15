@@ -23161,9 +23161,32 @@
       "startTime": 406.252,
       "reviewCount": 0,
       "dateAdded": "2026-08-15T05:05:31.506Z"
+    },
+    {
+      "id": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-129-22-1786770345525",
+      "materialId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments",
+      "srtFingerprint": "48885f83",
+      "materialTitle": "'Emily In Paris' Cast Reveal Favorite Season 4 Moments.mp3",
+      "subtitleId": 129,
+      "wordIndex": 22,
+      "wordIndices": [
+        22
+      ],
+      "wordText": "articulate",
+      "category": "vocab",
+      "categories": [
+        "vocab"
+      ],
+      "customLemma": "articulate",
+      "sentenceContext": "I think she, it took her finding a safe, protected space in order to really feel the feelings and be able to articulate them.",
+      "sentenceTranslation": "我觉得，她需要先找到一个安全、受到保护的空间，才能真正感受自己的情绪，并把这些情绪表达出来。",
+      "sentenceVocab": "⭐ safe, protected space = 安全、受保护的空间｜articulate = 清楚表达；准确说出",
+      "startTime": 398.739,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-15T05:05:45.525Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786770377186
+  "updatedAt": 1786770385284
 }
