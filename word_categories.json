@@ -23184,9 +23184,33 @@
       "startTime": 398.739,
       "reviewCount": 0,
       "dateAdded": "2026-08-15T05:05:45.525Z"
+    },
+    {
+      "id": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-150-1-1786770385151",
+      "materialId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments",
+      "srtFingerprint": "48885f83",
+      "materialTitle": "'Emily In Paris' Cast Reveal Favorite Season 4 Moments.mp3",
+      "subtitleId": 150,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        2
+      ],
+      "wordText": "messaging wise",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "messaging wise",
+      "sentenceContext": "But messaging wise there are some very relatable themes going on, which I think that's why-.",
+      "sentenceTranslation": "但从它传递的信息来说，里面其实有很多非常能引起共鸣的主题，我觉得这也是为什么——",
+      "sentenceVocab": "⭐ messaging wise = 从信息传递/主题表达角度来说｜themes going on = 正在展开的主题",
+      "startTime": 480.371,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-15T05:06:25.151Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786770385284
+  "updatedAt": 1786770408685
 }
