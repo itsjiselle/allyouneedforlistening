@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786770402610,
+  "updatedAt": 1787199210620,
   "wordAddedDatesMap": {
     "custom-9_1_4_mp3-15-31": "2026-06-22",
     "custom-9_1_4_mp3-11-17": "2026-06-22",
@@ -890,7 +890,8 @@
     "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-130-12-1786770325803": "2026-08-15",
     "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-130-12-1786770331506": "2026-08-15",
     "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-129-22-1786770345525": "2026-08-15",
-    "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-150-1-1786770385151": "2026-08-15"
+    "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-150-1-1786770385151": "2026-08-15",
+    "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-187-1-1787199199535": "2026-08-20"
   },
   "addedRecords": [
     {
@@ -4452,6 +4453,10 @@
     {
       "wordId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-150-1-1786770385151",
       "dateAdded": "2026-08-15"
+    },
+    {
+      "wordId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-187-1-1787199199535",
+      "dateAdded": "2026-08-20"
     }
   ]
 }
