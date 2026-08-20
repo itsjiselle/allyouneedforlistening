@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786701066338,
+  "updatedAt": 1787204434361,
   "wordsByReviewDate": {
     "2026-08-13": [
       "github-cloud-Bon_Appe_tit_How_NYC_s_Best_French_Toast_is_Made_Made_to_Order-4-3-1786009953672",
@@ -60,6 +60,9 @@
       "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-7-0",
       "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-10-1",
       "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-26-1"
+    ],
+    "2026-08-20": [
+      "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-75-17-1783060800505"
     ]
   },
   "reviewDatesByWord": {
@@ -230,6 +233,9 @@
     ],
     "vocab-srt-ted_ed_how_to_stay_calm_under_pressure-26-1": [
       "2026-08-14"
+    ],
+    "github-cloud-NPR_How_to_save_at_restaurants_if_you_re_burnt_out_on_cooking_mp3-75-17-1783060800505": [
+      "2026-08-20"
     ]
   },
   "reviewLogs": []
