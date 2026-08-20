@@ -1338,18 +1338,41 @@
       "category": "vocab",
       "sentenceContext": "If you look at the menu ahead of time, you can kind of come up with a game plan of what you might want to order a little bit better. 如果提前看看菜单，你就可以提前想好自己准备点什么。⭐ ahead of time 提前（★★★★★）｜come up with 想出｜game plan 行动计划（口语）",
       "startTime": 540.548,
-      "reviewCount": 0,
+      "reviewCount": 1,
       "dateAdded": "2026-07-03T06:40:00.505Z",
       "translationCache": {
         "lemma": "game plan",
         "ipa": "/ˈɡeɪm ˌplæn/",
-        "translation": "行动计划（名词）",
+        "translation": "n. 行动计划；策略；方案",
         "pronunciationGuide": "",
-        "collocations": "come up with a game plan, have a game plan, stick to the game plan",
+        "collocations": [
+          "come up with a game plan",
+          "stick to the game plan",
+          "change the game plan",
+          "a solid game plan",
+          "a winning game plan"
+        ],
         "cefrLevel": "",
         "idiomUsageNote": "",
         "englishDefinition": "",
-        "patternPractice": []
+        "patternPractice": [
+          {
+            "sentence_cn": "在开始项目之前，我们需要制定一个清晰的行动计划，以确保我们不会偏离轨道。",
+            "sentence_en": "Before starting the project, we need to devise (come up with) a clear game plan to ensure we don't go off track."
+          },
+          {
+            "sentence_cn": "尽管遇到了一些意想不到的障碍，教练仍然坚持原定的比赛策略。",
+            "sentence_en": "Despite encountering some unexpected obstacles, the coach still adhered to (stuck to) the original game plan."
+          },
+          {
+            "sentence_cn": "为了在竞争中保持领先，公司决定调整其营销策略，以更好地适应市场变化。",
+            "sentence_en": "To stay ahead of the competition, the company decided to adjust (tweak) its marketing game plan to better adapt to market changes."
+          },
+          {
+            "sentence_cn": "如果你没有明确的行动计划，就很难在有限的时间内完成所有任务。",
+            "sentence_en": "If you don't have a well-defined game plan, it will be difficult to accomplish (get through) all the tasks within the limited time."
+          }
+        ]
       }
     },
     {
@@ -10826,7 +10849,8 @@
       "sentenceVocab": "⭐ The + 比较级…, the + 比较级… —— 越……越……｜vehicle —— 车辆｜posh —— 上流的；高档的",
       "startTime": 141.258,
       "reviewCount": 0,
-      "dateAdded": "2026-07-16T07:45:22.964Z"
+      "dateAdded": "2026-07-16T07:45:22.964Z",
+      "teacherExplanation": "**1. 中式英语 vs 地道表达**  \n中国学生第一反应可能是“open the trunk”（美式）或“open the boot”（英式），但“pop the boot open”里的“pop”才是灵魂！它暗示一种轻快、随意、甚至带点潇洒的动作——不是“用力开”，而是“啪嗒一下弹开”。就像你按一下钥匙，后备箱自动弹起，那种“不费吹灰之力”的优越感。\n\n**2. 学术深度分析与语用场景**  \n“pop”在这里是轻动词，传递出“轻松、不费力”的语感，而“posh”一词自带阶级色彩。整句话带着英式自嘲的幽默：越有钱，越要离车远远地开后备箱，仿佛怕沾上“平民”的烟火气。感情色彩是戏谑的，常用于吐槽或调侃上流社会的矫情。\n\n**3. 中文社媒/网络流行语对应**  \n这就像中文里的“凡尔赛”——“哎呀，我这车后备箱太高级了，得站远点按遥控，不然显得我不够优雅。”或者用“装X”来形容：越装，离得越远。\n\n**4. 趣味记忆/联想**  \n“pop”像香槟开瓶的“啵”一声，想象你是个贵族，开后备箱也要像开香槟一样优雅，离远点，让“啵”声回荡在庄园里。记住：**“posh”和“pop”都是P开头，有钱人连开后备箱都要“P”出仪式感！**"
     },
     {
       "id": "github-cloud-Michael_McIntyre_s_Big_Show__People_Who_Shop_At_Waitrose_mp4-50-4-1784187935615",
@@ -23236,5 +23260,5 @@
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1787199212307
+  "updatedAt": 1787204473347
 }
