@@ -23208,9 +23208,33 @@
       "startTime": 480.371,
       "reviewCount": 0,
       "dateAdded": "2026-08-15T05:06:25.151Z"
+    },
+    {
+      "id": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments-187-1-1787199199535",
+      "materialId": "github-cloud-_Emily_In_Paris__Cast_Reveal_Favorite_Season_4_Moments",
+      "srtFingerprint": "48885f83",
+      "materialTitle": "'Emily In Paris' Cast Reveal Favorite Season 4 Moments.mp3",
+      "subtitleId": 187,
+      "wordIndex": 1,
+      "wordIndices": [
+        1,
+        3
+      ],
+      "wordText": "I'm ... about",
+      "category": "idiom",
+      "categories": [
+        "idiom"
+      ],
+      "customLemma": "be (all/really) about",
+      "sentenceContext": "And I'm really about loyalty, so when people betray me I'm like desperate.",
+      "sentenceTranslation": "而我非常看重忠诚，所以一旦有人背叛我，我真的会非常崩溃。",
+      "sentenceVocab": "⭐ be about = 看重；重视（某种价值）｜loyalty = 忠诚｜betray = 背叛",
+      "startTime": 592.647,
+      "reviewCount": 0,
+      "dateAdded": "2026-08-20T04:13:19.535Z"
     }
   ],
   "wordCategories": [],
   "wordCategoriesMap": {},
-  "updatedAt": 1786770408685
+  "updatedAt": 1787199212307
 }
